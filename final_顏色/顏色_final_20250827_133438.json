@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "scraper_type": "最終版手動操作風格爬蟲",
+    "operation_flow": "輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理",
+    "source_url": "https://sutian.moe.edu.tw/zh-hant/tshiau/",
+    "extraction_date": "20250827_133438",
+    "statistics": {
+      "total_words": 20,
+      "successful_extractions": 9,
+      "missing_words": 11,
+      "success_rate": "45.0%",
+      "quality_stats": {
+        "完整": 9,
+        "良好": 0,
+        "基本": 0,
+        "不完整": 0
+      }
+    }
+  },
+  "successful_records": [
+    {
+      "word": "肉色",
+      "taiwanese_sentence": "這領衛生衣是肉色的。",
+      "tailo_pronunciation": "Tsit niá uē-sing-i sī bah-sik--ê.。",
+      "chinese_translation": "這件衛生衣是肉色的。",
+      "source_word": "肉色",
+      "extraction_time": "2025-08-27 13:33:45",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "殕色",
+      "taiwanese_sentence": "伊真愛穿殕色的褲。",
+      "tailo_pronunciation": "I tsin ài tshīng phú-sik ê khòo.。",
+      "chinese_translation": "他很喜歡穿灰色的褲子。",
+      "source_word": "殕色",
+      "extraction_time": "2025-08-27 13:33:48",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "白色",
+      "taiwanese_sentence": "白色的衫仔褲才通提去漂白。",
+      "tailo_pronunciation": "Pe̍h-sik ê sann-á-khòo tsiah thang the̍h-khì phiò-pe̍h.。",
+      "chinese_translation": "白色的衣褲才適合拿去漂白。",
+      "source_word": "漂白",
+      "extraction_time": "2025-08-27 13:33:53",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "紅色",
+      "taiwanese_sentence": "時裝的款式千變萬化，毋過人講：「紅媠，烏大範。」拄著喜事鬧熱擺，上影目的猶原是烏色的西裝、紅色的洋裝。",
+      "tailo_pronunciation": "Sî-tsong ê khuán-sik tshian-piàn-bān-huà, m̄-koh lâng kóng, “Âng suí, oo tuā-pān.” Tú-tio̍h hí-sū lāu-jia̍t-pái, siōng iánn-ba̍k--ê iu-guân sī oo-sik ê se-tsong, âng-sik ê iûnn-tsong.。",
+      "chinese_translation": "時裝的款式千變萬化，不過人們說「紅色美麗，黑色大方」，碰到喜事熱鬧的場合，最顯眼的仍然是黑色西裝、紅色洋裝。",
+      "source_word": "紅媠，烏大範。",
+      "extraction_time": "2025-08-27 13:34:05",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "咖啡色",
+      "taiwanese_sentence": "苦楝舅春天的新葉是笑青色，開花是黃色，漸漸轉紅，結子的時閣變咖啡色，所以嘛予人叫做四色樹。",
+      "tailo_pronunciation": "Khóo-līng-kū tshun-thinn ê sin hio̍h sī tshiò-tshenn-sik, khui-hue sī n̂g-sik, tsiām-tsiām tńg-âng, kiat-tsí ê sî koh piàn ka-pi-sik, sóo-í mā hōo lâng kiò-tsò sì-sik-tshiū.。",
+      "chinese_translation": "臺灣欒樹春天的新葉是嫩綠色，開花是黃色，漸漸轉紅，結果時又變成褐色，所以也被人稱為四色樹。",
+      "source_word": "苦楝舅",
+      "extraction_time": "2025-08-27 13:34:07",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "青色",
+      "taiwanese_sentence": "苦楝舅春天的新葉是笑青色，開花是黃色，漸漸轉紅，結子的時閣變咖啡色，所以嘛予人叫做四色樹。",
+      "tailo_pronunciation": "Khóo-līng-kū tshun-thinn ê sin hio̍h sī tshiò-tshenn-sik, khui-hue sī n̂g-sik, tsiām-tsiām tńg-âng, kiat-tsí ê sî koh piàn ka-pi-sik, sóo-í mā hōo lâng kiò-tsò sì-sik-tshiū.。",
+      "chinese_translation": "臺灣欒樹春天的新葉是嫩綠色，開花是黃色，漸漸轉紅，結果時又變成褐色，所以也被人稱為四色樹。",
+      "source_word": "苦楝舅",
+      "extraction_time": "2025-08-27 13:34:13",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "黃色",
+      "taiwanese_sentence": "苦楝舅春天的新葉是笑青色，開花是黃色，漸漸轉紅，結子的時閣變咖啡色，所以嘛予人叫做四色樹。",
+      "tailo_pronunciation": "Khóo-līng-kū tshun-thinn ê sin hio̍h sī tshiò-tshenn-sik, khui-hue sī n̂g-sik, tsiām-tsiām tńg-âng, kiat-tsí ê sî koh piàn ka-pi-sik, sóo-í mā hōo lâng kiò-tsò sì-sik-tshiū.。",
+      "chinese_translation": "臺灣欒樹春天的新葉是嫩綠色，開花是黃色，漸漸轉紅，結果時又變成褐色，所以也被人稱為四色樹。",
+      "source_word": "苦楝舅",
+      "extraction_time": "2025-08-27 13:34:19",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "粉紅仔色",
+      "taiwanese_sentence": "伊穿一軀粉紅仔色的洋裝。",
+      "tailo_pronunciation": "I tshīng tsi̍t su hún-âng-á-sik ê iûnn-tsong.。",
+      "chinese_translation": "他穿一件粉紅色的洋裝。",
+      "source_word": "洋裝",
+      "extraction_time": "2025-08-27 13:34:22",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "烏色",
+      "taiwanese_sentence": "時裝的款式千變萬化，毋過人講：「紅媠，烏大範。」拄著喜事鬧熱擺，上影目的猶原是烏色的西裝、紅色的洋裝。",
+      "tailo_pronunciation": "Sî-tsong ê khuán-sik tshian-piàn-bān-huà, m̄-koh lâng kóng, “Âng suí, oo tuā-pān.” Tú-tio̍h hí-sū lāu-jia̍t-pái, siōng iánn-ba̍k--ê iu-guân sī oo-sik ê se-tsong, âng-sik ê iûnn-tsong.。",
+      "chinese_translation": "時裝的款式千變萬化，不過人們說「紅色美麗，黑色大方」，碰到喜事熱鬧的場合，最顯眼的仍然是黑色西裝、紅色洋裝。",
+      "source_word": "紅媠，烏大範。",
+      "extraction_time": "2025-08-27 13:34:27",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    }
+  ],
+  "missing_words": [
+    {
+      "word": "水藍色",
+      "reason": "無用例",
+      "index": 3
+    },
+    {
+      "word": "灰色",
+      "reason": "無用例",
+      "index": 5
+    },
+    {
+      "word": "綠色、藍色",
+      "reason": "無用例",
+      "index": 6
+    },
+    {
+      "word": "粉紅色",
+      "reason": "無用例",
+      "index": 7
+    },
+    {
+      "word": "塗色",
+      "reason": "無用例",
+      "index": 10
+    },
+    {
+      "word": "茄仔色",
+      "reason": "無用例",
+      "index": 12
+    },
+    {
+      "word": "皮膚色",
+      "reason": "無用例",
+      "index": 15
+    },
+    {
+      "word": "水色",
+      "reason": "無用例",
+      "index": 17
+    },
+    {
+      "word": "紫色",
+      "reason": "無用例",
+      "index": 18
+    },
+    {
+      "word": "黑色",
+      "reason": "無用例",
+      "index": 19
+    },
+    {
+      "word": "藍色",
+      "reason": "無用例",
+      "index": 20
+    }
+  ]
+}

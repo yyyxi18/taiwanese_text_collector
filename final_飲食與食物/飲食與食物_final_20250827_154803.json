@@ -1,0 +1,1089 @@
+{
+  "metadata": {
+    "scraper_type": "最終版手動操作風格爬蟲",
+    "operation_flow": "輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理",
+    "source_url": "https://sutian.moe.edu.tw/zh-hant/tshiau/",
+    "extraction_date": "20250827_154803",
+    "statistics": {
+      "total_words": 159,
+      "successful_extractions": 54,
+      "missing_words": 105,
+      "success_rate": "34.0%",
+      "quality_stats": {
+        "完整": 54,
+        "良好": 0,
+        "基本": 0,
+        "不完整": 0
+      }
+    }
+  },
+  "successful_records": [
+    {
+      "word": "飯包",
+      "taiwanese_sentence": "你明仔載欲紮飯包無？",
+      "tailo_pronunciation": "Lí bîn-á-tsài beh tsah pn̄g-pau--bô",
+      "chinese_translation": "你明天要帶便當嗎？",
+      "source_word": "飯包",
+      "extraction_time": "2025-08-27 15:40:38",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "冬粉",
+      "taiwanese_sentence": "若講著鵝肉冬粉料理，我就會流喙瀾。",
+      "tailo_pronunciation": "Nā kóng-tio̍h gô-bah tang-hún liāu-lí, guá tō ē lâu tshuì-nuā.。",
+      "chinese_translation": "若談到鵝肉冬粉料理，我就會流口水。",
+      "source_word": "冬粉",
+      "extraction_time": "2025-08-27 15:40:43",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "豬跤",
+      "taiwanese_sentence": "豬跤𤉙爛爛，真好食。",
+      "tailo_pronunciation": "Ti-kha kûn nuā-nuā, tsin hó-tsia̍h.。",
+      "chinese_translation": "豬腳煮得爛爛的，真好吃。",
+      "source_word": "𤉙替kûn",
+      "extraction_time": "2025-08-27 15:40:49",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "豬肝",
+      "taiwanese_sentence": "我欲來去市場買一塊豬肝。",
+      "tailo_pronunciation": "Guá beh lâi-khì tshī-tiûnn bé tsi̍t tè ti-kuann.。",
+      "chinese_translation": "我要到市埸買一塊豬肝。",
+      "source_word": "市場",
+      "extraction_time": "2025-08-27 15:40:54",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "棗仔",
+      "taiwanese_sentence": "屏東的高樹出產棗仔。",
+      "tailo_pronunciation": "Pîn-tong ê Ko-tshiū tshut-sán tsó-á.。",
+      "chinese_translation": "屏東高樹出產棗子。",
+      "source_word": "出產",
+      "extraction_time": "2025-08-27 15:40:57",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "點心",
+      "taiwanese_sentence": "較早作田人攏放伴割稻仔，人若來鬥相共，愛攢三頓佮點心予人食，閣袂使驚人大食。",
+      "tailo_pronunciation": "Khah-tsá tsoh-tshân-lâng lóng pàng-phuānn kuah-tiū-á, lâng nā lâi tàu-sann-kāng, ài tshuân sann tǹg kah tiám-sim hōo lâng tsia̍h, koh bē-sái kiann lâng tuā-tsia̍h.。",
+      "chinese_translation": "從前農人都輪流協助割稻子，人家如果來幫忙，要準備三餐跟點心給人家吃，還不能怕人家食量大。",
+      "source_word": "大食",
+      "extraction_time": "2025-08-27 15:41:00",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "柳丁",
+      "taiwanese_sentence": "牛犅𨂿會損蕩柑仔欉、柳丁欉、檸檬欉佮木瓜欉等果子欉。",
+      "tailo_pronunciation": "Gû-káng-uainnh ē sńg-tn̄g kam-á tsâng, liú-ting tsâng, lê-bóng tsâng kah bo̍k-kue tsâng tíng kué-tsí tsâng.。",
+      "chinese_translation": "天牛會危害橘子、柳丁、檸檬和木瓜樹等果樹。",
+      "source_word": "牛犅𨂿",
+      "extraction_time": "2025-08-27 15:41:06",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "紅茶",
+      "taiwanese_sentence": "我的紅茶無愛摻糖。",
+      "tailo_pronunciation": "Guá ê âng-tê bô ài tsham thn̂g.。",
+      "chinese_translation": "我的紅茶不要加糖。",
+      "source_word": "摻",
+      "extraction_time": "2025-08-27 15:41:25",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "牛奶",
+      "taiwanese_sentence": "卵、牛奶、肉類、豆仔類是咱人的食食當中重要的卵白質來源。",
+      "tailo_pronunciation": "Nn̄g, gû-ling, bah-luī, tāu-á-luī sī lán-lâng ê tsia̍h-si̍t tang-tiong tiōng-iàu ê nn̄g-pe̍h-tsit lâi-guân",
+      "chinese_translation": "蛋、牛奶、肉類、豆類是吾人的食物當中重要的蛋白質來源",
+      "source_word": "卵白質",
+      "extraction_time": "2025-08-27 15:41:31",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "木瓜",
+      "taiwanese_sentence": "牛犅𨂿會損蕩柑仔欉、柳丁欉、檸檬欉佮木瓜欉等果子欉。",
+      "tailo_pronunciation": "Gû-káng-uainnh ē sńg-tn̄g kam-á tsâng, liú-ting tsâng, lê-bóng tsâng kah bo̍k-kue tsâng tíng kué-tsí tsâng.。",
+      "chinese_translation": "天牛會危害橘子、柳丁、檸檬和木瓜樹等果樹。",
+      "source_word": "牛犅𨂿",
+      "extraction_time": "2025-08-27 15:41:36",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "豆花",
+      "taiwanese_sentence": "這改比賽去予對方修理甲塗塗塗，佇檢討會裡，教練予人檢討半點鐘，會使講是「滿面專豆花」。",
+      "tailo_pronunciation": "Tsit kái pí-sài khì hōo tuì-hong siu-lí kah thôo-thôo-thôo, tī kiám-thó-huē--lí, kàu-liān hōo lâng kiám-thó puànn tiám-tsing, ē-sái kóng sī “muá-bīn tsuan tāu-hue”.。",
+      "chinese_translation": "這次比賽被對方修理得慘兮兮，在檢討會中，教練被人檢討了半個小時，可以說是「狼狽不堪」。",
+      "source_word": "滿面專豆花。",
+      "extraction_time": "2025-08-27 15:41:42",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "青菜",
+      "taiwanese_sentence": "最近我搬來庄跤蹛，若有好食物，我就捾去送厝邊。𪜶嘛定定送𪜶家己種的青菜、果子來予我。人講「千金買厝，萬金買厝邊」，咱著佮厝邊頭尾好好仔交陪！",
+      "tailo_pronunciation": "Tsuè-kīn guá puann-lâi tsng-kha tuà, nā ū hó-tsia̍h mi̍h, guá tō kuānn-khì sàng tshù-pinn. In mā tiānn-tiānn sàng in ka-kī tsìng ê tshenn-tshài, kué-tsí lâi hōo--guá. Lâng kóng “tshian-kim bé tshù, bān kim bé tshù-pinn”, lán tio̍h kah tshù-pinn-thâu-bué hó-hó-á kau-puê!。他們也常常送他們自己種的蔬菜、水果給我。人家說：「千金買屋，萬金買鄰」，我們得跟鄰居好好交往！",
+      "chinese_translation": "最近我搬到鄉下住，若有好吃的食物，我就拿去送給隔壁鄰居。他們也常常送他們自己種的蔬菜、水果給我。人家說：「千金買屋，萬金買鄰」，我們得跟鄰居好好交往！",
+      "source_word": "千金買厝，萬金買厝邊。",
+      "extraction_time": "2025-08-27 15:41:48",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "豆乾",
+      "taiwanese_sentence": "阮阿公上愛食豆乾。",
+      "tailo_pronunciation": "Guán a-kong siōng ài tsia̍h tāu-kuann.。",
+      "chinese_translation": "我爺爺最喜歡吃豆干。",
+      "source_word": "豆乾",
+      "extraction_time": "2025-08-27 15:41:51",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "茶米",
+      "taiwanese_sentence": "伊做茶米的中盤欲成十冬矣。",
+      "tailo_pronunciation": "I tsò tê-bí ê tiong-puânn beh tsiânn tsa̍p tang--ah.。",
+      "chinese_translation": "他從事茶葉的中盤生意快十年了。",
+      "source_word": "中盤",
+      "extraction_time": "2025-08-27 15:41:56",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "塗豆",
+      "taiwanese_sentence": "在生食一粒塗豆，較贏死了拜一个豬頭。",
+      "tailo_pronunciation": "Tsāi-senn tsia̍h tsi̍t lia̍p thôo-tāu, khah iânn sí-liáu pài tsi̍t ê ti-thâu.。意思是說為人子女應及時孝敬父母，而非等父母死後才隆重祭拜。",
+      "chinese_translation": "在世時拿一顆花生孝敬，好過死後用一顆豬頭祭拜。意思是說為人子女應及時孝敬父母，而非等父母死後才隆重祭拜。",
+      "source_word": "在生",
+      "extraction_time": "2025-08-27 15:42:02",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "鹹酸甜",
+      "taiwanese_sentence": "鹹酸甜食起來酸甘甜仔酸甘甜。",
+      "tailo_pronunciation": "Kiâm-sng-tinn tsia̍h--khí-lâi sng-kam-tinn-á-sng-kam-tinn.。",
+      "chinese_translation": "蜜餞吃起來的味道是酸中帶甜。",
+      "source_word": "酸甘甜",
+      "extraction_time": "2025-08-27 15:42:07",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "麻糍",
+      "taiwanese_sentence": "麻糍做好愛糝粉才袂黏做伙。",
+      "tailo_pronunciation": "Muâ-tsî tsò-hó ài sám-hún tsiah bē liâm tsò-hué.。",
+      "chinese_translation": "麻糬做好後要撒粉才不會黏在一起。",
+      "source_word": "糝粉",
+      "extraction_time": "2025-08-27 15:42:16",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "糖仔",
+      "taiwanese_sentence": "阮阿母已經九十歲矣，煞變做愛食糖仔閣愛共我司奶，真正是「老人囡仔性」。",
+      "tailo_pronunciation": "Guán a-bú í-king káu-tsa̍p huè--ah, suah piàn-tsò ài tsia̍h thn̂g-á koh ài kā guá sai-nai, tsin-tsiànn sī “lāu-lâng gín-á-sìng”.。",
+      "chinese_translation": "我媽媽已經九十歲了，竟變得喜歡吃糖果又愛跟我撒嬌，真的是「老人孩子氣」。",
+      "source_word": "老人囡仔性。",
+      "extraction_time": "2025-08-27 15:42:19",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "粟仔",
+      "taiwanese_sentence": "阿母講伊細漢的時，攏會佇庄跤舊厝的外埕，共𪜶阿舅鬥曝粟仔。",
+      "tailo_pronunciation": "A-bú kóng i sè-hàn ê sî, lóng ē tī tsng-kha kū-tshù ê guā-tiânn, kā in a-kū tàu pha̍k tshik-á.。",
+      "chinese_translation": "媽媽說他小時候，都會在鄉下古厝的外面的空地，幫他舅舅曬稻穀。",
+      "source_word": "外埕",
+      "extraction_time": "2025-08-27 15:42:24",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "粉粿",
+      "taiwanese_sentence": "凡若麵粉做的我攏真有路，特別是麵粉粿仔我上愛食。",
+      "tailo_pronunciation": "Huān-nā mī-hún tsò--ê guá lóng tsin ū-lōo, ti̍k-pia̍t sī mī-hún-kué-á guá siōng ài tsia̍h.。",
+      "chinese_translation": "凡是麵粉做的食物都是我喜愛的類型，尤其麵疙瘩是我最愛吃的。",
+      "source_word": "麵粉粿仔",
+      "extraction_time": "2025-08-27 15:42:41",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "咖哩",
+      "taiwanese_sentence": "猶未咖哩嗹囉咧。",
+      "tailo_pronunciation": "Iáu-buē ka-lí-liân-lô--leh.。",
+      "chinese_translation": "八字還沒一撇呢。",
+      "source_word": "咖哩嗹囉",
+      "extraction_time": "2025-08-27 15:42:47",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "香油",
+      "taiwanese_sentence": "伊食火鍋搵料愛濫醋、蒜茸、番薑仔、蔥仔、豆乳、香油，伊講愛較厚味才會好食。",
+      "tailo_pronunciation": "I tsia̍h hué-ko ùn-liāu ài lām tshòo, suàn-jiông, huan-kiunn-á, tshang-á, tāu-jú, hiang-iû, i kóng ài khah kāu-bī tsiah ē hó-tsia̍h.。",
+      "chinese_translation": "他吃火鍋沾醬要摻雜醋、蒜泥、辣椒、蔥、豆腐乳、香油，他說要五味俱全才會好吃。",
+      "source_word": "厚味",
+      "extraction_time": "2025-08-27 15:42:55",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "卵清",
+      "taiwanese_sentence": "用雞卵清做雞卵糕。",
+      "tailo_pronunciation": "Īng ke-nn̄g-tshing tsò ke-nn̄g-ko.。",
+      "chinese_translation": "用雞蛋的蛋白製做蛋糕。",
+      "source_word": "雞卵清",
+      "extraction_time": "2025-08-27 15:43:01",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "蚶仔",
+      "taiwanese_sentence": "有疼風的人愛忌喙，腹內、蚶仔佮蚵仔較莫食咧。",
+      "tailo_pronunciation": "Ū thiànn-hong ê lâng ài khī-tshuì, pak-lāi, ham-á kah ô-á khah mài tsia̍h--leh.。",
+      "chinese_translation": "患有痛風的人要忌口，內臟、蛤蜊、牡蠣盡量不要吃。",
+      "source_word": "疼風",
+      "extraction_time": "2025-08-27 15:43:04",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "西瓜",
+      "taiwanese_sentence": "「王梨頭，西瓜尾」是咧講王梨是倚蒂頭的所在上蓋甜，西瓜顛倒是離蒂頭上遠的彼爿較甜，欲食的時先食較無甜的彼爿就會愈食愈甜。",
+      "tailo_pronunciation": "“Ông-lâi thâu, si-kue bué” sī teh kóng ông-lâi sī uá tì-thâu ê sóo-tsāi siōng-kài tinn, si-kue tian-tò sī lī tì-thâu siōng hn̄g ê hit pîng khah tinn, beh tsia̍h ê sî sing tsia̍h khah bô tinn ê hit pîng tō ē jú tsia̍h jú tinn.。",
+      "chinese_translation": "「鳳梨頭，西瓜尾」是說鳳梨最甜的地方是靠近基根底部的那頭，西瓜反而是離蒂頭最遠端的那邊最甜，要吃的時候先吃比較不甜的那邊就會越吃越甜。",
+      "source_word": "王梨頭，西瓜尾。",
+      "extraction_time": "2025-08-27 15:43:43",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "包仔",
+      "taiwanese_sentence": "伊拄對銀行領錢出來，雄雄一个強徒出手共伊的皮包仔搶去。",
+      "tailo_pronunciation": "I tú tuì gîn-hâng niá tsînn tshut--lâi, hiông-hiông tsi̍t ê kiông-tôo tshut-tshiú kā i ê phuê-pau-á tshiúnn--khì.。",
+      "chinese_translation": "他剛從銀行領錢出來，突然一個搶匪動手搶走了他的皮包。",
+      "source_word": "強徒",
+      "extraction_time": "2025-08-27 15:44:05",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "料理",
+      "taiwanese_sentence": "阿媽佇田裡拍菜股，一股一股的菜蔬攏成做飯桌頂的好料理。",
+      "tailo_pronunciation": "A-má tī tshân--lí phah tshài-kóo, tsi̍t kóo tsi̍t kóo ê tshài-se lóng tsiânn-tsò pn̄g-toh-tíng ê hó liāu-lí.。",
+      "chinese_translation": "奶奶在田裏面築造菜畦，一畦一畦的青菜都成了飯桌上的好菜色。",
+      "source_word": "菜股",
+      "extraction_time": "2025-08-27 15:44:11",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "豆油",
+      "taiwanese_sentence": "伊雖然穿插若庄跤倯咧，毋過泅水、拍球、唱歌、演奏樂器逐項會，真正是「烏矸仔貯豆油」，予人看袂出。",
+      "tailo_pronunciation": "I sui-jiân tshīng-tshah ná tsng-kha-sông--leh, m̄-koh siû-tsuí, phah-kiû, tshiùnn-kua, ián-tsàu ga̍k-khì ta̍k hāng ē, tsin-tsiànn sī “oo kan-á té tāu-iû”, hōo lâng khuànn bē tshut.。",
+      "chinese_translation": "他雖然衣著打扮像鄉巴佬，不過游泳、打球、唱歌、演奏樂器樣樣會，真是「黑色罐子裝上醬油」，讓人看不出來。",
+      "source_word": "烏矸仔貯豆油。",
+      "extraction_time": "2025-08-27 15:44:17",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "圓仔",
+      "taiwanese_sentence": "做人著愛知影家己有幾兩重，毋通臭煬閣愛歕雞胿，若無，就會予人笑講是「大紅花毋知䆀，圓仔花䆀毋知」。",
+      "tailo_pronunciation": "Tsò-lâng tio̍h-ài tsai-iánn ka-kī ū kuí niú tāng, m̄-thang tshàu-iāng koh ài pûn-ke-kui, nā-bô, tō ē hōo lâng tshiò kóng sī “tuā-âng-hue m̄ tsai bái, înn-á-hue bái m̄ tsai”.。",
+      "chinese_translation": "為人得明白自己的實力如何，不要太臭屁又喜歡說大話，否則，就會被人嘲笑「馬不知臉長」。",
+      "source_word": "大紅花毋知䆀，圓仔花䆀毋知。",
+      "extraction_time": "2025-08-27 15:44:22",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "肉羹",
+      "taiwanese_sentence": "精肉豉好，滒魚漿落去煠，就是咱咧食的肉羹。",
+      "tailo_pronunciation": "Tsiann-bah sīnn hó, kō hî-tsiunn lo̍h-khì sa̍h, tō sī lán teh tsia̍h ê bah-kenn.。",
+      "chinese_translation": "瘦肉醃過，裹魚漿在熱水裡煮熟，就是我們吃的肉羮。",
+      "source_word": "魚漿",
+      "extraction_time": "2025-08-27 15:44:36",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "口味",
+      "taiwanese_sentence": "這間冰店攏用在地清氣的山泉水佮各種口味的果子來做霜仔枝。",
+      "tailo_pronunciation": "Tsit king ping-tiàm lóng iōng tsāi-tē tshing-khì ê suann-tsuânn-tsuí kah kok-tsióng kháu-bī ê kué-tsí lâi tsò sng-á-ki.。",
+      "chinese_translation": "這家冰店都用在地乾淨的山泉水及各種口味的水果製作冰棒。",
+      "source_word": "霜仔枝",
+      "extraction_time": "2025-08-27 15:44:45",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "油飯",
+      "taiwanese_sentence": "人送油飯予咱，咱愛硩米還人。",
+      "tailo_pronunciation": "Lâng sàng iû-pn̄g hōo--lán, lán ài teh bí hîng--lâng.。",
+      "chinese_translation": "人家送油飯給我們，我們要用米回禮。",
+      "source_word": "硩替teh",
+      "extraction_time": "2025-08-27 15:44:56",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "雜菜麵",
+      "taiwanese_sentence": "會曉煮雜菜麵的麵擔仔愈來愈少矣。",
+      "tailo_pronunciation": "Ē-hiáu tsú tsa̍p-tshài-mī ê mī-tànn-á jú lâi jú tsió--ah.。",
+      "chinese_translation": "懂得煮什錦麵的麵攤越來越少了。",
+      "source_word": "雜菜麵",
+      "extraction_time": "2025-08-27 15:45:02",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "肉粽",
+      "taiwanese_sentence": "有真濟人會佇肉粽節彼工的正中晝，共生雞卵𫞼佇塗跤兜。",
+      "tailo_pronunciation": "Ū tsin tsē lâng ē tī Bah-tsàng-tseh hit kang ê tsiànn-tiong-tàu, kā tshenn ke-nn̄g tshāi tī thôo-kha-tau.。",
+      "chinese_translation": "有很多人在端午節那天正午時分，把生雞蛋立在地上。",
+      "source_word": "正中晝",
+      "extraction_time": "2025-08-27 15:45:05",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "桃仔",
+      "taiwanese_sentence": "食桃仔食甲湯㴙㴙滴。",
+      "tailo_pronunciation": "Tsia̍h thô-á tsia̍h kah thng tsha̍p-tsha̍p-tih.。",
+      "chinese_translation": "吃桃子吃得湯汁直滴。",
+      "source_word": "湯白thng",
+      "extraction_time": "2025-08-27 15:45:08",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "鵝肉",
+      "taiwanese_sentence": "若講著鵝肉冬粉料理，我就會流喙瀾。",
+      "tailo_pronunciation": "Nā kóng-tio̍h gô-bah tang-hún liāu-lí, guá tō ē lâu tshuì-nuā.。",
+      "chinese_translation": "若談到鵝肉冬粉料理，我就會流口水。",
+      "source_word": "冬粉",
+      "extraction_time": "2025-08-27 15:45:11",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "泡麵",
+      "taiwanese_sentence": "規間店的泡麵掃了了。",
+      "tailo_pronunciation": "Kui king tiàm ê phàu-mī sàu-liáu-liáu.。",
+      "chinese_translation": "整家店的泡麵買光光。",
+      "source_word": "掃白sàu",
+      "extraction_time": "2025-08-27 15:45:13",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "臭豆腐",
+      "taiwanese_sentence": "阮兜巷仔口彼擔臭豆腐，食過的人攏「呵咾甲會觸舌」。",
+      "tailo_pronunciation": "Guán tau hāng-á-kháu hit tànn tshàu-tāu-hū, tsia̍h--kuè ê lâng lóng “o-ló kah ē tak-tsi̍h”.。",
+      "chinese_translation": "我家巷口的那攤臭豆腐，吃過的人都「讚美有加」。",
+      "source_word": "呵咾甲會觸舌。",
+      "extraction_time": "2025-08-27 15:45:16",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "雞卵糕",
+      "taiwanese_sentence": "你毋通閣提雞卵糕來，我已經飫喙矣。",
+      "tailo_pronunciation": "Lí m̄-thang koh the̍h ke-nn̄g-ko lâi, guá í-king uì-tshuì--ah.。",
+      "chinese_translation": "你不要再拿蛋糕來，我已經吃膩了。",
+      "source_word": "飫喙",
+      "extraction_time": "2025-08-27 15:45:39",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "煙腸",
+      "taiwanese_sentence": "煙腸用烘的較好食。",
+      "tailo_pronunciation": "Ian-tshiâng iōng hang--ê khah hó-tsia̍h.。",
+      "chinese_translation": "香腸用烤的比較好吃。",
+      "source_word": "煙腸",
+      "extraction_time": "2025-08-27 15:46:07",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "礤冰",
+      "taiwanese_sentence": "食一碗礤冰，涼一下。",
+      "tailo_pronunciation": "Tsia̍h tsi̍t uánn tshuah-ping, liâng--tsi̍t-ē.。",
+      "chinese_translation": "吃一碗刨冰，清涼一下。",
+      "source_word": "礤冰",
+      "extraction_time": "2025-08-27 15:46:10",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "麻油雞",
+      "taiwanese_sentence": "煮麻油雞一定愛先用薑母落去炒。",
+      "tailo_pronunciation": "Tsú muâ-iû-ke it-tīng ài sing īng kiunn-bó lo̍h-khì tshá.。",
+      "chinese_translation": "煮麻油雞一定要先用老薑炒過。",
+      "source_word": "薑母",
+      "extraction_time": "2025-08-27 15:46:12",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "菜脯",
+      "taiwanese_sentence": "阮牽手當咧無閒的時陣，我家婆講欲替伊煎一盤菜脯卵請人客，盍會知影「好好鱟刣甲屎那流」，煞煎甲臭火焦兼著火。",
+      "tailo_pronunciation": "Guán khan-tshiú tng-teh bô-îng ê sî-tsūn, guá ke-pô kóng beh thè i tsian tsi̍t puânn tshài-póo-nn̄g tshiánn lâng-kheh, khah ē tsai-iánn “hó-hó hāu thâi kah sái ná lâu”, suah tsian kah tshàu-hué-ta kiam to̍h-hué.。",
+      "chinese_translation": "內人正忙的時候，我多管閒事主動要替他煎一盤蘿蔔乾炒蛋給客人吃，哪裡知道「成事不足，敗事有餘」，竟然炒得焦黑不堪。",
+      "source_word": "好好鱟刣甲屎那流。",
+      "extraction_time": "2025-08-27 15:46:15",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "味素",
+      "taiwanese_sentence": "煮菜摻味素粉較有氣味。",
+      "tailo_pronunciation": "Tsú tshài tsham bī-sòo-hún khah ū khì-bī.。",
+      "chinese_translation": "煮菜加味精會比較有味道。",
+      "source_word": "味素粉",
+      "extraction_time": "2025-08-27 15:46:18",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "燒酒",
+      "taiwanese_sentence": "伊駛車進前有啉燒酒閣駛傷緊，才會發生車禍。",
+      "tailo_pronunciation": "I sái-tshia tsìn-tsîng ū lim sio-tsiú koh sái siunn kín, tsiah ē huat-sing tshia-hō.。",
+      "chinese_translation": "他開車前有喝酒，加上開太快，才會發生車禍。",
+      "source_word": "發生",
+      "extraction_time": "2025-08-27 15:46:21",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "米酒",
+      "taiwanese_sentence": "用碗頭仔啉米酒。",
+      "tailo_pronunciation": "Iōng uánn-thâu-á lim bí-tsiú.。",
+      "chinese_translation": "用小碗喝米酒。",
+      "source_word": "碗頭仔",
+      "extraction_time": "2025-08-27 15:46:29",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "杏仁",
+      "taiwanese_sentence": "食杏仁茶配油炸粿。",
+      "tailo_pronunciation": "Tsia̍h hīng-jîn-tê phuè iû-tsia̍h-kué.。",
+      "chinese_translation": "喝杏仁茶配油條。",
+      "source_word": "油炸粿",
+      "extraction_time": "2025-08-27 15:46:41",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "便當",
+      "taiwanese_sentence": "咱巷仔口彼个陳董的閣去自助餐買便當來食矣，枉費伊大某、細姨媠噹噹，厝內煞定定冤家量債，無人欲煮予食。莫怪人講：「一某無人知，兩某相卸代。」",
+      "tailo_pronunciation": "Lán hāng-á-kháu hit ê Tân-táng--ê koh khì tsū-tsōo-tshan bé piān-tong lâi tsia̍h--ah, óng-huì i tuā-bóo, sè-î suí-tang-tang, tshù-lāi suah tiānn-tiānn uan-ke-niû-tsè, bô lâng beh tsú hōo tsia̍h. Bo̍k-kuài lâng kóng, “Tsi̍t bóo bô lâng tsai, nn̄g bóo sio-sià-tāi.”。難怪人家說：「一夫一妻，夫唱婦隨；家有妻妾，雞犬不寧。」",
+      "chinese_translation": "住巷口的陳董事長又去自助餐買便當來吃了，虧他有老婆、姨太太而且都很漂亮，家裡卻常常爭吵，沒人做飯給他吃。難怪人家說：「一夫一妻，夫唱婦隨；家有妻妾，雞犬不寧。」",
+      "source_word": "一某無人知，兩某相卸代。",
+      "extraction_time": "2025-08-27 15:46:44",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "排骨湯",
+      "taiwanese_sentence": "想欲食金瓜湯，煞規菜市仔攏無人咧賣金瓜，「無魚，蝦嘛好」，今仔日先買冬瓜轉來去𤉙排骨湯。",
+      "tailo_pronunciation": "Siūnn-beh tsia̍h kim-kue-thng, suah kui tshài-tshī-á lóng bô lâng teh bē kim-kue, “bô hî, hê mā hó”, kin-á-ji̍t sing bé tang-kue tńg lâi-khì kûn pâi-kut-thng.。",
+      "chinese_translation": "想喝南瓜湯，整個菜市場卻沒有人賣南瓜，「退而求其次」，今天先買冬瓜回家煮排骨湯。",
+      "source_word": "無魚，蝦嘛好。",
+      "extraction_time": "2025-08-27 15:46:52",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "味素粉",
+      "taiwanese_sentence": "煮菜摻味素粉較有氣味。",
+      "tailo_pronunciation": "Tsú tshài tsham bī-sòo-hún khah ū khì-bī.。",
+      "chinese_translation": "煮菜加味精會比較有味道。",
+      "source_word": "味素粉",
+      "extraction_time": "2025-08-27 15:47:06",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "李仔",
+      "taiwanese_sentence": "三月三，桃仔李仔伨頭擔。",
+      "tailo_pronunciation": "Sann-gue̍h-sann, thô-á lí-á thīn-thâu tann.。",
+      "chinese_translation": "農曆三月，以成擔方式挑著盛產的桃子、李子。",
+      "source_word": "伨頭",
+      "extraction_time": "2025-08-27 15:47:18",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "汽水",
+      "taiwanese_sentence": "熱天時仔麥仔酒、汽水是𥴊仔店的大色貨。",
+      "tailo_pronunciation": "Jua̍h-thinn-sî-á be̍h-á-tsiú, khì-tsuí sī kám-á-tiàm ê tuā-sik-huè.。",
+      "chinese_translation": "夏天的時候啤酒、汽水是雜貨店的主要商品。",
+      "source_word": "大色貨",
+      "extraction_time": "2025-08-27 15:47:24",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "咖啡",
+      "taiwanese_sentence": "苦楝舅春天的新葉是笑青色，開花是黃色，漸漸轉紅，結子的時閣變咖啡色，所以嘛予人叫做四色樹。",
+      "tailo_pronunciation": "Khóo-līng-kū tshun-thinn ê sin hio̍h sī tshiò-tshenn-sik, khui-hue sī n̂g-sik, tsiām-tsiām tńg-âng, kiat-tsí ê sî koh piàn ka-pi-sik, sóo-í mā hōo lâng kiò-tsò sì-sik-tshiū.。",
+      "chinese_translation": "臺灣欒樹春天的新葉是嫩綠色，開花是黃色，漸漸轉紅，結果時又變成褐色，所以也被人稱為四色樹。",
+      "source_word": "苦楝舅",
+      "extraction_time": "2025-08-27 15:47:29",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "四秀仔",
+      "taiwanese_sentence": "阿明共阿兄討拄買來的四秀仔，閣共阿姊討比賽贏來的獎品，就去予阿媽共罵講「目睭掛斗概，看人物就愛」。",
+      "tailo_pronunciation": "A-bîng kā a-hiann thó tú bé--lâi ê sì-siù-á, koh kā a-tsí thó pí-sài iânn--lâi ê tsióng-phín, tō khì hōo a-má kā mē kóng “ba̍k-tsiu kuà táu-kài, khuànn lâng mi̍h tō ài”.。",
+      "chinese_translation": "阿明向哥哥要剛買來的零食，又向姊姊要比賽贏得的獎品，所以就被祖母斥責「眼睛掛著平斗的木概，看到別人的東西就想要」。",
+      "source_word": "目睭掛斗概，看人物就愛。",
+      "extraction_time": "2025-08-27 15:47:35",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    }
+  ],
+  "missing_words": [
+    {
+      "word": "胡椒粉",
+      "reason": "無用例",
+      "index": 2
+    },
+    {
+      "word": "稀飯",
+      "reason": "無用例",
+      "index": 4
+    },
+    {
+      "word": "什錦麵",
+      "reason": "無用例",
+      "index": 6
+    },
+    {
+      "word": "飯糰",
+      "reason": "無用例",
+      "index": 10
+    },
+    {
+      "word": "零嘴、零食",
+      "reason": "無用例",
+      "index": 12
+    },
+    {
+      "word": "麥仔茶",
+      "reason": "無用例",
+      "index": 13
+    },
+    {
+      "word": "湯圓",
+      "reason": "無用例",
+      "index": 14
+    },
+    {
+      "word": "花生",
+      "reason": "無用例",
+      "index": 15
+    },
+    {
+      "word": "蜂蜜水",
+      "reason": "無用例",
+      "index": 16
+    },
+    {
+      "word": "肉包",
+      "reason": "無用例",
+      "index": 17
+    },
+    {
+      "word": "稻穀",
+      "reason": "無用例",
+      "index": 19
+    },
+    {
+      "word": "口香糖",
+      "reason": "無用例",
+      "index": 21
+    },
+    {
+      "word": "米粉炒",
+      "reason": "無用例",
+      "index": 23
+    },
+    {
+      "word": "刈包",
+      "reason": "無用例",
+      "index": 25
+    },
+    {
+      "word": "雞蛋糕",
+      "reason": "無用例",
+      "index": 28
+    },
+    {
+      "word": "割包",
+      "reason": "無用例",
+      "index": 30
+    },
+    {
+      "word": "麥芽膏",
+      "reason": "無用例",
+      "index": 32
+    },
+    {
+      "word": "礦泉水",
+      "reason": "無用例",
+      "index": 34
+    },
+    {
+      "word": "茶葉",
+      "reason": "無用例",
+      "index": 35
+    },
+    {
+      "word": "雞翅",
+      "reason": "無用例",
+      "index": 38
+    },
+    {
+      "word": "蛋清",
+      "reason": "無用例",
+      "index": 40
+    },
+    {
+      "word": "肉脯",
+      "reason": "無用例",
+      "index": 41
+    },
+    {
+      "word": "餅乾",
+      "reason": "無用例",
+      "index": 42
+    },
+    {
+      "word": "樹奶糖",
+      "reason": "無用例",
+      "index": 43
+    },
+    {
+      "word": "牛肉麵",
+      "reason": "無用例",
+      "index": 44
+    },
+    {
+      "word": "高粱酒",
+      "reason": "無用例",
+      "index": 46
+    },
+    {
+      "word": "花枝丸",
+      "reason": "無用例",
+      "index": 48
+    },
+    {
+      "word": "羊肉爐",
+      "reason": "無用例",
+      "index": 49
+    },
+    {
+      "word": "菱角",
+      "reason": "無用例",
+      "index": 51
+    },
+    {
+      "word": "焢肉飯",
+      "reason": "無用例",
+      "index": 54
+    },
+    {
+      "word": "蜜餞",
+      "reason": "無用例",
+      "index": 55
+    },
+    {
+      "word": "包子",
+      "reason": "無用例",
+      "index": 56
+    },
+    {
+      "word": "卵仁",
+      "reason": "無用例",
+      "index": 57
+    },
+    {
+      "word": "蛇肉",
+      "reason": "無用例",
+      "index": 58
+    },
+    {
+      "word": "牛舌餅",
+      "reason": "無用例",
+      "index": 59
+    },
+    {
+      "word": "香腸",
+      "reason": "無用例",
+      "index": 60
+    },
+    {
+      "word": "油豆腐",
+      "reason": "無用例",
+      "index": 61
+    },
+    {
+      "word": "粽子",
+      "reason": "無用例",
+      "index": 62
+    },
+    {
+      "word": "桃子",
+      "reason": "無用例",
+      "index": 63
+    },
+    {
+      "word": "雞腿",
+      "reason": "無用例",
+      "index": 64
+    },
+    {
+      "word": "豆沙",
+      "reason": "無用例",
+      "index": 65
+    },
+    {
+      "word": "米漿",
+      "reason": "無用例",
+      "index": 66
+    },
+    {
+      "word": "炒米粉",
+      "reason": "無用例",
+      "index": 68
+    },
+    {
+      "word": "蚵仔煎",
+      "reason": "無用例",
+      "index": 69
+    },
+    {
+      "word": "棗子、紅棗",
+      "reason": "無用例",
+      "index": 70
+    },
+    {
+      "word": "皮蛋",
+      "reason": "無用例",
+      "index": 71
+    },
+    {
+      "word": "鹼粽",
+      "reason": "無用例",
+      "index": 72
+    },
+    {
+      "word": "米奶",
+      "reason": "無用例",
+      "index": 73
+    },
+    {
+      "word": "檸檬汁",
+      "reason": "無用例",
+      "index": 74
+    },
+    {
+      "word": "海帶",
+      "reason": "無用例",
+      "index": 76
+    },
+    {
+      "word": "便當、飯盒",
+      "reason": "無用例",
+      "index": 78
+    },
+    {
+      "word": "李子",
+      "reason": "無用例",
+      "index": 80
+    },
+    {
+      "word": "肉拊",
+      "reason": "無用例",
+      "index": 82
+    },
+    {
+      "word": "肉酥",
+      "reason": "無用例",
+      "index": 83
+    },
+    {
+      "word": "筒仔米糕",
+      "reason": "無用例",
+      "index": 84
+    },
+    {
+      "word": "麥茶",
+      "reason": "無用例",
+      "index": 85
+    },
+    {
+      "word": "牛排",
+      "reason": "無用例",
+      "index": 87
+    },
+    {
+      "word": "麥芽糖",
+      "reason": "無用例",
+      "index": 88
+    },
+    {
+      "word": "餅仔",
+      "reason": "無用例",
+      "index": 90
+    },
+    {
+      "word": "芋頭冰",
+      "reason": "無用例",
+      "index": 91
+    },
+    {
+      "word": "蘿蔔糕",
+      "reason": "無用例",
+      "index": 92
+    },
+    {
+      "word": "芋冰",
+      "reason": "無用例",
+      "index": 94
+    },
+    {
+      "word": "豬腳",
+      "reason": "無用例",
+      "index": 101
+    },
+    {
+      "word": "蛤蜊、文蛤",
+      "reason": "無用例",
+      "index": 102
+    },
+    {
+      "word": "燒餅",
+      "reason": "無用例",
+      "index": 103
+    },
+    {
+      "word": "清糜",
+      "reason": "無用例",
+      "index": 104
+    },
+    {
+      "word": "蛋黃",
+      "reason": "無用例",
+      "index": 105
+    },
+    {
+      "word": "挫冰",
+      "reason": "無用例",
+      "index": 106
+    },
+    {
+      "word": "菜頭粿",
+      "reason": "無用例",
+      "index": 107
+    },
+    {
+      "word": "雞翼",
+      "reason": "無用例",
+      "index": 109
+    },
+    {
+      "word": "栗子",
+      "reason": "無用例",
+      "index": 110
+    },
+    {
+      "word": "滷味",
+      "reason": "無用例",
+      "index": 111
+    },
+    {
+      "word": "鹹酥雞",
+      "reason": "無用例",
+      "index": 112
+    },
+    {
+      "word": "飯丸",
+      "reason": "無用例",
+      "index": 113
+    },
+    {
+      "word": "蜜茶",
+      "reason": "無用例",
+      "index": 114
+    },
+    {
+      "word": "包種茶",
+      "reason": "無用例",
+      "index": 115
+    },
+    {
+      "word": "滷肉飯",
+      "reason": "無用例",
+      "index": 116
+    },
+    {
+      "word": "肉圓",
+      "reason": "無用例",
+      "index": 117
+    },
+    {
+      "word": "辣椒醬",
+      "reason": "無用例",
+      "index": 124
+    },
+    {
+      "word": "麵線糊",
+      "reason": "無用例",
+      "index": 125
+    },
+    {
+      "word": "肉鬆",
+      "reason": "無用例",
+      "index": 127
+    },
+    {
+      "word": "饅頭",
+      "reason": "無用例",
+      "index": 128
+    },
+    {
+      "word": "糖果",
+      "reason": "無用例",
+      "index": 129
+    },
+    {
+      "word": "沙茶",
+      "reason": "無用例",
+      "index": 132
+    },
+    {
+      "word": "碗粿",
+      "reason": "無用例",
+      "index": 133
+    },
+    {
+      "word": "沙拉油",
+      "reason": "無用例",
+      "index": 135
+    },
+    {
+      "word": "雞排",
+      "reason": "無用例",
+      "index": 136
+    },
+    {
+      "word": "水餃",
+      "reason": "無用例",
+      "index": 137
+    },
+    {
+      "word": "烏醋",
+      "reason": "無用例",
+      "index": 138
+    },
+    {
+      "word": "冷盤",
+      "reason": "無用例",
+      "index": 140
+    },
+    {
+      "word": "炕肉飯",
+      "reason": "無用例",
+      "index": 141
+    },
+    {
+      "word": "白飯",
+      "reason": "無用例",
+      "index": 142
+    },
+    {
+      "word": "苦茶油",
+      "reason": "無用例",
+      "index": 144
+    },
+    {
+      "word": "豆漿",
+      "reason": "無用例",
+      "index": 146
+    },
+    {
+      "word": "豆干",
+      "reason": "無用例",
+      "index": 148
+    },
+    {
+      "word": "豆奶",
+      "reason": "無用例",
+      "index": 150
+    },
+    {
+      "word": "薟椒仔醬",
+      "reason": "無用例",
+      "index": 151
+    },
+    {
+      "word": "薑母鴨",
+      "reason": "無用例",
+      "index": 152
+    },
+    {
+      "word": "豬肚",
+      "reason": "無用例",
+      "index": 153
+    },
+    {
+      "word": "豆乾糋",
+      "reason": "無用例",
+      "index": 154
+    },
+    {
+      "word": "醬油",
+      "reason": "無用例",
+      "index": 155
+    },
+    {
+      "word": "麻糬",
+      "reason": "無用例",
+      "index": 156
+    },
+    {
+      "word": "飲料",
+      "reason": "無用例",
+      "index": 157
+    },
+    {
+      "word": "烏龍茶",
+      "reason": "無用例",
+      "index": 158
+    },
+    {
+      "word": "菜色",
+      "reason": "無用例",
+      "index": 159
+    }
+  ]
+}

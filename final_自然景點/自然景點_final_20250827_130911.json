@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "scraper_type": "最終版手動操作風格爬蟲",
+    "operation_flow": "輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理",
+    "source_url": "https://sutian.moe.edu.tw/zh-hant/tshiau/",
+    "extraction_date": "20250827_130911",
+    "statistics": {
+      "total_words": 9,
+      "successful_extractions": 4,
+      "missing_words": 5,
+      "success_rate": "44.4%",
+      "quality_stats": {
+        "完整": 4,
+        "良好": 0,
+        "基本": 0,
+        "不完整": 0
+      }
+    }
+  },
+  "successful_records": [
+    {
+      "word": "港口",
+      "taiwanese_sentence": "風颱咧欲來矣，真濟漁船仔攏駛入來港口閃風。",
+      "tailo_pronunciation": "Hong-thai teh-beh lâi--ah, tsin tsē hî-tsûn-á lóng sái ji̍p-lâi káng-kháu siám-hong.。",
+      "chinese_translation": "颱風快要來了，很多漁船都開進港口避風。",
+      "source_word": "閃風",
+      "extraction_time": "2025-08-27 13:08:51",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "日月潭",
+      "taiwanese_sentence": "日月潭的景色袂䆀，有閒咱來去行行咧。",
+      "tailo_pronunciation": "Ji̍t-gua̍t-thâm ê kíng-sik bē-bái, ū-îng lán lâi-khì kiânn-kiânn--leh.。",
+      "chinese_translation": "日月潭的風景不錯，有空我們去走一走。",
+      "source_word": "景色",
+      "extraction_time": "2025-08-27 13:08:54",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "風景",
+      "taiwanese_sentence": "遮風景區的飯店開甲是「三跤步一坎店」，逐間店攏著想空想縫來搶人客。",
+      "tailo_pronunciation": "Tsia hong-kíng-khu ê pn̄g-tiàm khui kah sī “sann kha-pōo tsi̍t khám tiàm”, ta̍k king tiàm lóng tio̍h siūnn-khang-siūnn-phāng lâi tshiúnn lâng-kheh.。",
+      "chinese_translation": "這裡風景區的飯店開得是「店家林立，競爭激烈」，每間飯店都得想盡辦法在搶客源。",
+      "source_word": "三跤步一坎店。",
+      "extraction_time": "2025-08-27 13:08:56",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "草山",
+      "taiwanese_sentence": "𪜶今仔日去草山行春。",
+      "tailo_pronunciation": "In kin-á-ji̍t khì Tsháu-suann kiânn-tshun.。",
+      "chinese_translation": "他們今天去陽明山踏春。",
+      "source_word": "行春",
+      "extraction_time": "2025-08-27 13:09:02",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    }
+  ],
+  "missing_words": [
+    {
+      "word": "陽明山、新竹縣寶山",
+      "reason": "無用例",
+      "index": 1
+    },
+    {
+      "word": "淡水河",
+      "reason": "無用例",
+      "index": 5
+    },
+    {
+      "word": "玉山",
+      "reason": "無用例",
+      "index": 7
+    },
+    {
+      "word": "溪頭",
+      "reason": "無用例",
+      "index": 8
+    },
+    {
+      "word": "濁水溪",
+      "reason": "無用例",
+      "index": 9
+    }
+  ]
+}

@@ -1,0 +1,490 @@
+最終版台語辭典擷取完整報告 - 植物與水果蔬菜
+================================================================================
+🎯 操作流程：輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理
+📊 完整統計：
+   - 總計單字：123 個
+   - 成功擷取：57 個
+   - 缺失單字：66 個
+   - 成功率：46.3%
+⏰ 擷取時間：20250827_152444
+
+🌟 完整擷取（台語+台羅+中文）:
+------------------------------------------------------------
+ 1. 蔥仔
+    台語：伊食火鍋搵料愛濫醋、蒜茸、番薑仔、蔥仔、豆乳、香油，伊講愛較厚味才會好食。
+    台羅：I tsia̍h hué-ko ùn-liāu ài lām tshòo, suàn-jiông, huan-kiunn-á, tshang-á, tāu-jú, hiang-iû, i kóng ài khah kāu-bī tsiah ē hó-tsia̍h.。
+    中文：他吃火鍋沾醬要摻雜醋、蒜泥、辣椒、蔥、豆腐乳、香油，他說要五味俱全才會好吃。
+    來源：厚味
+
+ 2. 葡萄
+    台語：酒廠買葡萄去激酒。
+    台羅：Tsiú-tshiúnn bé phû-tô khì kik-tsiú.。
+    中文：酒廠買葡萄去釀酒。
+    來源：激酒
+
+ 3. 櫻花
+    台語：我約伊今仔日中晝佇公園會合，做伙去看櫻花。
+    台羅：Guá iok i kin-á-ji̍t tiong-tàu tī kong-hn̂g huē-ha̍p, tsò-hué khì khuànn ing-hue.。
+    中文：我約他今天中午在公園會合，要一起去賞櫻。
+    來源：會合
+
+ 4. 檨仔
+    台語：臺灣熱人出產真濟芳甜的果子，譬論檨仔、荔枝佮芳瓜。
+    台羅：Tâi-uân jua̍h--lâng tshut-sán tsin tsē phang-tinn ê kué-tsí, phì-lūn suāinn-á, nāi-tsi kah phang-kue.。
+    中文：臺灣在夏天出產很多香甜的水果，例如芒果、荔枝和香瓜。
+    來源：譬論
+
+ 5. 匏仔
+    台語：最近足歹運，欲食菜頭湯，去買著蓬心的菜頭；欲去剃頭，剃頭店無開門，有影是「人若衰，種匏仔生菜瓜」。
+    台羅：Tsuè-kīn tsiok pháinn-ūn, beh tsia̍h tshài-thâu-thng, khì bé-tio̍h pōng-sim ê tshài-thâu; beh khì thì-thâu, thì-thâu-tiàm bô khui-mn̂g, ū-iánn sī “lâng nā sue, tsìng pû-á senn tshài-kue”.。
+    中文：最近運氣很糟，想喝蘿蔔湯，竟買到空心的蘿蔔；想去理髮，理髮店沒開門，真的是「人一倒楣，種匏瓜也會長出絲瓜」。
+    來源：人若衰，種匏仔生菜瓜。
+
+ 6. 青草
+    台語：阿媽共燃好的青草仔茶，用漏仔貯入去玻璃矸仔，冰佇冰箱予逐家啉。
+    台羅：A-má kā hiânn-hó ê tshenn-tsháu-á-tê, iōng lāu-á té ji̍p-khì po-lê kan-á, ping tī ping-siunn hōo ta̍k-ke lim.。
+    中文：奶奶把煮好的青草茶，用漏斗裝進玻璃瓶中，冰在冰箱給大家喝。
+    來源：漏仔
+
+ 7. 稻仔
+    台語：較早作田人攏放伴割稻仔，人若來鬥相共，愛攢三頓佮點心予人食，閣袂使驚人大食。
+    台羅：Khah-tsá tsoh-tshân-lâng lóng pàng-phuānn kuah-tiū-á, lâng nā lâi tàu-sann-kāng, ài tshuân sann tǹg kah tiám-sim hōo lâng tsia̍h, koh bē-sái kiann lâng tuā-tsia̍h.。
+    中文：從前農人都輪流協助割稻子，人家如果來幫忙，要準備三餐跟點心給人家吃，還不能怕人家食量大。
+    來源：大食
+
+ 8. 蘭花
+    台語：這款蘭花真貴氣，無好種。
+    台羅：Tsit khuán lân-hue tsin kuì-khì, bô hó tsìng.。
+    中文：這種蘭花帶貴氣，很不容易培育。
+    來源：貴氣
+
+ 9. 蒜仔
+    台語：食蒜仔吐蕗蕎。
+    台羅：Tsia̍h suàn-á thòo lōo-giō.。蒜頭比蕗蕎便宜，故用來比喻得不償失。
+    中文：吃蒜頭吐蕗蕎。蒜頭比蕗蕎便宜，故用來比喻得不償失。
+    來源：蕗蕎
+
+10. 番麥
+    台語：這角勢有真濟人種番麥。
+    台羅：Tsit kak-sì ū tsin tsē lâng tsìng huan-be̍h.。
+    中文：這一帶有很多人種玉蜀黍。
+    來源：角勢
+
+11. 九層塔
+    台語：用九層塔煎卵真好食。
+    台羅：Iōng káu-tsàn-thah tsian nn̄g tsin hó-tsia̍h.。
+    中文：用九層塔煎蛋很好吃。
+
+12. 蘋果
+    台語：進口的蘋果通常攏有蓋蠟。
+    台羅：Tsìn-kháu ê phông-kó thong-siông lóng ū kài-la̍h.。
+    中文：進口的蘋果通常都有上蠟。
+    來源：蓋蠟
+
+13. 菝仔
+    台語：菝仔有到分無，共伊㨂甲一下就知。
+    台羅：Pua̍t-á ū kàu-hun--bô, kā i tàng-kah--tsi̍t-ē tō tsai.。
+    中文：番石榴熟了沒，用指甲刺探看看就知道。
+    來源：㨂甲
+
+14. 龍眼
+    台語：表姊目頭懸，揣對象揀東揀西、揀碗揀箸，啥人知影經過幾若年煞「揀啊揀，揀著一个賣龍眼」。
+    台羅：Piáu-tsí ba̍k-thâu kuân, tshuē tuì-siōng kíng-tang-kíng-sai, kíng-uánn-kíng-tī, siánn-lâng tsai-iánn king-kuè kuí-nā nî suah “kíng--ah kíng, kíng-tio̍h tsi̍t ê bē lîng-gíng”.。
+    中文：表姊眼光高，找對象挑三揀四、東挑西揀，誰知道經過好幾年卻「挑來選去，最後選了個不怎樣的人」。
+    來源：揀啊揀，揀著一个賣龍眼。
+
+15. 竹筍
+    台語：竹筍仔炒肉絲蓋好食。
+    台羅：Tik-sún-á tshá bah-si kài hó-tsia̍h.。
+    中文：竹筍炒肉絲很好吃。
+    來源：肉絲
+
+16. 瓜仔哖
+    台語：瓜仔哖有腥味。
+    台羅：Kue-á-nî ū tshènn-bī.。
+    中文：小黃瓜有生青味。
+    來源：腥
+
+17. 樹枝
+    台語：阮逐擺對遐行過，攏會予樹枝刮著。
+    台羅：Guán ta̍k-pái tuì hia kiânn--kuè, lóng ē hōo tshiū-ki kueh--tio̍h.。
+    中文：我們每一次經過那裡，都會被樹枝絆到。
+    來源：刮替kueh/kuih
+
+18. 玉蘭花
+    台語：一攕玉蘭花。
+    台羅：Tsi̍t tshiám gio̍k-lân-hue.。
+    中文：一串玉蘭花。
+    來源：攕替tshiám
+
+19. 蔥頭
+    台語：蔥頭味真薟，予人切甲流目屎。
+    台羅：Tshang-thâu bī tsin hiam, hōo lâng tshiat kah lâu ba̍k-sái.。
+    中文：洋蔥味真嗆，讓人切得流眼淚。
+    來源：薟
+
+20. 香菇
+    台語：香菇欲煮進前愛先浸水。
+    台羅：Hiunn-koo beh tsú tsìn-tsîng ài sing tsìm tsuí.。
+    中文：香菇要煮之前要先泡水。
+    來源：浸
+
+21. 蒜頭
+    台語：種蒜頭的作穡人攏揀較媠的提去賣，留一寡脯去的家己食，莫怪人講：「燒瓷的食缺，織蓆的睏椅。」
+    台羅：Tsìng suàn-thâu ê tsoh-sit-lâng lóng kíng khah suí--ê the̍h-khì bē, lâu tsi̍t-kuá póo--khì--ê ka-kī tsia̍h, bo̍k-kuài lâng kóng, “Sio-huî--ê tsia̍h khih, tsit-tshio̍h--ê khùn í.”。」
+    中文：蒜農都挑比較漂亮的拿去賣，留一些乾癟的自己吃，難怪人家說「燒瓷的自己用有缺口的碗，織草蓆的在椅子上睡覺。」
+    來源：燒瓷的食缺，織蓆的睏椅。
+
+22. 蓮霧
+    台語：這新品種的蓮霧一斤著兩百，你若交關兩斤，共你三割引就好。
+    台羅：Tse sin phín-tsíng ê lián-bū tsi̍t kin tio̍h nn̄g-pah, lí nā kau-kuan--nn̄g-kin, kā lí sann kuah-ín tō hó.。
+    中文：這新品種的蓮霧一斤得兩百，你如果能買個兩斤，按售價減除三成賣你就好。
+    來源：割引
+
+23. 紅豆
+    台語：紅豆做紅豆囥，綠豆做綠豆囥。
+    台羅：Âng-tāu tsò âng-tāu khǹg, li̍k-tāu tsò li̍k-tāu khǹg.。
+    中文：紅豆放紅豆那裏，綠豆放綠豆那裏。
+    來源：做
+
+24. 樹林
+    台語：伊覕佇烏暗的樹林，心內真驚惶。
+    台羅：I bih tī oo-àm ê tshiū-nâ, sim-lāi tsin kiann-hiânn.。
+    中文：他躲在黑暗的森林，內心很驚慌。
+    來源：烏暗
+
+25. 樹葉仔
+    台語：樹仔跤的樹葉仔無偌濟，用鋏仔鋏鋏咧就會用得矣。
+    台羅：Tshiū-á-kha ê tshiū-hio̍h-á bô guā-tsē, iōng giap-á giap-giap--leh tō ē-īng--tit--ah.。
+    中文：樹底下的樹葉沒有很多，拿夾子夾一夾就可以了。
+    來源：鋏仔
+
+26. 竹仔
+    台語：除了竹仔佮七里香以外，燈仔花嘛是上捷種來做籬笆的樹仔。
+    台羅：Tû-liáu tik-á kah tshit-lí-hiong í-guā, ting-á-hue mā sī siōng tsia̍p tsìng-lâi tsò lî-pa ê tshiū-á.。
+    中文：除了竹子和七里香以外，朱槿也是最常種植來當圍籬的樹木。
+    來源：燈仔花
+
+27. 番薯
+    台語：古早糧食缺欠的時，煮糜是幾粒米、一寡番薯簽乾摻一大坩水，「一粒田螺煮九碗公湯」，欲罟一粒飯粒仔就親像海底摸針，真僫啦！
+    台羅：Kóo-tsá niû-si̍t khueh-khiàm ê sî, tsú muê sī kuí lia̍p bí, tsi̍t-kuá han-tsî-tshiam-kuann tsham tsi̍t tuā khann tsuí, “tsi̍t lia̍p tshân-lê tsú káu uánn-kong thng”, beh koo tsi̍t lia̍p pn̄g-lia̍p-á tō tshin-tshiūnn hái-té bong tsiam, tsin oh--lah!。
+    中文：從前糧食匱乏的時代，煮稀飯是幾粒米、一些番薯簽乾加一大鍋的水，「一粒田螺煮九海碗湯」，要撈到一粒米粒就像海底撈針，好難啊！
+    來源：一粒田螺煮九碗公湯。
+
+28. 甘蔗
+    台語：俗語講，「甘蔗無雙頭甜。」也欲清閒，也欲趁大錢，世間哪有遐爾好空的代誌？
+    台羅：Sio̍k-gí kóng, “Kam-tsià bô siang-thâu tinn.” Iā beh tshing-îng, iā beh thàn tuā tsînn, sè-kan ná ū hiah-nī hó-khang ê tāi-tsì?。」又要清閒，又要賺大錢，世上哪有那麼好的事情？
+    中文：俗話說，「甘蔗沒有頭尾都是甜的。」又要清閒，又要賺大錢，世上哪有那麼好的事情？
+    來源：甘蔗無雙頭甜。
+
+29. 芋仔
+    台語：糋好的芋仔糋欲食進前愛閣乍一下。
+    台羅：Tsìnn hó ê ōo-á-tsìnn beh tsia̍h tsìn-tsîng ài koh tsànn--tsi̍t-ē.。
+    中文：炸好的芋頭要吃之前得先過油再稍微炸一下。
+    來源：乍替tsànn
+
+30. 樹葉
+    台語：樹仔跤的樹葉仔無偌濟，用鋏仔鋏鋏咧就會用得矣。
+    台羅：Tshiū-á-kha ê tshiū-hio̍h-á bô guā-tsē, iōng giap-á giap-giap--leh tō ē-īng--tit--ah.。
+    中文：樹底下的樹葉沒有很多，拿夾子夾一夾就可以了。
+    來源：鋏仔
+
+31. 芹菜
+    台語：煮貢丸湯的時陣，摻一搣仔芹菜珠，不止仔合味。
+    台羅：Tsú kòng-uân-thng ê sî-tsūn, tsham tsi̍t-me-á khîn-tshài-tsu, put-tsí-á ha̍h-bī.。
+    中文：煮貢丸湯的時候，加一把芹菜珠，非常對味。
+    來源：芹菜珠
+
+32. 蓮花
+    台語：蓮花頭窒咧，著愛清清咧。
+    台羅：Liân-hue-thâu that--leh, tio̍h-ài tshing-tshing--leh.。
+    中文：蓮蓬頭塞住了，需要清理一下。
+    來源：蓮花頭
+
+33. 楊桃
+    台語：這粒楊桃有六捻。
+    台羅：Tsit lia̍p iûnn-tô ū la̍k liām.。
+    中文：這顆楊桃有六片。
+    來源：捻
+
+34. 花蕊
+    台語：公園內的花蕊真清芳。
+    台羅：Kong-hn̂g-lāi ê hue-luí tsin tshing-phang.。
+    中文：公園裡的花朵很清香。
+    來源：清芳
+
+35. 茄仔
+    台語：茄仔開黃花──反種。
+    台羅：Kiô-á khui n̂g hue──huán-tsíng.。歇後語，形容違反常態。
+    中文：茄子一般都開紫色的花，開黃花的就是變種。歇後語，形容違反常態。
+    來源：反種
+
+36. 菜心
+    台語：去買一罐菜心來配糜。
+    台羅：Khì bé tsi̍t kuàn tshài-sim lâi phuè muê.。
+    中文：去買一罐菜心來配稀飯。
+
+37. 桑椹
+    台語：桑椹會使通血路，促進胃腸運動，改善祕結。
+    台羅：Sng-suî ē-sái thong hueh-lōo, tshiok-tsìn uī-tn̂g ūn-tōng, kái-siān pì-kiat.。
+    中文：桑椹可以活血，促進胃腸蠕動，改善便秘。
+
+38. 榕仔
+    台語：媽祖廟埕的榕仔跤不時有老大人坐佇遐話仙。
+    台羅：Má-tsóo-biō-tiânn ê tshîng-á-kha put-sî ū lāu-tuā-lâng tsē tī hia uē-sian.。
+    中文：媽祖廟廣場的榕樹下經常有老人家坐在那裡談天說地。
+    來源：話仙
+
+39. 瓜子
+    台語：這種木瓜品質真好，你提一寡仔木瓜子去湠種。
+    台羅：Tsit tsióng bo̍k-kue phín-tsit tsin hó, lí the̍h tsi̍t-kuá-á bo̍k-kue-tsí khì thuànn-tsíng.。
+    中文：這種木瓜品質很好，你拿一些木瓜種子去繁殖。
+    來源：湠種
+
+40. 王梨
+    台語：「王梨頭，西瓜尾」是咧講王梨是倚蒂頭的所在上蓋甜，西瓜顛倒是離蒂頭上遠的彼爿較甜，欲食的時先食較無甜的彼爿就會愈食愈甜。
+    台羅：“Ông-lâi thâu, si-kue bué” sī teh kóng ông-lâi sī uá tì-thâu ê sóo-tsāi siōng-kài tinn, si-kue tian-tò sī lī tì-thâu siōng hn̄g ê hit pîng khah tinn, beh tsia̍h ê sî sing tsia̍h khah bô tinn ê hit pîng tō ē jú tsia̍h jú tinn.。
+    中文：「鳳梨頭，西瓜尾」是說鳳梨最甜的地方是靠近基根底部的那頭，西瓜反而是離蒂頭最遠端的那邊最甜，要吃的時候先吃比較不甜的那邊就會越吃越甜。
+    來源：王梨頭，西瓜尾。
+
+41. 蕹菜
+    台語：阿明開店做生理有趁著一點仔錢，就想欲借錢開連鎖店，𪜶某緊共擋講，你毋通「食無三把蕹菜，就欲上西天」。
+    台羅：A-bîng khui-tiàm tsò-sing-lí ū thàn-tio̍h tsi̍t-tiám-á tsînn, tō siūnn-beh tsioh tsînn khui liân-só-tiàm, in bóo kín kā tòng kóng, lí m̄-thang “tsia̍h bô sann pé ìng-tshài, tō beh tsiūnn se-thian”.。
+    中文：阿明開店做生意是賺到了一點錢，就想要貸款開連鎖店，他太太趕忙阻止他說，你別「吃不到三把空心菜，就妄想可以上西天」。
+    來源：食無三把蕹菜，就欲上西天。
+
+42. 柚仔
+    台語：柚仔囥予伊消水，會較甜。
+    台羅：Iū-á khǹg hōo i siau-tsuí, ē khah tinn.。
+    中文：柚子放置到水分消散一些，會比較甜。
+    來源：消水
+
+43. 綠豆
+    台語：冰櫥內底有一鼎綠豆湯，你去𣁳一碗來食。
+    台羅：Ping-tû lāi-té ū tsi̍t tiánn li̍k-tāu-thng, lí khì khat tsi̍t uánn lâi tsia̍h.。
+    中文：冰箱裡有一鍋綠豆湯，你去盛一碗來吃。
+    來源：冰櫥
+
+44. 弓蕉
+    台語：阿榮頭一改贌園種弓蕉隨搪著風颱，了甲叫毋敢。佳哉尾仔換去夜市做油湯，拄著時機好，才予伊趁甲油洗洗，有影是「人飼人，一支骨；天飼人，肥朒朒」，真正予人袂𠢕得。
+    台羅：A-îng thâu tsi̍t kái pa̍k-hn̂g tsìng king-tsio suî tn̄g-tio̍h hong-thai, liáu kah kiò-m̄-kánn. Ka-tsài bué--á uānn-khì iā-tshī tsò iû-thng, tú-tio̍h sî-ki hó, tsiah hōo i thàn kah iû-sé-sé, ū-iánn sī “lâng tshī lâng, tsi̍t ki kut; thinn tshī lâng, puî-tsut-tsut”, tsin-tsiànn hōo lâng bē-gâu--tit.。幸虧後來換跑道去夜市擺麵攤，遇到景氣好，才讓讓他賺得油水多多，真正是「只靠人，瘦巴巴；天幫助，笑哈哈」，人真的不能自以為了得。
+    中文：阿榮第一次租田園種香蕉就碰上颱風，賠的叫苦連天。幸虧後來換跑道去夜市擺麵攤，遇到景氣好，才讓讓他賺得油水多多，真正是「只靠人，瘦巴巴；天幫助，笑哈哈」，人真的不能自以為了得。
+    來源：人飼人，一支骨；天飼人，肥朒朒。
+
+45. 菜瓜
+    台語：最近足歹運，欲食菜頭湯，去買著蓬心的菜頭；欲去剃頭，剃頭店無開門，有影是「人若衰，種匏仔生菜瓜」。
+    台羅：Tsuè-kīn tsiok pháinn-ūn, beh tsia̍h tshài-thâu-thng, khì bé-tio̍h pōng-sim ê tshài-thâu; beh khì thì-thâu, thì-thâu-tiàm bô khui-mn̂g, ū-iánn sī “lâng nā sue, tsìng pû-á senn tshài-kue”.。
+    中文：最近運氣很糟，想喝蘿蔔湯，竟買到空心的蘿蔔；想去理髮，理髮店沒開門，真的是「人一倒楣，種匏瓜也會長出絲瓜」。
+    來源：人若衰，種匏仔生菜瓜。
+
+46. 高麗菜
+    台語：你這馬看著高麗菜的價數好，才欲攢落去種，敢會赴市？
+    台羅：Lí tsit-má khuànn-tio̍h ko-lê-tshài ê kè-siàu hó, tsiah beh tshuân lo̍h-khì tsìng, kám ē-hù-tshī
+    中文：你現在看到高麗菜的價格好，才想要準備去栽種，哪趕得上時機呢？
+    來源：會赴市
+
+47. 石榴
+    台語：七月七，龍眼烏，石榴必。
+    台羅：Tshit-gue̍h tshit, lîng-gíng oo, sia̍h-liû pit.。意為七月是龍眼和石榴成熟的季節。
+    中文：七月七，龍眼黑，石榴裂。意為七月是龍眼和石榴成熟的季節。
+
+48. 荔枝
+    台語：若欲治荔枝欉頂懸的臭腥龜仔，用雪文水共噴，不止仔有應效。
+    台羅：Nā beh tī nāi-tsi-tsâng tíng-kuân ê tshàu-tshènn-ku-á, iōng sap-bûn-tsuí kā phùn, put-tsí-á ū ìng-hāu.。
+    中文：想對付荔枝樹上的椿象，用肥皂水直接噴它相當有效。
+    來源：臭腥龜仔
+
+49. 冬瓜
+    台語：想欲食金瓜湯，煞規菜市仔攏無人咧賣金瓜，「無魚，蝦嘛好」，今仔日先買冬瓜轉來去𤉙排骨湯。
+    台羅：Siūnn-beh tsia̍h kim-kue-thng, suah kui tshài-tshī-á lóng bô lâng teh bē kim-kue, “bô hî, hê mā hó”, kin-á-ji̍t sing bé tang-kue tńg lâi-khì kûn pâi-kut-thng.。
+    中文：想喝南瓜湯，整個菜市場卻沒有人賣南瓜，「退而求其次」，今天先買冬瓜回家煮排骨湯。
+    來源：無魚，蝦嘛好。
+
+50. 金瓜
+    台語：想欲食金瓜湯，煞規菜市仔攏無人咧賣金瓜，「無魚，蝦嘛好」，今仔日先買冬瓜轉來去𤉙排骨湯。
+    台羅：Siūnn-beh tsia̍h kim-kue-thng, suah kui tshài-tshī-á lóng bô lâng teh bē kim-kue, “bô hî, hê mā hó”, kin-á-ji̍t sing bé tang-kue tńg lâi-khì kûn pâi-kut-thng.。
+    中文：想喝南瓜湯，整個菜市場卻沒有人賣南瓜，「退而求其次」，今天先買冬瓜回家煮排骨湯。
+    來源：無魚，蝦嘛好。
+
+51. 榕樹
+    台語：廟口的榕樹跤不時都有一寡人佇遐泡茶、開講。
+    台羅：Biō-kháu ê tshîng-tshiū-kha put-sî to ū tsi̍t-kuá lâng tī hia phàu tê, khai-káng.。
+    中文：廟口的榕樹下經常都有一些人在那裡泡茶、聊天。
+    來源：廟口
+
+52. 椪柑
+    台語：阮兜的果子園種椪柑佮菝仔。
+    台羅：Guán tau ê kué-tsí-hn̂g tsìng phòng-kam kah pua̍t-á.。
+    中文：我們家的果園種柑橘與芭樂。
+    來源：果子園
+
+53. 草仔
+    台語：阿媽共燃好的青草仔茶，用漏仔貯入去玻璃矸仔，冰佇冰箱予逐家啉。
+    台羅：A-má kā hiânn-hó ê tshenn-tsháu-á-tê, iōng lāu-á té ji̍p-khì po-lê kan-á, ping tī ping-siunn hōo ta̍k-ke lim.。
+    中文：奶奶把煮好的青草茶，用漏斗裝進玻璃瓶中，冰在冰箱給大家喝。
+    來源：漏仔
+
+54. 葉仔
+    台語：有人抾雨傘樹拄落落來的葉仔來治肝病，毋過有病應該愛去予醫生看才著。
+    台羅：Ū lâng khioh hōo-suànn-tshiū tú lak--lo̍h-lâi ê hio̍h-á lâi tī kuann-pēnn, m̄-koh ū pēnn ing-kai ài khì hōo i-sing khuànn tsiah tio̍h.。
+    中文：有人撿大葉欖仁剛掉落的葉子來治肝病，不過有病應該還是去看醫生才對。
+    來源：雨傘樹
+
+55. 柑仔
+    台語：牛犅𨂿會損蕩柑仔欉、柳丁欉、檸檬欉佮木瓜欉等果子欉。
+    台羅：Gû-káng-uainnh ē sńg-tn̄g kam-á tsâng, liú-ting tsâng, lê-bóng tsâng kah bo̍k-kue tsâng tíng kué-tsí tsâng.。
+    中文：天牛會危害橘子、柳丁、檸檬和木瓜樹等果樹。
+    來源：牛犅𨂿
+
+56. 白菜
+    台語：白菜滷是阮大家的手路菜，阮兜逐家攏真愛食。
+    台羅：Pe̍h-tshài-lóo sī guán ta-ke ê tshiú-lōo-tshài, guán tau ta̍k-ke lóng tsin ài tsia̍h.。
+    中文：滷白菜是我婆婆的拿手菜，我家每個人都很愛吃。
+    來源：白菜滷
+
+57. 韭菜
+    台語：韭菜花炒透抽，真佮喙。
+    台羅：Kú-tshài-hue tshá thàu-thiu, tsin kah-tshuì.。
+    中文：韭菜花炒透抽，很合胃口。
+    來源：透抽
+
+1.	一欉樹仔
+台語：阮兜門口種一欉樹仔，炎天的時陣會予咱遮蔭納涼。
+台羅：Guán tau mn̂g-kháu tsìng tsi̍t tsâng tshiū-á, iâm-thinn ê sî-tsūn ē hōo lán tsia-im la̍p-liâng.
+中文：我家門口種了一棵樹，夏天的時候可以遮蔭乘涼。
+	2.	水筆仔
+台語：水筆仔生佇鹹水沼澤，是紅樹林的主要樹種。
+台羅：Tsúi-pit-á senn tī kiâm-tsuí tsió-tsa̍h, sī âng-tshiū-nâ ê tsú-iàu tshiū-tsiòng.
+中文：水筆仔生長在鹹水沼澤，是紅樹林的主要樹種。
+	3.	椰子
+台語：椰子水真清甜，炎熱天啉一杯會足清爽。
+台羅：Iâ-tsí-tsuí tsin tshing-tinn, iâm-jia̍t-thinn lim tsi̍t pue ē tsiok tshing-sóng.
+中文：椰子水很清甜，夏天喝一杯很清爽。
+	4.	紅柿（甜柿、軟柿）
+台語：秋天到，紅柿成熟，樹仔頂滿滿真媠。
+台羅：Tshiu-thinn kàu, âng-khī sîng-siû, tshiū-á-tíng muá-muá tsin suí.
+中文：秋天到了，柿子成熟，樹上掛滿了很漂亮。
+	5.	桑材（桑樹）
+台語：以前庄頭人攏會種桑材來飼蠶仔。
+台羅：Í-tsîng tsng-thâu lâng lóng ē tsìng sng-tsâi lâi tshī tâm-á.
+中文：以前村子裡的人都會種桑樹來養蠶。
+	6.	榴槤
+台語：榴槤雖然臭味重，毋過愛食的人講真芳甜。
+台羅：Liû-liân sui-jiân tshàu-bī tāng, m̄-koh ài-tsia̍h ê lâng kóng tsin phang-tinn.
+中文：榴槤雖然味道很臭，但喜歡吃的人說很香甜。
+
+	7.	梅花
+台語：梅花開佇寒天，代表堅強的精神。
+台羅：Muî-hue khui tī hân-thinn, tāi-piáu kian-kiông ê tsing-sîn.
+中文：梅花開在寒冬，代表堅強的精神。
+	8.	菊花
+台語：重陽節常會插菊花來保庇長壽。
+台羅：Tîng-iông-tseh siông ē tshah kiok-hue lâi pó-pì tn̂g-siū.
+中文：重陽節常插菊花來祈求長壽。
+	9.	桃花
+台語：春天桃花盛開，吸引真濟人去賞花。
+台羅：Tshun-thinn thô-hue sìng-khai, hip-ín tsin tsē lâng khì siúnn-hue.
+中文：春天桃花盛開，吸引很多人去賞花。
+	10.	玫瑰花
+台語：伊送一束玫瑰花表達愛意。
+台羅：I sàng tsi̍t sok muî-kuì-hue piáu-ta̍t ài-ì.
+中文：他送一束玫瑰花來表達愛意。
+
+	11.	枇杷
+台語：春天的枇杷真生津，對咳嗽有幫助。
+台羅：Tshun-thinn ê pî-pê tsin seng-tsin, tuì ka-sàu ū pang-tōo.
+中文：春天的枇杷很生津，對咳嗽有幫助。
+	12.	釋迦
+台語：大武山出產的釋迦真出名。
+台羅：Tuā-bú-san tshut-sán ê sik-khia tsin tshut-miâ.
+中文：大武山出產的釋迦很有名。
+	13.	水蜜桃
+台語：阿母買水蜜桃轉來，香芳芳閣真甜。
+台羅：A-bú bé tsuí-bi̍t-thô tńg-lâi, phang-phang-phang koh tsin tinn.
+中文：媽媽買了水蜜桃回來，香香甜甜的。
+	14.	金針
+台語：金針菜炒肉絲真好食。
+台羅：Kim-tsiam-tshài tshá bah-si tsin hó-tsia̍h.
+中文：金針菜炒肉絲很好吃。
+	15.	木耳
+台語：木耳煮雞湯真補身體。
+台羅：Bo̍k-ní tsú ke-thng tsin póo-sin-thé.
+中文：木耳煮雞湯很滋補身體。
+	16.	蘆筍
+台語：蘆筍炒蝦仁，色香味俱全。
+台羅：Lôo-sún tshá he-jîn, sik-hiang-bī ku-tsuân.
+中文：蘆筍炒蝦仁，色香味俱全。
+
+	17.	豆菜（豆芽菜）
+台語：豆菜湯真清甜，配糜真合味。
+台羅：Tāu-tshài-thng tsin tshing-tinn, phuè muê tsin ha̍h-bī.
+中文：豆芽湯很清甜，配稀飯很對味。
+	18.	芫荽（香菜）
+台語：魚丸湯無芫荽，就少一味。
+台羅：Hî-ôan-thng bô iân-sui, tō tsió tsi̍t bī.
+中文：魚丸湯如果沒有香菜，就少一個味道。
+	19.	豆莢
+台語：豆莢炒豆乾，真下飯。
+台羅：Tāu-ngeh tshá tāu-kuann, tsin hā-pn̄g.
+中文：炒豆莢配豆乾，很下飯。
+	20.	花仔菜（花椰菜）
+台語：花仔菜煮湯真清爽。
+台羅：Hue-á-tshài tsú-thng tsin tshing-sóng.
+中文：花椰菜煮湯很清爽。
+	21.	刺瓜仔（胡瓜、黃瓜）
+台語：刺瓜仔拍涼拌，夏天食正適合。
+台羅：Tshì-kue-á phah liâng-puànn, hā-thinn tsia̍h tsiànn siok-ha̍p.
+中文：小黃瓜做涼拌，夏天吃最合適。
+	22.	高麗菜
+台語：高麗菜炒肉絲，簡單閣好食。
+台羅：Ko-lê-tshài tshá bah-si, kán-tan koh hó-tsia̍h.
+中文：高麗菜炒肉絲，簡單又好吃。
+	23.	茭白筍
+台語：茭白筍炒肉絲，鮮甜真好食。
+台羅：Kha-peh-sún tshá bah-si, sian-tinn tsin hó-tsia̍h.
+中文：茭白筍炒肉絲，鮮甜很好吃。
+	24.	番薯葉
+台語：番薯葉炒蒜頭，營養閣大碗。
+台羅：Han-tsî-hioh tshá suàn-thâu, îng-iúnn koh tuā-uánn.
+中文：地瓜葉炒蒜頭，營養又份量足。
+	25.	敏豆仔（四季豆）
+台語：敏豆仔炒鹹肉，真下飯。
+台羅：Bín-tāu-á tshá kiâm-bah, tsin hā-pn̄g.
+中文：四季豆炒鹹肉，很下飯。
+	26.	大頭菜（蕪菁）
+台語：大頭菜湯真清甜，老人仔真愛食。
+台羅：Tuā-thâu-tshài-thng tsin tshing-tinn, lāu-lâng-á tsin ài tsia̍h.
+中文：大頭菜湯很清甜，老人家很愛吃。
+	27.	萵仔菜（萵苣）
+台語：萵仔菜包肉絲，做生菜捲真清爽。
+台羅：E-á-tshài pau bah-si, tsò sing-tshài-kńg tsin tshing-sóng.
+中文：萵苣包肉絲，做成生菜捲很清爽。
+	28.	菠薐仔（菠菜）
+台語：菠薐仔炒蛋，真合喙味。
+台羅：Pue-lîng-á tshá nn̄g, tsin ha̍h-tshuì-bī.
+中文：菠菜炒蛋，很合口味。
+	29.	大同仔（青椒）
+台語：大同仔炒牛肉，香氣四溢。
+台羅：Tāi-tông-á tshá gû-bah, hiang-khì sì-i̍t.
+中文：青椒炒牛肉，香氣四溢。
+	30.	湯匙仔菜（青江菜）
+台語：湯匙仔菜下麵，真清爽。
+台羅：Thng-sî-á-tshài hā mī, tsin tshing-sóng.
+中文：青江菜加在麵裡，很清爽。
+❌ 缺失單字報告:
+============================================================
+以下 66 個單字沒有找到可用的例句：
+
+📋 無用例 (66個):
+   大頭菜     桑材      豆芽菜     鳳梨      木耳      稻子      小黃瓜     豆菜      豆莢      甜柿、軟柿   
+   芫荽      桑葚      香菜      榴槤      花仔菜     水筆仔     絲瓜      地瓜葉     萵仔菜     蔥的根莖部分  
+   大白菜     匏瓜、葫蘆   茄子      枇杷      柚子      大菜心、大骨芥菜四季豆     蘆筍      一棵樹     菊花      
+   芒果      刺瓜仔     萵苣      玉米      湯匙仔菜    竹子      椰子      香蕉      大同仔     番薯葉     
+   南瓜      花椰菜     一欉樹仔    桑樹      菠薐仔     釋迦      蕪菁      橘子      紅柿      空心菜     
+   水蜜桃     地瓜      苦瓜      芭樂      青江菜     青椒      敏豆仔     茭白筍     玫瑰花     桃花      
+   金針      梅花      葉子      芋頭      菠菜      胡瓜、黃瓜   
+
+💡 建議：
+   1. 這些單字可能在教育部辭典中沒有用例
+   2. 可以嘗試其他台語辭典或資源
+   3. 或者手動查詢相關的同義詞

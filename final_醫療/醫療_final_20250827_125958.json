@@ -1,0 +1,274 @@
+{
+  "metadata": {
+    "scraper_type": "最終版手動操作風格爬蟲",
+    "operation_flow": "輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理",
+    "source_url": "https://sutian.moe.edu.tw/zh-hant/tshiau/",
+    "extraction_date": "20250827_125958",
+    "statistics": {
+      "total_words": 37,
+      "successful_extractions": 13,
+      "missing_words": 24,
+      "success_rate": "35.1%",
+      "quality_stats": {
+        "完整": 13,
+        "良好": 0,
+        "基本": 0,
+        "不完整": 0
+      }
+    }
+  },
+  "successful_records": [
+    {
+      "word": "開刀",
+      "taiwanese_sentence": "醫生當咧共患者開刀，欲共窒佇伊頭殼內的血凍提出來。",
+      "tailo_pronunciation": "I-sing tng-teh kā huān-tsiá khui-to, beh kā that tī i thâu-khak-lāi ê hueh-tàng the̍h--tshut-lâi.。",
+      "chinese_translation": "醫生正在替患者動手術，要清除他腦中的血塊。",
+      "source_word": "血凍",
+      "extraction_time": "2025-08-27 12:58:19",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "瀉藥",
+      "taiwanese_sentence": "你喔！「無彼號尻川，想欲食彼號瀉藥」，行無三步就怦怦喘的人，也欲參人去𬦰山。",
+      "tailo_pronunciation": "Lí--ooh! “Bô hit-lō kha-tshng, siūnn-beh tsia̍h hit-lō sià-io̍h”, kiânn bô sann pōo tō phēnn-phēnn-tshuán ê lâng, iā beh tsham lâng khì peh-suann.。",
+      "chinese_translation": "你喔﹗「沒有那種能耐，還妄想做那種事」，走不到三步就氣喘吁吁的人，也想跟人家去爬山。",
+      "source_word": "無彼號尻川，想欲食彼號瀉藥。",
+      "extraction_time": "2025-08-27 12:58:22",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "急救",
+      "taiwanese_sentence": "醫生看伊攏直目去矣，嘛無放棄，繼續共伊急救。",
+      "tailo_pronunciation": "I-sing khuànn i lóng ti̍t-ba̍k--khì--ah, mā bô hòng-khì, kè-sio̍k kā i kip-kiù.。",
+      "chinese_translation": "醫生看他都兩眼直視，也沒放棄，繼續為他急救。",
+      "source_word": "直目",
+      "extraction_time": "2025-08-27 12:58:33",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "手術",
+      "taiwanese_sentence": "醫生當咧手術，欲共窒佇患者血管的血角清出來。",
+      "tailo_pronunciation": "I-sing tng-teh tshiú-su̍t, beh kā that tī huān-tsiá hueh-kńg ê hueh-kak tshing--tshut-lâi.。",
+      "chinese_translation": "醫生正在動手術，要清除病患血管中的血栓。",
+      "source_word": "血角",
+      "extraction_time": "2025-08-27 12:58:38",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "診所",
+      "taiwanese_sentence": "阿舅的診所拄開業，阿爸送一塊牌匾共𪜶祝賀。",
+      "tailo_pronunciation": "A-kū ê tsín-sóo tú khai-gia̍p, a-pah sàng tsi̍t tè pâi-pián kā in tsiok-hō.。",
+      "chinese_translation": "舅舅的診所剛開業，父親送了一塊牌匾慶賀他們。",
+      "source_word": "牌匾",
+      "extraction_time": "2025-08-27 12:58:44",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "急診",
+      "taiwanese_sentence": "救護車沿路掠車佮爍紅火，誠緊就共病人送去病院的急診室。",
+      "tailo_pronunciation": "Kiù-hōo-tshia iân-lōo lia̍h-tshia kah sih âng-hué, tsiânn kín tō kā pēnn-lâng sàng-khì pēnn-īnn ê kip-tsín-sik.。",
+      "chinese_translation": "救護車沿途超車和閃爍紅燈，很快就把病人送到醫院的急診室。",
+      "source_word": "掠車",
+      "extraction_time": "2025-08-27 12:58:49",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "神經",
+      "taiwanese_sentence": "喙齒若有蛀空愛緊予醫生坉起來，若無，到尾仔愛抽神經就真正是「細空毋補，大空叫苦」。",
+      "tailo_pronunciation": "Tshuì-khí nā ū tsiù-khang ài kín hōo i-sing thūn--khí-lâi, nā-bô, kàu bué--á ài thiu sîn-king tō tsin-tsiànn sī “sè khang m̄ póo, tuā khang kiò-khóo”.。",
+      "chinese_translation": "牙齒要是蛀了就要趕緊找醫生填補，要不然，到最後必須做根管治療就真的是「小洞不補，大洞叫苦」。",
+      "source_word": "細空毋補，大空叫苦。",
+      "extraction_time": "2025-08-27 12:58:57",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "皮膚科",
+      "taiwanese_sentence": "生癬愛去看皮膚科。",
+      "tailo_pronunciation": "Senn sián ài khì khuànn phuê-hu-kho.。",
+      "chinese_translation": "長癬要去看皮膚科。",
+      "source_word": "生癬",
+      "extraction_time": "2025-08-27 12:59:05",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "病院",
+      "taiwanese_sentence": "阿公送到病院的時雖然猶知人，毋過袂講話嘛袂振動，干焦恬恬看病床邊的人，真正是「目睭金金人傷重」。",
+      "tailo_pronunciation": "A-kong sàng kàu pēnn-īnn ê sî sui-jiân iáu tsai lâng, m̄-koh bē kóng-uē mā bē tín-tāng, kan-na tiām-tiām khuànn pēnn-tshn̂g-pinn ê lâng, tsin-tsiànn sī “ba̍k-tsiu kim-kim lâng siong-tiōng”.。",
+      "chinese_translation": "爺爺送到醫院的時候雖然還有知覺，不過無法講話也無法移動，只靜靜的看著病床邊的人，真的是「眼睛睜大，病情嚴重」。",
+      "source_word": "目睭金金人傷重。",
+      "extraction_time": "2025-08-27 12:59:13",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "藥局",
+      "taiwanese_sentence": "路口彼間藥局生理真好。",
+      "tailo_pronunciation": "Lōo-kháu hit king io̍h-kio̍k sing-lí tsin hó.。",
+      "chinese_translation": "路口那間藥房的生意很好。",
+      "source_word": "藥局",
+      "extraction_time": "2025-08-27 12:59:16",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "電光",
+      "taiwanese_sentence": "伊跋倒，雖然人無按怎，醫生講猶是照電光確定骨頭無含梢較好。",
+      "tailo_pronunciation": "I pua̍h-tó, sui-jiân lâng bô án-tsuánn, i-sing kóng iáu-sī tsiò-tiān-kong khak-tīng kut-thâu bô hâm-sau khah hó.。",
+      "chinese_translation": "他跌倒了，雖然覺得沒怎樣，醫生說還是照X光確定骨骼沒裂痕比較好。",
+      "source_word": "照電光",
+      "extraction_time": "2025-08-27 12:59:24",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "抗生素",
+      "taiwanese_sentence": "食抗生素治療細菌感染，的確著按時服藥，好原全才會使停藥。",
+      "tailo_pronunciation": "Tsia̍h khòng-sing-sòo tī-liâu sè-khún kám-jiám, tik-khak tio̍h àn-sî ho̍k-io̍h, hó guân-tsuân tsiah ē-sái thîng io̍h.。",
+      "chinese_translation": "服用抗生素來治療細菌感染，務必得按時吃藥，痊癒後才可以停藥。",
+      "source_word": "服藥",
+      "extraction_time": "2025-08-27 12:59:35",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "病房",
+      "taiwanese_sentence": "伊病甲真傷重，這馬猶蹛佇加護病房。",
+      "tailo_pronunciation": "I pēnn kah tsin siong-tiōng, tsit-má iáu tuà tī ka-hōo pēnn-pâng.。",
+      "chinese_translation": "他病得很嚴重，現在還住在加護病房。",
+      "source_word": "傷重",
+      "extraction_time": "2025-08-27 12:59:55",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    }
+  ],
+  "missing_words": [
+    {
+      "word": "婦產科",
+      "reason": "無用例",
+      "index": 3
+    },
+    {
+      "word": "致癌",
+      "reason": "無用例",
+      "index": 4
+    },
+    {
+      "word": "小兒科",
+      "reason": "無用例",
+      "index": 5
+    },
+    {
+      "word": "精神科",
+      "reason": "無用例",
+      "index": 7
+    },
+    {
+      "word": "救命",
+      "reason": "無用例",
+      "index": 9
+    },
+    {
+      "word": "健保",
+      "reason": "無用例",
+      "index": 11
+    },
+    {
+      "word": "超音波",
+      "reason": "無用例",
+      "index": 13
+    },
+    {
+      "word": "西藥房",
+      "reason": "無用例",
+      "index": 14
+    },
+    {
+      "word": "漢藥房",
+      "reason": "無用例",
+      "index": 16
+    },
+    {
+      "word": "中藥局",
+      "reason": "無用例",
+      "index": 17
+    },
+    {
+      "word": "外科",
+      "reason": "無用例",
+      "index": 19
+    },
+    {
+      "word": "X光",
+      "reason": "無用例",
+      "index": 20
+    },
+    {
+      "word": "牙科",
+      "reason": "無用例",
+      "index": 23
+    },
+    {
+      "word": "復健",
+      "reason": "無用例",
+      "index": 24
+    },
+    {
+      "word": "眼科",
+      "reason": "無用例",
+      "index": 26
+    },
+    {
+      "word": "內科",
+      "reason": "無用例",
+      "index": 27
+    },
+    {
+      "word": "西藥局",
+      "reason": "無用例",
+      "index": 28
+    },
+    {
+      "word": "齒科",
+      "reason": "無用例",
+      "index": 30
+    },
+    {
+      "word": "掛號",
+      "reason": "無用例",
+      "index": 31
+    },
+    {
+      "word": "骨科",
+      "reason": "無用例",
+      "index": 32
+    },
+    {
+      "word": "國術館",
+      "reason": "無用例",
+      "index": 33
+    },
+    {
+      "word": "中藥",
+      "reason": "無用例",
+      "index": 34
+    },
+    {
+      "word": "衛生所",
+      "reason": "無用例",
+      "index": 35
+    },
+    {
+      "word": "醫院",
+      "reason": "無用例",
+      "index": 37
+    }
+  ]
+}

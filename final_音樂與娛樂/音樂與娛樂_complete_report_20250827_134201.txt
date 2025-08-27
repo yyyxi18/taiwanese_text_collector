@@ -1,0 +1,224 @@
+最終版台語辭典擷取完整報告 - 音樂與娛樂
+================================================================================
+🎯 操作流程：輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理
+📊 完整統計：
+   - 總計單字：45 個
+   - 成功擷取：24 個
+   - 缺失單字：21 個
+   - 成功率：53.3%
+⏰ 擷取時間：20250827_134201
+
+🌟 完整擷取（台語+台羅+中文）:
+------------------------------------------------------------
+ 1. 露營
+    台語：頭擺露營誠有局，毋但暗時欲蹛的布棚愛家己搭，煮食嘛愛先學會曉燃柴起火。
+    台羅：Thâu-pái lōo-iânn tsiânn ū-kio̍k, m̄-nā àm-sî beh tuà ê pòo-pênn ài ka-kī tah, tsú-tsia̍h mā ài sing o̍h ē-hiáu hiânn-tshâ khí-hué.。
+    中文：第一次露營很有意思，不但要自己搭建晚上住的帳篷，烹飪也要先學會燒柴生火。
+    來源：有局
+
+ 2. 行棋
+    台語：阿爸退休了後定定佇公園佮人泡茶、行棋咧消磨時間。
+    台羅：A-pah thè-hiu liáu-āu tiānn-tiānn tī kong-hn̂g kah lâng phàu tê, kiânn-kî teh siau-môo sî-kan.。
+    中文：父親退休後常常在公園和人泡茶、下棋來打發時間。
+    來源：消磨
+
+ 3. 喝拳
+    台語：若有愛喝拳啉酒，過通關的場合，興酒的阿貴定著走第一的。
+    台羅：Nā ū ài huah-kûn lim tsiú, kuè-thong-kuan ê tiûnn-ha̍p, hìng tsiú ê A-kuì tiānn-tio̍h tsáu tē-it--ê.。
+    中文：如果遇到要划拳喝酒、打通關的場合，好酒的阿貴一定是第一個到。
+    來源：過通關
+
+ 4. 唱歌
+    台語：阿義仔歌聲真好，老師鼓勵伊去參加歌唱比賽，伊攏講伊足驚上台唱歌。老師講：「『驚驚袂著等。』你愛勇敢徛起去舞台，才會當予人知影你的歌聲有偌好。」
+    台羅：A-gī--á kua-siann tsin hó, lāu-su kóo-lē i khì tsham-ka kua-tshiùnn pí-sài, i lóng kóng i tsiok kiann tsiūnn-tâi tshiùnn-kua. Lāu-su kóng, “ ‘Kiann-kiann bē tio̍h-tíng.’ Lí ài ióng-kám khiā khí-khì bú-tâi, tsiah ē-tàng hōo lâng tsai-iánn lí ê kua-siann ū guā hó.”。老師說 ：「『光是恐懼擔憂不會獲得優勝。』你要勇敢站上舞台，才能讓人知道你的歌聲有多好。」
+    中文：小義歌聲很好，老師鼓勵他去參加歌唱比賽，他都說他很怕上台唱歌。老師說 ：「『光是恐懼擔憂不會獲得優勝。』你要勇敢站上舞台，才能讓人知道你的歌聲有多好。」
+    來源：驚驚袂著等。
+
+ 5. 連續劇
+    台語：一寡八點檔的連續劇，拄開始真精彩，路尾就漚戲拖棚。
+    台羅：Tsi̍t-kuá peh-tiám-tóng ê liân-sio̍k-kio̍k, tú-khai-sí tsin tsing-tshái, lōo-bué tō àu-hì-thua-pênn.。
+    中文：一些八點檔的連續劇，一開始很精彩，後來就歹戲拖棚。
+    來源：漚戲拖棚
+
+ 6. 跳舞
+    台語：我來唱歌，你來跳舞。
+    台羅：Guá lâi tshiùnn-kua, lí lâi thiàu-bú.。
+    中文：我來唱歌，你來跳舞。
+    來源：來
+
+ 7. 釣魚
+    台語：北海岸的痟狗湧真恐怖，逐年攏有人予伊絞去，毋過釣魚的人拍死無退，人講：「目睭看佇粿，跤踏著火。」𪜶攏毋知通驚。
+    台羅：Pak-hái-huānn ê siáu-káu-íng tsin khióng-pòo, ta̍k-nî lóng ū lâng hōo i ká--khì, m̄-koh tiò-hî ê lâng phah-sí bô thè, lâng kóng, “Ba̍k-tsiu khuànn tī kué, kha ta̍h-tio̍h hué.” In lóng m̄ tsai thang kiann.。
+    中文：北海岸的瘋狗浪很恐怖，每年都有人被它捲走，不過釣魚的人打死不退，人家說「眼睛看著糕品，腳踩到火」，他們都不知道該害怕。
+    來源：目睭看佇粿，跤踏著火。
+
+ 8. 唱片
+    台語：這塊唱片這馬真食市。
+    台羅：Tsit tè tshiùnn-phìnn tsit-má tsin tsia̍h-tshī.。
+    中文：這張唱片現在很暢銷。
+    來源：食市
+
+ 9. 電影
+    台語：原來是欲佮查某囡仔去看電影，莫怪伊喙笑目笑。
+    台羅：Guân-lâi sī beh kah tsa-bóo gín-á khì khuànn tiān-iánn, bo̍k-kuài i tshuì-tshiò-ba̍k-tshiò.。
+    中文：原來就是要和女孩子去看電影，怪不得他眉開眼笑。
+    來源：莫怪
+
+10. 搬戲
+    台語：歌仔戲演員搬戲進前佮戲搬煞了後，攏愛用真濟時間畫妝佮落妝。
+    台羅：Kua-á-hì ián-uân puann-hì tsìn-tsîng kah hì puann-suah liáu-āu, lóng ài īng tsin tsē sî-kan uē-tsng kah lo̍h-tsng.。
+    中文：歌仔戲演員演戲前與下戲後，都要用很多時間化妝與卸妝。
+    來源：落妝
+
+11. 𬦰山
+    台語：你喔！「無彼號尻川，想欲食彼號瀉藥」，行無三步就怦怦喘的人，也欲參人去𬦰山。
+    台羅：Lí--ooh! “Bô hit-lō kha-tshng, siūnn-beh tsia̍h hit-lō sià-io̍h”, kiânn bô sann pōo tō phēnn-phēnn-tshuán ê lâng, iā beh tsham lâng khì peh-suann.。
+    中文：你喔﹗「沒有那種能耐，還妄想做那種事」，走不到三步就氣喘吁吁的人，也想跟人家去爬山。
+    來源：無彼號尻川，想欲食彼號瀉藥。
+
+12. 花燈
+    台語：這擺的花燈真趣味，線頂有真濟人咧討論。
+    台羅：Tsit pái ê hue-ting tsin tshù-bī, suànn-tíng ū tsin tsē lâng teh thó-lūn.。
+    中文：這次的燈會很有趣，網路上有很多人在討論。
+    來源：線頂
+
+13. 講古
+    台語：若欲予人會佮意聽你講古，上無，腹肚內嘛愛有膏，像你按呢講無三兩句話就講袂落去，真正是「豬頭皮炸無油」。
+    台羅：Nā beh hōo lâng ē kah-ì thiann lí kóng-kóo, siōng-bô, pak-tóo-lāi mā ài ū ko, tshiūnn lí án-ne kóng bô sann nn̄g kù uē tō kóng bē lo̍h--khì, tsin-tsiànn sī “ti-thâu-phuê tsuànn bô iû”.。
+    中文：若想要別人喜歡聽你說故事，至少，肚子也要有一些墨水，像你這樣講不到兩三句話就說不下去，真的是「肚子裡沒墨水」。
+    來源：豬頭皮炸無油。
+
+14. 布袋戲
+    台語：阮去公園散步，行到中站，看著人咧弄布袋戲尪仔，有影誠心適。
+    台羅：Guán khì kong-hn̂g sàn-pōo, kiânn kàu tiong-tsām, khuànn-tio̍h lâng teh lāng pòo-tē-hì ang-á, ū-iánn tsiânn sim-sik.。
+    中文：我們到公園散步，走到半路，看到有人在操弄布袋戲偶，非常有趣。
+    來源：中站
+
+15. 彈琴
+    台語：伊本成真愛彈琴，煞因為𪜶老爸逼伊苦練，就按呢起慼，放棄音樂。
+    台羅：I pún-tsiânn tsin ài tuânn-khîm, suah in-uī in lāu-pē pik i khóo-liān, tsiū-án-ne khí-tsheh, hòng-khì im-ga̍k.。
+    中文：他本來很喜歡彈琴，卻因為爸爸逼迫他苦練，因而心生厭惡感，放棄音樂。
+    來源：起慼
+
+16. 鼓吹
+    台語：想袂到你竟然會曉歕鼓吹。
+    台羅：Siūnn-bē-kàu lí kìng-jiân ē-hiáu pûn kóo-tshue.。
+    中文：想不到你竟然會吹嗩吶。
+
+17. 演唱會
+    台語：逐个佇遐排列，是為著欲買演唱會的門票。
+    台羅：Ta̍k ê tī hia pâi-lia̍t, sī uī-tio̍h beh bé ián-tshiùnn-huē ê mn̂g-phiò.。
+    中文：每個人在那裡排隊，是為了要買演唱會的門票。
+    來源：排列
+
+18. 展覽
+    台語：看展覽的時，千萬莫手賤去摸展覽品。
+    台羅：Khuànn tián-lám ê sî, tshian-bān mài tshiú-tsiān khì bong tián-lám-phín.。
+    中文：看展覽時，千萬別手癢去摸展覽品。
+    來源：手賤
+
+19. 歌仔戲
+    台語：歌仔戲演員搬戲進前佮戲搬煞了後，攏愛用真濟時間畫妝佮落妝。
+    台羅：Kua-á-hì ián-uân puann-hì tsìn-tsîng kah hì puann-suah liáu-āu, lóng ài īng tsin tsē sî-kan uē-tsng kah lo̍h-tsng.。
+    中文：歌仔戲演員演戲前與下戲後，都要用很多時間化妝與卸妝。
+    來源：落妝
+
+20. 魔術
+    台語：昨暝佇夜市仔遐，我有看見人咧表演魔術。
+    台羅：Tsa-mê tī iā-tshī-á hia, guá ū khuànn-kìnn lâng teh piáu-ián môo-su̍t.。
+    中文：昨晚在夜市那，我看見有人在表演魔術。
+    來源：看見
+
+21. 聲音
+    台語：老師指導學生朗讀，要求聲音愛讀予清、讀予明。
+    台羅：Lāu-su tsí-tō ha̍k-sing lóng-tho̍k, iau-kiû siann-im ài tha̍k hōo tshing, tha̍k hōo bîng.。
+    中文：老師指導學生朗讀，要求聲音清晰、明朗。
+    來源：朗讀
+
+22. 演講
+    台語：你若欲去參加演講比賽，想欲講甲會平棒閣紲拍，著愛下工夫。
+    台羅：Lí nā beh khì tsham-ka ián-káng pí-sài, siūnn-beh kóng kah ē pênn-pāng koh suà-phah, tio̍h-ài hē kang-hu.。
+    中文：你若想去參加演講比賽，想要講得四平八穩又流利，必得下功夫。
+    來源：平棒
+
+23. 鋼琴
+    台語：音樂比賽彈鋼琴的時，阿美彈走精去，比賽比了伊是哭甲目屎四淋垂，老師緊共伊安慰講：「仙人拍鼓有時錯，跤步踏差啥人無？」
+    台羅：Im-ga̍k pí-sài tuânn kǹg-khîm ê sî, A-bí tuânn tsáu-tsing--khì, pí-sài pí-liáu i sī khàu kah ba̍k-sái sì-lâm-suî, lāu-su kín kā i an-uì kóng, “Sian-jîn phah kóo iú sî tshò, kha-pōo ta̍h-tsha siánn-lâng bô?”。人非聖賢，孰能無過？」
+    中文：音樂比賽彈鋼琴時，小美彈錯了，他賽後哭得唏哩嘩啦，老師趕緊安慰他說：「人有失足，馬有失蹄。人非聖賢，孰能無過？」
+    來源：仙人拍鼓有時錯，跤步踏差啥人無？
+
+24. 樂器
+    台語：伊雖然穿插若庄跤倯咧，毋過泅水、拍球、唱歌、演奏樂器逐項會，真正是「烏矸仔貯豆油」，予人看袂出。
+    台羅：I sui-jiân tshīng-tshah ná tsng-kha-sông--leh, m̄-koh siû-tsuí, phah-kiû, tshiùnn-kua, ián-tsàu ga̍k-khì ta̍k hāng ē, tsin-tsiànn sī “oo kan-á té tāu-iû”, hōo lâng khuànn bē tshut.。
+    中文：他雖然衣著打扮像鄉巴佬，不過游泳、打球、唱歌、演奏樂器樣樣會，真是「黑色罐子裝上醬油」，讓人看不出來。
+    來源：烏矸仔貯豆油。
+
+1. 山歌
+	•	台語：阿嬤細漢時誠愛唱山歌，阮逐擺聽攏感覺真親切。
+	•	台羅：A-mà sè-hàn sî tsiânn ài tshiùnn san-ko, guán ta̍k-pái thiann lóng kám-kak tsin tshin-tshiat.
+	•	中文：奶奶小時候很喜歡唱山歌，我們每次聽都覺得很親切。
+
+2. 舞蹈
+	•	台語：阮姊仔參加舞蹈比賽，表演現代舞，予評審誇獎。
+	•	台羅：Guán tsí-á tsham-ka bú-tō pí-sài, piáu-ián hiān-tāi bú, hōo phîng-sím khua-tsióng.
+	•	中文：我姐姐參加舞蹈比賽，表演現代舞，得到評審的稱讚。
+
+3. 樂團
+	•	台語：這个樂團的演奏真精彩，逐个人攏拍大聲鼓掌。
+	•	台羅：Tsit ê ga̍k-thuân ê ián-tsàu tsin tsing-tshái, ta̍k ê lâng lóng phah tuā-siann kòo-tshiáng.
+	•	中文：這個樂團的演奏很精彩，大家都熱烈鼓掌。
+
+4. 豫牌仔（紙牌）
+	•	台語：過年期間，逐家攏會聚咧桌頂拍豫牌仔。
+	•	台羅：Kuè-nî kî-kan, ta̍k-ke lóng ē tsū leh toh-tíng phah ī-pâi-á.
+	•	中文：過年的時候，大家會聚在桌上玩紙牌。
+
+5. 𥰔仔（笛子）
+	•	台語：小明誠愛吹𥰔仔，伊的吹奏聲輕柔動聽。
+	•	台羅：Sió-bîng tsiânn ài tshui phín-á, i ê tshui-tsàu-siann khin-jiû tōng-thiann.
+	•	中文：小明很喜歡吹笛子，他的演奏聲音輕柔動聽。
+
+
+6. 觱仔（哨子）
+	•	台語：教練用觱仔哨一下，逐家就攏停止運動。
+	•	台羅：Kàu-liān īng pi-á siàu tsi̍t-ē, ta̍k-ke tō lóng thíng-tsí ūn-tōng.
+	•	中文：教練吹了一聲哨子，大家就全部停止運動。
+
+7. 音樂會
+	•	台語：咱後禮拜欲去國家音樂廳聽音樂會。
+	•	台羅：Lán āu-lé-pài beh khì kok-ka im-ga̍k-thiann thiann im-ga̍k-huē.
+	•	中文：我們下禮拜要去國家音樂廳聽音樂會。
+
+8. 廣播
+	•	台語：阿公開收音機聽廣播新聞。
+	•	台羅：A-kong khai siu-im-ki thiann kóng-pòo sin-bûn.
+	•	中文：爺爺打開收音機聽廣播新聞。
+
+9. 戲劇
+	•	台語：阮學校上演一齣戲劇，邀請逐家來看。
+	•	台羅：Guán ha̍k-hāu siōng-iánn tsi̍t tshut hì-kio̍k, iau-tshíng ta̍k-ke lâi khuànn.
+	•	中文：我們學校上演了一齣戲劇，邀請大家來看。
+
+10. 農場
+	•	台語：這个農場有雞鴨牛羊，適合逐家閣囡仔做伙來參觀。
+	•	台羅：Tsit ê lông-tiûnn ū ke ah gû iûnn, sik-ha̍p ta̍k-ke koh gín-á tsò-hué lâi tsham-kuan.
+	•	中文：這個農場有雞鴨牛羊，適合大人小孩一起來參觀。
+
+11. 休閒
+	•	台語：逐工落班了後，看冊是阿仁上愛的休閒活動。
+	•	台羅：Ta̍k-kang lo̍h-pan liáu-āu, khuànn-tsheh sī A-jîn siōng ài ê hiu-hân ua̍k-tōng.
+	•	中文：每天下班後，看書是阿仁最喜歡的休閒活動。
+
+❌ 缺失單字報告:
+============================================================
+以下 21 個單字沒有找到可用的例句：
+
+📋 無用例 (21個):
+   休閒      音樂會     嗩吶      笛子      樂團      說書、說故事  舞蹈      下棋      哨子      𥰔仔      
+   爬山      演說、講演、演說會廣播      觱仔      戲劇      划拳、猜拳   豫牌仔     農場      玩牌      山歌      
+   演戲、表演   
+
+💡 建議：
+   1. 這些單字可能在教育部辭典中沒有用例
+   2. 可以嘗試其他台語辭典或資源
+   3. 或者手動查詢相關的同義詞

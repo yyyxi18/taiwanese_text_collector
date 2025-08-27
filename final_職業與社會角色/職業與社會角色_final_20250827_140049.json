@@ -1,0 +1,489 @@
+{
+  "metadata": {
+    "scraper_type": "最終版手動操作風格爬蟲",
+    "operation_flow": "輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理",
+    "source_url": "https://sutian.moe.edu.tw/zh-hant/tshiau/",
+    "extraction_date": "20250827_140049",
+    "statistics": {
+      "total_words": 65,
+      "successful_extractions": 28,
+      "missing_words": 37,
+      "success_rate": "43.1%",
+      "quality_stats": {
+        "完整": 28,
+        "良好": 0,
+        "基本": 0,
+        "不完整": 0
+      }
+    }
+  },
+  "successful_records": [
+    {
+      "word": "警察",
+      "taiwanese_sentence": "伊䀐著警察對巷仔頭行來，面隨慄色，即時就起跤走甲無看見影去。",
+      "tailo_pronunciation": "I siam-tio̍h kíng-tshat tuì hāng-á-thâu kiânn--lâi, bīn suî lik-sik, tsik-sî tō khí-kha tsáu kah bô khuànn-kìnn iánn--khì.。",
+      "chinese_translation": "他瞥見警察從巷子口走來，嚇得立刻臉色大變，馬上就拔腿跑得不見蹤影。",
+      "source_word": "起跤",
+      "extraction_time": "2025-08-27 13:57:53",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "總經理",
+      "taiwanese_sentence": "新的總經理真𠢕轉錢空，順利解決公司的財務危機。",
+      "tailo_pronunciation": "Sin ê tsóng-king-lí tsin gâu tńg-tsînn-khang, sūn-lī kái-kuat kong-si ê tsâi-bū guî-ki.。",
+      "chinese_translation": "新的總經理很會籌錢，順利解決公司的財務危機。",
+      "source_word": "轉錢空",
+      "extraction_time": "2025-08-27 13:57:58",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "評審",
+      "taiwanese_sentence": "評審嚴格，逐家就無話講。",
+      "tailo_pronunciation": "Phîng-sím giâm-keh, ta̍k-ke tō bô uē kóng.。",
+      "chinese_translation": "評審嚴格，大家就無話可說了。",
+      "source_word": "嚴格",
+      "extraction_time": "2025-08-27 13:58:01",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "司機",
+      "taiwanese_sentence": "塚仔埔欲開路，駛怪手的司機先攢牲醴拜好兄弟仔，紲落去那燒銀紙，喙閣那唸：「無禁無忌，食百二。」",
+      "tailo_pronunciation": "Thióng-á-poo beh khui-lōo, sái kuài-tshiú ê su-ki sing tshuân sing-lé pài hó-hiann-tī-á, suà--lo̍h-khì ná sio gîn-tsuá, tshuì koh ná liām, “Bô-kìm-bô-khī, tsia̍h pah-jī.”。」",
+      "chinese_translation": "墓地要開路，怪手司機先準備三牲祭拜好兄弟，接著一邊燒銀紙，嘴巴還一邊念著：「百無禁忌，活到一百二十歲。」",
+      "source_word": "無禁無忌，食百二。",
+      "extraction_time": "2025-08-27 13:58:04",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "作穡人",
+      "taiwanese_sentence": "種蒜頭的作穡人攏揀較媠的提去賣，留一寡脯去的家己食，莫怪人講：「燒瓷的食缺，織蓆的睏椅。」",
+      "tailo_pronunciation": "Tsìng suàn-thâu ê tsoh-sit-lâng lóng kíng khah suí--ê the̍h-khì bē, lâu tsi̍t-kuá póo--khì--ê ka-kī tsia̍h, bo̍k-kuài lâng kóng, “Sio-huî--ê tsia̍h khih, tsit-tshio̍h--ê khùn í.”。」",
+      "chinese_translation": "蒜農都挑比較漂亮的拿去賣，留一些乾癟的自己吃，難怪人家說「燒瓷的自己用有缺口的碗，織草蓆的在椅子上睡覺。」",
+      "source_word": "燒瓷的食缺，織蓆的睏椅。",
+      "extraction_time": "2025-08-27 13:58:10",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "董事長",
+      "taiwanese_sentence": "會開到中站的時，董事長宣佈明年薪水加五pha，逐家聽了攏誠歡喜。",
+      "tailo_pronunciation": "Huē khui kàu tiong-tsām ê sî, táng-sū-tiúnn suan-pòo mê-nî sin-suí ke gōo pha, ta̍k-ke thiann-liáu lóng tsiânn huann-hí.。",
+      "chinese_translation": "會議開到中途時，董事長宣佈明年加薪百分之五，大家聽了都非常開心。",
+      "source_word": "中站",
+      "extraction_time": "2025-08-27 13:58:13",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "觀眾",
+      "taiwanese_sentence": "看著電影的主角予人苦毒，觀眾綴咧流目屎。",
+      "tailo_pronunciation": "Khuànn-tio̍h tiān-iánn ê tsú-kak hōo lâng khóo-to̍k, kuan-tsiòng tuè leh lâu ba̍k-sái.。",
+      "chinese_translation": "看到電影主角被虐待，觀眾跟著流眼淚。",
+      "source_word": "苦毒",
+      "extraction_time": "2025-08-27 13:58:21",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "賣食的",
+      "taiwanese_sentence": "先賣食的暫度。",
+      "tailo_pronunciation": "Sing bē tsia̍h--ê tsiām-tōo.。",
+      "chinese_translation": "先賣吃的維持生計。",
+      "source_word": "暫度",
+      "extraction_time": "2025-08-27 13:58:24",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "員工",
+      "taiwanese_sentence": "頭家共公司的錢提去炒股票，將錢輸了了，煞著喝倒店，下跤的員工攏失業，「喙食，予尻川坐數」，按呢敢有公道？",
+      "tailo_pronunciation": "Thâu-ke kā kong-si ê tsînn the̍h-khì tshá-kóo-phiò, tsiong tsînn su-liáu-liáu, suah tio̍h huah tó-tiàm, ē-kha ê uân-kang lóng sit-gia̍p, “tshuì tsia̍h, hōo kha-tshng tshē-siàu”, án-ne kám ū kong-tō?。",
+      "chinese_translation": "老闆把公司的錢拿去炒股票，將錢輸光光，竟然不得不宣告倒閉，底下的員工都失業，「一人做錯，卻由其他人受責」，這樣公道嗎？",
+      "source_word": "喙食，予尻川坐數。",
+      "extraction_time": "2025-08-27 13:58:27",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "生理人",
+      "taiwanese_sentence": "彼个生理人足厚譴損，不時走去彼間廟求看生理有通較順序咧無，煞毋知「尪姨順話尾，假童害眾人」，內底專是假包的童乩，予𪜶諞真濟錢去。",
+      "tailo_pronunciation": "Hit ê sing-lí-lâng tsiok kāu-khiàn-sńg, put-sî tsáu-khì hit king biō kiû khuànn sing-lí ū thang khah sūn-sī--leh--bô, suah m̄ tsai “ang-î sūn uē-bué, ké tâng hāi tsìng-lâng”, lāi-té tsuan sī ké-pâu ê tâng-ki, hōo in pián tsin tsē tsînn--khì.。",
+      "chinese_translation": "那位生意人很迷信，常常跑去那間廟宇祈求生意能不能順遂一些，卻不曉得「靈媒會順著對方的心意說話，假冒之乩童故意裝神弄鬼來欺騙人」，裡面全是假的乩童，被他們騙走很多錢。",
+      "source_word": "尪姨順話尾，假童害眾人。",
+      "extraction_time": "2025-08-27 13:58:29",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "護士",
+      "taiwanese_sentence": "伊足驚注射，便若看著護士共射筒攑出來，就會驚甲咇咇掣。",
+      "tailo_pronunciation": "I tsiok kiann tsù-siā, piān-nā khuànn-tio̍h hōo-sū kā siā-tâng gia̍h--tshut-lâi, tō ē kiann kah phi̍h-phi̍h-tshuah.。",
+      "chinese_translation": "他很怕打針，只要看到護士拿出針筒，就會嚇得直發抖。",
+      "source_word": "射筒",
+      "extraction_time": "2025-08-27 13:58:41",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "菜鳥",
+      "taiwanese_sentence": "伊拄入來公司，看著都古意古意，啥人知久來變老鳥煞「龜跤趖出來」，見若有菜鳥入來就欲共人創治。",
+      "tailo_pronunciation": "I tú ji̍p-lâi kong-si, khuànn tio̍h to kóo-ì-kóo-ì, siánn-lâng tsai kú--lâi piàn lāu-tsiáu suah “ku-kha sô--tshut-lâi”, kiàn-nā ū tshài-tsiáu ji̍p--lâi tō beh kā lâng tshòng-tī.。",
+      "chinese_translation": "他剛進來公司，看起來忠厚老實，誰知道時間一久變資深員工卻「露出馬腳」，只要有新進員工進來就想捉弄人家。",
+      "source_word": "龜跤趖出來。",
+      "extraction_time": "2025-08-27 13:58:44",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "廚子",
+      "taiwanese_sentence": "𪜶阿三仔是咧做廚子的。",
+      "tailo_pronunciation": "In A-sam--á sī teh tsò tôo-tsí--ê.。",
+      "chinese_translation": "他們阿三是廚師。",
+      "source_word": "廚子",
+      "extraction_time": "2025-08-27 13:58:47",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "老師",
+      "taiwanese_sentence": "阿義仔歌聲真好，老師鼓勵伊去參加歌唱比賽，伊攏講伊足驚上台唱歌。老師講：「『驚驚袂著等。』你愛勇敢徛起去舞台，才會當予人知影你的歌聲有偌好。」",
+      "tailo_pronunciation": "A-gī--á kua-siann tsin hó, lāu-su kóo-lē i khì tsham-ka kua-tshiùnn pí-sài, i lóng kóng i tsiok kiann tsiūnn-tâi tshiùnn-kua. Lāu-su kóng, “ ‘Kiann-kiann bē tio̍h-tíng.’ Lí ài ióng-kám khiā khí-khì bú-tâi, tsiah ē-tàng hōo lâng tsai-iánn lí ê kua-siann ū guā hó.”。老師說 ：「『光是恐懼擔憂不會獲得優勝。』你要勇敢站上舞台，才能讓人知道你的歌聲有多好。」",
+      "chinese_translation": "小義歌聲很好，老師鼓勵他去參加歌唱比賽，他都說他很怕上台唱歌。老師說 ：「『光是恐懼擔憂不會獲得優勝。』你要勇敢站上舞台，才能讓人知道你的歌聲有多好。」",
+      "source_word": "驚驚袂著等。",
+      "extraction_time": "2025-08-27 13:58:58",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "阿兵哥",
+      "taiwanese_sentence": "軍中的班長號令落去，所有的阿兵哥攏徛騰騰。",
+      "tailo_pronunciation": "Kun-tiong ê pan-tiúnn hō-līng--lo̍h-khì, sóo-ū ê a-ping-ko lóng khiā-thîng-thîng.。",
+      "chinese_translation": "軍中班長下號令，所有阿兵哥都站得直挺挺。",
+      "source_word": "號令",
+      "extraction_time": "2025-08-27 13:59:04",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "教練",
+      "taiwanese_sentence": "這改比賽去予對方修理甲塗塗塗，佇檢討會裡，教練予人檢討半點鐘，會使講是「滿面專豆花」。",
+      "tailo_pronunciation": "Tsit kái pí-sài khì hōo tuì-hong siu-lí kah thôo-thôo-thôo, tī kiám-thó-huē--lí, kàu-liān hōo lâng kiám-thó puànn tiám-tsing, ē-sái kóng sī “muá-bīn tsuan tāu-hue”.。",
+      "chinese_translation": "這次比賽被對方修理得慘兮兮，在檢討會中，教練被人檢討了半個小時，可以說是「狼狽不堪」。",
+      "source_word": "滿面專豆花。",
+      "extraction_time": "2025-08-27 13:59:20",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "職業",
+      "taiwanese_sentence": "鱸鰻萬仔早起去予職業殺手結果擲捒矣。",
+      "tailo_pronunciation": "Lôo-muâ Bān--á tsá-khí khì hōo tsit-gia̍p sat-tshiú kiat-kó-tàn-sak--ah.。",
+      "chinese_translation": "流氓阿萬早上被職業殺手給解決掉了。",
+      "source_word": "結果擲捒",
+      "extraction_time": "2025-08-27 13:59:23",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "塗水師",
+      "taiwanese_sentence": "塗水師無下心神咧捽繩，較加壁堵嘛疊甲走斜去。",
+      "tailo_pronunciation": "Thôo-tsuí-sai bô hē sim-sîn teh sut-tsîn, khah-ke piah-tóo mā thia̍p kah tsáu-tshua̍h--khì.。",
+      "chinese_translation": "泥水匠拉墨繩取直線沒有用心，這也難怪磚牆砌得歪斜不正。",
+      "source_word": "走斜",
+      "extraction_time": "2025-08-27 13:59:34",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "討海人",
+      "taiwanese_sentence": "討海人攏佇十二月到二月上烏寒的時陣去海墘撈鰻仔栽。",
+      "tailo_pronunciation": "Thó-hái-lâng lóng tī tsa̍p-jī--gue̍h kàu jī--gue̍h siōng oo-kuânn ê sî-tsūn khì hái-kînn hôo muâ-á-tsai.。",
+      "chinese_translation": "漁民都在十二月到二月最寒冷的時候去海濱撈捕鰻魚苗。",
+      "source_word": "鰻仔栽",
+      "extraction_time": "2025-08-27 13:59:37",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "木匠",
+      "taiwanese_sentence": "若欲共窗仔子刻甲有花有草，著愛倩會曉幼工的木匠來創才會媠。",
+      "tailo_pronunciation": "Nā beh kā thang-á-tsí khik kah ū hue ū tsháu, tio̍h-ài tshiànn ē-hiáu iù-kang ê ba̍k-tshiūnn lâi tshòng tsiah ē suí.。",
+      "chinese_translation": "想把窗櫺雕成有花有草的圖案，必須聘請會細工的木匠來做才會漂亮。",
+      "source_word": "幼工",
+      "extraction_time": "2025-08-27 13:59:47",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "媒體",
+      "taiwanese_sentence": "判斷媒體消息的正確度真誠重要，社會定定有人放一个風聲，隨就有人「講一个影，生一个囝」，綴咧烏白傳消息。",
+      "tailo_pronunciation": "Phuànn-tuàn muî-thé siau-sit ê tsìng-khak-tōo tsin-tsiânn tiōng-iàu, siā-huē tiānn-tiānn ū lâng pàng tsi̍t ê hong-siann, suî tō ū lâng “kóng tsi̍t ê iánn, senn tsi̍t ê kiánn”, tuè leh oo-pe̍h thuân siau-sit.。",
+      "chinese_translation": "判斷媒體消息的正確度十分重要，社會上常常有人放個風聲，馬上就有人「捕風捉影」，亂傳消息。",
+      "source_word": "講一个影，生一个囝。",
+      "extraction_time": "2025-08-27 14:00:09",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "賊仔",
+      "taiwanese_sentence": "彼个賊仔入去人兜想欲共人偷提錢，對千主人轉來予人㨑著。",
+      "tailo_pronunciation": "Hit ê tsha̍t-á ji̍p-khì lâng tau siūnn-beh kā lâng thau-the̍h tsînn, tuì-tshian tsú-lâng tńg--lâi hōo lâng tsang--tio̍h.。",
+      "chinese_translation": "那個小偷進去別人家想偷拿錢，剛好主人回來被逮到。",
+      "source_word": "對千",
+      "extraction_time": "2025-08-27 14:00:21",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "醫生",
+      "taiwanese_sentence": "伊彼工騎鐵馬去挵著電火柱，醫生仙救都救袂轉來，實在有夠脆命。",
+      "tailo_pronunciation": "I hit kang khiâ thih-bé khì lòng-tio̍h tiān-hué-thiāu, i-sing sian kiù to kiù bē tńg--lâi, si̍t-tsāi ū-kàu tshè-miā.。",
+      "chinese_translation": "他那天騎腳踏車撞到電線桿，醫生怎麼救都救不回來，生命實在很脆弱。",
+      "source_word": "脆命",
+      "extraction_time": "2025-08-27 14:00:24",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "歌星",
+      "taiwanese_sentence": "尾牙有的公司辦桌請員工，攏愛倩𠢕詼諧的歌星來鬥鬧熱。",
+      "tailo_pronunciation": "Bué-gê ū ê kong-si pān-toh tshiánn uân-kang, lóng ài tshiànn gâu khue-hâi ê kua-tshenn lâi tàu-lāu-jia̍t.。",
+      "chinese_translation": "尾牙有的公司設宴招待員工，都喜歡聘請擅長滑稽的歌星來湊鬧熱。",
+      "source_word": "詼諧",
+      "extraction_time": "2025-08-27 14:00:26",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "律師",
+      "taiwanese_sentence": "伊真有才調，律師牌一擺就考過！",
+      "tailo_pronunciation": "I tsin ū tsâi-tiāu, lu̍t-su-pâi tsi̍t pái tō khó--kuè",
+      "chinese_translation": "他很有本事，律師牌照一次就考到了！",
+      "source_word": "才調",
+      "extraction_time": "2025-08-27 14:00:29",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "志工",
+      "taiwanese_sentence": "李的足好心閣足客氣，講伊做志工干焦是咧「食飽換枵」爾爾。",
+      "tailo_pronunciation": "Lí--ê tsiok hó-sim koh tsiok kheh-khì, kóng i tsò tsì-kang kan-na sī teh “tsia̍h-pá uānn iau” niā-niā.。",
+      "chinese_translation": "老李很善良又很客氣，說他做志工只是在「消耗熱量」而已。",
+      "source_word": "食飽換枵。",
+      "extraction_time": "2025-08-27 14:00:40",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "義工",
+      "taiwanese_sentence": "伊出身孤兒院，佳哉有一寡善心人士共伊照顧，大漢了後嘛知通「食果子拜樹頭；食米飯拜田頭」，定定轉去做義工。",
+      "tailo_pronunciation": "I tshut-sin koo-jî-īnn, ka-tsài ū tsi̍t-kuá siān-sim jîn-sū kā i tsiàu-kòo, tuā-hàn liáu-āu mā tsai thang “tsia̍h kué-tsí pài tshiū-thâu; tsia̍h bí-pn̄g pài tshân-thâu”, tiānn-tiānn tńg-khì tsò gī-kang.。",
+      "chinese_translation": "他出身孤兒院，還好有一些善心人士照顧他，長大以後他也懂得要「飲水思源」，常常回去當義工。",
+      "source_word": "食果子拜樹頭；食米飯拜田頭。",
+      "extraction_time": "2025-08-27 14:00:46",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "導演",
+      "taiwanese_sentence": "這个贊助廠商有私心，共導演縛跤縛手，害伊袂當照理想去拍片。",
+      "tailo_pronunciation": "Tsit ê tsàn-tsōo tshiúnn-siong ū su-sim, kā tō-ián pa̍k-kha-pa̍k-tshiú, hāi i bē-tàng tsiàu lí-sióng khì phah-phìnn.。",
+      "chinese_translation": "這家贊助廠商有私心，處處限制導演，害他無法按照理想去拍片。",
+      "source_word": "縛跤縛手",
+      "extraction_time": "2025-08-27 14:00:49",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    }
+  ],
+  "missing_words": [
+    {
+      "word": "記者",
+      "reason": "無用例",
+      "index": 1
+    },
+    {
+      "word": "建築師",
+      "reason": "無用例",
+      "index": 3
+    },
+    {
+      "word": "總舖師",
+      "reason": "無用例",
+      "index": 7
+    },
+    {
+      "word": "教師",
+      "reason": "無用例",
+      "index": 10
+    },
+    {
+      "word": "抾字紙",
+      "reason": "無用例",
+      "index": 11
+    },
+    {
+      "word": "賣衫的",
+      "reason": "無用例",
+      "index": 16
+    },
+    {
+      "word": "消防隊",
+      "reason": "無用例",
+      "index": 17
+    },
+    {
+      "word": "各行各業",
+      "reason": "無用例",
+      "index": 18
+    },
+    {
+      "word": "清潔隊",
+      "reason": "無用例",
+      "index": 22
+    },
+    {
+      "word": "漁夫、漁民",
+      "reason": "無用例",
+      "index": 23
+    },
+    {
+      "word": "藝術家",
+      "reason": "無用例",
+      "index": 24
+    },
+    {
+      "word": "守衛",
+      "reason": "無用例",
+      "index": 26
+    },
+    {
+      "word": "工友",
+      "reason": "無用例",
+      "index": 28
+    },
+    {
+      "word": "大廚師",
+      "reason": "無用例",
+      "index": 29
+    },
+    {
+      "word": "生意人、商人",
+      "reason": "無用例",
+      "index": 30
+    },
+    {
+      "word": "護理師",
+      "reason": "無用例",
+      "index": 31
+    },
+    {
+      "word": "菜鳥、新人",
+      "reason": "無用例",
+      "index": 32
+    },
+    {
+      "word": "外籍勞工",
+      "reason": "無用例",
+      "index": 35
+    },
+    {
+      "word": "聽眾",
+      "reason": "無用例",
+      "index": 36
+    },
+    {
+      "word": "戶政",
+      "reason": "無用例",
+      "index": 37
+    },
+    {
+      "word": "保全",
+      "reason": "無用例",
+      "index": 40
+    },
+    {
+      "word": "秘書",
+      "reason": "無用例",
+      "index": 41
+    },
+    {
+      "word": "泥水匠、泥水工",
+      "reason": "無用例",
+      "index": 42
+    },
+    {
+      "word": "小偷",
+      "reason": "無用例",
+      "index": 44
+    },
+    {
+      "word": "拾荒的人",
+      "reason": "無用例",
+      "index": 45
+    },
+    {
+      "word": "祕書",
+      "reason": "無用例",
+      "index": 46
+    },
+    {
+      "word": "賣衣服的",
+      "reason": "無用例",
+      "index": 47
+    },
+    {
+      "word": "藥劑師",
+      "reason": "無用例",
+      "index": 48
+    },
+    {
+      "word": "工程師",
+      "reason": "無用例",
+      "index": 49
+    },
+    {
+      "word": "外勞",
+      "reason": "無用例",
+      "index": 50
+    },
+    {
+      "word": "廚師",
+      "reason": "無用例",
+      "index": 52
+    },
+    {
+      "word": "農人、農夫、泛指一般勞動者",
+      "reason": "無用例",
+      "index": 53
+    },
+    {
+      "word": "裁判",
+      "reason": "無用例",
+      "index": 54
+    },
+    {
+      "word": "士兵、軍人",
+      "reason": "無用例",
+      "index": 59
+    },
+    {
+      "word": "木工師父",
+      "reason": "無用例",
+      "index": 60
+    },
+    {
+      "word": "導遊",
+      "reason": "無用例",
+      "index": 61
+    },
+    {
+      "word": "賣吃的",
+      "reason": "無用例",
+      "index": 63
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+最終版台語辭典擷取完整報告 - 動作與活動
+================================================================================
+🎯 操作流程：輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理
+📊 完整統計：
+   - 總計單字：41 個
+   - 成功擷取：23 個
+   - 缺失單字：18 個
+   - 成功率：56.1%
+⏰ 擷取時間：20250827_163104
+
+🌟 完整擷取（台語+台羅+中文）:
+------------------------------------------------------------
+ 1. 保持
+    台語：咱厝內逐工攏著摒盪保持衛生。
+    台羅：Lán tshù-lāi ta̍k-kang lóng tio̍h piànn-tn̄g pó-tshî uē-sing.。
+    中文：家裡每天都得打掃保持衛生。
+    來源：摒盪
+
+ 2. 嫁娶
+    台語：古早嫁娶的風俗誠心適，新娘暗頓愛佇房間內底食，好命婆捀幾項仔飯菜入來，有雞肉、鰇魚，閣會講好話：「食雞，會起家；食鰇魚，生囡仔好育飼。」予新娘止飢兼祝賀。
+    台羅：Kóo-tsá kè-tshuā ê hong-sio̍k tsiânn sim-sik, sin-niû àm-tǹg ài tī pâng-king lāi-té tsia̍h, hó-miā-pô phâng kuí-hāng-á pn̄g-tshài ji̍p--lâi, ū ke-bah, jiû-hî, koh ē kóng hó-uē, “Tsia̍h ke, ē khí-ke; tsia̍h jiû-hî, senn gín-á hó io-tshī.” Hōo sin-niû tsí-ki kiam tsiok-hō.。」給新娘墊墊肚子兼祝福。
+    中文：舊時結婚的風俗很有趣，新娘的晚餐要在臥室裡吃，喜娘會端幾樣飯菜進來，有雞肉、魷魚，還會說吉祥話：「吃雞，會建立家庭；吃魷魚，生出來的孩子會很好養育。」給新娘墊墊肚子兼祝福。
+    來源：食雞，會起家；食鰇魚，生囡仔好育飼。
+
+ 3. 比賽
+    台語：阿義仔歌聲真好，老師鼓勵伊去參加歌唱比賽，伊攏講伊足驚上台唱歌。老師講：「『驚驚袂著等。』你愛勇敢徛起去舞台，才會當予人知影你的歌聲有偌好。」
+    台羅：A-gī--á kua-siann tsin hó, lāu-su kóo-lē i khì tsham-ka kua-tshiùnn pí-sài, i lóng kóng i tsiok kiann tsiūnn-tâi tshiùnn-kua. Lāu-su kóng, “ ‘Kiann-kiann bē tio̍h-tíng.’ Lí ài ióng-kám khiā khí-khì bú-tâi, tsiah ē-tàng hōo lâng tsai-iánn lí ê kua-siann ū guā hó.”。老師說 ：「『光是恐懼擔憂不會獲得優勝。』你要勇敢站上舞台，才能讓人知道你的歌聲有多好。」
+    中文：小義歌聲很好，老師鼓勵他去參加歌唱比賽，他都說他很怕上台唱歌。老師說 ：「『光是恐懼擔憂不會獲得優勝。』你要勇敢站上舞台，才能讓人知道你的歌聲有多好。」
+    來源：驚驚袂著等。
+
+ 4. 結婚
+    台語：𪜶結婚十外冬矣，攏無生甲半个，人講：「有囝有囝命，無囝天註定。」有囝無囝毋是人會當決定的。
+    台羅：In kiat-hun tsa̍p-guā tang--ah, lóng bô senn kah puànn ê, lâng kóng, “Ū kiánn ū kiánn miā, bô kiánn thinn tsù-tiānn.” Ū kiánn bô kiánn m̄ sī lâng ē-tàng kuat-tīng--ê.。」有沒有孩子不是人能決定的。
+    中文：他們結婚十幾年了，都沒有生半個子女，人家說：「有孩子是命運的安排，沒孩子是天註定的。」有沒有孩子不是人能決定的。
+    來源：有囝有囝命，無囝天註定。
+
+ 5. 籃球
+    台語：伊對籃球運動真有興趣。
+    台羅：I tuì nâ-kiû ūn-tōng tsin ū hìng-tshù.。
+    中文：他對籃球運動很有興趣。
+
+ 6. 辦桌
+    台語：阮三叔公誠有親，定定辦桌請阮，予阮遮的序細仔足感心的。
+    台羅：Guán sann-tsik-kong tsiânn ū-tshin, tiānn-tiānn pān-toh tshiánn--guán, hōo guán tsia-ê sī-sè-á tsiok kám-sim--ê.。
+    中文：我三叔公很看重親屬情誼，常常設宴請我們，讓我們這些晚輩非常感恩。
+    來源：有親
+
+ 7. 拍球
+    台語：伊雖然穿插若庄跤倯咧，毋過泅水、拍球、唱歌、演奏樂器逐項會，真正是「烏矸仔貯豆油」，予人看袂出。
+    台羅：I sui-jiân tshīng-tshah ná tsng-kha-sông--leh, m̄-koh siû-tsuí, phah-kiû, tshiùnn-kua, ián-tsàu ga̍k-khì ta̍k hāng ē, tsin-tsiànn sī “oo kan-á té tāu-iû”, hōo lâng khuànn bē tshut.。
+    中文：他雖然衣著打扮像鄉巴佬，不過游泳、打球、唱歌、演奏樂器樣樣會，真是「黑色罐子裝上醬油」，讓人看不出來。
+    來源：烏矸仔貯豆油。
+
+ 8. 旅遊
+    台語：𪜶這遍的旅遊，費用攏由公司負擔。
+    台羅：In tsit piàn ê lí-iû, huì-iōng lóng iû kong-si hū-tam.。
+    中文：他們這次的旅遊，費用都由公司負擔。
+    來源：負擔
+
+ 9. 撞球
+    台語：我叫阮囝共我鬥顧擔，伊煞閬港去佮人撞球。
+    台羅：Guá kiò guán kiánn kā guá tàu kòo-tànn, i suah làng-káng khì kah lâng tōng-kiû.。
+    中文：我叫我兒子幫我顧攤子，他竟開溜去跟人家打撞球。
+    來源：閬港
+
+10. 化妝
+    台語：伊出門的時若有化妝，轉到厝就會隨落妝。
+    台羅：I tshut-mn̂g ê sî nā ū huà-tsong, tńg kàu tshù tō ē suî lo̍h-tsng.。
+    中文：他出門的時候要是化了妝，回到家就會隨即卸妝。
+    來源：落妝
+
+11. 訓練
+    台語：俗語講：「少年袂曉想，食老毋成樣。」這馬無工夫嘛免煩惱，若肯食苦，去職業訓練班受訓學技術，就免驚見食老歹過日。
+    台羅：Siàu-liân bē-hiáu siūnn, tsia̍h-lāu m̄-tsiânn-iūnn
+    中文：俗語說：「年輕時思慮不周，等到老了生活堪憂。」現在沒專長也不用煩惱，只要肯吃苦，去職業訓練班受訓學技術，就不怕老來日子不好過。
+    來源：少年袂曉想，食老毋成樣。
+
+12. 表達
+    台語：古早人驚見囡仔講毋著話會顧人怨，才會講「囡仔人有耳無喙」，這馬的人顛倒會鼓勵囡仔愛勇敢表達家己的想法。
+    台羅：Kóo-tsá-lâng kiann-kìnn gín-á kóng m̄-tio̍h uē ē kòo-lâng-uàn, tsiah ē kóng “gín-á-lâng ū-hīnn-bô-tshuì”, tsit-má ê lâng tian-tò ē kóo-lē gín-á ài ióng-kám piáu-ta̍t ka-kī ê siūnn-huat.。
+    中文：以前的人擔心小孩說錯話會惹人厭，才會說「小孩子有耳朵沒嘴巴」，現代人反而鼓勵小孩要勇於表達自己的想法。
+    來源：囡仔人有耳無喙。
+
+13. 食薰
+    台語：恁囝偷食薰，確實應該愛罵愛教，是講「大狗盤牆，細狗看樣」，你家己規日薰食牢牢，是欲按怎教囝？
+    台羅：Lín kiánn thau tsia̍h-hun, khak-si̍t ing-kai ài mē ài kà, sī-kóng “tuā káu puânn tshiûnn, sè káu khuànn-iūnn”, lí ka-kī kui-ji̍t hun tsia̍h-tiâu-tiâu, sī beh án-tsuánn kà kiánn?。
+    中文：你兒子偷抽煙，確實該罵該教，不過「大狗翻牆，小狗學樣」，你自己整天煙不離口，要怎麼教小孩？
+    來源：大狗盤牆，細狗看樣。
+
+14. 看覓
+    台語：明其知伊這个人是無半撇，猶是交代一寡簡單的穡頭予伊試看覓咧，結局照常做甲離離落落，有影是「爛塗袂糊得壁」。
+    台羅：Bîng-ki-tsai i tsit ê lâng sī bô-puànn-phiat, iáu-sī kau-tài tsi̍t-kuá kán-tan ê sit-thâu hōo i tshì khuànn-māi--leh, kiat-kio̍k tsiàu-siông tsò kah li-li-lak-lak, ū-iánn sī “nuā-thôo bē-kôo-tit piah”.。
+    中文：明知他這個人一點本事也沒有，仍舊把一些簡單的工作交付他試試看，結果照樣做得亂七八糟，果然「爛泥扶不上牆」。
+    來源：爛塗袂糊得壁。
+
+15. 寫字
+    台語：伊寫字、食飯攏用倒手。
+    台羅：I siá-jī, tsia̍h-pn̄g lóng īng tò-tshiú.。
+    中文：他寫字、吃飯都用左手。
+    來源：倒手
+
+16. 錄影
+    台語：我提一千箍去𥴊仔店買五十箍的物件，頭家娘找我四百五。我講伊找毋著，伊一直諍講我予伊五百箍。等錄影看了，伊隨雞喙變鴨喙。
+    台羅：Guá the̍h tsi̍t-tshing khoo khì kám-á-tiàm bé gōo-tsa̍p khoo ê mi̍h-kiānn, thâu-ke-niû tsāu guá sì-pah-gōo. Guá kóng i tsāu m̄-tio̍h, i it-ti̍t tsènn kóng guá hōo i gōo-pah khoo. Tán lo̍k-iánn khuànn-liáu, i suî ke-tshuì piàn ah-tshuì.。我說他找錯了，她一直爭辯說我給她五百塊。等看過錄影，她立刻啞口無言。
+    中文：我拿一千塊到雜貨店買五十塊的東西，老闆娘找我四百五。我說他找錯了，她一直爭辯說我給她五百塊。等看過錄影，她立刻啞口無言。
+    來源：雞喙變鴨喙
+
+17. 野球
+    台語：這馬的野球攏真注重戰術。
+    台羅：Tsit-má ê iá-kiû lóng tsin tsù-tiōng tsiàn-su̍t.。
+    中文：現在的棒球比賽都很注重戰術。
+    來源：戰術
+
+18. 跤球
+    台語：世界杯跤球比賽，戰況變化真大，著愛到尾才知輸贏。
+    台羅：Sè-kài-pue kha-kiû pí-sài, tsiàn-hóng piàn-huà tsin tuā, tio̍h-ài kàu-bué tsiah tsai su-iânn.。
+    中文：世界盃足球比賽，戰況變化很大，得要到最後才知道輸贏。
+    來源：到尾
+
+19. 畫圖
+    台語：雖罔表兄功課無甲偌好，毋過「荏荏馬也有一步踢」，伊參加全國畫圖比賽定定攏會著等。
+    台羅：Sui-bóng piáu-hiann kong-khò bô kah guā hó, m̄-koh “lám-lám bé iā ū tsi̍t pōo that”, i tsham-ka tsuân-kok uē-tôo pí-sài tiānn-tiānn lóng ē tio̍h-tíng.。
+    中文：雖然表哥功課不怎麼好，不過「天生我材必有用」，他參加全國繪畫比賽常常會得名。
+    來源：荏荏馬也有一步踢。
+
+20. 控制
+    台語：你的血壓傷懸，愛控制一下。
+    台羅：Lí ê hueh-ap siunn kuân, ài khòng-tsè--tsi̍t-ē.。
+    中文：你的血壓太高，要控制一下。
+    來源：血壓
+
+21. 棒球
+    台語：棒球場下昏暗的電火點甲光映映，檢采閣有精彩的比賽通好看矣。
+    台羅：Pāng-kiû-tiûnn ē-hng-àm ê tiān-hué tiám kah kng-iànn-iànn, kiám-tshái koh ū tsing-tshái ê pí-sài thang-hó khuànn--ah.。
+    中文：棒球場今晚燈火通明，也許又有精彩的賽事可以觀賞了。
+    來源：光映映
+
+22. 上車
+    台語：上車進前半點鐘上好先食一粒眩車丹就較袂眩車。
+    台羅：Tsiūnn-tshia tsìn-tsîng puànn tiám-tsing siōng-hó sing tsia̍h tsi̍t lia̍p hîn-tshia-tan tō khah bē hîn-tshia.。
+    中文：上車前半個小時最好先服用一顆暈車藥就比較不會暈車了。
+    來源：眩車丹
+
+23. 相拍
+    台語：少年人衝碰閣好強，冤家相拍閣較車，莫怪人講：「少年若無一擺戇，路邊哪有有應公。」家己無惜性命，嘛愛替爸母小想咧。
+    台羅：Siàu-liân-lâng tshóng-pōng koh hònn-kiông, uan-ke sio-phah koh kà-tshia, bo̍k-kuài lâng kóng, “Siàu-liân nā bô tsi̍t pái gōng, lōo-pinn ná ū Iú-ìng-kong.” Ka-kī bô sioh sènn-miā, mā ài thè pē-bú sió siūnn--leh.。」自己不愛惜生命，也要替父母想一下。
+    中文：年輕人衝動又好強，吵架打架又飆車，難怪有人說：「若非年少時傻過一次，路邊哪來的有應公廟。」自己不愛惜生命，也要替父母想一下。
+    來源：少年若無一擺戇，路邊哪有有應公。
+
+1.	排球
+台語：學校每禮拜五攏安排排球比賽，學生攏足期待。
+台羅：Ha̍k-hāu múi lé-pài gōo lóng an-pâi pâi-kiû pí-sài, ha̍k-seng lóng tsiok kî-thāi.。
+中文：學校每週五都安排排球比賽，學生都很期待。
+	2.	網球
+台語：阿春逐禮拜閣去球場練網球。
+台羅：A-tshun ta̍k lé-pài koh khì kiû-tiûnn liān bāng-kiû.。
+中文：阿春每週還會去球場練網球。
+	3.	羽毛球
+台語：羽毛球雖罔輕，毋過欲拍甲好，嘛需要真濟技巧。
+台羅：Ú-môo-kiû sui-bóng khin, m̄-koh beh phah kah hó, mā su-iàu tsin tsē ki-khàu.。
+中文：羽毛球雖然很輕，但要打得好也需要很多技巧。
+	4.	桌球
+台語：伊的桌球真厲害，參加比賽閣得冠軍。
+台羅：I ê toh-kiû tsin lī-hāi, tsham-ka pí-sài koh tit kuan-ku̍n.。
+中文：他的桌球很厲害，參加比賽還得了冠軍。
+	5.	遊行
+台語：勞工節的時陣，逐工會出來遊行爭權益。
+台羅：Lô-kang-tsat ê sî-tsūn, ta̍k kang ē tshut-lâi iû-hîng tsing khuân-ik.。
+中文：勞工節時，大家會出來遊行爭取權益。
+	6.	採訪
+台語：電視台的記者來採訪咱學校的活動。
+台羅：Tiān-sī-tâi ê kì-tsiá lâi tshái-hóng lán ha̍k-hāu ê ua̍t-tāng.。
+中文：電視台的記者來採訪我們學校的活動。
+	7.	種田
+台語：阮阿公一世人攏咧種田，真勤勞。
+台羅：Guán a-kong tsi̍t-sè-lâng lóng teh tsìng-tshân, tsin khîn-lô.。
+中文：我阿公一輩子都在種田，很勤勞。
+	8.	巡邏
+台語：暗時有警察佇巷仔口巡邏。
+台羅：Àm-sî ū kíng-tshat tī hāng-á-kháu sûn-lô.。
+中文：晚上有警察在巷口巡邏。
+	9.	焢窯
+台語：阮學校舉辦郊遊活動，大家做伙去焢窯。
+台羅：Guán ha̍k-hāu kí-pan kau-iû ua̍t-tāng, ta̍k-ke tsò-hué khì khòng-iô.。
+中文：我們學校舉辦郊遊活動，大家一起去烤地瓜。
+	10.	撆褲跤
+台語：欲過溪水的時，著先撆褲跤較方便。
+台羅：Beh kuè khe-tsuí ê sî, tio̍h sing pih-khòo-kha khah hong-piān.。
+中文：要過溪水時，得先把褲管折起來比較方便。
+	11.	縖褲帶
+台語：伊行路行甲縖褲帶鬆開去。
+台羅：I kiânn-lōo kiânn kah hâ-khòo-tuà sang-khui–khì.。
+中文：他走路走到皮帶鬆開了。
+
+❌ 缺失單字報告:
+============================================================
+以下 18 個單字沒有找到可用的例句：
+
+📋 無用例 (18個):
+   註釋：     把褲管折起來  打球      足球      遊行      炕窯      功夫、工夫   種田      縖褲帶     桌球      
+   巡邏      採訪      排球      焢窯      羽毛球     繫褲腰帶    撆褲跤     網球      
+
+💡 建議：
+   1. 這些單字可能在教育部辭典中沒有用例
+   2. 可以嘗試其他台語辭典或資源
+   3. 或者手動查詢相關的同義詞

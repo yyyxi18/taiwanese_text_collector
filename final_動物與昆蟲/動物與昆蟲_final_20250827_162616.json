@@ -1,0 +1,484 @@
+{
+  "metadata": {
+    "scraper_type": "最終版手動操作風格爬蟲",
+    "operation_flow": "輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理",
+    "source_url": "https://sutian.moe.edu.tw/zh-hant/tshiau/",
+    "extraction_date": "20250827_162616",
+    "statistics": {
+      "total_words": 64,
+      "successful_extractions": 28,
+      "missing_words": 36,
+      "success_rate": "43.8%",
+      "quality_stats": {
+        "完整": 28,
+        "良好": 0,
+        "基本": 0,
+        "不完整": 0
+      }
+    }
+  },
+  "successful_records": [
+    {
+      "word": "鳥仔",
+      "taiwanese_sentence": "青苔仔是一種細隻鳥仔，佇都市的公園抑是學校攏看會著伊的影跡。",
+      "tailo_pronunciation": "Tshenn-tî-á sī tsi̍t tsióng sè tsiah tsiáu-á, tī too-tshī ê kong-hn̂g ia̍h-sī ha̍k-hāu lóng khuànn ē tio̍h i ê iánn-tsiah.。",
+      "chinese_translation": "綠繡眼是一種小型鳥，在都市的公園或學校均可發現牠的蹤跡。",
+      "source_word": "青苔仔",
+      "extraction_time": "2025-08-27 16:23:28",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "兔仔",
+      "taiwanese_sentence": "伊眩車咧掠兔仔。",
+      "tailo_pronunciation": "I hîn-tshia teh lia̍h-thòo-á.。",
+      "chinese_translation": "他暈車正在嘔吐。",
+      "source_word": "掠兔仔",
+      "extraction_time": "2025-08-27 16:23:31",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "火金蛄",
+      "taiwanese_sentence": "學校後山有火金蛄。",
+      "tailo_pronunciation": "Ha̍k-hāu āu-suann ū hué-kim-koo.。",
+      "chinese_translation": "學校後山有螢火蟲。",
+      "source_word": "後山",
+      "extraction_time": "2025-08-27 16:23:33",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "露螺",
+      "taiwanese_sentence": "彼隻露螺的頭勼入去殼內底矣。",
+      "tailo_pronunciation": "Hit tsiah lōo-lê ê thâu kiu ji̍p-khì khak lāi-té--ah.。",
+      "chinese_translation": "那隻蝸牛的頭縮進殼裡面去了。",
+      "source_word": "勼",
+      "extraction_time": "2025-08-27 16:23:44",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "狗蟻",
+      "taiwanese_sentence": "一塊糖仔落佇塗跤，連鞭狗蟻就生甲密密是。",
+      "tailo_pronunciation": "Tsi̍t tè thn̂g-á lak tī thôo-kha, liâm-mi káu-hiā tō senn kah ba̍t-ba̍t-sī.。",
+      "chinese_translation": "一塊糖果掉在地上，馬上就招來密密麻麻的螞蟻。",
+      "source_word": "密密是",
+      "extraction_time": "2025-08-27 16:23:53",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "虼蚻",
+      "taiwanese_sentence": "阿芬共臭礬囥佇衫櫥內，按呢虼蚻才袂走入去。",
+      "tailo_pronunciation": "A-hun kā tshàu-huân khǹg tī sann-tû-lāi, án-ne ka-tsua̍h tsiah bē tsáu--ji̍p-khì.。",
+      "chinese_translation": "阿芬將樟腦丸放在衣櫥裡，這樣蟑螂才不會跑進去。",
+      "source_word": "臭礬",
+      "extraction_time": "2025-08-27 16:23:55",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "杜蚓",
+      "taiwanese_sentence": "杜蚓仔真韌命，伊的後半段若斷去，家己會閣生出來。",
+      "tailo_pronunciation": "Tōo-kún-á tsin jūn-miā, i ê āu puànn tuānn nā tn̄g--khì, ka-kī ē koh senn--tshut-lâi.。",
+      "chinese_translation": "蚯蚓生命力很強，它的後半段要是斷了，自己會再生。",
+      "source_word": "韌命",
+      "extraction_time": "2025-08-27 16:23:58",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "胡蠅",
+      "taiwanese_sentence": "爸母共你栽培到研究所出業矣，這馬你就愛「欲食胡蠅，家己欱」，毋通磕袂著就欲共爸母伸長手。",
+      "tailo_pronunciation": "Pē-bú kā lí tsai-puê kàu gián-kiù-sóo tshut-gia̍p--ah, tsit-má lí tō ài “beh tsia̍h hôo-sîn, ka-kī hap”, m̄-thang kha̍p-bē-tio̍h tō beh kā pē-bú tshun-tn̂g-tshiú.。",
+      "chinese_translation": "父母把你栽培到研究所畢業了，現在你就得「自己想辦法生活」，不該動不動就要向父母伸手拿錢。",
+      "source_word": "欲食胡蠅，家己欱。",
+      "extraction_time": "2025-08-27 16:24:04",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "蝦仔",
+      "taiwanese_sentence": "蝦仔愛掠沙筋了後食著較無沙屑。",
+      "tailo_pronunciation": "Hê-á ài lia̍h-sua-kin liáu-āu tsia̍h tio̍h khah bô sua-sap.。",
+      "chinese_translation": "蝦子剔除腸泥之後吃起來才比較少細沙。",
+      "source_word": "掠沙筋",
+      "extraction_time": "2025-08-27 16:24:09",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "田嬰",
+      "taiwanese_sentence": "以早的囡仔攏會曉做竹田嬰耍。",
+      "tailo_pronunciation": "Í-tsá ê gín-á lóng ē-hiáu tsò tik-tshân-enn sńg.。",
+      "chinese_translation": "以前的小孩子都會製作竹蜻蜓來玩。",
+      "source_word": "竹田嬰",
+      "extraction_time": "2025-08-27 16:24:12",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "貓仔",
+      "taiwanese_sentence": "彼隻貓仔的爪仔真利，毋通去予伊抓著。",
+      "tailo_pronunciation": "Hit tsiah niau-á ê jiáu-á tsin lāi, m̄-thang khì hōo i jiàu--tio̍h.。",
+      "chinese_translation": "那隻貓的爪子很銳利，不要被牠抓到。",
+      "source_word": "爪仔",
+      "extraction_time": "2025-08-27 16:24:34",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "羊仔",
+      "taiwanese_sentence": "彼隻羊仔囝去予獅拆食落腹。",
+      "tailo_pronunciation": "Hit tsiah iûnn-á-kiánn khì hōo sai thiah-tsia̍h-lo̍h-pak.。",
+      "chinese_translation": "那隻小羊被獅子生吞活剝。",
+      "source_word": "拆食落腹",
+      "extraction_time": "2025-08-27 16:24:37",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "蠓仔",
+      "taiwanese_sentence": "蠓仔會傳播疾病，毋通想講予蠓叮著，極加是足癢爾爾。",
+      "tailo_pronunciation": "Báng-á ē thuân-pòo tsi̍t-pēnn, m̄-thang siūnn-kóng hōo báng tìng--tio̍h, ki̍k-ke sī tsiok tsiūnn niā-niā.。",
+      "chinese_translation": "蚊子會傳播疾病，不要以為被蚊子叮到，大不了很癢而已。",
+      "source_word": "極加",
+      "extraction_time": "2025-08-27 16:24:40",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "蝶仔",
+      "taiwanese_sentence": "我用手欱著一隻蝶仔。",
+      "tailo_pronunciation": "Guá īng tshiú hap-tio̍h tsi̍t tsiah ia̍h-á.。",
+      "chinese_translation": "我用手撲到一隻蝴蝶。",
+      "source_word": "欱替hap",
+      "extraction_time": "2025-08-27 16:24:43",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "蛾仔",
+      "taiwanese_sentence": "暗時路燈跤癩𰣻蛾仔颺颺飛。",
+      "tailo_pronunciation": "Àm-sî lōo-ting-kha thái-ko-ia̍h-á iānn-iānn-pue.。",
+      "chinese_translation": "夜間路燈底下群蛾胡亂飛舞。",
+      "source_word": "癩𰣻蛾仔",
+      "extraction_time": "2025-08-27 16:24:46",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "雞仔",
+      "taiwanese_sentence": "人講：「公親變事主。」這兩个相拍雞仔的代誌你上好莫插，若無，你是會食袂焦。",
+      "tailo_pronunciation": "Lâng kóng, “Kong-tshin piàn sū-tsú.” Tsit nn̄g ê sio-phah-ke-á ê tāi-tsì lí siōng-hó mài tshap, nā-bô, lí sī ē tsia̍h bē ta.。」這兩個好鬥成性的人的事情你最好別插手，否則你會吃不完兜著走。",
+      "chinese_translation": "人家說：「仲裁者變成當事人。」這兩個好鬥成性的人的事情你最好別插手，否則你會吃不完兜著走。",
+      "source_word": "公親變事主。",
+      "extraction_time": "2025-08-27 16:24:51",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "烏鴉",
+      "taiwanese_sentence": "真濟人相信烏鴉咧吼表示歹吉兆。",
+      "tailo_pronunciation": "Tsin tsē lâng siong-sìn oo-a teh háu piáu-sī pháinn-kiat-tiāu.。",
+      "chinese_translation": "很多人相信烏鴉在啼叫表示凶兆。",
+      "source_word": "歹吉兆",
+      "extraction_time": "2025-08-27 16:25:00",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "魚仔",
+      "taiwanese_sentence": "毋但過冬鳥會綴季節固定遷徙，有一寡蟲豸佮魚仔嘛會按呢。",
+      "tailo_pronunciation": "M̄-nā kuè-tang-tsiáu ē tuè kuì-tseh kòo-tīng tshian-suá, ū tsi̍t-kuá thâng-thuā kah hî-á mā ē án-ne.。",
+      "chinese_translation": "不只候鳥會隨著季節固定遷徙，有一些昆蟲及魚類也會這麼做。",
+      "source_word": "過冬鳥",
+      "extraction_time": "2025-08-27 16:25:08",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "鰇魚",
+      "taiwanese_sentence": "古早嫁娶的風俗誠心適，新娘暗頓愛佇房間內底食，好命婆捀幾項仔飯菜入來，有雞肉、鰇魚，閣會講好話：「食雞，會起家；食鰇魚，生囡仔好育飼。」予新娘止飢兼祝賀。",
+      "tailo_pronunciation": "Kóo-tsá kè-tshuā ê hong-sio̍k tsiânn sim-sik, sin-niû àm-tǹg ài tī pâng-king lāi-té tsia̍h, hó-miā-pô phâng kuí-hāng-á pn̄g-tshài ji̍p--lâi, ū ke-bah, jiû-hî, koh ē kóng hó-uē, “Tsia̍h ke, ē khí-ke; tsia̍h jiû-hî, senn gín-á hó io-tshī.” Hōo sin-niû tsí-ki kiam tsiok-hō.。」給新娘墊墊肚子兼祝福。",
+      "chinese_translation": "舊時結婚的風俗很有趣，新娘的晚餐要在臥室裡吃，喜娘會端幾樣飯菜進來，有雞肉、魷魚，還會說吉祥話：「吃雞，會建立家庭；吃魷魚，生出來的孩子會很好養育。」給新娘墊墊肚子兼祝福。",
+      "source_word": "食雞，會起家；食鰇魚，生囡仔好育飼。",
+      "extraction_time": "2025-08-27 16:25:11",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "蟮蟲仔",
+      "taiwanese_sentence": "彼隻蟮蟲仔佇壁頂吼甲噱噱叫。",
+      "tailo_pronunciation": "Hit tsiah siān-thâng-á tī piah-tíng háu kah kia̍k-kia̍k-kiò.。",
+      "chinese_translation": "那隻壁虎在牆壁上叫得很大聲。",
+      "source_word": "噱噱叫",
+      "extraction_time": "2025-08-27 16:25:13",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "鴨仔",
+      "taiwanese_sentence": "時機無好，逐家攏驚會去予人刣頭，毋敢請假，總是嘛有人「七月半鴨仔，毋知死活」，閣敢請假請半個月去國外𨑨迌。",
+      "tailo_pronunciation": "Sî-ki bô hó, ta̍k-ke lóng kiann ē khì hōo lâng thâi-thâu, m̄ kánn tshíng-ká, tsóng--sī mā ū lâng “tshit-gue̍h-puànn ah-á, m̄ tsai sí-ua̍h”, koh kánn tshíng-ká tshíng puànn kò gue̍h khì kok-guā tshit-thô.。",
+      "chinese_translation": "景氣不好，大家都怕被裁員，不敢請假，不過也有人像是「七月半的鴨子，不知死活」，還敢請假半個月去國外旅遊。",
+      "source_word": "七月半鴨仔，毋知死活。",
+      "extraction_time": "2025-08-27 16:25:21",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "粉鳥",
+      "taiwanese_sentence": "你是眵目是毋？粉鳥煞看做斑鴿。",
+      "tailo_pronunciation": "Lí sī tshuh-ba̍k sī--m̄? Hún-tsiáu suah khuànn-tsò pan-kah.。",
+      "chinese_translation": "你是眼花了是吧？鴿子竟然看成斑鳩。",
+      "source_word": "眵目",
+      "extraction_time": "2025-08-27 16:25:24",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "狗仔",
+      "taiwanese_sentence": "巷仔頭的阿婆有飼一隻土狗仔，看著誠歹。",
+      "tailo_pronunciation": "Hāng-á-thâu ê a-pô ū tshī tsi̍t tsiah thóo-káu-á, khuànn tio̍h tsiânn pháinn.。",
+      "chinese_translation": "巷口的阿婆養了一隻土狗，看起來很兇的樣子。",
+      "source_word": "巷仔頭",
+      "extraction_time": "2025-08-27 16:25:35",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "豬仔",
+      "taiwanese_sentence": "海豬仔泅足歹學的，毋過咧泅的姿勢真媠。",
+      "tailo_pronunciation": "Hái-ti-á-siû tsiok pháinn o̍h--ê, m̄-koh teh siû ê tsu-sè tsin suí.。",
+      "chinese_translation": "蝶泳很難學，不過游起來的姿勢很優美。",
+      "source_word": "海豬仔泅",
+      "extraction_time": "2025-08-27 16:25:43",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "水雞",
+      "taiwanese_sentence": "講話袂使傷譀，著愛真的才通講；若定咧歕雞胿是會予人看破跤手，久來人就會講你是「膨風水雞刣無肉」喔！",
+      "tailo_pronunciation": "Kóng-uē bē-sái siunn hàm, tio̍h-ài tsin--ê tsiah thang kóng; nā tiānn teh pûn-ke-kui sī ē hōo lâng khuànn-phuà-kha-tshiú, kú--lâi lâng tō ē kóng lí sī “phòng-hong tsuí-ke thâi bô bah”--ooh!。",
+      "chinese_translation": "講話切勿浮誇，得真的如此才能說；如果常常吹牛會讓別人摸清楚底細，久了就會被說是「誇大不實」喔！",
+      "source_word": "膨風水雞刣無肉。",
+      "extraction_time": "2025-08-27 16:25:49",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "猴山仔",
+      "taiwanese_sentence": "這个囡仔敢若猴山仔，真無定著。",
+      "tailo_pronunciation": "Tsit ê gín-á kánn-ná kâu-san--á, tsin bô-tiānn-tio̍h.。",
+      "chinese_translation": "這個小孩好像猴子一樣，都定不下來。",
+      "source_word": "猴山仔",
+      "extraction_time": "2025-08-27 16:25:54",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "膨鼠",
+      "taiwanese_sentence": "昨昏下晡掠著的膨鼠去予伊脫走去！",
+      "tailo_pronunciation": "Tsa-hng ē-poo lia̍h--tio̍h ê phòng-tshí khì hōo i thuat-tsáu--khì",
+      "chinese_translation": "昨天下午抓到的松鼠被牠脫逃了！",
+      "source_word": "脫走",
+      "extraction_time": "2025-08-27 16:26:05",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "蜊仔",
+      "taiwanese_sentence": "公司派我去外地拜訪客戶，一逝路遐遠，規氣「一兼二顧，摸蜊仔兼洗褲」，客戶拜訪煞，順紲來去揣真久無見面的朋友。",
+      "tailo_pronunciation": "Kong-si phài guá khì guā-tē pài-hóng kheh-hōo, tsi̍t tsuā lōo hiah hn̄g, kui-khì “it kiam jī kòo, bong lâ-á kiam sé khòo”, kheh-hōo pài-hóng suah, sūn-suà lâi-khì tshuē tsin kú bô kìnn-bīn ê pîng-iú.。",
+      "chinese_translation": "公司派我到外地拜訪客戶，一趟路那麼遠，乾脆來個「一舉兩得」，客戶拜訪完，順道去找很久沒見面的朋友。",
+      "source_word": "一兼二顧，摸蜊仔兼洗褲。",
+      "extraction_time": "2025-08-27 16:26:16",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    }
+  ],
+  "missing_words": [
+    {
+      "word": "蜻蜓",
+      "reason": "無用例",
+      "index": 1
+    },
+    {
+      "word": "金龜",
+      "reason": "無用例",
+      "index": 2
+    },
+    {
+      "word": "白翎鷥",
+      "reason": "無用例",
+      "index": 6
+    },
+    {
+      "word": "草蜢公",
+      "reason": "無用例",
+      "index": 7
+    },
+    {
+      "word": "壁虎、守宮",
+      "reason": "無用例",
+      "index": 8
+    },
+    {
+      "word": "肚胿仔",
+      "reason": "無用例",
+      "index": 10
+    },
+    {
+      "word": "青蛙",
+      "reason": "無用例",
+      "index": 11
+    },
+    {
+      "word": "虎頭蜂",
+      "reason": "無用例",
+      "index": 15
+    },
+    {
+      "word": "蛤蜊",
+      "reason": "無用例",
+      "index": 17
+    },
+    {
+      "word": "鴿子",
+      "reason": "無用例",
+      "index": 20
+    },
+    {
+      "word": "螢火蟲",
+      "reason": "無用例",
+      "index": 21
+    },
+    {
+      "word": "鹿仔",
+      "reason": "無用例",
+      "index": 22
+    },
+    {
+      "word": "臺灣烏熊",
+      "reason": "無用例",
+      "index": 23
+    },
+    {
+      "word": "魷魚",
+      "reason": "無用例",
+      "index": 24
+    },
+    {
+      "word": "松鼠",
+      "reason": "無用例",
+      "index": 25
+    },
+    {
+      "word": "白鷺鷥",
+      "reason": "無用例",
+      "index": 26
+    },
+    {
+      "word": "河蟹、螃蟹、毛蟹",
+      "reason": "無用例",
+      "index": 32
+    },
+    {
+      "word": "蟑螂",
+      "reason": "無用例",
+      "index": 34
+    },
+    {
+      "word": "大蝗、螞蚱、草蜢、飛蝗",
+      "reason": "無用例",
+      "index": 35
+    },
+    {
+      "word": "金龜子",
+      "reason": "無用例",
+      "index": 37
+    },
+    {
+      "word": "蚊蟲、蚊子、蚊",
+      "reason": "無用例",
+      "index": 38
+    },
+    {
+      "word": "蝸牛",
+      "reason": "無用例",
+      "index": 42
+    },
+    {
+      "word": "猴子",
+      "reason": "無用例",
+      "index": 43
+    },
+    {
+      "word": "刺毛蟲",
+      "reason": "無用例",
+      "index": 46
+    },
+    {
+      "word": "毛毛蟲",
+      "reason": "無用例",
+      "index": 47
+    },
+    {
+      "word": "兔子",
+      "reason": "無用例",
+      "index": 48
+    },
+    {
+      "word": "毛蟹",
+      "reason": "無用例",
+      "index": 50
+    },
+    {
+      "word": "蝦子",
+      "reason": "無用例",
+      "index": 51
+    },
+    {
+      "word": "白頭鵠仔",
+      "reason": "無用例",
+      "index": 53
+    },
+    {
+      "word": "白頭翁",
+      "reason": "無用例",
+      "index": 55
+    },
+    {
+      "word": "蚯蚓",
+      "reason": "無用例",
+      "index": 57
+    },
+    {
+      "word": "螞蟻",
+      "reason": "無用例",
+      "index": 58
+    },
+    {
+      "word": "台灣黑熊",
+      "reason": "無用例",
+      "index": 59
+    },
+    {
+      "word": "蒼蠅",
+      "reason": "無用例",
+      "index": 61
+    },
+    {
+      "word": "蝴蝶",
+      "reason": "無用例",
+      "index": 62
+    },
+    {
+      "word": "蝌蚪",
+      "reason": "無用例",
+      "index": 63
+    }
+  ]
+}

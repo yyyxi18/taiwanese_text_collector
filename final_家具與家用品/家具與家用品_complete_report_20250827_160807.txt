@@ -1,0 +1,392 @@
+最終版台語辭典擷取完整報告 - 家具與家用品
+================================================================================
+🎯 操作流程：輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理
+📊 完整統計：
+   - 總計單字：116 個
+   - 成功擷取：49 個
+   - 缺失單字：67 個
+   - 成功率：42.2%
+⏰ 擷取時間：20250827_160807
+
+🌟 完整擷取（台語+台羅+中文）:
+------------------------------------------------------------
+ 1. 水桶
+    台語：共水桶仔的水摒掉。
+    台羅：Kā tsuí-tháng-á ê tsuí piànn-tiāu.。
+    中文：把水桶的水倒掉。
+    來源：摒替piànn
+
+ 2. 椅仔
+    台語：我去夜市仔開兩百箍買著這條椅仔，哪知坐無兩工就害去，袂輸擤鼻糊的，人講「一分錢，一分貨」，有影俗物就無好貨。
+    台羅：Guá khì iā-tshī-á khai nn̄g-pah khoo bé-tio̍h tsit liâu í-á, ná tsai tsē bô nn̄g kang tō hāi--khì, bē-su tshìng-phīnn kôo--ê, lâng kóng “tsi̍t hun tsînn, tsi̍t hun huè”, ū-iánn sio̍k-mi̍h tō bô hó huè.。
+    中文：我去夜市花了兩百塊買到這張椅子，哪知道坐不到兩天就壞了，就好像用鼻涕黏的一樣，人家說「一分錢，一分貨」，果然便宜就沒好貨。
+    來源：一分錢，一分貨。
+
+ 3. 籠床
+    台語：徛佇籠床邊熁燒。
+    台羅：Khiā tī lâng-sn̂g-pinn hannh sio.。
+    中文：站在蒸籠旁邊烘熱。
+    來源：熁
+
+ 4. 電風
+    台語：熱人到矣，電風好提出來矣。
+    台羅：Jua̍h--lâng kàu--ah, tiān-hong hó the̍h--tshut-lâi--ah.。
+    中文：夏天了，可以把電扇拿出來了。
+    來源：熱人
+
+ 5. 椅頭仔
+    台語：攑椅頭仔去外口坐較秋凊。
+    台羅：Gia̍h í-thâu-á khì guā-kháu tsē khah tshiu-tshìn.。
+    中文：拿凳子到外頭坐比較涼快。
+
+ 6. 水道頭
+    台語：浴間仔的水道頭咧漏水，阮仙舞都袂好勢，結局阮阿爸攑活扳仔共鎖予絚，一下手就好勢溜溜，有影是「食著藥，青草一葉；食毋著藥，人參一石」。
+    台羅：Tsia̍h tio̍h io̍h, tshenn-tsháu tsi̍t hio̍h; tsia̍h m̄-tio̍h io̍h, jîn-sim tsi̍t tsio̍h
+    中文：浴室的水龍頭漏水，我們怎麼修理都沒用。結果我爸爸拿活動板手將它鎖緊，三兩下就搞定，正所謂「做事掌握關鍵，方能達到事半功倍之效」。
+    來源：食著藥，青草一葉；食毋著藥，人參一石。
+
+ 7. 洗衫機
+    台語：這領衫袂當囥洗衫機洗，你去用手浞浞咧。
+    台羅：Tsit niá sann bē-tàng khǹg sé-sann-ki sé, lí khì iōng tshiú tshio̍k-tshio̍k--leh.。
+    中文：這件衣服不能放洗衣機洗，你去用手稍微搓一下。
+    來源：浞替tshio̍k
+
+ 8. 手電仔
+    台語：明仔暗會停電，你敢有攢手電仔？
+    台羅：Bîn-á-àm ē thîng-tiān, lí kám ū tshuân tshiú-tiān-á
+    中文：明天晚上會停電，你準備手電筒了嗎？
+
+ 9. 冊桌仔
+    台語：阮阿母買一塊新的冊桌仔，欲予我看冊佮寫宿題較利便。
+    台羅：Guán a-bú bé tsi̍t tè sin ê tsheh-toh-á, beh hōo guá khuànn tsheh kah siá siok-tê khah lī-piān.。
+    中文：我媽媽買了一張新的書桌，方便我看書跟寫功課。
+
+10. 掃梳
+    台語：較早的人定定用掃梳笒仔捽囡仔。
+    台羅：Khah-tsá ê lâng tiānn-tiānn iōng sàu-se-gím-á sut gín-á.。
+    中文：以前的人經常用細竹枝打小孩。
+    來源：掃梳笒仔
+
+11. 衫櫥
+    台語：阿芬共臭礬囥佇衫櫥內，按呢虼蚻才袂走入去。
+    台羅：A-hun kā tshàu-huân khǹg tī sann-tû-lāi, án-ne ka-tsua̍h tsiah bē tsáu--ji̍p-khì.。
+    中文：阿芬將樟腦丸放在衣櫥裡，這樣蟑螂才不會跑進去。
+    來源：臭礬
+
+12. 吹風機
+    台語：吹風機無插插頭袂過電，當然嘛袂紡。
+    台羅：Tshue-hong-ki bô tshah tshah-thâu bē kuè-tiān, tong-jiân mā bē pháng.。
+    中文：吹風機沒插插頭不會通電，當然就不會運轉。
+    來源：過電
+
+13. 椅條
+    台語：伊行路無細膩去靠著椅條。
+    台羅：I kiânn-lōo bô-sè-jī khì khò-tio̍h í-liâu.。
+    中文：他走路不小心撞到了長板凳。
+    來源：靠
+
+14. 桌仔
+    台語：阮阿母買一塊新的冊桌仔，欲予我看冊佮寫宿題較利便。
+    台羅：Guán a-bú bé tsi̍t tè sin ê tsheh-toh-á, beh hōo guá khuànn tsheh kah siá siok-tê khah lī-piān.。
+    中文：我媽媽買了一張新的書桌，方便我看書跟寫功課。
+    來源：冊桌仔
+
+15. 掃帚
+    台語：伊隨來遮就火燒厝，真正是掃帚星。
+    台羅：I suî lâi tsia tō hué-sio-tshù, tsin-tsiànn sī sàu-tshiú-tshenn.。
+    中文：他一來這裡就發生火災，真是掃把星。
+    來源：掃帚星
+
+16. 花矸
+    台語：這个花矸愛排佇中央，毋通偏一爿。
+    台羅：Tsit ê hue-kan ài pâi tī tiong-ng, m̄-thang phian tsi̍t pîng.。
+    中文：這個花瓶要排中間，不要偏向一邊。
+    來源：偏文phian
+
+17. 時鐘
+    台語：時鐘修理好矣。
+    台羅：Sî-tsing siu-lí hó--ah.。
+    中文：時鐘修理好了。
+    來源：修理
+
+18. 蠓罩
+    台語：熱天用蠓罩才袂予蠓仔叮。
+    台羅：Jua̍h-thinn īng báng-tà tsiah bē hōo báng-á tìng.。
+    中文：夏天用蚊帳才不會被蚊子叮。
+
+19. 畚斗
+    台語：虎面前捙畚斗。
+    台羅：Hóo bīn-tsîng tshia-pùn-táu.。比喻昧於危險，冒險行事。
+    中文：在老虎面前翻跟斗。比喻昧於危險，冒險行事。
+    來源：捙畚斗
+
+20. 盤仔
+    台語：阿母洗碗的時，盤仔煞遛手摔破去。
+    台羅：A-bú sé uánn ê sî, puânn-á suah liù-tshiú siak-phuà--khì.。
+    中文：媽媽洗碗時，失手將盤子摔破。
+    來源：遛手
+
+21. 草蓆
+    台語：草蓆仔頂的塗粉拭拭咧才去睏。
+    台羅：Tsháu-tshio̍h-á-tíng ê thôo-hún tshit-tshit--leh tsiah khì khùn.。
+    中文：草蓆上的灰塵擦一擦再上去睡覺。
+    來源：塗粉
+
+22. 杯仔
+    台語：桌頂的玻璃杯仔上好徙較內角咧，才袂無張持摔破去。
+    台羅：Toh-tíng ê po-lê pue-á siōng-hó suá khah lāi-kak--leh, tsiah bē bô-tiunn-tî siak-phuà--khì.。
+    中文：桌上的玻璃杯最好移裡面一點，才不會稍不留神把它摔破了。
+    來源：內角
+
+23. 桌布
+    台語：你愛共這塊桌布小沐一下仔水，才來拭桌頂。
+    台羅：Lí ài kā tsit tè toh-pòo sió bak tsi̍t-ē-á tsuí, tsiah lâi tshit toh-tíng.。
+    中文：你要將這條抹布稍微沾一下水，才能擦桌子。
+    來源：沐替bak
+
+24. 飯坩
+    台語：飯坩提去洗洗咧。
+    台羅：Pn̄g-khann the̍h-khì sé-sé--leh.。
+    中文：飯鍋拿去洗一洗。
+
+25. 面巾
+    台語：伊共面巾袚佇肩胛頭。
+    台羅：I kā bīn-kin phua̍h tī king-kah-thâu.。
+    中文：他把毛巾披掛在肩膀上。
+    來源：袚替phua̍h
+
+26. 水管
+    台語：這條水管破去矣。
+    台羅：Tsit tiâu tsuí-kóng phuà--khì--ah.。
+    中文：這條水管破掉了。
+
+27. 茶鈷
+    台語：茶鈷咧呻矣，你緊去共火關起來。
+    台羅：Tê-kóo teh tshan--ah, lí kín khì kā hué kuainn--khí-lâi.。
+    中文：茶壺在叫了，你快去將爐火關起來。
+    來源：呻白tshan
+
+28. 花瓶
+    台語：明星攏足驚人講𪜶是花瓶。
+    台羅：Bîng-tshenn lóng tsiok kiann lâng kóng in sī hue-pân.。
+    中文：明星都很怕別人說他們是花瓶。
+
+29. 屜仔
+    台語：伊下早仔去予屜仔挾著尾二指，這馬閣猶腫腫。
+    台羅：I e-tsái-á khì hōo thuah-á gia̍p-tio̍h bué-jī-tsáinn, tsit-má koh iáu tsíng-tsíng.。
+    中文：他今天早上被抽屜夾到無名指，現在還腫腫的。
+    來源：尾二指
+
+30. 棉襀被
+    台語：雨落規禮拜，真無簡單出日頭矣，趁這个流擺緊共棉襀被挔出來曝。
+    台羅：Hōo lo̍h kui lé-pài, tsin bô kán-tan tshut-ji̍t-thâu--ah, thàn tsit ê lâu-pái kín kā mî-tsioh-phuē hiannh tshut-lâi pha̍k.。
+    中文：下了整週的雨，好不容易出太陽了，趁這個時機快把棉被拿出來晒。
+    來源：流擺
+
+31. 飯桌
+    台語：阿媽佇田裡拍菜股，一股一股的菜蔬攏成做飯桌頂的好料理。
+    台羅：A-má tī tshân--lí phah tshài-kóo, tsi̍t kóo tsi̍t kóo ê tshài-se lóng tsiânn-tsò pn̄g-toh-tíng ê hó liāu-lí.。
+    中文：奶奶在田裏面築造菜畦，一畦一畦的青菜都成了飯桌上的好菜色。
+    來源：菜股
+
+32. 鋏仔
+    台語：樹仔跤的樹葉仔無偌濟，用鋏仔鋏鋏咧就會用得矣。
+    台羅：Tshiū-á-kha ê tshiū-hio̍h-á bô guā-tsē, iōng giap-á giap-giap--leh tō ē-īng--tit--ah.。
+    中文：樹底下的樹葉沒有很多，拿夾子夾一夾就可以了。
+
+33. 菜刀
+    台語：看伊攑菜刀剁肉、切菜的款勢誠熟手，對煮食應該真有經驗。
+    台羅：Khuànn i gia̍h tshài-to tok bah, tshiat tshài ê khuán-sè tsiânn si̍k-tshiú, tuì tsú-tsia̍h ing-kai tsin ū king-giām.。
+    中文：看他拿菜刀剁肉、切菜的架式十分上手，對烹飪應該很有經驗。
+    來源：款勢
+
+34. 膨椅
+    台語：看著𪜶阿爸坐佇客廳的膨椅盹龜，伊跕跤勻勻仔行過去，驚共𪜶阿爸吵精神。
+    台羅：Khuànn-tio̍h in a-pah tsē tī kheh-thiann ê phòng-í tuh-ku, i liam-kha ûn-ûn-á kiânn--kuè-khì, kiann kā in a-pah tshá tsing-sîn.。
+    中文：看到他爸爸坐在客廳的沙發椅上打瞌睡，他踮起腳尖輕輕走過去，怕把他爸爸吵醒了。
+    來源：跕跤
+
+35. 碗公
+    台語：古早糧食缺欠的時，煮糜是幾粒米、一寡番薯簽乾摻一大坩水，「一粒田螺煮九碗公湯」，欲罟一粒飯粒仔就親像海底摸針，真僫啦！
+    台羅：Kóo-tsá niû-si̍t khueh-khiàm ê sî, tsú muê sī kuí lia̍p bí, tsi̍t-kuá han-tsî-tshiam-kuann tsham tsi̍t tuā khann tsuí, “tsi̍t lia̍p tshân-lê tsú káu uánn-kong thng”, beh koo tsi̍t lia̍p pn̄g-lia̍p-á tō tshin-tshiūnn hái-té bong tsiam, tsin oh--lah!。
+    中文：從前糧食匱乏的時代，煮稀飯是幾粒米、一些番薯簽乾加一大鍋的水，「一粒田螺煮九海碗湯」，要撈到一粒米粒就像海底撈針，好難啊！
+    來源：一粒田螺煮九碗公湯。
+
+36. 布攄仔
+    台語：布攄仔都烏汁汁矣，你閣提來攄塗跤。
+    台羅：Pòo-lu-á to oo-tsiap-tsiap--ah, lí koh the̍h-lâi lu thôo-kha.。
+    中文：拖把都已經又黑又髒了，你還拿來拖地。
+    來源：烏汁汁
+
+37. 棉被
+    台語：棉被先捲起來才收入去袋仔內。
+    台羅：Mî-phuē sing kńg--khí-lâi tsiah siu ji̍p-khì tē-á-lāi.。
+    中文：棉被先捲起來再收進袋子裡。
+    來源：捲
+
+38. 飯匙
+    台語：抐桮的喙若像飯匙，規身軀白蔥蔥足成鵝，所以閣共伊號做飯匙鵝。
+    台羅：Lā-pue ê tshuì ná-tshiūnn pn̄g-sî, kui-sin-khu pe̍h-tshang-tshang tsiok sîng gô, sóo-í koh kā i hō-tsò pn̄g-sî-gô.。
+    中文：黑面琵鷺的鳥喙像飯匙，全身潔白很像鵝，所以又取名做飯匙鵝。
+    來源：飯匙鵝
+
+39. 家具
+    台語：𪜶兜的家具較古。
+    台羅：In tau ê ka-kū khah kóo.。
+    中文：他們家的家具古色古香。
+    來源：古
+
+40. 眠床
+    台語：伊破病倒佇眠床頂廿捅冬矣，寢開始後生猶真盡心看顧，不而過俗語講：「久長病，無孝子。」這幾冬𪜶後生予伊的醫藥費硩甲袂喘氣，就無通遐認真共照顧矣。
+    台羅：I phuà-pēnn tó tī bîn-tshn̂g-tíng jia̍p-thóng tang--ah, tshím-khai-sí hāu-senn iáu tsin tsīn-sim khuànn-kòo, put-jî-kò sio̍k-gí kóng, “Kú-tn̂g pēnn, bô hàu-tsú.” Tsit kuí tang in hāu-senn hōo i ê i-io̍h-huì teh kah bē tshuán-khuì, tō bô thang hiah jīn-tsin kā tsiàu-kòo--ah.。」這幾年他兒子被他的醫藥費壓得喘不過氣來，就沒辦法那麼認真照顧他了。
+    中文：他已臥病在床二十多年了，剛開始兒子還很盡心照顧，但俗話說：「久病床前無孝子。」這幾年他兒子被他的醫藥費壓得喘不過氣來，就沒辦法那麼認真照顧他了。
+    來源：久長病，無孝子。
+
+41. 草蓆仔
+    台語：草蓆仔頂的塗粉拭拭咧才去睏。
+    台羅：Tsháu-tshio̍h-á-tíng ê thôo-hún tshit-tshit--leh tsiah khì khùn.。
+    中文：草蓆上的灰塵擦一擦再上去睡覺。
+    來源：塗粉
+
+42. 冷氣
+    台語：這陣時勢無仝矣，古早彼種「千途萬途，毋值得翻田塗」的觀念早就退時去矣，少年人攏嘛欲揣坐佇辦公室吹冷氣的頭路，今是有幾个甘願攑鋤頭落田去作穡咧！
+    台羅：Tsit-tsūn sî-sè bô kāng--ah, kóo-tsá hit tsióng “tshian tôo bān tôo, m̄ ta̍t-tit huan tshân-thôo” ê kuan-liām tsá tō thè-sî--khì--ah, siàu-liân-lâng lóng mā beh tshuē tsē tī pān-kong-sik tshue líng-khì ê thâu-lōo, tann sī ū kuí ê kam-guān gia̍h tî-thâu lo̍h-tshân khì tsoh-sit--leh!。
+    中文：現今時代不同了，以前那套「重農輕商」的觀念早已過時了，年輕人都想找坐在辦公室吹冷氣的工作，現在有幾個願意拿著鋤頭下田耕種啊！
+    來源：千途萬途，毋值得翻田塗。
+
+43. 冰箱
+    台語：阿媽共燃好的青草仔茶，用漏仔貯入去玻璃矸仔，冰佇冰箱予逐家啉。
+    台羅：A-má kā hiânn-hó ê tshenn-tsháu-á-tê, iōng lāu-á té ji̍p-khì po-lê kan-á, ping tī ping-siunn hōo ta̍k-ke lim.。
+    中文：奶奶把煮好的青草茶，用漏斗裝進玻璃瓶中，冰在冰箱給大家喝。
+    來源：漏仔
+
+44. 電鍋
+    台語：我用米管量三管米囥落去電鍋煮。
+    台羅：Guá īng bí-kńg niû sann kńg bí khǹg lo̍h-khì tiān-ko tsú.。
+    中文：我用量米杯量了三杯的米放進電鍋裡煮。
+    來源：米管
+
+45. 肥料
+    台語：農藥佮肥料下了過頭是茶樹敗欉的主要原因。
+    台羅：Lông-io̍h kah puî-liāu hē liáu kuè-thâu sī tê-tshiū pāi-tsâng ê tsú-iàu guân-in.。
+    中文：農藥和肥料過度使用是造成茶樹枯萎的主因。
+    來源：敗欉
+
+46. 枕頭
+    台語：枕頭囊專油垢，剝起來洗洗咧。
+    台羅：Tsím-thâu-lông tsuan iû-káu, pak khí-lâi sé-sé--leh.。
+    中文：枕頭套都是油汙，拆下來洗一洗吧。
+    來源：油垢
+
+47. 肉砧
+    台語：寒人的霜風誠透，致使肉砧的肉落尾攏堅風去矣。
+    台羅：Kuânn--lâng ê sng-hong tsiânn thàu, tì-sú bah-tiam ê bah lo̍h-bué lóng kian-hong--khì--ah.。
+    中文：冬天的冷風風勢很強，以至於豬肉店的肉最後都風乾變硬了。
+    來源：堅風
+
+48. 雪文
+    台語：若欲治荔枝欉頂懸的臭腥龜仔，用雪文水共噴，不止仔有應效。
+    台羅：Nā beh tī nāi-tsi-tsâng tíng-kuân ê tshàu-tshènn-ku-á, iōng sap-bûn-tsuí kā phùn, put-tsí-á ū ìng-hāu.。
+    中文：想對付荔枝樹上的椿象，用肥皂水直接噴它相當有效。
+    來源：臭腥龜仔
+
+49. 電火
+    台語：棒球場下昏暗的電火點甲光映映，檢采閣有精彩的比賽通好看矣。
+    台羅：Pāng-kiû-tiûnn ē-hng-àm ê tiān-hué tiám kah kng-iànn-iànn, kiám-tshái koh ū tsing-tshái ê pí-sài thang-hó khuànn--ah.。
+    中文：棒球場今晚燈火通明，也許又有精彩的賽事可以觀賞了。
+    來源：光映映
+
+	1.	床單（床巾）
+台語：阿母洗好新的床巾，攤佇庭院曝日。
+台羅：A-bú sé-hó sin ê tshn̂g-kin, than tī tîng-hn̄g pha̍k ji̍t.
+中文：媽媽把洗好的新床單攤在院子裡曬太陽。
+	2.	被單
+台語：天冷矣，愛換厚被單。
+台羅：Thinn-līng–ah, ài uānn kòo phuē-tuann.
+中文：天氣冷了，要換厚一點的被單。
+	3.	鍋鏟（煎匙）
+台語：煎魚愛用煎匙才袂焦。
+台羅：Tsian hî ài iōng tsian-sî tsiah bē ta.
+中文：煎魚要用鍋鏟才不會焦。
+	4.	飯菜蓋網（桌罩）
+台語：飯菜食袂清氣，記得用桌罩共蓋好。
+台羅：Pn̄g-tshài tsia̍h bē tshing-khì, kì-tek iōng toh-tàu kā kuàm hó.
+中文：飯菜還沒吃，記得用罩子蓋好。
+	5.	廚餘桶（潘桶）
+台語：廚餘攏提去倒落潘桶。
+台羅：Tû-î lóng the̍h-khì tò lo̍h phun-tháng.
+中文：廚餘都拿去倒進廚餘桶。
+	6.	馬桶
+台語：厠所的馬桶愛定定清洗。
+台羅：Tshì-só ê bé-tháng ài tiānn-tiānn tshing-sé.
+中文：廁所的馬桶要常常清洗。
+	7.	熨斗
+台語：衫愛用熨斗燙才會平順。
+台羅：Sann ài iōng ut-táu thòng tsiah ē pîng-sūn.
+中文：衣服要用熨斗燙才會平整。
+	8.	鑰匙（鎖匙）
+台語：鎖匙毋通亂放，免閣揣袂著。
+台羅：Só-sî m̄-thang luān-pàng, bián koh tshuē bē-tio̍h.
+中文：鑰匙不要亂放，免得又找不到。
+	9.	電燈泡（電火球仔）
+台語：電火球仔燒焦矣，愛換新的。
+台羅：Tiān-hué-kiû-á sio-ta–ah, ài uānn sin–ê.
+中文：電燈泡壞掉了，要換新的。
+	10.	躺椅（䖙椅）
+台語：阿爸愛坐䖙椅佇厝前曝日。
+台羅：A-pah ài tsē thenn-í tī tshù-tsîng pha̍k ji̍t.
+中文：爸爸喜歡坐在躺椅上曬太陽。
+	11.	椅墊（椅苴仔）
+台語：這張椅仔無椅苴仔，坐咧真硬。
+台羅：Tsit tiunn í-á bô í-tsū-á, tsē–leh tsin gēng.
+中文：這張椅子沒有椅墊，坐起來很硬。
+	12.	梳妝台
+台語：梳妝台頂的鏡仔真大面。
+台羅：Sue-tsng-tâi tíng ê kiann-á tsin tuā-bīn.
+中文：梳妝台上的鏡子很大面。
+	13.	垃圾桶（糞埽桶）
+台語：垃圾記得提去倒落糞埽桶。
+台羅：La̍p-sap kì-tek the̍h-khì tò lo̍h pùn-sò-tháng.
+中文：垃圾記得拿去倒進垃圾桶。
+	14.	塑膠袋
+台語：買菜愛提塑膠袋仔裝。
+台羅：Bé-tshài ài the̍h sok-ka-tē-á tsng.
+中文：買菜要帶塑膠袋裝。
+	15.	碗筷（碗箸）
+台語：食飯前先擺好碗箸。
+台羅：Tsia̍h-pn̄g-tsîng sing pái hó uánn-tī.
+中文：吃飯前先擺好碗筷。
+	16.	鍋子（鍋仔）
+台語：這口鍋仔真重。
+台羅：Tsit kháu ue-á tsin tāng.
+中文：這口鍋子很重。
+	17.	吸管（欶管）
+台語：囡仔愛用欶管啉珍珠奶茶。
+台羅：Gín-á ài iōng suh-kóng lim tîn-tsu nâ-tê.
+中文：小孩喜歡用吸管喝珍珠奶茶。
+	18.	叉子（攕仔）
+台語：食牛排愛用攕仔。
+台羅：Tsia̍h gû-pâi ài iōng tshiám-á.
+中文：吃牛排要用叉子。
+	19.	小盤子（碟仔）
+台語：醬油倒佇碟仔內沾菜食。
+台羅：Tshiùnn-iû tò tī tih-á lāi tiam-tshài tsia̍h.
+中文：醬油倒在小盤子裡沾菜吃。
+
+❌ 缺失單字報告:
+============================================================
+以下 67 個單字沒有找到可用的例句：
+
+📋 無用例 (67個):
+   食飯桌     椅墊      垃圾桶     馬桶      電燈泡     水龍頭     鍋仔      廚餘桶     手電筒     熨斗      
+   毛巾      沙發      洗衣機     凳子      盤子      拖把      菜瓜布     碟仔      床單      飯菜蓋網    
+   椅子      桌罩      茶壺      蚊帳      衣櫥      掃把      夾子      碗箸      塑膠袋仔    床巾      
+   夾仔      電燈      切割肉類的砧板 電火球仔    吸管      梳妝台     竹掃把     躺椅      鍋鏟      蒸籠      
+   桌子      抹布      鑷子      欶管      長板凳     糞埽桶     飯鍋      書桌      鎖匙      潘桶      
+   塑膠袋     叉子      鑰匙      杯子      鍋子      椅苴仔     碗筷      電風扇     肥皂      䖙椅      
+   比一般飯碗還要大的碗抽屜      小盤子     攕仔      飯勺      煎匙      被單      
+
+💡 建議：
+   1. 這些單字可能在教育部辭典中沒有用例
+   2. 可以嘗試其他台語辭典或資源
+   3. 或者手動查詢相關的同義詞

@@ -1,0 +1,303 @@
+最終版台語辭典擷取完整報告 - 職業與社會角色
+================================================================================
+🎯 操作流程：輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理
+📊 完整統計：
+   - 總計單字：65 個
+   - 成功擷取：28 個
+   - 缺失單字：37 個
+   - 成功率：43.1%
+⏰ 擷取時間：20250827_140049
+
+🌟 完整擷取（台語+台羅+中文）:
+------------------------------------------------------------
+ 1. 警察
+    台語：伊䀐著警察對巷仔頭行來，面隨慄色，即時就起跤走甲無看見影去。
+    台羅：I siam-tio̍h kíng-tshat tuì hāng-á-thâu kiânn--lâi, bīn suî lik-sik, tsik-sî tō khí-kha tsáu kah bô khuànn-kìnn iánn--khì.。
+    中文：他瞥見警察從巷子口走來，嚇得立刻臉色大變，馬上就拔腿跑得不見蹤影。
+    來源：起跤
+
+ 2. 總經理
+    台語：新的總經理真𠢕轉錢空，順利解決公司的財務危機。
+    台羅：Sin ê tsóng-king-lí tsin gâu tńg-tsînn-khang, sūn-lī kái-kuat kong-si ê tsâi-bū guî-ki.。
+    中文：新的總經理很會籌錢，順利解決公司的財務危機。
+    來源：轉錢空
+
+ 3. 評審
+    台語：評審嚴格，逐家就無話講。
+    台羅：Phîng-sím giâm-keh, ta̍k-ke tō bô uē kóng.。
+    中文：評審嚴格，大家就無話可說了。
+    來源：嚴格
+
+ 4. 司機
+    台語：塚仔埔欲開路，駛怪手的司機先攢牲醴拜好兄弟仔，紲落去那燒銀紙，喙閣那唸：「無禁無忌，食百二。」
+    台羅：Thióng-á-poo beh khui-lōo, sái kuài-tshiú ê su-ki sing tshuân sing-lé pài hó-hiann-tī-á, suà--lo̍h-khì ná sio gîn-tsuá, tshuì koh ná liām, “Bô-kìm-bô-khī, tsia̍h pah-jī.”。」
+    中文：墓地要開路，怪手司機先準備三牲祭拜好兄弟，接著一邊燒銀紙，嘴巴還一邊念著：「百無禁忌，活到一百二十歲。」
+    來源：無禁無忌，食百二。
+
+ 5. 作穡人
+    台語：種蒜頭的作穡人攏揀較媠的提去賣，留一寡脯去的家己食，莫怪人講：「燒瓷的食缺，織蓆的睏椅。」
+    台羅：Tsìng suàn-thâu ê tsoh-sit-lâng lóng kíng khah suí--ê the̍h-khì bē, lâu tsi̍t-kuá póo--khì--ê ka-kī tsia̍h, bo̍k-kuài lâng kóng, “Sio-huî--ê tsia̍h khih, tsit-tshio̍h--ê khùn í.”。」
+    中文：蒜農都挑比較漂亮的拿去賣，留一些乾癟的自己吃，難怪人家說「燒瓷的自己用有缺口的碗，織草蓆的在椅子上睡覺。」
+    來源：燒瓷的食缺，織蓆的睏椅。
+
+ 6. 董事長
+    台語：會開到中站的時，董事長宣佈明年薪水加五pha，逐家聽了攏誠歡喜。
+    台羅：Huē khui kàu tiong-tsām ê sî, táng-sū-tiúnn suan-pòo mê-nî sin-suí ke gōo pha, ta̍k-ke thiann-liáu lóng tsiânn huann-hí.。
+    中文：會議開到中途時，董事長宣佈明年加薪百分之五，大家聽了都非常開心。
+    來源：中站
+
+ 7. 觀眾
+    台語：看著電影的主角予人苦毒，觀眾綴咧流目屎。
+    台羅：Khuànn-tio̍h tiān-iánn ê tsú-kak hōo lâng khóo-to̍k, kuan-tsiòng tuè leh lâu ba̍k-sái.。
+    中文：看到電影主角被虐待，觀眾跟著流眼淚。
+    來源：苦毒
+
+ 8. 賣食的
+    台語：先賣食的暫度。
+    台羅：Sing bē tsia̍h--ê tsiām-tōo.。
+    中文：先賣吃的維持生計。
+    來源：暫度
+
+ 9. 員工
+    台語：頭家共公司的錢提去炒股票，將錢輸了了，煞著喝倒店，下跤的員工攏失業，「喙食，予尻川坐數」，按呢敢有公道？
+    台羅：Thâu-ke kā kong-si ê tsînn the̍h-khì tshá-kóo-phiò, tsiong tsînn su-liáu-liáu, suah tio̍h huah tó-tiàm, ē-kha ê uân-kang lóng sit-gia̍p, “tshuì tsia̍h, hōo kha-tshng tshē-siàu”, án-ne kám ū kong-tō?。
+    中文：老闆把公司的錢拿去炒股票，將錢輸光光，竟然不得不宣告倒閉，底下的員工都失業，「一人做錯，卻由其他人受責」，這樣公道嗎？
+    來源：喙食，予尻川坐數。
+
+10. 生理人
+    台語：彼个生理人足厚譴損，不時走去彼間廟求看生理有通較順序咧無，煞毋知「尪姨順話尾，假童害眾人」，內底專是假包的童乩，予𪜶諞真濟錢去。
+    台羅：Hit ê sing-lí-lâng tsiok kāu-khiàn-sńg, put-sî tsáu-khì hit king biō kiû khuànn sing-lí ū thang khah sūn-sī--leh--bô, suah m̄ tsai “ang-î sūn uē-bué, ké tâng hāi tsìng-lâng”, lāi-té tsuan sī ké-pâu ê tâng-ki, hōo in pián tsin tsē tsînn--khì.。
+    中文：那位生意人很迷信，常常跑去那間廟宇祈求生意能不能順遂一些，卻不曉得「靈媒會順著對方的心意說話，假冒之乩童故意裝神弄鬼來欺騙人」，裡面全是假的乩童，被他們騙走很多錢。
+    來源：尪姨順話尾，假童害眾人。
+
+11. 護士
+    台語：伊足驚注射，便若看著護士共射筒攑出來，就會驚甲咇咇掣。
+    台羅：I tsiok kiann tsù-siā, piān-nā khuànn-tio̍h hōo-sū kā siā-tâng gia̍h--tshut-lâi, tō ē kiann kah phi̍h-phi̍h-tshuah.。
+    中文：他很怕打針，只要看到護士拿出針筒，就會嚇得直發抖。
+    來源：射筒
+
+12. 菜鳥
+    台語：伊拄入來公司，看著都古意古意，啥人知久來變老鳥煞「龜跤趖出來」，見若有菜鳥入來就欲共人創治。
+    台羅：I tú ji̍p-lâi kong-si, khuànn tio̍h to kóo-ì-kóo-ì, siánn-lâng tsai kú--lâi piàn lāu-tsiáu suah “ku-kha sô--tshut-lâi”, kiàn-nā ū tshài-tsiáu ji̍p--lâi tō beh kā lâng tshòng-tī.。
+    中文：他剛進來公司，看起來忠厚老實，誰知道時間一久變資深員工卻「露出馬腳」，只要有新進員工進來就想捉弄人家。
+    來源：龜跤趖出來。
+
+13. 廚子
+    台語：𪜶阿三仔是咧做廚子的。
+    台羅：In A-sam--á sī teh tsò tôo-tsí--ê.。
+    中文：他們阿三是廚師。
+
+14. 老師
+    台語：阿義仔歌聲真好，老師鼓勵伊去參加歌唱比賽，伊攏講伊足驚上台唱歌。老師講：「『驚驚袂著等。』你愛勇敢徛起去舞台，才會當予人知影你的歌聲有偌好。」
+    台羅：A-gī--á kua-siann tsin hó, lāu-su kóo-lē i khì tsham-ka kua-tshiùnn pí-sài, i lóng kóng i tsiok kiann tsiūnn-tâi tshiùnn-kua. Lāu-su kóng, “ ‘Kiann-kiann bē tio̍h-tíng.’ Lí ài ióng-kám khiā khí-khì bú-tâi, tsiah ē-tàng hōo lâng tsai-iánn lí ê kua-siann ū guā hó.”。老師說 ：「『光是恐懼擔憂不會獲得優勝。』你要勇敢站上舞台，才能讓人知道你的歌聲有多好。」
+    中文：小義歌聲很好，老師鼓勵他去參加歌唱比賽，他都說他很怕上台唱歌。老師說 ：「『光是恐懼擔憂不會獲得優勝。』你要勇敢站上舞台，才能讓人知道你的歌聲有多好。」
+    來源：驚驚袂著等。
+
+15. 阿兵哥
+    台語：軍中的班長號令落去，所有的阿兵哥攏徛騰騰。
+    台羅：Kun-tiong ê pan-tiúnn hō-līng--lo̍h-khì, sóo-ū ê a-ping-ko lóng khiā-thîng-thîng.。
+    中文：軍中班長下號令，所有阿兵哥都站得直挺挺。
+    來源：號令
+
+16. 教練
+    台語：這改比賽去予對方修理甲塗塗塗，佇檢討會裡，教練予人檢討半點鐘，會使講是「滿面專豆花」。
+    台羅：Tsit kái pí-sài khì hōo tuì-hong siu-lí kah thôo-thôo-thôo, tī kiám-thó-huē--lí, kàu-liān hōo lâng kiám-thó puànn tiám-tsing, ē-sái kóng sī “muá-bīn tsuan tāu-hue”.。
+    中文：這次比賽被對方修理得慘兮兮，在檢討會中，教練被人檢討了半個小時，可以說是「狼狽不堪」。
+    來源：滿面專豆花。
+
+17. 職業
+    台語：鱸鰻萬仔早起去予職業殺手結果擲捒矣。
+    台羅：Lôo-muâ Bān--á tsá-khí khì hōo tsit-gia̍p sat-tshiú kiat-kó-tàn-sak--ah.。
+    中文：流氓阿萬早上被職業殺手給解決掉了。
+    來源：結果擲捒
+
+18. 塗水師
+    台語：塗水師無下心神咧捽繩，較加壁堵嘛疊甲走斜去。
+    台羅：Thôo-tsuí-sai bô hē sim-sîn teh sut-tsîn, khah-ke piah-tóo mā thia̍p kah tsáu-tshua̍h--khì.。
+    中文：泥水匠拉墨繩取直線沒有用心，這也難怪磚牆砌得歪斜不正。
+    來源：走斜
+
+19. 討海人
+    台語：討海人攏佇十二月到二月上烏寒的時陣去海墘撈鰻仔栽。
+    台羅：Thó-hái-lâng lóng tī tsa̍p-jī--gue̍h kàu jī--gue̍h siōng oo-kuânn ê sî-tsūn khì hái-kînn hôo muâ-á-tsai.。
+    中文：漁民都在十二月到二月最寒冷的時候去海濱撈捕鰻魚苗。
+    來源：鰻仔栽
+
+20. 木匠
+    台語：若欲共窗仔子刻甲有花有草，著愛倩會曉幼工的木匠來創才會媠。
+    台羅：Nā beh kā thang-á-tsí khik kah ū hue ū tsháu, tio̍h-ài tshiànn ē-hiáu iù-kang ê ba̍k-tshiūnn lâi tshòng tsiah ē suí.。
+    中文：想把窗櫺雕成有花有草的圖案，必須聘請會細工的木匠來做才會漂亮。
+    來源：幼工
+
+21. 媒體
+    台語：判斷媒體消息的正確度真誠重要，社會定定有人放一个風聲，隨就有人「講一个影，生一个囝」，綴咧烏白傳消息。
+    台羅：Phuànn-tuàn muî-thé siau-sit ê tsìng-khak-tōo tsin-tsiânn tiōng-iàu, siā-huē tiānn-tiānn ū lâng pàng tsi̍t ê hong-siann, suî tō ū lâng “kóng tsi̍t ê iánn, senn tsi̍t ê kiánn”, tuè leh oo-pe̍h thuân siau-sit.。
+    中文：判斷媒體消息的正確度十分重要，社會上常常有人放個風聲，馬上就有人「捕風捉影」，亂傳消息。
+    來源：講一个影，生一个囝。
+
+22. 賊仔
+    台語：彼个賊仔入去人兜想欲共人偷提錢，對千主人轉來予人㨑著。
+    台羅：Hit ê tsha̍t-á ji̍p-khì lâng tau siūnn-beh kā lâng thau-the̍h tsînn, tuì-tshian tsú-lâng tńg--lâi hōo lâng tsang--tio̍h.。
+    中文：那個小偷進去別人家想偷拿錢，剛好主人回來被逮到。
+    來源：對千
+
+23. 醫生
+    台語：伊彼工騎鐵馬去挵著電火柱，醫生仙救都救袂轉來，實在有夠脆命。
+    台羅：I hit kang khiâ thih-bé khì lòng-tio̍h tiān-hué-thiāu, i-sing sian kiù to kiù bē tńg--lâi, si̍t-tsāi ū-kàu tshè-miā.。
+    中文：他那天騎腳踏車撞到電線桿，醫生怎麼救都救不回來，生命實在很脆弱。
+    來源：脆命
+
+24. 歌星
+    台語：尾牙有的公司辦桌請員工，攏愛倩𠢕詼諧的歌星來鬥鬧熱。
+    台羅：Bué-gê ū ê kong-si pān-toh tshiánn uân-kang, lóng ài tshiànn gâu khue-hâi ê kua-tshenn lâi tàu-lāu-jia̍t.。
+    中文：尾牙有的公司設宴招待員工，都喜歡聘請擅長滑稽的歌星來湊鬧熱。
+    來源：詼諧
+
+25. 律師
+    台語：伊真有才調，律師牌一擺就考過！
+    台羅：I tsin ū tsâi-tiāu, lu̍t-su-pâi tsi̍t pái tō khó--kuè
+    中文：他很有本事，律師牌照一次就考到了！
+    來源：才調
+
+26. 志工
+    台語：李的足好心閣足客氣，講伊做志工干焦是咧「食飽換枵」爾爾。
+    台羅：Lí--ê tsiok hó-sim koh tsiok kheh-khì, kóng i tsò tsì-kang kan-na sī teh “tsia̍h-pá uānn iau” niā-niā.。
+    中文：老李很善良又很客氣，說他做志工只是在「消耗熱量」而已。
+    來源：食飽換枵。
+
+27. 義工
+    台語：伊出身孤兒院，佳哉有一寡善心人士共伊照顧，大漢了後嘛知通「食果子拜樹頭；食米飯拜田頭」，定定轉去做義工。
+    台羅：I tshut-sin koo-jî-īnn, ka-tsài ū tsi̍t-kuá siān-sim jîn-sū kā i tsiàu-kòo, tuā-hàn liáu-āu mā tsai thang “tsia̍h kué-tsí pài tshiū-thâu; tsia̍h bí-pn̄g pài tshân-thâu”, tiānn-tiānn tńg-khì tsò gī-kang.。
+    中文：他出身孤兒院，還好有一些善心人士照顧他，長大以後他也懂得要「飲水思源」，常常回去當義工。
+    來源：食果子拜樹頭；食米飯拜田頭。
+
+28. 導演
+    台語：這个贊助廠商有私心，共導演縛跤縛手，害伊袂當照理想去拍片。
+    台羅：Tsit ê tsàn-tsōo tshiúnn-siong ū su-sim, kā tō-ián pa̍k-kha-pa̍k-tshiú, hāi i bē-tàng tsiàu lí-sióng khì phah-phìnn.。
+    中文：這家贊助廠商有私心，處處限制導演，害他無法按照理想去拍片。
+    來源：縛跤縛手
+
+1.	工友
+台語：學校內底的工友每日攏真早到校打掃。
+台羅：Ha̍k-hāu lāi-tí ê kang-iú bé-ji̍t lóng tsin tsá kàu-hāu tá-sau.。
+中文：學校裡的工友每天都很早到校打掃。
+
+2.	工程師
+台語：彼个工程師專工設計電腦系統。
+台羅：Hit ê kang-tîng-su tsuan-kang siat-kè tiān-ná hē-thóng.。
+中文：那位工程師專門設計電腦系統。
+
+3.	外勞
+台語：阮隔壁厝請一个外勞來照顧阿公。
+台羅：Guán keh-piah-tshù tshiánn tsi̍t ê guā-lô lâi tsiò-kòo a-kong.。
+中文：我鄰居請了一位外勞來照顧爺爺。
+
+	4.	裁判
+台語：球賽進行的時陣，裁判愛公平公正。
+台羅：Kiû-sài tsìn-hîng ê sî-tsūn, tshâi-phuàⁿ ài kong-pîng kong-tsìng.。
+中文：比賽進行的時候，裁判必須公平公正。
+
+	5.	保全
+台語：百貨公司的保全仔，攏會巡視逐層樓。
+台羅：Pah-huè kong-si ê pó-tsuân-á, lóng ē sûn-sī ta̍k-tsân-lâu.。
+中文：百貨公司的保全會巡視每一層樓。
+
+	6.	導遊
+台語：導遊佮咱介紹臺北的古蹟文化。
+台羅：Tō-iû kah lán kài-siāu Tâi-pak ê kóo-tsik bûn-huà.。
+中文：導遊向我們介紹臺北的古蹟文化。
+
+	7.	祕書
+台語：董事長的祕書每日攏整理公文佮安排會議。
+台羅：Táng-sū-tiúnn ê pì-su bé-ji̍t lóng tsíng-lí kong-bûn kah an-pâi huē-gī.。
+中文：董事長的秘書每天都整理公文和安排會議。
+
+	8.	總舖師
+台語：村裡辦桌，定定會請有名的總舖師。
+台羅：Tson-lí pān-toh, tiānn-tiānn ē tshiánn ū-miâ ê tsóng-phòo-su.。
+中文：村子裡辦宴席，常常會請有名的總舖師。
+
+	9.	建築師
+台語：建築師設計這間厝，用真濟新款的材料。
+台羅：Kiàn-tio̍k-su siat-kè tsit king tshù, īng tsin tsē sin-khuán ê tsâi-liāu.。
+中文：建築師設計這棟房子，使用了很多新型材料。
+
+	10.	藥劑師
+台語：藥劑師共病人解說按怎食藥較安全。
+台羅：Io̍h-tsè-su kā pēnn-lâng kái-suat án-tsuánn tsia̍h io̍h khah an-tsuân.。
+中文：藥劑師向病人解釋如何吃藥比較安全。
+
+	11.	藝術家
+台語：彼个藝術家用彩筆畫出台灣的山水風景。
+台羅：Hit ê gē-su̍t-ka īng tshái-pit uē-tshut Tâi-uân ê suann-suí hong-kíng.。
+中文：那位藝術家用畫筆描繪出臺灣的山水風景。
+
+	12.	守衛
+台語：工廠的大門有守衛把關。
+台羅：Kang-thióng ê tuā-mn̂g ū siú-uē pá-kuan.。
+中文：工廠大門有守衛把守。
+
+	13.	護理師
+台語：護理師每日攏欲巡房看病人狀況。
+台羅：Hōo-lí-su bé-ji̍t lóng ài sûn-pâng khuànn pēnn-lâng tsōng-khòng.。
+中文：護理師每天都要查房照顧病人的情況。
+
+	14.	賣衫的
+台語：夜市內底賣衫的攤仔真熱鬧。
+台羅：Iā-tshī lāi-tí bē-sann ê than-á tsin jia̍t-lāu.。
+中文：夜市裡賣衣服的攤位很熱鬧。
+
+	15.	教師
+台語：教師每日攏用心教導學生。
+台羅：Kàu-su bé-ji̍t lóng iōng-sim kàu-tāu ha̍k-sing.。
+中文：老師每天都用心教導學生。
+
+	16.	記者
+台語：記者到現場採訪最新的消息。
+台羅：Kì-tsiá kàu hiān-tiûnn tshái-hóng tsuè-sin ê siau-sit.。
+中文：記者到現場採訪最新消息。
+
+	17.	聽眾
+台語：主持人講笑詼的話，引起聽眾大聲哈哈笑。
+台羅：Tsu-tî-jîn kóng tshiò-khui ê uē, ín-khí thiann-tsiòng tuā-siann ha-ha-tshiò.。
+中文：主持人講了笑話，引得聽眾哈哈大笑。
+
+	18.	戶政
+台語：戶政事務所專門辦理出世、結婚、離婚的登記。
+台羅：Hōo-tsìng sū-bū-só tsuan-mn̂g pān-lí tshut-sì, kiat-hun, lī-hun ê ting-kì.。
+中文：戶政事務所專門辦理出生、結婚、離婚的登記。
+
+	19.	拾荒的人（抾破爛 / 抾廢物）
+	•	台語：伊靠抾破爛度日，雖然艱苦，嘛是真認真。
+	•	台羅：I khò khioh phuà-luān tōo-ji̍t, sui-jiân kan-khóo, mā sī tsin jīn-tsin.。
+	•	中文：他靠撿破爛過日子，雖然辛苦，但很認真。
+
+	20.	各行各業
+台語：各行各業的人攏會出席過年尾牙。
+台羅：Koh-hâng-koh-gia̍p ê lâng lóng ē tshut-si̍k kuè-nî bué-gê.。
+中文：各行各業的人都會參加年終尾牙。
+
+	21.	消防隊
+台語：消防隊聽著警鈴，立刻出動救火。
+台羅：Siau-hông-tūi thiann-tio̍h kíng-lîng, li̍p-khik tshut-tōng kiù-hué.。
+中文：消防隊聽到警鈴，立刻出動救火。
+
+	22.	清潔隊
+台語：清潔隊每日攏欲清掃街路。
+台羅：Tshing-kiat-tūi bé-ji̍t lóng ài tshing-sò ke-lōo.。
+中文：清潔隊每天都要清掃街道。
+
+❌ 缺失單字報告:
+============================================================
+以下 37 個單字沒有找到可用的例句：
+
+📋 無用例 (37個):
+   記者      建築師     總舖師     教師      抾字紙     賣衫的     消防隊     各行各業    清潔隊     漁夫、漁民   
+   藝術家     守衛      工友      大廚師     生意人、商人  護理師     菜鳥、新人   外籍勞工    聽眾      戶政      
+   保全      秘書      泥水匠、泥水工 小偷      拾荒的人    祕書      賣衣服的    藥劑師     工程師     外勞      
+   廚師      農人、農夫、泛指一般勞動者裁判      士兵、軍人   木工師父    導遊      賣吃的     
+
+💡 建議：
+   1. 這些單字可能在教育部辭典中沒有用例
+   2. 可以嘗試其他台語辭典或資源
+   3. 或者手動查詢相關的同義詞

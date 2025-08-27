@@ -1,0 +1,396 @@
+最終版台語辭典擷取完整報告 - 地名與國家
+================================================================================
+🎯 操作流程：輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理
+📊 完整統計：
+   - 總計單字：72 個
+   - 成功擷取：39 個
+   - 缺失單字：33 個
+   - 成功率：54.2%
+⏰ 擷取時間：20250827_143137
+
+🌟 完整擷取（台語+台羅+中文）:
+------------------------------------------------------------
+ 1. 臺東
+    台語：阮規班拍算欲去旅行，有人欲去臺東，有人欲去澎湖，眾人「十喙九尻川」，無法度定著，尾後規氣抽鬮來決定。
+    台羅：Guán kui pan phah-sǹg beh khì lí-hîng, ū lâng beh khì Tâi-tang, ū lâng beh khì Phênn-ôo, tsìng-lâng “tsa̍p tshuì káu kha-tshng”, bô-huat-tōo tiānn-tio̍h, bué-āu kui-khì thiu-khau lâi kuat-tīng.。
+    中文：班上計畫舉辦旅行，有些人要去臺東，有些人要去澎湖，大家是「一人一個意見」，無法定案，後來乾脆抽籤決定。
+    來源：十喙九尻川。
+
+ 2. 美國
+    台語：伊自細漢讀冊就受著親情幫贊，想袂到佇美國畢業了後，連親情過身嘛毋轉來，人講「船過水無痕」，伊實在真無惜情。
+    台羅：I tsū sè-hàn tha̍k-tsheh tō siū-tio̍h tshin-tsiânn pang-tsān, siūnn-bē-kàu tī Bí-kok pit-gia̍p liáu-āu, liân tshin-tsiânn kuè-sin mā m̄ tńg--lâi, lâng kóng “tsûn kuè tsuí bô hûn”, i si̍t-tsāi tsin bô sioh-tsîng.。
+    中文：他從小讀書就受到親戚的贊助，想不到在美國畢業之後，就連親戚過世也不肯回來，人家說「船過水無痕」，他真是很不珍惜親情。
+    來源：船過水無痕。
+
+ 3. 韓國
+    台語：佇韓國娘仔豆是好食物，佇臺灣無幾个人敢食。
+    台羅：Tī Hân-kok niû-á-tāu sī hó-tsia̍h mi̍h, tī Tâi-uân bô kuí ê lâng kánn tsia̍h.。
+    中文：在韓國蠶蛹是美食，在臺灣人沒幾個人敢吃。
+    來源：娘仔豆
+
+ 4. 臺北
+    台語：伊自少年就對下港起去臺北做生理，佇遐娶某生囝，到今五十外冬矣，毋過「離鄉，無離腔」，講話的時猶原有下港腔。
+    台羅：I tsū siàu-liân tō tuì ē-káng khí-khì Tâi-pak tsò-sing-lí, tī hia tshuā-bóo senn-kiánn, kàu-tann gōo-tsa̍p-guā tang--ah, m̄-koh “lī hiunn, bô lī khiunn”, kóng-uē ê sî iu-guân ū ē-káng khiunn.。
+    中文：他年輕時就從南部上去臺北做生意，在那裡娶妻生子，至今五十多年了，不過「離鄉，不離腔」，說話時仍然有南部腔。
+    來源：離鄉，無離腔。
+
+ 5. 新竹
+    台語：新竹米粉佮柿餅是用九降風共水分吹予焦，氣味較好閣加真有囥。
+    台羅：Sin-tik bí-hún kah khī-piánn sī iōng káu-kàng-hong kā tsuí-hun tshue hōo ta, khì-bī khah hó koh ke tsin ū khǹg.。
+    中文：新竹米粉和柿餅是用東北季風把水分吹乾，味道較好還能保存比較久。
+    來源：九降風
+
+ 6. 宜蘭
+    台語：去宜蘭看本地歌仔，若看著三花搬閹雞行上趣味。
+    台羅：Khì Gî-lân khuànn pún-tē-kua-á, nā khuànn-tio̍h sann-hue puann iam-ke-kiânn siōng tshù-bī.。
+    中文：去宜蘭看本地歌仔，如果看到丑角表演矮子功最有趣。
+    來源：閹雞行
+
+ 7. 非洲
+    台語：非洲真濟國家因為飢荒，百姓枵飢失頓，真濟囡仔攏「腹肚若水櫃，胸坎若樓梯」，予人真毋甘。
+    台羅：Hui-tsiu tsin tsē kok-ka in-uī ki-hng, peh-sènn iau-ki-sit-tǹg, tsin tsē gín-á lóng “pak-tóo ná tsuí-kuī, hing-khám ná lâu-thui”, hōo lâng tsin m̄-kam.。
+    中文：非洲很多國家因為飢荒，人民三餐不繼，很多兒童都「骨瘦如柴，卻又挺個大肚子」，讓人很不捨。
+    來源：腹肚若水櫃，胸坎若樓梯。
+
+ 8. 北投
+    台語：伊去臺北投靠𪜶阿姊。
+    台羅：I khì Tâi-pak tâu-khò in a-tsí.。
+    中文：他去臺北投靠他姊姊生活。
+    來源：投靠
+
+ 9. 中國
+    台語：伊去中國探親。
+    台羅：I khì Tiong-kok thàm-tshin.。
+    中文：他去中國拜訪親戚。
+    來源：探親
+
+10. 地名
+    台語：這个地名按怎來的，已經無才調稽考矣。
+    台羅：Tsit ê tē-miâ án-tsuánn lâi--ê, í-king bô tsâi-tiāu khe-khó--ah.。
+    中文：這個地名怎麼來的，已經不可考了。
+    來源：稽考
+
+11. 南港
+    台語：你若欲去南港就愛佇臺北車頭盤車。
+    台羅：Lí nā beh khì Lâm-káng tō ài tī Tâi-pak Tshia-thâu puânn-tshia.。
+    中文：你如果要去南港就必須在臺北車站轉車。
+    來源：盤車
+
+12. 新北市
+    台語：這馬佇新北市土城區的大墓公聽講佮早前的林爽文事件、漳泉拚攏有關係。
+    台羅：Tsit-má tī Sin-pak-tshī Thôo-siânn-khu ê tuā-bōng-kong thiann-kóng kah tsá-tsîng ê Lîm Sóng-bûn sū-kiānn, Tsiang-Tsuân-piànn lóng ū kuan-hē.。
+    中文：現在在新北市土城區的大墓公聽說與之前的林爽文事件、漳泉械鬥都有關係。
+    來源：大墓公
+
+13. 屏東
+    台語：阮屏東的烏甕串通講是「頂港有名聲，下港上出名」，食過的人攏呵咾甲會觸舌。
+    台羅：Guán Pîn-tong ê oo-àng-tshǹg thang kóng sī “tíng-káng ū miâ-siann, ē-káng siōng tshut-miâ”, tsia̍h--kuè ê lâng lóng o-ló kah ē tak-tsi̍h.。
+    中文：我們屏東的黑鮪魚可說是「由北至南，遠近馳名」，吃過的人都讚不絕口。
+    來源：頂港有名聲，下港上出名。
+
+14. 嘉義
+    台語：臺北人講烏白切，嘉義人講滷熟肉。
+    台羅：Tâi-pak-lâng kóng oo-pe̍h-tshiat, Ka-gī-lâng kóng lóo-sio̍k-bah.。
+    中文：臺北人說黑白切，嘉義人說滷熟肉。
+    來源：烏白切
+
+15. 庄頭
+    台語：伊正港是一个歹星，拄搬來，這个庄頭就做大水。
+    台羅：I tsiànn-káng sī tsi̍t ê pháinn-tshenn, tú puann--lâi, tsit ê tsng-thâu tō tsò-tuā-tsuí.。
+    中文：他真是個掃把星，剛搬來，這個村莊就發生水災。
+    來源：歹星
+
+16. 市區
+    台語：較早舊市區毋但「三跤步一坎店」，踅街的人嘛插插插，毋過這馬已經變甲真稀微矣。
+    台羅：Khah-tsá kū tshī-khu m̄-nā “sann kha-pōo tsi̍t khám tiàm”, se̍h-ke ê lâng mā tshah-tshah-tshah, m̄-koh tsit-má í-king piàn kah tsin hi-bî--ah.。
+    中文：以前舊市區不只「市景繁榮、商店林立」，逛街的人也摩肩接踵，不過現在已經變得很冷清了。
+    來源：三跤步一坎店。
+
+17. 地方
+    台語：地方的頭人攏真認真咧做代誌。
+    台羅：Tē-hng ê thâu-lâng lóng tsin jīn-tsin teh tsò tāi-tsì.。
+    中文：地方上的領導人都很認真在做事情。
+
+18. 社區
+    台語：阿珍看厝看半年外才買著一間伊佮意的厝，伊講：「買厝，買厝邊。」除了考慮價數，閣較要緊的是愛揣著有好厝邊的社區。
+    台羅：A-tin khuànn tshù khuànn puànn nî guā tsiah bé-tio̍h tsi̍t king i kah-ì ê tshù, i kóng, “Bé tshù, bé tshù-pinn.” Tû-liáu khó-lī kè-siàu, koh-khah iàu-kín--ê sī ài tshuē-tio̍h ū hó tshù-pinn ê siā-khu.。」除了考慮價錢，更加重要的是要找到有好鄰居的社區。
+    中文：小珍看房子看了半年多才買到一間他喜歡的房子，他說：「買房子要慎選好鄰居。」除了考慮價錢，更加重要的是要找到有好鄰居的社區。
+    來源：買厝，買厝邊。
+
+19. 德國
+    台語：伊自修學德國話學甲足老。
+    台羅：I tsū-siu o̍h Tik-kok-uē o̍h kah tsiok láu.。
+    中文：他自修學德語學得很流利。
+    來源：自修
+
+20. 苗栗
+    台語：阿娥後禮拜欲嫁去苗栗矣！
+    台羅：A-ngôo āu lé-pài beh kè-khì Biâu-li̍k--ah
+    中文：阿娥下禮拜要嫁到苗栗去了！
+    來源：嫁白kè
+
+21. 越南
+    台語：伊的工廠設佇越南。
+    台羅：I ê kang-tshiúnn siat tī Ua̍t-lâm.。
+    中文：他的工廠設在越南。
+    來源：設
+
+22. 亞洲
+    台語：夯石碾是咱參加亞洲運動會捷著等的項目。
+    台羅：Giâ-tsio̍h-lián sī lán tsham-ka A-tsiu Ūn-tōng-huē tsia̍p tio̍h-tíng ê hāng-bo̍k.。
+    中文：舉重是我們參加亞洲運動會常得獎的項目。
+    來源：夯石碾
+
+23. 基隆
+    台語：佇基隆有一間服侍老大公的廟。
+    台羅：Tī Ke-lâng ū tsi̍t king ho̍k-sāi lāu-tuā-kong ê biō.。
+    中文：在基隆有一間祭拜孤魂野鬼的廟。
+    來源：老大公
+
+24. 澎湖
+    台語：阮規班拍算欲去旅行，有人欲去臺東，有人欲去澎湖，眾人「十喙九尻川」，無法度定著，尾後規氣抽鬮來決定。
+    台羅：Guán kui pan phah-sǹg beh khì lí-hîng, ū lâng beh khì Tâi-tang, ū lâng beh khì Phênn-ôo, tsìng-lâng “tsa̍p tshuì káu kha-tshng”, bô-huat-tōo tiānn-tio̍h, bué-āu kui-khì thiu-khau lâi kuat-tīng.。
+    中文：班上計畫舉辦旅行，有些人要去臺東，有些人要去澎湖，大家是「一人一個意見」，無法定案，後來乾脆抽籤決定。
+    來源：十喙九尻川。
+
+25. 城市
+    台語：城市愈來愈楦大，市郊嘛愈來愈鬧熱。
+    台羅：Siânn-tshī jú lâi jú hùn-tuā, tshī-kau mā jú lâi jú lāu-jia̍t.。
+    中文：城市愈來愈向外擴張，市郊也愈來愈熱鬧。
+    來源：郊
+
+26. 歐洲
+    台語：這位作者寫的這篇小說的款勢，若像咧學歐洲寫實主義的風格。
+    台羅：Tsit uī tsok-tsiá siá ê tsit phinn siáu-suat ê khuán-sè, ná-tshiūnn teh o̍h Au-tsiu Siá-si̍t tsú-gī ê hong-keh.。
+    中文：這位作者寫的這篇小說的體裁，好像是在學習歐洲寫實主義的風格。
+    來源：款勢
+
+27. 高雄
+    台語：伊月尾欲去高雄看𪜶後生。
+    台羅：I gue̍h-bué beh khì Ko-hiông khuànn in hāu-senn.。
+    中文：他月底要去高雄看他兒子。
+    來源：月尾
+
+28. 臺南
+    台語：臺南地區欲考試的囡仔會買狀元粿來食，希望會當考牢理想的學校。
+    台羅：Tâi-lâm tē-khu beh khó-tshì ê gín-á ē bé tsiōng-guân-kué lâi tsia̍h, hi-bāng ē-tàng khó-tiâu lí-sióng ê ha̍k-hāu.。
+    中文：臺南地區要考試的孩子會買狀元糕來吃，希望可以考上理想的學校。
+    來源：狀元粿
+
+29. 士林
+    台語：士林夜市仔敢若阮兜的灶跤咧！
+    台羅：Sū-lîm iā-tshī-á kánn-ná guán tau ê tsàu-kha--leh!。
+    中文：士林夜市好像我家廚房一樣！比喻常去士林夜市。
+    來源：灶跤
+
+30. 庄跤
+    台語：最近我搬來庄跤蹛，若有好食物，我就捾去送厝邊。𪜶嘛定定送𪜶家己種的青菜、果子來予我。人講「千金買厝，萬金買厝邊」，咱著佮厝邊頭尾好好仔交陪！
+    台羅：Tsuè-kīn guá puann-lâi tsng-kha tuà, nā ū hó-tsia̍h mi̍h, guá tō kuānn-khì sàng tshù-pinn. In mā tiānn-tiānn sàng in ka-kī tsìng ê tshenn-tshài, kué-tsí lâi hōo--guá. Lâng kóng “tshian-kim bé tshù, bān kim bé tshù-pinn”, lán tio̍h kah tshù-pinn-thâu-bué hó-hó-á kau-puê!。他們也常常送他們自己種的蔬菜、水果給我。人家說：「千金買屋，萬金買鄰」，我們得跟鄰居好好交往！
+    中文：最近我搬到鄉下住，若有好吃的食物，我就拿去送給隔壁鄰居。他們也常常送他們自己種的蔬菜、水果給我。人家說：「千金買屋，萬金買鄰」，我們得跟鄰居好好交往！
+    來源：千金買厝，萬金買厝邊。
+
+31. 地球
+    台語：今地球頂懸昆蟲的種類通講是百百種，咱攏捌袂了呢。
+    台羅：Tann tē-kiû tíng-kuân khun-thiông ê tsióng-luī thang kóng sī pah-pah-tsióng, lán lóng bat bē liáu--neh.。
+    中文：現今地球上昆蟲的種類可以說是百百種，我們都認識不完呢。
+    來源：昆蟲
+
+32. 都市
+    台語：分家伙的時陣抽著無水田，伊也認命接受，啥人知影後來都市計畫路開到遐，伊的田變更做建地，有影是像人講的：「青盲貓咬著死鳥鼠。」
+    台羅：Pun ke-hué ê sî-tsūn thiu-tio̍h bô-tsuí-tshân, i iā jīn-miā tsiap-siū, siánn-lâng tsai-iánn āu--lâi too-tshī kè-uē lōo khui kàu hia, i ê tshân piàn-king tsò kiàn-tē, ū-iánn sī tshiūnn lâng kóng--ê, “Tshenn-mê niau kā-tio̍h sí niáu-tshí.”。」
+    中文：分財產時抽到旱田，他也認命接受，誰知道後來都市計畫路開到那裡，他的田地變更成建地，真是像人家說的：「瞎貓碰到死老鼠。」
+    來源：青盲貓咬著死鳥鼠。
+
+33. 臺中
+    台語：佇遠遠的所在，就看會著臺中火力發電廠彼四支煙筒管矣。
+    台羅：Tī hn̄g-hn̄g ê sóo-tsāi, tō khuànn ē tio̍h Tâi-tiong hué-li̍k huat-tiān-tshiúnn hit sì ki ian-tâng-kóng--ah.。
+    中文：在遠遠的地方，就看得到臺中火力發電廠那四根煙囪了。
+    來源：煙筒管
+
+34. 郊外
+    台語：歇睏日伊常在𤆬一家伙仔去郊外𨑨迌。
+    台羅：Hioh-khùn-ji̍t i tshiâng-tsāi tshuā tsi̍t-ke-hué-á khì kau-guā tshit-thô.。
+    中文：假日他經常帶領全家人去郊外遊玩。
+    來源：郊
+
+35. 南投
+    台語：你過年敢有欲倒轉去南投？
+    台羅：Lí kuè-nî kám ū beh tò-tńg-khì Lâm-tâu
+    中文：你過年要不要回去南投？
+    來源：倒轉去
+
+36. 日本
+    台語：金木伯的孤囝去日本留學，閣提著博士學位，這款的子弟真正是「一斗較贏九石」，通庄的人攏呵咾甲會觸舌！
+    台羅：Kim-bo̍k peh ê koo-kiánn khì Ji̍t-pún liû-ha̍k, koh the̍h-tio̍h phok-sū ha̍k-uī, tsit khuán ê tsú-tē tsin-tsiànn sī “tsi̍t táu khah iânn káu tsio̍h”, thong tsng ê lâng lóng o-ló kah ē tak-tsi̍h!。
+    中文：金木伯的獨子去日本留學，又拿到博士學位，這樣的子弟真正是「少量的精品，勝過大量的劣質品」，整個村里的人都讚不絕口！
+    來源：一斗較贏九石。
+
+37. 地區
+    台語：偏僻地區的學校學生少，教職員嘛少，學校內面一个人著兼幾若个工課，就會像人所講的「校長兼摃鐘」。
+    台羅：Phian-phiah tē-khu ê ha̍k-hāu ha̍k-sing tsió, kàu-tsit-uân mā tsió, ha̍k-hāu lāi-bīn tsi̍t ê lâng tio̍h kiam kuí-nā ê khang-khuè, tō ē tshiūnn lâng sóo kóng--ê “hāu-tiúnn kiam kòng tsing”.。
+    中文：偏僻地區的學校學生少，教職員也少，學校裡一個人要兼好幾項工作，就會像人們所說的「校長兼撞鐘」。
+    來源：校長兼摃鐘。
+
+38. 花蓮
+    台語：花蓮當地的風景袂䆀，咱另工做伙來去𨑨迌。
+    台羅：Hua-liân tong-tē ê hong-kíng bē-bái, lán līng-kang tsò-hué lâi-khì tshit-thô.。
+    中文：花蓮當地的風景不錯，我們改天一起去玩。
+    來源：當地
+
+	1.	木柵（Ba̍k-sa）
+台語：木柵動物園假日攏真濟人，車路擠甲真賰。
+台羅：Ba̍k-sa tōng-bu̍t-hn̂g kè-ji̍t lóng tsin tsē lâng, tshia-lōo tsí kah tsin tshun.。
+中文：木柵動物園假日總是很多人，路上堵得滿滿的。
+
+	2.	艋舺（Báng-kah）
+台語：艋舺青山宮每年遊行，陣頭鬧熱甲真壯觀。
+台羅：Báng-kah Tshenn-suann-kiong muí-nî iû-hîng, tīn-thâu lāu-jia̍t kah tsin tsòng-kuan.。
+中文：艋舺青山宮每年的遊行，陣頭熱鬧又壯觀。
+
+	3.	法國（Huat-kok）
+台語：伊去法國留學，學甲真順手。
+台羅：I khì Huat-kok liû-ha̍k, o̍h kah tsin sūn-tshiú.。
+中文：他去法國留學，學得很順利。
+
+	4.	雲林（Hûn-lîm）
+台語：雲林是臺灣出產蒜頭的重鎮。
+台羅：Hûn-lîm sī Tâi-uân tshut-sán suàn-thâu ê tiōng-tīn.。
+中文：雲林是臺灣生產蒜頭的重要地區。
+
+	5.	印尼（Ìn-nî）
+台語：印尼有真濟外籍新娘來臺灣成家。
+台羅：Ìn-nî ū tsin tsē guā-tsi̍k sin-niû lâi Tâi-uân sîng-ke.。
+中文：印尼有很多外籍新娘來臺灣成家。
+
+	6.	印度（Ìn-tōo）
+台語：印度咖哩的香味足特別。
+台羅：Ìn-tōo ka-lí ê phang-bī tsiok te̍k-pia̍t.。
+中文：印度咖哩的香味非常特別。
+
+	7.	英國（Ing-kok）
+台語：英國倫敦有大笨鐘，是真有名的景點。
+台羅：Ing-kok Lûn-tun ū Tuā-pùn-tsing, sī tsin ū-miâ ê kíng-tiám.。
+中文：英國倫敦有大笨鐘，是很有名的景點。
+
+	8.	港都（káng-too）
+台語：高雄號做港都，因為有全臺灣最大的港口。
+台羅：Ko-hiông hō-tsò káng-too, in-uī ū tsuân Tâi-uân tsuē-tuā ê káng-kháu.。
+中文：高雄被稱為港都，因為有全臺灣最大的港口。
+
+	9.	墾丁（Khún-ting）
+台語：夏天去墾丁海邊𨑨迌，真涼爽。
+台羅：Hā-thinn khì Khún-ting hái-pinn tshit-thô, tsin liâng-sóng.。
+中文：夏天去墾丁海邊玩，非常涼爽。
+
+	10.	金門（Kim-mn̂g）
+台語：金門的貢糖是出名的伴手禮。
+台羅：Kim-mn̂g ê kòng-thn̂g sī tshut-miâ ê puànn-tshiú-lé.。
+中文：金門的貢糖是有名的伴手禮。
+
+	11.	高雄（Ko-hiông）
+台語：高雄捷運已經通車，行路真方便。
+台羅：Ko-hiông tsia̍t-ūn í-king thong-tshia, kiânn-lōo tsin hong-piān.。
+中文：高雄捷運已經通車，出行很方便。
+
+	12.	內湖（Lāi-ôo）
+台語：內湖有真濟科技公司佇遐設厝。
+台羅：Lāi-ôo ū tsin tsē kho-ki kong-si tī hia siat-tshù.。
+中文：內湖有很多科技公司在那裡設廠。
+
+	13.	馬來西亞（Má-lâi-se-a）
+台語：馬來西亞是東南亞一个多民族的國家。
+台羅：Má-lâi-se-a sī Tang-lâm-a tsi̍t ê to-bîn-tsok ê kok-ka.。
+中文：馬來西亞是東南亞一個多民族的國家。
+
+	14.	馬祖（Má-tsóo）
+台語：馬祖的藍眼淚，夜晚真媠，吸引濟濟遊客。
+台羅：Má-tsóo ê nâ-gián-luī, iā-má tsin suí, hip-ín tsē-tsē iû-kheh.。
+中文：馬祖的藍眼淚，在夜晚非常漂亮，吸引很多遊客。
+
+	15.	寶島（póo-tó）
+台語：臺灣號做寶島，是因為山清水秀。
+台羅：Tâi-uân hō-tsò póo-tó, sī in-uī suann-tshing-tsuí-siù.。
+中文：臺灣被稱為寶島，是因為山明水秀。
+
+	16.	新加坡（Sin-ka-pho）
+台語：新加坡是一个清潔甲規整的國家。
+台羅：Sin-ka-pho sī tsi̍t ê tshing-kiat kah kui-tsíng ê kok-ka.。
+中文：新加坡是一個乾淨又整齊的國家。
+
+	17.	大陸（tāi-lio̍k）
+台語：彼陣真濟臺灣人過去大陸做生理。
+台羅：Hit tsūn tsin tsē Tâi-uân-lâng kuè-khì Tāi-lio̍k tsò-sing-lí.。
+中文：那時很多臺灣人去大陸做生意。
+
+	18.	東南亞（Tang-lâm-a）
+台語：東南亞國家真濟攏是熱帶氣候。
+台羅：Tang-lâm-a kok-ka tsin tsē lóng sī jia̍t-tài khì-hōo.。
+中文：東南亞國家很多都是熱帶氣候。
+
+	19.	太空（thài-khong）
+台語：火箭發射出去，飛向無邊的太空。
+台羅：Hué-tsiàn hoat-sià tshut-khì, pue-hiòng bô-pian ê thài-khong.。
+中文：火箭發射出去，飛向無邊無際的太空。
+
+	20.	泰國（Thài-kok）
+台語：泰國料理真合咱臺灣人的胃口。
+台羅：Thài-kok liāu-lí tsin ha̍p lán Tâi-uân-lâng ê uī-kháu.。
+中文：泰國料理非常合臺灣人的口味。
+
+	21.	桃園（Thô-hn̂g）
+台語：桃園機場是臺灣最大的國際機場。
+台羅：Thô-hn̂g ki-tiûnn sī Tâi-uân tsuē-tuā ê kok-tsè ki-tiûnn.。
+中文：桃園機場是臺灣最大的國際機場。
+
+	22.	彰化（Tsiong-huà）
+台語：彰化的肉圓真有名，逐家攏欲去嘗。
+台羅：Tsiong-huà ê bah-guân tsin ū-miâ, ta̍k-ke lóng beh khì tiânn.。
+中文：彰化的肉圓很有名，大家都想去嘗一嘗。
+
+	23.	大稻埕（Tuā-tiū-tiânn）
+台語：大稻埕過去是臺北真熱鬧的商業區。
+台羅：Tuā-tiū-tiânn kuè-khì sī Tâi-pak tsin lāu-jia̍t ê siong-gia̍p-khu.。
+中文：大稻埕過去是臺北非常熱鬧的商業區。
+
+	1.	松山
+　台語：松山車頭邊仔的新商場真熱鬧，假日攏一堆人去踅街食物件。
+　台羅：Siông-san tshia-thâu pinn-á ê sin siong-tiûn tsin lāu-jia̍t, ka-ji̍t lóng tsi̍t-tui lâng khì se̍h-ke tsia̍h mi̍h-kiānn.
+　中文：松山車站旁的新商場很熱鬧，假日總是一群人去逛街吃美食。
+	2.	錫口
+　台語：阿公講伊細漢攏佇錫口擺攤，市仔擱真鬧熱。
+　台羅：A-kong kóng i sè-hàn lóng tī Si̍k-kháu páinn-than, chhī-á koh tsin lāu-jia̍t.
+　中文：阿公說他小時候都在錫口擺攤，那個市場很熱鬧。
+	3.	梘尾
+　台語：阿嬤細漢佇梘尾做針線工，講彼个所在的人情味上濟。
+　台羅：A-mà sè-hàn tī Ké-bué tsò tsiam-suànn-kang, kóng hit ê sóo-tsāi ê lâng-tsîng-bī siōng tsē.
+　中文：阿嬤小時候在梘尾做針線活，說那個地方最有人情味。
+	4.	大龍泵
+　台語：大龍泵廟埕遐，每逢節慶攏有熱鬧的活動。
+　台羅：Tuā-liông-pang biō-tiânn hia, múi-hông tsiat-khìng lóng ū lāu-jia̍t ê ua̍t-tāng.
+　中文：在大龍泵的廟埕那裡，每逢節慶都有熱鬧的活動。
+	5.	地號名
+　台語：欲買土地進前，先確認地號名佮界線，免後擺出紛爭。
+　台羅：Beh bé thóo-tē tsìn-tsîng, sing khak-jīnn tē-hō-miâ kah kài-suànn, bián āu-pái tshut hun-tsing.
+　中文：要買土地之前，先確認地號名和界線，免得以後發生爭議。
+
+
+📝 良好擷取:
+------------------------------------------------------------
+ 1. 艋舺
+    台語：一府、二鹿、三艋舺。
+    中文：「府」指今臺南市、「鹿」指今彰化縣鹿港鎮、「艋舺」指今臺北市萬華區。一、二、三則為三個地區早期的開發順序。
+
+❌ 缺失單字報告:
+============================================================
+以下 33 個單字沒有找到可用的例句：
+
+📋 無用例 (33個):
+   桃園      村落      中國大陸    大龍泵     馬祖      松山      木柵      太空      臺北市萬華   新加坡     
+   臺北市松山   錫口      鄉下      地號名     馬來西亞    金門      印度      大稻埕     臺北市景美   寶島      
+   大陸      雲林      英國      法國      墾丁      彰化      臺北市大同區  東南亞     印尼      泰國      
+   內湖      梘尾      港都      
+
+💡 建議：
+   1. 這些單字可能在教育部辭典中沒有用例
+   2. 可以嘗試其他台語辭典或資源
+   3. 或者手動查詢相關的同義詞

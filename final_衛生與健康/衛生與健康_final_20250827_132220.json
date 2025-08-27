@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "scraper_type": "最終版手動操作風格爬蟲",
+    "operation_flow": "輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理",
+    "source_url": "https://sutian.moe.edu.tw/zh-hant/tshiau/",
+    "extraction_date": "20250827_132220",
+    "statistics": {
+      "total_words": 21,
+      "successful_extractions": 7,
+      "missing_words": 14,
+      "success_rate": "33.3%",
+      "quality_stats": {
+        "完整": 7,
+        "良好": 0,
+        "基本": 0,
+        "不完整": 0
+      }
+    }
+  },
+  "successful_records": [
+    {
+      "word": "齒抿",
+      "taiwanese_sentence": "無紮齒抿仔，上少嘛著漉喙，無，真袂慣勢。",
+      "tailo_pronunciation": "Bô tsah khí-bín-á, siōng-tsió mā tio̍h lo̍k-tshuì, bô, tsin bē kuàn-sì.。",
+      "chinese_translation": "沒帶牙刷，起碼也得漱口，不然，真不習慣。",
+      "source_word": "漉喙",
+      "extraction_time": "2025-08-27 13:21:25",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "齒膏",
+      "taiwanese_sentence": "洗喙愛用齒膏。",
+      "tailo_pronunciation": "Sé-tshuì ài īng khí-ko.。",
+      "chinese_translation": "刷牙要用牙膏。",
+      "source_word": "齒膏",
+      "extraction_time": "2025-08-27 13:21:33",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "漉喙",
+      "taiwanese_sentence": "無紮齒抿仔，上少嘛著漉喙，無，真袂慣勢。",
+      "tailo_pronunciation": "Bô tsah khí-bín-á, siōng-tsió mā tio̍h lo̍k-tshuì, bô, tsin bē kuàn-sì.。",
+      "chinese_translation": "沒帶牙刷，起碼也得漱口，不然，真不習慣。",
+      "source_word": "漉喙",
+      "extraction_time": "2025-08-27 13:21:42",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "跤液",
+      "taiwanese_sentence": "你入門我就鼻著你的臭跤液味，緊去共跤洗洗咧！",
+      "tailo_pronunciation": "Lí ji̍p-mn̂g guá tō phīnn-tio̍h lí ê tshàu-kha-sio̍h bī, kín khì kā kha sé-sé--leh",
+      "chinese_translation": "你進門我就聞到你腳臭味，快去把腳洗一洗！",
+      "source_word": "臭跤液",
+      "extraction_time": "2025-08-27 13:21:56",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "衛生紙",
+      "taiwanese_sentence": "警察用衛生紙頂面的潲做證據。",
+      "tailo_pronunciation": "Kíng-tshat iōng uē-sing-tsuá tíng-bīn ê siâu tsò tsìng-kì.。",
+      "chinese_translation": "警察用衛生紙上的精液當證據。",
+      "source_word": "潲替siâu",
+      "extraction_time": "2025-08-27 13:22:01",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "齒粉",
+      "taiwanese_sentence": "用齒粉洗喙。",
+      "tailo_pronunciation": "Iōng khí-hún sé-tshuì.。",
+      "chinese_translation": "用牙粉洗牙。",
+      "source_word": "齒粉",
+      "extraction_time": "2025-08-27 13:22:15",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "齒戳",
+      "taiwanese_sentence": "用齒戳仔戳喙齒。",
+      "tailo_pronunciation": "Iōng khí-thok-á thok tshuì-khí.。",
+      "chinese_translation": "用牙籤剔牙齒。",
+      "source_word": "齒戳仔",
+      "extraction_time": "2025-08-27 13:22:20",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    }
+  ],
+  "missing_words": [
+    {
+      "word": "牙粉",
+      "reason": "無用例",
+      "index": 2
+    },
+    {
+      "word": "梳子",
+      "reason": "無用例",
+      "index": 3
+    },
+    {
+      "word": "牙刷",
+      "reason": "無用例",
+      "index": 5
+    },
+    {
+      "word": "腳汗",
+      "reason": "無用例",
+      "index": 6
+    },
+    {
+      "word": "洗面槽",
+      "reason": "無用例",
+      "index": 8
+    },
+    {
+      "word": "牙膏",
+      "reason": "無用例",
+      "index": 9
+    },
+    {
+      "word": "洗髮精",
+      "reason": "無用例",
+      "index": 10
+    },
+    {
+      "word": "齒觳仔",
+      "reason": "無用例",
+      "index": 11
+    },
+    {
+      "word": "漱口",
+      "reason": "無用例",
+      "index": 13
+    },
+    {
+      "word": "漱口杯",
+      "reason": "無用例",
+      "index": 15
+    },
+    {
+      "word": "酒精",
+      "reason": "無用例",
+      "index": 16
+    },
+    {
+      "word": "牙籤",
+      "reason": "無用例",
+      "index": 17
+    },
+    {
+      "word": "捋仔",
+      "reason": "無用例",
+      "index": 18
+    },
+    {
+      "word": "洗臉臺",
+      "reason": "無用例",
+      "index": 20
+    }
+  ]
+}

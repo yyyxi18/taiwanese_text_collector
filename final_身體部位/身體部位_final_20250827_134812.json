@@ -1,0 +1,334 @@
+{
+  "metadata": {
+    "scraper_type": "最終版手動操作風格爬蟲",
+    "operation_flow": "輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理",
+    "source_url": "https://sutian.moe.edu.tw/zh-hant/tshiau/",
+    "extraction_date": "20250827_134812",
+    "statistics": {
+      "total_words": 39,
+      "successful_extractions": 23,
+      "missing_words": 16,
+      "success_rate": "59.0%",
+      "quality_stats": {
+        "完整": 23,
+        "良好": 0,
+        "基本": 0,
+        "不完整": 0
+      }
+    }
+  },
+  "successful_records": [
+    {
+      "word": "喙舌",
+      "taiwanese_sentence": "想欲開喙，雄雄喙舌煞拍結。",
+      "tailo_pronunciation": "Siūnn-beh khui-tshuì, hiông-hiông tshuì-tsi̍h suah phah-kat.。",
+      "chinese_translation": "想開口說話，舌頭卻突然打結。",
+      "source_word": "拍結",
+      "extraction_time": "2025-08-27 13:46:23",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "皮膚",
+      "taiwanese_sentence": "人較有歲了後，皮膚會變較薄，跤腿的青筋攏看現現。",
+      "tailo_pronunciation": "Lâng khah ū-huè liáu-āu, phuê-hu ē piàn khah po̍h, kha-thuí ê tshenn-kin lóng khuànn-hiān-hiān.。",
+      "chinese_translation": "人上了年紀後，皮膚會變得較薄，腿上的青筋清楚可見。",
+      "source_word": "青筋",
+      "extraction_time": "2025-08-27 13:46:25",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "骨頭",
+      "taiwanese_sentence": "後個月過愛安排一下仔時間共阿公抾骨頭，紲落來才閣囥入去塔裡。",
+      "tailo_pronunciation": "Āu kò gue̍h kuè ài an-pâi tsi̍t-ē-á sî-kan kā a-kong khioh-kut-thâu, suà--lo̍h-lâi tsiah-koh khǹg ji̍p-khì thah--lí.。",
+      "chinese_translation": "下個月過後要安排個時間來替爺爺撿骨，之後再放到靈骨塔。",
+      "source_word": "抾骨頭",
+      "extraction_time": "2025-08-27 13:46:31",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "身體",
+      "taiwanese_sentence": "原本肝無好就愛注意，毋通為著趁錢拚甲無暝無日，才袂拍歹身體，人講：「趁錢有數，性命愛顧。」趁會著嘛愛食會著才有效。",
+      "tailo_pronunciation": "Guân-pún kuann bô hó tō ài tsù-ì, m̄-thang uī-tio̍h thàn-tsînn piànn kah bô-mê-bô-ji̍t, tsiah bē phah-pháinn sin-thé, lâng kóng, “Thàn-tsînn iú sòo, sènn-miā ài kòo.” Thàn ē tio̍h mā ài tsia̍h ē tio̍h tsiah ū-hāu.。」賺得到也要花得了才有用。",
+      "chinese_translation": "原本肝功能不好就得注意，不要為了賺錢日夜勤奮，才不會弄壞身體，人家說：「賺錢數量有限，生命要照顧。」賺得到也要花得了才有用。",
+      "source_word": "趁錢有數，性命愛顧。",
+      "extraction_time": "2025-08-27 13:46:34",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "身軀",
+      "taiwanese_sentence": "彼个乞食一身軀穿甲襤襤褸褸，予人看著真袂過心。",
+      "tailo_pronunciation": "Hit ê khit-tsia̍h tsi̍t-sin-khu tshīng kah lâm-lâm-luì-luì, hōo lâng khuànn tio̍h tsin bē kuè-sim.。",
+      "chinese_translation": "那個乞丐全身衣衫襤褸，讓人看了很過意不去。",
+      "source_word": "襤襤褸褸",
+      "extraction_time": "2025-08-27 13:46:37",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "肚臍",
+      "taiwanese_sentence": "這聲銃子去彈著肚臍空，穩死的！",
+      "tailo_pronunciation": "Tsit-siann tshìng-tsí khì tuānn-tio̍h tōo-tsâi-khang, ún sí--ê",
+      "chinese_translation": "這下子子彈正中肚臍眼，必死無疑！",
+      "source_word": "肚臍空",
+      "extraction_time": "2025-08-27 13:46:42",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "鼻空",
+      "taiwanese_sentence": "𪜶董的趁有錢了後，就激甲一个參仔氣，講話攏對鼻空出來。",
+      "tailo_pronunciation": "In táng--ê thàn ū tsînn liáu-āu, tō kik kah tsi̍t ê sim-á-khuì, kóng-uē lóng tuì phīnn-khang tshut--lâi.。",
+      "chinese_translation": "他們董事長賺了大錢以後，就一副高不可攀的樣子，講話都從鼻孔出聲。",
+      "source_word": "參仔氣",
+      "extraction_time": "2025-08-27 13:46:45",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "喙䫌",
+      "taiwanese_sentence": "伊講白賊去予阿母搧喙䫌。",
+      "tailo_pronunciation": "I kóng-pe̍h-tsha̍t khì hōo a-bú siàn-tshuì-phué.。",
+      "chinese_translation": "他說謊被媽媽打耳光。",
+      "source_word": "搧喙䫌",
+      "extraction_time": "2025-08-27 13:46:54",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "耳空",
+      "taiwanese_sentence": "𪜶序大人不時苦勸伊食食、睏眠愛正常，伊煞「一耳空入，一耳空出」，今身體出問題矣，欲怪啥人！",
+      "tailo_pronunciation": "In sī-tuā-lâng put-sî khóo-khǹg i tsia̍h-si̍t, khùn-bîn ài tsìng-siông, i suah “tsi̍t hīnn-khang ji̍p, tsi̍t hīnn-khang tshut”, tann sin-thé tshut būn-tê--ah, beh kuài siánn-lâng!。",
+      "chinese_translation": "他父母親常常勸告他飲食與睡眠要正常，他卻「右耳進，左耳出」，現在身體出狀況了，要怪誰呢！",
+      "source_word": "一耳空入，一耳空出。",
+      "extraction_time": "2025-08-27 13:46:57",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "喙脣",
+      "taiwanese_sentence": "予人講兩句仔就氣怫怫，面腔閣遐䆀，你就是無捎著「好歹在心內，喙脣皮相款待」的鋩角，按呢欲佮人做生理，會真食虧。",
+      "tailo_pronunciation": "Hōo lâng kóng--nn̄g-kù-á tō khì-phut-phut, bīn-tshiunn koh hiah bái, lí tō sī bô sa-tio̍h “hó-pháinn tsāi sim-lāi, tshuì-tûn-phuê sio khuán-thāi” ê mê-kak, án-ne beh kah lâng tsò-sing-lí, ē tsin tsia̍h-khui.。",
+      "chinese_translation": "被人家說個兩句就氣呼呼的，臉色又相當難看，你就是沒掌握到「好壞藏心裡，口頭以禮相待」的要領，這樣要跟人家做生意，會很吃虧的。",
+      "source_word": "好歹在心內，喙脣皮相款待。",
+      "extraction_time": "2025-08-27 13:47:02",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "關節",
+      "taiwanese_sentence": "關節炎若夯起來，骨目就會痠軟疼。",
+      "tailo_pronunciation": "Kuan-tsat-iām nā giâ--khí-lâi, kut-ba̍k tō ē sng-nńg-thiànn.。",
+      "chinese_translation": "關節炎如果發作，骨節就會又痠又痛。",
+      "source_word": "骨目",
+      "extraction_time": "2025-08-27 13:47:08",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "頭殼",
+      "taiwanese_sentence": "阿雄仔頭殼好閣𠢕變竅，無論拄著啥物困難的代誌，伊攏老神在在應講：「免煩惱啦，到彼號時，攑彼號旗，代誌總是有解決的辦法。」",
+      "tailo_pronunciation": "A-hiông--á thâu-khak hó koh gâu piàn-khiàu, bô-lūn tú-tio̍h siánn-mih khùn-lân ê tāi-tsì, i lóng lāu-sîn-tsāi-tsāi ìn kóng, “Bián huân-ló--lah, kàu hit-lō sî, gia̍h hit-lō kî, tāi-tsì tsóng-sī ū kái-kuat ê pān-huat.”。」",
+      "chinese_translation": "阿雄聰明又機靈，無論遇到什麼困難的事情，他都一副胸有成竹的說：「別煩惱，到那個時候看情況再做決定，事情總是有解決的辦法。」",
+      "source_word": "到彼號時，攑彼號旗。",
+      "extraction_time": "2025-08-27 13:47:11",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "指甲",
+      "taiwanese_sentence": "伊的歹癖一大堆，連鞭咬指甲，連鞭搝頭鬃。",
+      "tailo_pronunciation": "I ê pháinn-phiah tsi̍t-tuā-tui, liâm-mi kā tsíng-kah, liâm-mi khiú thâu-tsang.。",
+      "chinese_translation": "他的壞習慣一大堆，一下咬指甲，一下拉拔頭髮。",
+      "source_word": "歹癖",
+      "extraction_time": "2025-08-27 13:47:14",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "手指頭",
+      "taiwanese_sentence": "你的手指頭仔有幾个腡？",
+      "tailo_pronunciation": "Lí ê tshiú-tsíng-thâu-á ū kuí ê lê",
+      "chinese_translation": "你的手指頭上有幾個螺旋狀指紋？",
+      "source_word": "腡",
+      "extraction_time": "2025-08-27 13:47:17",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "耳仔",
+      "taiwanese_sentence": "伊就是標準的「耳仔生兩葉，家己看袂著」的彼款人，叫伊講別人的缺點，隨就講甲喙角專泡，啊若講著家己佗位愛改，伊就攏恬恬，若親像換一个人的款。",
+      "tailo_pronunciation": "I tō sī piau-tsún ê “hīnn-á senn nn̄g hio̍h, ka-kī khuànn bē tio̍h” ê hit khuán lâng, kiò i kóng pa̍t-lâng ê khuat-tiám, suî tō kóng kah tshuì-kak tsuan pho, ah nā kóng-tio̍h ka-kī tó-uī ài kái, i tō lóng tiām-tiām, ná-tshin-tshiūnn uānn tsi̍t ê lâng ê khuán.。",
+      "chinese_translation": "他就是標準的「耳朵長兩片，但自己卻看不見」的那種人，叫他說別人的缺點，一下子就能說出一大堆，但要他講自己須改進的地方，他就完全不作聲，如同換了個人似的。",
+      "source_word": "耳仔生兩葉，家己看袂著。",
+      "extraction_time": "2025-08-27 13:47:19",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "頭毛",
+      "taiwanese_sentence": "伊才二十捅歲，就規頭白頭毛，看著足老相的。",
+      "tailo_pronunciation": "I tsiah jī-tsa̍p-thóng huè, tō kui thâu pe̍h thâu-mn̂g, khuànn tio̍h tsiok lāu-siùnn--ê.。",
+      "chinese_translation": "他才二十出頭就滿頭白髮，看起來很顯老。",
+      "source_word": "老相",
+      "extraction_time": "2025-08-27 13:47:25",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "腹肚",
+      "taiwanese_sentence": "人講：「人心肝，牛腹肚。」有人買彩券著頭獎猶嫌無夠，共錢閣再漚落去，免兩冬錢就吐了了矣。",
+      "tailo_pronunciation": "Lâng kóng, “Lâng sim-kuann, gû pak-tóo.” Ū lâng bé tshái-kuàn tio̍h thâu-tsióng iáu hiâm bô-kàu, kā tsînn koh-tsài au--lo̍h-khì, bián nn̄g tang tsînn tō thòo-liáu-liáu--ah.。」有人買彩券中了頭獎還嫌不夠，還繼續加倍投注，不到兩年錢就都賠光了。",
+      "chinese_translation": "人家說：「人心不足蛇吞象。」有人買彩券中了頭獎還嫌不夠，還繼續加倍投注，不到兩年錢就都賠光了。",
+      "source_word": "人心肝，牛腹肚。",
+      "extraction_time": "2025-08-27 13:47:31",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "目睭",
+      "taiwanese_sentence": "阿公送到病院的時雖然猶知人，毋過袂講話嘛袂振動，干焦恬恬看病床邊的人，真正是「目睭金金人傷重」。",
+      "tailo_pronunciation": "A-kong sàng kàu pēnn-īnn ê sî sui-jiân iáu tsai lâng, m̄-koh bē kóng-uē mā bē tín-tāng, kan-na tiām-tiām khuànn pēnn-tshn̂g-pinn ê lâng, tsin-tsiànn sī “ba̍k-tsiu kim-kim lâng siong-tiōng”.。",
+      "chinese_translation": "爺爺送到醫院的時候雖然還有知覺，不過無法講話也無法移動，只靜靜的看著病床邊的人，真的是「眼睛睜大，病情嚴重」。",
+      "source_word": "目睭金金人傷重。",
+      "extraction_time": "2025-08-27 13:47:34",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "鼻仔",
+      "taiwanese_sentence": "鼻仔都擤甲紅絳絳矣你閣一直擤鼻。",
+      "tailo_pronunciation": "Phīnn-á to tshìng kah âng-kòng-kòng--ah lí koh it-ti̍t tshìng-phīnn.。",
+      "chinese_translation": "鼻子都擤得紅紅的了你還一直擤鼻涕。",
+      "source_word": "擤鼻",
+      "extraction_time": "2025-08-27 13:47:37",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "喙齒",
+      "taiwanese_sentence": "年歲有矣，喙齒縫愈來愈櫳，食物件定定楔咧，真礙虐。",
+      "tailo_pronunciation": "Nî-huè ū--ah, tshuì-khí-phāng jú lâi jú lang, tsia̍h mi̍h-kiānn tiānn-tiānn seh--leh, tsin gāi-gio̍h.。",
+      "chinese_translation": "年紀大了，牙縫愈來愈大，吃東西常常卡著，真是不舒服。",
+      "source_word": "喙齒縫",
+      "extraction_time": "2025-08-27 13:47:48",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "尻川",
+      "taiwanese_sentence": "阿龍上興食腥臊的，磕袂著就魚魚肉肉，閣再毋是薟就是重鹹，攏無咧撙節的，結局「喙食，予尻川坐數。」這馬人咧喝艱苦矣。",
+      "tailo_pronunciation": "A-liông siōng hìng tsia̍h tshenn-tshau--ê, kha̍p-bē-tio̍h tō hî-hî-bah-bah, koh-tsài m̄ sī hiam tō sī tāng-kiâm, lóng bô teh tsún-tsat--ê, kiat-kio̍k “tshuì tsia̍h, hōo kha-tshng tshē-siàu.” Tsit-má lâng teh huah kan-khóo--ah.。」現在身體受不了。",
+      "chinese_translation": "阿龍最愛吃大餐，動不動就又是魚又是肉，兼且不是辣就是鹹等等的重口味，從不節制，結果「貪圖味覺享受而亂吃，拉肚子時受苦的卻是屁股。」現在身體受不了。",
+      "source_word": "喙食，予尻川坐數。",
+      "extraction_time": "2025-08-27 13:47:57",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "跤手",
+      "taiwanese_sentence": "伊佇阮公司頂司誠滿意，下跤手人閣呵咾甲會觸舌，這款「一面抹壁雙面光」的工夫，一般人是無才調按呢。",
+      "tailo_pronunciation": "I tī guán kong-si tíng-si tsiânn muá-ì, ē-kha-tshiú-lâng koh o-ló kah ē tak-tsi̍h, tsit khuán “tsi̍t bīn buah-piah siang bīn kng” ê kang-hu, it-puann lâng sī bô tsâi-tiāu án-ne.。",
+      "chinese_translation": "他在我們公司上屬很滿意，下屬也讚譽有加，這種「圓融的處世功夫」，一般人是沒辦法如此的。",
+      "source_word": "一面抹壁雙面光。",
+      "extraction_time": "2025-08-27 13:48:01",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "指頭仔",
+      "taiwanese_sentence": "爸母疼囝，對較有出脫的就放較會落心，啊若趁較無食的就會較照顧，人講：「五肢指頭仔伸出來無平長。」毋過疼囝的心攏是仝款的，絕對無大細心的道理。",
+      "tailo_pronunciation": "Pē-bú thiànn kiánn, tuì khah ū tshut-thuat--ê tō pàng khah ē lo̍h-sim, ah nā thàn khah bô tsia̍h--ê tō ē khah tsiàu-kòo, lâng kóng, “Gōo ki tsíng-thâu-á tshun--tshut-lâi bô pênn tn̂g.” M̄-koh thiànn kiánn ê sim lóng sī kāng-khuán--ê, tsua̍t-tuì bô tuā-sè-sim ê tō-lí.。」但疼愛小孩的心都一樣，絕無偏袒的道理。",
+      "chinese_translation": "父母疼愛子女，對有出息的就比較會放心，對於無力謀生的就會比較照顧，人家說：「手指頭伸出來也長短不一。」但疼愛小孩的心都一樣，絕無偏袒的道理。",
+      "source_word": "五肢指頭仔伸出來無平長。",
+      "extraction_time": "2025-08-27 13:48:06",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    }
+  ],
+  "missing_words": [
+    {
+      "word": "屁股",
+      "reason": "無用例",
+      "index": 3
+    },
+    {
+      "word": "頭髮",
+      "reason": "無用例",
+      "index": 7
+    },
+    {
+      "word": "嘴脣",
+      "reason": "無用例",
+      "index": 10
+    },
+    {
+      "word": "手和腳",
+      "reason": "無用例",
+      "index": 11
+    },
+    {
+      "word": "眉毛",
+      "reason": "無用例",
+      "index": 14
+    },
+    {
+      "word": "頭顱、腦袋",
+      "reason": "無用例",
+      "index": 16
+    },
+    {
+      "word": "肚子",
+      "reason": "無用例",
+      "index": 22
+    },
+    {
+      "word": "臉頰、面頰",
+      "reason": "無用例",
+      "index": 24
+    },
+    {
+      "word": "鼻孔",
+      "reason": "無用例",
+      "index": 28
+    },
+    {
+      "word": "耳孔",
+      "reason": "無用例",
+      "index": 29
+    },
+    {
+      "word": "目眉",
+      "reason": "無用例",
+      "index": 30
+    },
+    {
+      "word": "牙齒",
+      "reason": "無用例",
+      "index": 32
+    },
+    {
+      "word": "舌頭",
+      "reason": "無用例",
+      "index": 33
+    },
+    {
+      "word": "耳朵",
+      "reason": "無用例",
+      "index": 36
+    },
+    {
+      "word": "眼睛",
+      "reason": "無用例",
+      "index": 38
+    },
+    {
+      "word": "鼻子",
+      "reason": "無用例",
+      "index": 39
+    }
+  ]
+}

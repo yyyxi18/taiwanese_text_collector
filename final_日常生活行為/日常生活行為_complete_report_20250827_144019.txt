@@ -1,0 +1,160 @@
+最終版台語辭典擷取完整報告 - 日常生活行為
+================================================================================
+🎯 操作流程：輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理
+📊 完整統計：
+   - 總計單字：42 個
+   - 成功擷取：20 個
+   - 缺失單字：22 個
+   - 成功率：47.6%
+⏰ 擷取時間：20250827_144019
+
+🌟 完整擷取（台語+台羅+中文）:
+------------------------------------------------------------
+ 1. 摒掃
+    台語：看著𪜶有身的新婦佇咧摒掃，阿婆就會喝講：「大身大命喔！我來就好。」
+    台羅：Khuànn-tio̍h in ū-sin ê sin-pū tī-leh piànn-sàu, a-pô tō ē huah kóng, “Tuā-sin-tuā-miā--ooh! Guá lâi tō hó.”。」
+    中文：看到他懷孕的媳婦在打掃，阿婆就會說：「一身二命喔！我來就好。」
+    來源：大身大命
+
+ 2. 啉茶
+    台語：咱來去茶館啉茶開講。
+    台羅：Lán lâi-khì tê-kuán lim tê khai-káng.。
+    中文：我們去茶室喝茶聊天。
+    來源：茶館
+
+ 3. 三頓
+    台語：彼間公司的頭家倩阿勇做辛勞，毋但攢三頓予伊食，月俸嘛有照起工發，阿勇煞四界共人講這間公司誠凍霜，正港是「桌頂食飯，桌跤放屎」。
+    台羅：Hit king kong-si ê thâu-ke tshiànn A-ióng tsò sin-lô, m̄-nā tshuân sann tǹg hōo i tsia̍h, gue̍h-hōng mā ū tsiàu-khí-kang huat, A-ióng suah sì-kè kā lâng kóng tsit king kong-si tsiânn tàng-sng, tsiànn-káng sī “toh-tíng tsia̍h-pn̄g, toh-kha pàng-sái”.。
+    中文：那間公司的老闆聘用阿勇為職員，不僅準備三餐給他們吃，月薪也按規矩發，阿勇卻四處跟別人說這間公司很吝嗇，真的是「受人恩惠而不知報答」。
+    來源：桌頂食飯，桌跤放屎。
+
+ 4. 放尿
+    台語：拚經濟愛用電，毋過燃塗炭汙染空氣，核能發電無安全，綠能成本傷懸，實在是「放屎也疼，放尿也疼」。
+    台羅：Piànn king-tsè ài iōng tiān, m̄-koh hiânn thôo-thuànn u-jiám khong-khì, hi̍k-lîng huat-tiān bô an-tsuân, li̍k-lîng sîng-pún siunn kuân, si̍t-tsāi sī “pàng-sái iā thiànn, pàng-jiō iā thiànn”.。
+    中文：拚經濟要用電，不過燃燒煤炭會導致空氣汙染，核能發電不安全，綠能成本太高，實在是「很難左右逢源」。
+    來源：放屎也疼，放尿也疼。
+
+ 5. 穿插
+    台語：伊雖然穿插若庄跤倯咧，毋過泅水、拍球、唱歌、演奏樂器逐項會，真正是「烏矸仔貯豆油」，予人看袂出。
+    台羅：I sui-jiân tshīng-tshah ná tsng-kha-sông--leh, m̄-koh siû-tsuí, phah-kiû, tshiùnn-kua, ián-tsàu ga̍k-khì ta̍k hāng ē, tsin-tsiànn sī “oo kan-á té tāu-iû”, hōo lâng khuànn bē tshut.。
+    中文：他雖然衣著打扮像鄉巴佬，不過游泳、打球、唱歌、演奏樂器樣樣會，真是「黑色罐子裝上醬油」，讓人看不出來。
+    來源：烏矸仔貯豆油。
+
+ 6. 喙焦
+    台語：透中晝的時陣拄欲做工課，人煞喙焦喉渴，強強欲昏去。
+    台羅：Thàu-tiong-tàu ê sî-tsūn tú beh tsò khang-khuè, lâng suah tshuì-ta-âu-khuah, kiōng-kiōng beh hūn--khì.。
+    中文：午後陽光最強的時候剛要工作，整個人竟然口乾舌燥，幾乎要暈過去了。
+    來源：喙焦喉渴
+
+ 7. 宵夜
+    台語：等戲煞鼓咱來去食宵夜。
+    台羅：Tán hì suah-kóo lán lâi-khì tsia̍h siau-iā.。
+    中文：等戲結束我們就去吃消夜。
+    來源：煞鼓
+
+ 8. 早頓
+    台語：逐工趕車幫，早頓攏無掛食。
+    台羅：Ta̍k-kang kuánn tshia-pang, tsá-tǹg lóng bô-khuà tsia̍h.。
+    中文：每天趕車幫，都沒空吃早餐。
+    來源：無掛
+
+ 9. 貯飯
+    台語：我來捀碗共你貯飯，你閣小等一下。
+    台羅：Guá lâi phâng uánn kā lí té-pn̄g, lí koh sió-tán--tsi̍t-ē.。
+    中文：我來端碗幫你盛飯，你再稍等一會兒。
+
+10. 散步
+    台語：今仔日並昨昏較生冷，你欲去公園散步，著共袚巾幔佇肩胛頭才出門。
+    台羅：Kin-á-ji̍t phīng tsa-hng khah tshenn-líng, lí beh khì kong-hn̂g sàn-pōo, tio̍h kā phua̍h-kin mua tī king-kah-thâu tsiah tshut-mn̂g.。
+    中文：今天比昨天更冷，你想去公園散步，得把披肩披在肩膀上再出門。
+    來源：袚巾
+
+11. 漩尿
+    台語：狗莫牽來遮漩尿。
+    台羅：Káu mài khan lâi tsia suān-jiō.。
+    中文：狗不要牽來這裡撒尿。
+    來源：漩替suān
+
+12. 沃花
+    台語：我無佇咧這段時間，你愛會記得沃花。
+    台羅：Guá bô tī--leh tsit tuānn sî-kan, lí ài ē-kì-tit ak-hue.。
+    中文：我不在的這段時間，你要記得澆花。
+
+13. 保養
+    台語：阮牽的少年真好枝骨，可惜中年以後無咧保養，身材煞走精去。
+    台羅：Guán khan--ê siàu-liân tsin hó-ki-kut, khó-sioh tiong-liân í-āu bô teh pó-ióng, sin-tsâi suah tsáu-tsing--khì.。
+    中文：我老婆年輕時身材很好，可惜中年之後沒有保養，身材卻走樣了。
+    來源：好枝骨
+
+14. 落屎
+    台語：麵擔仔衛生無好害人客食了落屎猶小局，上害的是濫會傷身體的化學添加物，害主顧客帶身命才是夭壽。
+    台羅：Mī-tànn-á uē-sing bô hó hāi lâng-kheh tsia̍h-liáu làu-sái iáu sió-kio̍k, siōng hāi--ê sī lām ē siong sin-thé ê huà-ha̍k thiam-ka-bu̍t, hāi tsú-kòo-kheh tài-sin-miā tsiah-sī iáu-siū.。
+    中文：麵攤衛生不好害顧客拉肚子還算是小事一樁，最糟糕的是加進會傷身體的化學添加物，害老顧客染上慢性病才是缺德。
+    來源：小局
+
+15. 摺衫
+    台語：伊佇房間咧摺衫。
+    台羅：I tī pâng-king teh tsih-sann.。
+    中文：他在房間摺衣服。
+
+16. 煮食
+    台語：頭擺露營誠有局，毋但暗時欲蹛的布棚愛家己搭，煮食嘛愛先學會曉燃柴起火。
+    台羅：Thâu-pái lōo-iânn tsiânn ū-kio̍k, m̄-nā àm-sî beh tuà ê pòo-pênn ài ka-kī tah, tsú-tsia̍h mā ài sing o̍h ē-hiáu hiânn-tshâ khí-hué.。
+    中文：第一次露營很有意思，不但要自己搭建晚上住的帳篷，烹飪也要先學會燒柴生火。
+    來源：有局
+
+17. 疶屎
+    台語：伊予你驚一下險仔疶屎。
+    台羅：I hōo lí kiann tsi̍t-ē hiám-á tshuah-sái.。
+    中文：他被你嚇得差點屎尿失禁。
+
+18. 暗頓
+    台語：古早嫁娶的風俗誠心適，新娘暗頓愛佇房間內底食，好命婆捀幾項仔飯菜入來，有雞肉、鰇魚，閣會講好話：「食雞，會起家；食鰇魚，生囡仔好育飼。」予新娘止飢兼祝賀。
+    台羅：Kóo-tsá kè-tshuā ê hong-sio̍k tsiânn sim-sik, sin-niû àm-tǹg ài tī pâng-king lāi-té tsia̍h, hó-miā-pô phâng kuí-hāng-á pn̄g-tshài ji̍p--lâi, ū ke-bah, jiû-hî, koh ē kóng hó-uē, “Tsia̍h ke, ē khí-ke; tsia̍h jiû-hî, senn gín-á hó io-tshī.” Hōo sin-niû tsí-ki kiam tsiok-hō.。」給新娘墊墊肚子兼祝福。
+    中文：舊時結婚的風俗很有趣，新娘的晚餐要在臥室裡吃，喜娘會端幾樣飯菜進來，有雞肉、魷魚，還會說吉祥話：「吃雞，會建立家庭；吃魷魚，生出來的孩子會很好養育。」給新娘墊墊肚子兼祝福。
+    來源：食雞，會起家；食鰇魚，生囡仔好育飼。
+
+19. 回收
+    台語：回收若做了好，就會當減少資源的消磨。
+    台羅：Huê-siu nā tsò liáu hó, tō ē-tàng kiám-tsió tsu-guân ê siau-môo.。
+    中文：如果回收做得好，就能減少資源的消耗。
+    來源：消磨
+
+20. 中晝頓
+    台語：阮佇阿媽遮耍，過晝才會轉去，你免攢阮的中晝頓矣。
+    台羅：Guán tī A-má tsia sńg, kuè-tàu tsiah ē tńg--khì, lí bián tshuân guán ê tiong-tàu-tǹg--ah.。
+    中文：我們在奶奶這邊遊玩，中午過後才會回去，你不用張羅我們的午餐了。
+    來源：過晝
+
+1. 撋衫（nuá sann）
+	•	台語：阿母共衫褲攏用手撋衫洗甲真清氣。
+	•	台羅：A-bú kā sann-khòo lóng iōng tshiú nuá-sann sé kah tsin tshing-khì.。
+	•	中文：媽媽把衣服都用手搓揉清洗得很乾淨。
+
+⸻
+
+2. 燃滾水（hiânn kún-tsuí）
+	•	台語：阮阿嬤逐工都會燃滾水泡茶，講這款較有茶香。
+	•	台羅：Guán a-mà ta̍k-kang to ē hiânn kún-tsuí phàu-tê, kóng tsit khuán khah ū tê-phang.。
+	•	中文：我們阿嬤每天都會燒開水泡茶，說這樣才有茶香。
+
+⸻
+
+3. 褪衫（thǹg-sann）
+	•	台語：囡仔返來就褪衫去洗身軀，真乖。
+	•	台羅：Gín-á tńg–lâi tō thǹg-sann khì sé-sin-khu, tsin kuai.。
+	•	中文：小孩一回來就脫衣服去洗澡，很乖。
+
+❌ 缺失單字報告:
+============================================================
+以下 22 個單字沒有找到可用的例句：
+
+📋 無用例 (22個):
+   口渴      澆花      用手搓揉、用力洗滌衣物燒水、煮熱水  小便      喝茶      中餐      早餐      盛飯      褪衫      
+   拉肚子     煮飯、烹飪   三餐      晚餐      脫衣服     燃滾水     打掃      穿著、打扮   撋衫      挫屎      
+   撒尿、排尿   摺衣服     
+
+💡 建議：
+   1. 這些單字可能在教育部辭典中沒有用例
+   2. 可以嘗試其他台語辭典或資源
+   3. 或者手動查詢相關的同義詞

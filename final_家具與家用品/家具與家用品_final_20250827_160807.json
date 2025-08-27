@@ -1,0 +1,849 @@
+{
+  "metadata": {
+    "scraper_type": "最終版手動操作風格爬蟲",
+    "operation_flow": "輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理",
+    "source_url": "https://sutian.moe.edu.tw/zh-hant/tshiau/",
+    "extraction_date": "20250827_160807",
+    "statistics": {
+      "total_words": 116,
+      "successful_extractions": 49,
+      "missing_words": 67,
+      "success_rate": "42.2%",
+      "quality_stats": {
+        "完整": 49,
+        "良好": 0,
+        "基本": 0,
+        "不完整": 0
+      }
+    }
+  },
+  "successful_records": [
+    {
+      "word": "水桶",
+      "taiwanese_sentence": "共水桶仔的水摒掉。",
+      "tailo_pronunciation": "Kā tsuí-tháng-á ê tsuí piànn-tiāu.。",
+      "chinese_translation": "把水桶的水倒掉。",
+      "source_word": "摒替piànn",
+      "extraction_time": "2025-08-27 16:02:48",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "椅仔",
+      "taiwanese_sentence": "我去夜市仔開兩百箍買著這條椅仔，哪知坐無兩工就害去，袂輸擤鼻糊的，人講「一分錢，一分貨」，有影俗物就無好貨。",
+      "tailo_pronunciation": "Guá khì iā-tshī-á khai nn̄g-pah khoo bé-tio̍h tsit liâu í-á, ná tsai tsē bô nn̄g kang tō hāi--khì, bē-su tshìng-phīnn kôo--ê, lâng kóng “tsi̍t hun tsînn, tsi̍t hun huè”, ū-iánn sio̍k-mi̍h tō bô hó huè.。",
+      "chinese_translation": "我去夜市花了兩百塊買到這張椅子，哪知道坐不到兩天就壞了，就好像用鼻涕黏的一樣，人家說「一分錢，一分貨」，果然便宜就沒好貨。",
+      "source_word": "一分錢，一分貨。",
+      "extraction_time": "2025-08-27 16:02:53",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "籠床",
+      "taiwanese_sentence": "徛佇籠床邊熁燒。",
+      "tailo_pronunciation": "Khiā tī lâng-sn̂g-pinn hannh sio.。",
+      "chinese_translation": "站在蒸籠旁邊烘熱。",
+      "source_word": "熁",
+      "extraction_time": "2025-08-27 16:03:18",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "電風",
+      "taiwanese_sentence": "熱人到矣，電風好提出來矣。",
+      "tailo_pronunciation": "Jua̍h--lâng kàu--ah, tiān-hong hó the̍h--tshut-lâi--ah.。",
+      "chinese_translation": "夏天了，可以把電扇拿出來了。",
+      "source_word": "熱人",
+      "extraction_time": "2025-08-27 16:03:23",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "椅頭仔",
+      "taiwanese_sentence": "攑椅頭仔去外口坐較秋凊。",
+      "tailo_pronunciation": "Gia̍h í-thâu-á khì guā-kháu tsē khah tshiu-tshìn.。",
+      "chinese_translation": "拿凳子到外頭坐比較涼快。",
+      "source_word": "椅頭仔",
+      "extraction_time": "2025-08-27 16:03:26",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "水道頭",
+      "taiwanese_sentence": "浴間仔的水道頭咧漏水，阮仙舞都袂好勢，結局阮阿爸攑活扳仔共鎖予絚，一下手就好勢溜溜，有影是「食著藥，青草一葉；食毋著藥，人參一石」。",
+      "tailo_pronunciation": "Tsia̍h tio̍h io̍h, tshenn-tsháu tsi̍t hio̍h; tsia̍h m̄-tio̍h io̍h, jîn-sim tsi̍t tsio̍h",
+      "chinese_translation": "浴室的水龍頭漏水，我們怎麼修理都沒用。結果我爸爸拿活動板手將它鎖緊，三兩下就搞定，正所謂「做事掌握關鍵，方能達到事半功倍之效」。",
+      "source_word": "食著藥，青草一葉；食毋著藥，人參一石。",
+      "extraction_time": "2025-08-27 16:03:37",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "洗衫機",
+      "taiwanese_sentence": "這領衫袂當囥洗衫機洗，你去用手浞浞咧。",
+      "tailo_pronunciation": "Tsit niá sann bē-tàng khǹg sé-sann-ki sé, lí khì iōng tshiú tshio̍k-tshio̍k--leh.。",
+      "chinese_translation": "這件衣服不能放洗衣機洗，你去用手稍微搓一下。",
+      "source_word": "浞替tshio̍k",
+      "extraction_time": "2025-08-27 16:03:48",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "手電仔",
+      "taiwanese_sentence": "明仔暗會停電，你敢有攢手電仔？",
+      "tailo_pronunciation": "Bîn-á-àm ē thîng-tiān, lí kám ū tshuân tshiú-tiān-á",
+      "chinese_translation": "明天晚上會停電，你準備手電筒了嗎？",
+      "source_word": "手電仔",
+      "extraction_time": "2025-08-27 16:03:51",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "冊桌仔",
+      "taiwanese_sentence": "阮阿母買一塊新的冊桌仔，欲予我看冊佮寫宿題較利便。",
+      "tailo_pronunciation": "Guán a-bú bé tsi̍t tè sin ê tsheh-toh-á, beh hōo guá khuànn tsheh kah siá siok-tê khah lī-piān.。",
+      "chinese_translation": "我媽媽買了一張新的書桌，方便我看書跟寫功課。",
+      "source_word": "冊桌仔",
+      "extraction_time": "2025-08-27 16:03:53",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "掃梳",
+      "taiwanese_sentence": "較早的人定定用掃梳笒仔捽囡仔。",
+      "tailo_pronunciation": "Khah-tsá ê lâng tiānn-tiānn iōng sàu-se-gím-á sut gín-á.。",
+      "chinese_translation": "以前的人經常用細竹枝打小孩。",
+      "source_word": "掃梳笒仔",
+      "extraction_time": "2025-08-27 16:04:13",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "衫櫥",
+      "taiwanese_sentence": "阿芬共臭礬囥佇衫櫥內，按呢虼蚻才袂走入去。",
+      "tailo_pronunciation": "A-hun kā tshàu-huân khǹg tī sann-tû-lāi, án-ne ka-tsua̍h tsiah bē tsáu--ji̍p-khì.。",
+      "chinese_translation": "阿芬將樟腦丸放在衣櫥裡，這樣蟑螂才不會跑進去。",
+      "source_word": "臭礬",
+      "extraction_time": "2025-08-27 16:04:15",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "吹風機",
+      "taiwanese_sentence": "吹風機無插插頭袂過電，當然嘛袂紡。",
+      "tailo_pronunciation": "Tshue-hong-ki bô tshah tshah-thâu bē kuè-tiān, tong-jiân mā bē pháng.。",
+      "chinese_translation": "吹風機沒插插頭不會通電，當然就不會運轉。",
+      "source_word": "過電",
+      "extraction_time": "2025-08-27 16:04:24",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "椅條",
+      "taiwanese_sentence": "伊行路無細膩去靠著椅條。",
+      "tailo_pronunciation": "I kiânn-lōo bô-sè-jī khì khò-tio̍h í-liâu.。",
+      "chinese_translation": "他走路不小心撞到了長板凳。",
+      "source_word": "靠",
+      "extraction_time": "2025-08-27 16:04:27",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "桌仔",
+      "taiwanese_sentence": "阮阿母買一塊新的冊桌仔，欲予我看冊佮寫宿題較利便。",
+      "tailo_pronunciation": "Guán a-bú bé tsi̍t tè sin ê tsheh-toh-á, beh hōo guá khuànn tsheh kah siá siok-tê khah lī-piān.。",
+      "chinese_translation": "我媽媽買了一張新的書桌，方便我看書跟寫功課。",
+      "source_word": "冊桌仔",
+      "extraction_time": "2025-08-27 16:04:38",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "掃帚",
+      "taiwanese_sentence": "伊隨來遮就火燒厝，真正是掃帚星。",
+      "tailo_pronunciation": "I suî lâi tsia tō hué-sio-tshù, tsin-tsiànn sī sàu-tshiú-tshenn.。",
+      "chinese_translation": "他一來這裡就發生火災，真是掃把星。",
+      "source_word": "掃帚星",
+      "extraction_time": "2025-08-27 16:04:47",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "花矸",
+      "taiwanese_sentence": "這个花矸愛排佇中央，毋通偏一爿。",
+      "tailo_pronunciation": "Tsit ê hue-kan ài pâi tī tiong-ng, m̄-thang phian tsi̍t pîng.。",
+      "chinese_translation": "這個花瓶要排中間，不要偏向一邊。",
+      "source_word": "偏文phian",
+      "extraction_time": "2025-08-27 16:04:53",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "時鐘",
+      "taiwanese_sentence": "時鐘修理好矣。",
+      "tailo_pronunciation": "Sî-tsing siu-lí hó--ah.。",
+      "chinese_translation": "時鐘修理好了。",
+      "source_word": "修理",
+      "extraction_time": "2025-08-27 16:04:59",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "蠓罩",
+      "taiwanese_sentence": "熱天用蠓罩才袂予蠓仔叮。",
+      "tailo_pronunciation": "Jua̍h-thinn īng báng-tà tsiah bē hōo báng-á tìng.。",
+      "chinese_translation": "夏天用蚊帳才不會被蚊子叮。",
+      "source_word": "蠓罩",
+      "extraction_time": "2025-08-27 16:05:02",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "畚斗",
+      "taiwanese_sentence": "虎面前捙畚斗。",
+      "tailo_pronunciation": "Hóo bīn-tsîng tshia-pùn-táu.。比喻昧於危險，冒險行事。",
+      "chinese_translation": "在老虎面前翻跟斗。比喻昧於危險，冒險行事。",
+      "source_word": "捙畚斗",
+      "extraction_time": "2025-08-27 16:05:08",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "盤仔",
+      "taiwanese_sentence": "阿母洗碗的時，盤仔煞遛手摔破去。",
+      "tailo_pronunciation": "A-bú sé uánn ê sî, puânn-á suah liù-tshiú siak-phuà--khì.。",
+      "chinese_translation": "媽媽洗碗時，失手將盤子摔破。",
+      "source_word": "遛手",
+      "extraction_time": "2025-08-27 16:05:13",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "草蓆",
+      "taiwanese_sentence": "草蓆仔頂的塗粉拭拭咧才去睏。",
+      "tailo_pronunciation": "Tsháu-tshio̍h-á-tíng ê thôo-hún tshit-tshit--leh tsiah khì khùn.。",
+      "chinese_translation": "草蓆上的灰塵擦一擦再上去睡覺。",
+      "source_word": "塗粉",
+      "extraction_time": "2025-08-27 16:05:35",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "杯仔",
+      "taiwanese_sentence": "桌頂的玻璃杯仔上好徙較內角咧，才袂無張持摔破去。",
+      "tailo_pronunciation": "Toh-tíng ê po-lê pue-á siōng-hó suá khah lāi-kak--leh, tsiah bē bô-tiunn-tî siak-phuà--khì.。",
+      "chinese_translation": "桌上的玻璃杯最好移裡面一點，才不會稍不留神把它摔破了。",
+      "source_word": "內角",
+      "extraction_time": "2025-08-27 16:05:38",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "桌布",
+      "taiwanese_sentence": "你愛共這塊桌布小沐一下仔水，才來拭桌頂。",
+      "tailo_pronunciation": "Lí ài kā tsit tè toh-pòo sió bak tsi̍t-ē-á tsuí, tsiah lâi tshit toh-tíng.。",
+      "chinese_translation": "你要將這條抹布稍微沾一下水，才能擦桌子。",
+      "source_word": "沐替bak",
+      "extraction_time": "2025-08-27 16:05:41",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "飯坩",
+      "taiwanese_sentence": "飯坩提去洗洗咧。",
+      "tailo_pronunciation": "Pn̄g-khann the̍h-khì sé-sé--leh.。",
+      "chinese_translation": "飯鍋拿去洗一洗。",
+      "source_word": "飯坩",
+      "extraction_time": "2025-08-27 16:05:49",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "面巾",
+      "taiwanese_sentence": "伊共面巾袚佇肩胛頭。",
+      "tailo_pronunciation": "I kā bīn-kin phua̍h tī king-kah-thâu.。",
+      "chinese_translation": "他把毛巾披掛在肩膀上。",
+      "source_word": "袚替phua̍h",
+      "extraction_time": "2025-08-27 16:05:52",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "水管",
+      "taiwanese_sentence": "這條水管破去矣。",
+      "tailo_pronunciation": "Tsit tiâu tsuí-kóng phuà--khì--ah.。",
+      "chinese_translation": "這條水管破掉了。",
+      "source_word": "水管",
+      "extraction_time": "2025-08-27 16:05:55",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "茶鈷",
+      "taiwanese_sentence": "茶鈷咧呻矣，你緊去共火關起來。",
+      "tailo_pronunciation": "Tê-kóo teh tshan--ah, lí kín khì kā hué kuainn--khí-lâi.。",
+      "chinese_translation": "茶壺在叫了，你快去將爐火關起來。",
+      "source_word": "呻白tshan",
+      "extraction_time": "2025-08-27 16:05:58",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "花瓶",
+      "taiwanese_sentence": "明星攏足驚人講𪜶是花瓶。",
+      "tailo_pronunciation": "Bîng-tshenn lóng tsiok kiann lâng kóng in sī hue-pân.。",
+      "chinese_translation": "明星都很怕別人說他們是花瓶。",
+      "source_word": "花瓶",
+      "extraction_time": "2025-08-27 16:06:00",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "屜仔",
+      "taiwanese_sentence": "伊下早仔去予屜仔挾著尾二指，這馬閣猶腫腫。",
+      "tailo_pronunciation": "I e-tsái-á khì hōo thuah-á gia̍p-tio̍h bué-jī-tsáinn, tsit-má koh iáu tsíng-tsíng.。",
+      "chinese_translation": "他今天早上被抽屜夾到無名指，現在還腫腫的。",
+      "source_word": "尾二指",
+      "extraction_time": "2025-08-27 16:06:06",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "棉襀被",
+      "taiwanese_sentence": "雨落規禮拜，真無簡單出日頭矣，趁這个流擺緊共棉襀被挔出來曝。",
+      "tailo_pronunciation": "Hōo lo̍h kui lé-pài, tsin bô kán-tan tshut-ji̍t-thâu--ah, thàn tsit ê lâu-pái kín kā mî-tsioh-phuē hiannh tshut-lâi pha̍k.。",
+      "chinese_translation": "下了整週的雨，好不容易出太陽了，趁這個時機快把棉被拿出來晒。",
+      "source_word": "流擺",
+      "extraction_time": "2025-08-27 16:06:09",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "飯桌",
+      "taiwanese_sentence": "阿媽佇田裡拍菜股，一股一股的菜蔬攏成做飯桌頂的好料理。",
+      "tailo_pronunciation": "A-má tī tshân--lí phah tshài-kóo, tsi̍t kóo tsi̍t kóo ê tshài-se lóng tsiânn-tsò pn̄g-toh-tíng ê hó liāu-lí.。",
+      "chinese_translation": "奶奶在田裏面築造菜畦，一畦一畦的青菜都成了飯桌上的好菜色。",
+      "source_word": "菜股",
+      "extraction_time": "2025-08-27 16:06:12",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "鋏仔",
+      "taiwanese_sentence": "樹仔跤的樹葉仔無偌濟，用鋏仔鋏鋏咧就會用得矣。",
+      "tailo_pronunciation": "Tshiū-á-kha ê tshiū-hio̍h-á bô guā-tsē, iōng giap-á giap-giap--leh tō ē-īng--tit--ah.。",
+      "chinese_translation": "樹底下的樹葉沒有很多，拿夾子夾一夾就可以了。",
+      "source_word": "鋏仔",
+      "extraction_time": "2025-08-27 16:06:14",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "菜刀",
+      "taiwanese_sentence": "看伊攑菜刀剁肉、切菜的款勢誠熟手，對煮食應該真有經驗。",
+      "tailo_pronunciation": "Khuànn i gia̍h tshài-to tok bah, tshiat tshài ê khuán-sè tsiânn si̍k-tshiú, tuì tsú-tsia̍h ing-kai tsin ū king-giām.。",
+      "chinese_translation": "看他拿菜刀剁肉、切菜的架式十分上手，對烹飪應該很有經驗。",
+      "source_word": "款勢",
+      "extraction_time": "2025-08-27 16:06:17",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "膨椅",
+      "taiwanese_sentence": "看著𪜶阿爸坐佇客廳的膨椅盹龜，伊跕跤勻勻仔行過去，驚共𪜶阿爸吵精神。",
+      "tailo_pronunciation": "Khuànn-tio̍h in a-pah tsē tī kheh-thiann ê phòng-í tuh-ku, i liam-kha ûn-ûn-á kiânn--kuè-khì, kiann kā in a-pah tshá tsing-sîn.。",
+      "chinese_translation": "看到他爸爸坐在客廳的沙發椅上打瞌睡，他踮起腳尖輕輕走過去，怕把他爸爸吵醒了。",
+      "source_word": "跕跤",
+      "extraction_time": "2025-08-27 16:06:28",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "碗公",
+      "taiwanese_sentence": "古早糧食缺欠的時，煮糜是幾粒米、一寡番薯簽乾摻一大坩水，「一粒田螺煮九碗公湯」，欲罟一粒飯粒仔就親像海底摸針，真僫啦！",
+      "tailo_pronunciation": "Kóo-tsá niû-si̍t khueh-khiàm ê sî, tsú muê sī kuí lia̍p bí, tsi̍t-kuá han-tsî-tshiam-kuann tsham tsi̍t tuā khann tsuí, “tsi̍t lia̍p tshân-lê tsú káu uánn-kong thng”, beh koo tsi̍t lia̍p pn̄g-lia̍p-á tō tshin-tshiūnn hái-té bong tsiam, tsin oh--lah!。",
+      "chinese_translation": "從前糧食匱乏的時代，煮稀飯是幾粒米、一些番薯簽乾加一大鍋的水，「一粒田螺煮九海碗湯」，要撈到一粒米粒就像海底撈針，好難啊！",
+      "source_word": "一粒田螺煮九碗公湯。",
+      "extraction_time": "2025-08-27 16:06:34",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "布攄仔",
+      "taiwanese_sentence": "布攄仔都烏汁汁矣，你閣提來攄塗跤。",
+      "tailo_pronunciation": "Pòo-lu-á to oo-tsiap-tsiap--ah, lí koh the̍h-lâi lu thôo-kha.。",
+      "chinese_translation": "拖把都已經又黑又髒了，你還拿來拖地。",
+      "source_word": "烏汁汁",
+      "extraction_time": "2025-08-27 16:06:36",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "棉被",
+      "taiwanese_sentence": "棉被先捲起來才收入去袋仔內。",
+      "tailo_pronunciation": "Mî-phuē sing kńg--khí-lâi tsiah siu ji̍p-khì tē-á-lāi.。",
+      "chinese_translation": "棉被先捲起來再收進袋子裡。",
+      "source_word": "捲",
+      "extraction_time": "2025-08-27 16:06:39",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "飯匙",
+      "taiwanese_sentence": "抐桮的喙若像飯匙，規身軀白蔥蔥足成鵝，所以閣共伊號做飯匙鵝。",
+      "tailo_pronunciation": "Lā-pue ê tshuì ná-tshiūnn pn̄g-sî, kui-sin-khu pe̍h-tshang-tshang tsiok sîng gô, sóo-í koh kā i hō-tsò pn̄g-sî-gô.。",
+      "chinese_translation": "黑面琵鷺的鳥喙像飯匙，全身潔白很像鵝，所以又取名做飯匙鵝。",
+      "source_word": "飯匙鵝",
+      "extraction_time": "2025-08-27 16:06:44",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "家具",
+      "taiwanese_sentence": "𪜶兜的家具較古。",
+      "tailo_pronunciation": "In tau ê ka-kū khah kóo.。",
+      "chinese_translation": "他們家的家具古色古香。",
+      "source_word": "古",
+      "extraction_time": "2025-08-27 16:06:47",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "眠床",
+      "taiwanese_sentence": "伊破病倒佇眠床頂廿捅冬矣，寢開始後生猶真盡心看顧，不而過俗語講：「久長病，無孝子。」這幾冬𪜶後生予伊的醫藥費硩甲袂喘氣，就無通遐認真共照顧矣。",
+      "tailo_pronunciation": "I phuà-pēnn tó tī bîn-tshn̂g-tíng jia̍p-thóng tang--ah, tshím-khai-sí hāu-senn iáu tsin tsīn-sim khuànn-kòo, put-jî-kò sio̍k-gí kóng, “Kú-tn̂g pēnn, bô hàu-tsú.” Tsit kuí tang in hāu-senn hōo i ê i-io̍h-huì teh kah bē tshuán-khuì, tō bô thang hiah jīn-tsin kā tsiàu-kòo--ah.。」這幾年他兒子被他的醫藥費壓得喘不過氣來，就沒辦法那麼認真照顧他了。",
+      "chinese_translation": "他已臥病在床二十多年了，剛開始兒子還很盡心照顧，但俗話說：「久病床前無孝子。」這幾年他兒子被他的醫藥費壓得喘不過氣來，就沒辦法那麼認真照顧他了。",
+      "source_word": "久長病，無孝子。",
+      "extraction_time": "2025-08-27 16:06:50",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "草蓆仔",
+      "taiwanese_sentence": "草蓆仔頂的塗粉拭拭咧才去睏。",
+      "tailo_pronunciation": "Tsháu-tshio̍h-á-tíng ê thôo-hún tshit-tshit--leh tsiah khì khùn.。",
+      "chinese_translation": "草蓆上的灰塵擦一擦再上去睡覺。",
+      "source_word": "塗粉",
+      "extraction_time": "2025-08-27 16:06:56",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "冷氣",
+      "taiwanese_sentence": "這陣時勢無仝矣，古早彼種「千途萬途，毋值得翻田塗」的觀念早就退時去矣，少年人攏嘛欲揣坐佇辦公室吹冷氣的頭路，今是有幾个甘願攑鋤頭落田去作穡咧！",
+      "tailo_pronunciation": "Tsit-tsūn sî-sè bô kāng--ah, kóo-tsá hit tsióng “tshian tôo bān tôo, m̄ ta̍t-tit huan tshân-thôo” ê kuan-liām tsá tō thè-sî--khì--ah, siàu-liân-lâng lóng mā beh tshuē tsē tī pān-kong-sik tshue líng-khì ê thâu-lōo, tann sī ū kuí ê kam-guān gia̍h tî-thâu lo̍h-tshân khì tsoh-sit--leh!。",
+      "chinese_translation": "現今時代不同了，以前那套「重農輕商」的觀念早已過時了，年輕人都想找坐在辦公室吹冷氣的工作，現在有幾個願意拿著鋤頭下田耕種啊！",
+      "source_word": "千途萬途，毋值得翻田塗。",
+      "extraction_time": "2025-08-27 16:07:07",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "冰箱",
+      "taiwanese_sentence": "阿媽共燃好的青草仔茶，用漏仔貯入去玻璃矸仔，冰佇冰箱予逐家啉。",
+      "tailo_pronunciation": "A-má kā hiânn-hó ê tshenn-tsháu-á-tê, iōng lāu-á té ji̍p-khì po-lê kan-á, ping tī ping-siunn hōo ta̍k-ke lim.。",
+      "chinese_translation": "奶奶把煮好的青草茶，用漏斗裝進玻璃瓶中，冰在冰箱給大家喝。",
+      "source_word": "漏仔",
+      "extraction_time": "2025-08-27 16:07:13",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "電鍋",
+      "taiwanese_sentence": "我用米管量三管米囥落去電鍋煮。",
+      "tailo_pronunciation": "Guá īng bí-kńg niû sann kńg bí khǹg lo̍h-khì tiān-ko tsú.。",
+      "chinese_translation": "我用量米杯量了三杯的米放進電鍋裡煮。",
+      "source_word": "米管",
+      "extraction_time": "2025-08-27 16:07:24",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "肥料",
+      "taiwanese_sentence": "農藥佮肥料下了過頭是茶樹敗欉的主要原因。",
+      "tailo_pronunciation": "Lông-io̍h kah puî-liāu hē liáu kuè-thâu sī tê-tshiū pāi-tsâng ê tsú-iàu guân-in.。",
+      "chinese_translation": "農藥和肥料過度使用是造成茶樹枯萎的主因。",
+      "source_word": "敗欉",
+      "extraction_time": "2025-08-27 16:07:29",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "枕頭",
+      "taiwanese_sentence": "枕頭囊專油垢，剝起來洗洗咧。",
+      "tailo_pronunciation": "Tsím-thâu-lông tsuan iû-káu, pak khí-lâi sé-sé--leh.。",
+      "chinese_translation": "枕頭套都是油汙，拆下來洗一洗吧。",
+      "source_word": "油垢",
+      "extraction_time": "2025-08-27 16:07:35",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "肉砧",
+      "taiwanese_sentence": "寒人的霜風誠透，致使肉砧的肉落尾攏堅風去矣。",
+      "tailo_pronunciation": "Kuânn--lâng ê sng-hong tsiânn thàu, tì-sú bah-tiam ê bah lo̍h-bué lóng kian-hong--khì--ah.。",
+      "chinese_translation": "冬天的冷風風勢很強，以至於豬肉店的肉最後都風乾變硬了。",
+      "source_word": "堅風",
+      "extraction_time": "2025-08-27 16:07:44",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "雪文",
+      "taiwanese_sentence": "若欲治荔枝欉頂懸的臭腥龜仔，用雪文水共噴，不止仔有應效。",
+      "tailo_pronunciation": "Nā beh tī nāi-tsi-tsâng tíng-kuân ê tshàu-tshènn-ku-á, iōng sap-bûn-tsuí kā phùn, put-tsí-á ū ìng-hāu.。",
+      "chinese_translation": "想對付荔枝樹上的椿象，用肥皂水直接噴它相當有效。",
+      "source_word": "臭腥龜仔",
+      "extraction_time": "2025-08-27 16:07:52",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "電火",
+      "taiwanese_sentence": "棒球場下昏暗的電火點甲光映映，檢采閣有精彩的比賽通好看矣。",
+      "tailo_pronunciation": "Pāng-kiû-tiûnn ē-hng-àm ê tiān-hué tiám kah kng-iànn-iànn, kiám-tshái koh ū tsing-tshái ê pí-sài thang-hó khuànn--ah.。",
+      "chinese_translation": "棒球場今晚燈火通明，也許又有精彩的賽事可以觀賞了。",
+      "source_word": "光映映",
+      "extraction_time": "2025-08-27 16:07:58",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    }
+  ],
+  "missing_words": [
+    {
+      "word": "食飯桌",
+      "reason": "無用例",
+      "index": 1
+    },
+    {
+      "word": "椅墊",
+      "reason": "無用例",
+      "index": 3
+    },
+    {
+      "word": "垃圾桶",
+      "reason": "無用例",
+      "index": 5
+    },
+    {
+      "word": "馬桶",
+      "reason": "無用例",
+      "index": 6
+    },
+    {
+      "word": "電燈泡",
+      "reason": "無用例",
+      "index": 7
+    },
+    {
+      "word": "水龍頭",
+      "reason": "無用例",
+      "index": 8
+    },
+    {
+      "word": "鍋仔",
+      "reason": "無用例",
+      "index": 9
+    },
+    {
+      "word": "廚餘桶",
+      "reason": "無用例",
+      "index": 10
+    },
+    {
+      "word": "手電筒",
+      "reason": "無用例",
+      "index": 11
+    },
+    {
+      "word": "熨斗",
+      "reason": "無用例",
+      "index": 12
+    },
+    {
+      "word": "毛巾",
+      "reason": "無用例",
+      "index": 14
+    },
+    {
+      "word": "沙發",
+      "reason": "無用例",
+      "index": 17
+    },
+    {
+      "word": "洗衣機",
+      "reason": "無用例",
+      "index": 18
+    },
+    {
+      "word": "凳子",
+      "reason": "無用例",
+      "index": 19
+    },
+    {
+      "word": "盤子",
+      "reason": "無用例",
+      "index": 21
+    },
+    {
+      "word": "拖把",
+      "reason": "無用例",
+      "index": 22
+    },
+    {
+      "word": "菜瓜布",
+      "reason": "無用例",
+      "index": 23
+    },
+    {
+      "word": "碟仔",
+      "reason": "無用例",
+      "index": 27
+    },
+    {
+      "word": "床單",
+      "reason": "無用例",
+      "index": 28
+    },
+    {
+      "word": "飯菜蓋網",
+      "reason": "無用例",
+      "index": 29
+    },
+    {
+      "word": "椅子",
+      "reason": "無用例",
+      "index": 30
+    },
+    {
+      "word": "桌罩",
+      "reason": "無用例",
+      "index": 31
+    },
+    {
+      "word": "茶壺",
+      "reason": "無用例",
+      "index": 32
+    },
+    {
+      "word": "蚊帳",
+      "reason": "無用例",
+      "index": 35
+    },
+    {
+      "word": "衣櫥",
+      "reason": "無用例",
+      "index": 36
+    },
+    {
+      "word": "掃把",
+      "reason": "無用例",
+      "index": 39
+    },
+    {
+      "word": "夾子",
+      "reason": "無用例",
+      "index": 40
+    },
+    {
+      "word": "碗箸",
+      "reason": "無用例",
+      "index": 41
+    },
+    {
+      "word": "塑膠袋仔",
+      "reason": "無用例",
+      "index": 43
+    },
+    {
+      "word": "床巾",
+      "reason": "無用例",
+      "index": 44
+    },
+    {
+      "word": "夾仔",
+      "reason": "無用例",
+      "index": 46
+    },
+    {
+      "word": "電燈",
+      "reason": "無用例",
+      "index": 48
+    },
+    {
+      "word": "切割肉類的砧板",
+      "reason": "無用例",
+      "index": 51
+    },
+    {
+      "word": "電火球仔",
+      "reason": "無用例",
+      "index": 53
+    },
+    {
+      "word": "吸管",
+      "reason": "無用例",
+      "index": 55
+    },
+    {
+      "word": "梳妝台",
+      "reason": "無用例",
+      "index": 56
+    },
+    {
+      "word": "竹掃把",
+      "reason": "無用例",
+      "index": 57
+    },
+    {
+      "word": "躺椅",
+      "reason": "無用例",
+      "index": 58
+    },
+    {
+      "word": "鍋鏟",
+      "reason": "無用例",
+      "index": 59
+    },
+    {
+      "word": "蒸籠",
+      "reason": "無用例",
+      "index": 60
+    },
+    {
+      "word": "桌子",
+      "reason": "無用例",
+      "index": 61
+    },
+    {
+      "word": "抹布",
+      "reason": "無用例",
+      "index": 65
+    },
+    {
+      "word": "鑷子",
+      "reason": "無用例",
+      "index": 66
+    },
+    {
+      "word": "欶管",
+      "reason": "無用例",
+      "index": 72
+    },
+    {
+      "word": "長板凳",
+      "reason": "無用例",
+      "index": 78
+    },
+    {
+      "word": "糞埽桶",
+      "reason": "無用例",
+      "index": 79
+    },
+    {
+      "word": "飯鍋",
+      "reason": "無用例",
+      "index": 80
+    },
+    {
+      "word": "書桌",
+      "reason": "無用例",
+      "index": 82
+    },
+    {
+      "word": "鎖匙",
+      "reason": "無用例",
+      "index": 86
+    },
+    {
+      "word": "潘桶",
+      "reason": "無用例",
+      "index": 90
+    },
+    {
+      "word": "塑膠袋",
+      "reason": "無用例",
+      "index": 92
+    },
+    {
+      "word": "叉子",
+      "reason": "無用例",
+      "index": 93
+    },
+    {
+      "word": "鑰匙",
+      "reason": "無用例",
+      "index": 94
+    },
+    {
+      "word": "杯子",
+      "reason": "無用例",
+      "index": 96
+    },
+    {
+      "word": "鍋子",
+      "reason": "無用例",
+      "index": 98
+    },
+    {
+      "word": "椅苴仔",
+      "reason": "無用例",
+      "index": 99
+    },
+    {
+      "word": "碗筷",
+      "reason": "無用例",
+      "index": 100
+    },
+    {
+      "word": "電風扇",
+      "reason": "無用例",
+      "index": 102
+    },
+    {
+      "word": "肥皂",
+      "reason": "無用例",
+      "index": 104
+    },
+    {
+      "word": "䖙椅",
+      "reason": "無用例",
+      "index": 106
+    },
+    {
+      "word": "比一般飯碗還要大的碗",
+      "reason": "無用例",
+      "index": 107
+    },
+    {
+      "word": "抽屜",
+      "reason": "無用例",
+      "index": 109
+    },
+    {
+      "word": "小盤子",
+      "reason": "無用例",
+      "index": 110
+    },
+    {
+      "word": "攕仔",
+      "reason": "無用例",
+      "index": 112
+    },
+    {
+      "word": "飯勺",
+      "reason": "無用例",
+      "index": 114
+    },
+    {
+      "word": "煎匙",
+      "reason": "無用例",
+      "index": 115
+    },
+    {
+      "word": "被單",
+      "reason": "無用例",
+      "index": 116
+    }
+  ]
+}

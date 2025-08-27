@@ -1,0 +1,974 @@
+{
+  "metadata": {
+    "scraper_type": "最終版手動操作風格爬蟲",
+    "operation_flow": "輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理",
+    "source_url": "https://sutian.moe.edu.tw/zh-hant/tshiau/",
+    "extraction_date": "20250827_145846",
+    "statistics": {
+      "total_words": 124,
+      "successful_extractions": 66,
+      "missing_words": 58,
+      "success_rate": "53.2%",
+      "quality_stats": {
+        "完整": 66,
+        "良好": 0,
+        "基本": 0,
+        "不完整": 0
+      }
+    }
+  },
+  "successful_records": [
+    {
+      "word": "阿姊",
+      "taiwanese_sentence": "阿明共阿兄討拄買來的四秀仔，閣共阿姊討比賽贏來的獎品，就去予阿媽共罵講「目睭掛斗概，看人物就愛」。",
+      "tailo_pronunciation": "A-bîng kā a-hiann thó tú bé--lâi ê sì-siù-á, koh kā a-tsí thó pí-sài iânn--lâi ê tsióng-phín, tō khì hōo a-má kā mē kóng “ba̍k-tsiu kuà táu-kài, khuànn lâng mi̍h tō ài”.。",
+      "chinese_translation": "阿明向哥哥要剛買來的零食，又向姊姊要比賽贏得的獎品，所以就被祖母斥責「眼睛掛著平斗的木概，看到別人的東西就想要」。",
+      "source_word": "目睭掛斗概，看人物就愛。",
+      "extraction_time": "2025-08-27 14:52:57",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "家庭",
+      "taiwanese_sentence": "俗語講：「家和萬事興，家亂萬世窮。」因為家庭是每一个人閃風覕雨的所在，家庭和諧氣氛好，人就會快活，做事業毋才會順序。",
+      "tailo_pronunciation": "Sio̍k-gí kóng, “Ka hô bān-sū hing, ka luān bān-sè kîng.” In-uī ka-tîng sī muí tsi̍t ê lâng siám-hong bih-hōo ê sóo-tsāi, ka-tîng hô-hâi khì-hun hó, lâng tō ē khuìnn-ua̍h, tsò sū-gia̍p m̄-tsiah ē sūn-sī.。」因為家庭是每一個人的避風港，家庭和諧氣氛好，人便會輕鬆愉快，開創事業才會順利。",
+      "chinese_translation": "俗話說：「家和萬事興，家亂萬世窮。」因為家庭是每一個人的避風港，家庭和諧氣氛好，人便會輕鬆愉快，開創事業才會順利。",
+      "source_word": "家和萬事興，家亂萬世窮。",
+      "extraction_time": "2025-08-27 14:52:59",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "查埔",
+      "taiwanese_sentence": "俗語講：「斷掌查埔做相公，斷掌查某守空房。」以早這句無影無跡的話，害死一寡斷掌的查某人，真正是買命。",
+      "tailo_pronunciation": "Sio̍k-gí kóng, “Tn̄g-tsiúnn tsa-poo tsò siùnn-kang, tn̄g-tsiúnn tsa-bóo tsiú khang-pâng.” Í-tsá tsit kù bô-iánn-bô-tsiah ê uē, hāi-sí tsi̍t-kuá tn̄g-tsiúnn ê tsa-bóo-lâng, tsin-tsiànn sī bé-miā.。」從前這句毫無根據的話，害慘一些斷掌的婦女，真是要命。",
+      "chinese_translation": "俗語說：「男子斷掌，比較果斷，適合當官；女子斷掌，是剋夫命，會守寡。」從前這句毫無根據的話，害慘一些斷掌的婦女，真是要命。",
+      "source_word": "斷掌查埔做相公，斷掌查某守空房。",
+      "extraction_time": "2025-08-27 14:53:11",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "大家",
+      "taiwanese_sentence": "這个囡仔遮爾好禮，俗語講：「一人看出一家，新婦看出大家。」相信𪜶兜的家教必然嘛誠好。",
+      "tailo_pronunciation": "Tsit ê gín-á tsiah-nī hó-lé, sio̍k-gí kóng, “Tsi̍t lâng khuànn-tshut tsi̍t ke, sin-pū khuànn-tshut ta-ke.” Siong-sìn in tau ê ka-kàu pit-jiân mā tsiânn hó.。」相信他們家的家教必定也很好。",
+      "chinese_translation": "這個小孩這麼有禮貌，俗話說：「由個人看出家庭的教養，由媳婦看出婆婆的涵養。」相信他們家的家教必定也很好。",
+      "source_word": "一人看出一家，新婦看出大家。",
+      "extraction_time": "2025-08-27 14:53:16",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "阿兄",
+      "taiwanese_sentence": "阿明共阿兄討拄買來的四秀仔，閣共阿姊討比賽贏來的獎品，就去予阿媽共罵講「目睭掛斗概，看人物就愛」。",
+      "tailo_pronunciation": "A-bîng kā a-hiann thó tú bé--lâi ê sì-siù-á, koh kā a-tsí thó pí-sài iânn--lâi ê tsióng-phín, tō khì hōo a-má kā mē kóng “ba̍k-tsiu kuà táu-kài, khuànn lâng mi̍h tō ài”.。",
+      "chinese_translation": "阿明向哥哥要剛買來的零食，又向姊姊要比賽贏得的獎品，所以就被祖母斥責「眼睛掛著平斗的木概，看到別人的東西就想要」。",
+      "source_word": "目睭掛斗概，看人物就愛。",
+      "extraction_time": "2025-08-27 14:53:19",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "阿姨",
+      "taiwanese_sentence": "後禮拜欲去阿姨𪜶兜愛會記得紮帶手去。",
+      "tailo_pronunciation": "Āu lé-pài beh khì a-î in tau ài ē-kì-tit tsah tuà-tshiú khì.。",
+      "chinese_translation": "下禮拜要去阿姨家要記得帶禮物去。",
+      "source_word": "帶手",
+      "extraction_time": "2025-08-27 14:53:25",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "翁某",
+      "taiwanese_sentence": "少年夫妻毋免驚無家伙，人所說：「翁某若仝心，烏塗變成金」。翁仔姐相楗和齊拍拚定著會成功。",
+      "tailo_pronunciation": "Siàu-liân hu-tshe m̄-bián kiann bô ke-hué, lâng sóo sueh, “Ang-bóo nā kāng-sim, oo-thôo piàn-sîng kim”. Ang-á-tsiá sio-kīng hô-tsê phah-piànn tiānn-tio̍h ē sîng-kong.。夫妻相互扶持合作共同努力一定能成功。",
+      "chinese_translation": "年輕夫妻不必擔心沒有恆產，人們說：「夫妻若同心協力，困境也能創造財富」。夫妻相互扶持合作共同努力一定能成功。",
+      "source_word": "翁某若仝心，烏塗變成金。",
+      "extraction_time": "2025-08-27 14:53:30",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "家族",
+      "taiwanese_sentence": "古早人上慼人做賊，人講「一遍賊，百世賊」，偷提人的物件是會害你的家族仔面皮卸落地呢。",
+      "tailo_pronunciation": "Kóo-tsá-lâng siōng tsheh lâng tsò tsha̍t, lâng kóng “tsi̍t piàn tsha̍t, pah sì tsha̍t”, thau-the̍h lâng ê mi̍h-kiānn sī ē hāi lí ê ka-tso̍k-á bīn-phuê sià lo̍h tē--neh.。",
+      "chinese_translation": "以前的人最痛恨人家當小偷，因為「雖然只偷一回，但是世世代代都是小偷的族類」，偷別人的東西是會讓無辜的後代子孫蒙羞。",
+      "source_word": "一遍賊，百世賊。",
+      "extraction_time": "2025-08-27 14:53:33",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "舅公",
+      "taiwanese_sentence": "阮舅公食甲百外歲矣，是正港好命的老長壽。",
+      "tailo_pronunciation": "Guán kū-kong tsia̍h kah pah-guā huè--ah, sī tsiànn-káng hó-miā ê lāu-tiông-siū.。",
+      "chinese_translation": "我的舅公活到一百多歲了，真的是有福氣的人瑞。",
+      "source_word": "老長壽",
+      "extraction_time": "2025-08-27 14:53:36",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "心肝仔囝",
+      "taiwanese_sentence": "我心肝仔囝的。",
+      "tailo_pronunciation": "Guá sim-kuann-á-kiánn--ê.。",
+      "chinese_translation": "我的心肝寶貝。",
+      "source_word": "心肝仔囝",
+      "extraction_time": "2025-08-27 14:53:39",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "媽媽",
+      "taiwanese_sentence": "媽媽今仔日的面色怪怪，咱愛較乖咧，才袂予人罵。",
+      "tailo_pronunciation": "Má-mah kin-á-ji̍t ê bīn-sik kuài-kuài, lán ài khah kuai--leh, tsiah bē hōo lâng mē.。",
+      "chinese_translation": "媽媽今天的臉色怪怪的，我們要乖一點，才不會被罵。",
+      "source_word": "面色",
+      "extraction_time": "2025-08-27 14:53:48",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "阿母",
+      "taiwanese_sentence": "阿母講：「做人的新婦著愛『入人門，順人意』，歡喜接受大家官、翁婿共咱牽教，通冗早慣勢新環境。」",
+      "tailo_pronunciation": "A-bú kóng, “Tsò lâng ê sin-pū tio̍h-ài ‘ji̍p lâng mn̂g, sūn lâng ì’, huann-hí tsiap-siū ta-ke-kuann, ang-sài kā lán khan-kà, thang liōng-tsá kuàn-sì sin khuân-kíng.”。」",
+      "chinese_translation": "媽媽說：「為人媳婦應當要『進別人家門，順從別人意見』，樂於接受公婆、夫婿的教導，以便儘早適應新環境。」",
+      "source_word": "入人門，順人意。",
+      "extraction_time": "2025-08-27 14:53:50",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "人客",
+      "taiwanese_sentence": "阮牽手當咧無閒的時陣，我家婆講欲替伊煎一盤菜脯卵請人客，盍會知影「好好鱟刣甲屎那流」，煞煎甲臭火焦兼著火。",
+      "tailo_pronunciation": "Guán khan-tshiú tng-teh bô-îng ê sî-tsūn, guá ke-pô kóng beh thè i tsian tsi̍t puânn tshài-póo-nn̄g tshiánn lâng-kheh, khah ē tsai-iánn “hó-hó hāu thâi kah sái ná lâu”, suah tsian kah tshàu-hué-ta kiam to̍h-hué.。",
+      "chinese_translation": "內人正忙的時候，我多管閒事主動要替他煎一盤蘿蔔乾炒蛋給客人吃，哪裡知道「成事不足，敗事有餘」，竟然炒得焦黑不堪。",
+      "source_word": "好好鱟刣甲屎那流。",
+      "extraction_time": "2025-08-27 14:53:59",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "查某",
+      "taiwanese_sentence": "阿財仔下真濟苦心佮所費咧共𪜶後生栽培，向望伊會當出頭天，結局伊毋但大學讀無畢業，閣欲食毋討趁，顛倒是𪜶查某囝較有才情，研究所都猶未出業，幾若間公司就相爭欲共倩，阿財仔怨嘆講：「豬毋大，大對狗去。」",
+      "tailo_pronunciation": "A-tsâi--á hē tsin tsē khóo-sim kah sóo-huì teh kā in hāu-senn tsai-puê, ǹg-bāng i ē-tàng tshut-thâu-thinn, kiat-kio̍k i m̄-nā tāi-ha̍k tha̍k bô pit-gia̍p, koh beh tsia̍h m̄ thó-thàn, tian-tò sī in tsa-bóo-kiánn khah ū tsâi-tsîng, gián-kiù-sóo to iáu-buē tshut-gia̍p, kuí-nā king kong-si tō sio-tsenn beh kā tshiànn, A-tsâi--á uàn-thàn kóng, “Ti m̄ tuā, tuā tuì káu--khì.”。」",
+      "chinese_translation": "阿財花費了許多苦心和費用栽培他兒子，希望他能出人頭地，結果他不但大學無法畢業，還好逸惡勞，反而是他女兒比較有才華，研究所還沒畢業，好幾間公司就搶著要聘用他，阿財嘆氣說：「事與願違。」",
+      "source_word": "豬毋大，大對狗去。",
+      "extraction_time": "2025-08-27 14:54:02",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "伯公",
+      "taiwanese_sentence": "阿公的阿兄咱愛叫伊「伯公」。",
+      "tailo_pronunciation": "A-kong ê a-hiann lán ài kiò i “peh-kong”.。",
+      "chinese_translation": "爺爺的哥哥我們要叫他「伯公」。",
+      "source_word": "伯公",
+      "extraction_time": "2025-08-27 14:54:05",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "序細",
+      "taiwanese_sentence": "伊就是咧操煩若真正百歲年老了後，囝兒序細為著財產承續分袂平棒煞起冤家，這聲就害矣，較輸講趁這陣人猶健健，先共財產分分咧，才袂時到害伊「死目毋願瞌」。",
+      "tailo_pronunciation": "I tō sī teh tshau-huân nā tsin-tsiànn pah-huè-nî-lāu liáu-āu, kiánn-jî sī-sè uī-tio̍h tsâi-sán sîng-sio̍k pun bē pênn-pāng suah khí uan-ke, tsit-siann tō hāi--ah, khah-su kóng thàn tsit-tsūn lâng iáu kiānn-kiānn, sing kā tsâi-sán pun-pun--leh, tsiah bē sî kàu hāi i “sí ba̍k m̄ guān kheh”.。",
+      "chinese_translation": "他擔心等他過世後，那些兒孫為了要分財產搞得惡臉相向，這下子就糟了，倒不如趁現在人還健在，先將財產分一分，到時候才不會害他「死不瞑目」。",
+      "source_word": "死目毋願瞌。",
+      "extraction_time": "2025-08-27 14:54:11",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "阿爸",
+      "taiwanese_sentence": "阮阿媽從阿爸佮阿叔做囡仔的時陣就足疼𪜶，這馬嘛真惜阮兄妹仔佮阮叔伯兄弟，莫怪人講：「惜花連盆，疼囝連孫。」",
+      "tailo_pronunciation": "Guán a-má tsîng a-pah kah a-tsik tsò gín-á ê sî-tsūn tō tsiok thiànn--in, tsit-má mā tsin sioh guán hiann-muē-á kah guán tsik-peh-hiann-tī, bo̍k-kuài lâng kóng, “Sioh hue liân phûn, thiànn kiánn liân sun.”。」",
+      "chinese_translation": "我的奶奶從爸爸和叔叔在孩提時就很疼愛他們，現在也很疼惜我們兄妹和我的堂兄弟，難怪俗話說：「愛屋及烏。」",
+      "source_word": "惜花連盆，疼囝連孫。",
+      "extraction_time": "2025-08-27 14:54:16",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "囡仔",
+      "taiwanese_sentence": "阿福嬸仔的後生攏娶某生囝矣，老翁過身了後，後生新婦隨人無閒事業、顧囡仔，伊煞著家己一个人生活，真正是「十囝十新婦，賰一个老寡婦」。",
+      "tailo_pronunciation": "A-hok tsím--á ê hāu-senn lóng tshuā-bóo senn-kiánn--ah, lāu-ang kuè-sin liáu-āu, hāu-senn sin-pū suî-lâng bô-îng sū-gia̍p, kòo gín-á, i suah tio̍h ka-kī tsi̍t ê lâng sing-ua̍h, tsin-tsiànn sī “tsa̍p kiánn tsa̍p sin-pū, tshun tsi̍t ê lāu kuá-hū”.。",
+      "chinese_translation": "阿福嬸的兒子都娶老婆生小孩了，老伴去世以後，兒子媳婦各自忙事業、顧小孩，他卻得自己一個人生活，真的是「兒女多不是福」。",
+      "source_word": "十囝十新婦，賰一个老寡婦。",
+      "extraction_time": "2025-08-27 14:54:22",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "心肝寶貝",
+      "taiwanese_sentence": "「龜跤龜內肉」，無論查某囝抑後生，攏是序大人的心肝寶貝。",
+      "tailo_pronunciation": "“Ku-kha ku-lāi bah”, bô-lūn tsa-bóo-kiánn ia̍h hāu-senn, lóng sī sī-tuā-lâng ê sim-kuann pó-puè.。",
+      "chinese_translation": "「手心手背都是肉」，不論是女兒或兒子，都是父母的心肝寶貝。",
+      "source_word": "龜跤龜內肉。",
+      "extraction_time": "2025-08-27 14:54:31",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "小妹",
+      "taiwanese_sentence": "雖然阿媽喙講「大人生日食肉，囡仔生日食拍」，其實早就準備小妹上愛的尪仔欲送伊做生日禮物矣啦。",
+      "tailo_pronunciation": "Sui-jiân a-má tshuì kóng “tuā-lâng senn-ji̍t tsia̍h bah, gín-á senn-ji̍t tsia̍h phah”, kî-si̍t tsá tō tsún-pī sió-muē siōng ài ê ang-á beh sàng i tsò senn-ji̍t lé-bu̍t--ah--lah.。",
+      "chinese_translation": "雖然奶奶嘴裡說「大人生日吃肉，小孩生日挨打」，其實早就準備好小妹最喜歡的娃娃要送給他了啦。",
+      "source_word": "大人生日食肉，囡仔生日食拍。",
+      "extraction_time": "2025-08-27 14:54:39",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "婚姻",
+      "taiwanese_sentence": "阮查某囝欲嫁進前，我共伊開破講「翁仔某是相欠債」，愛互相尊重，婚姻才會久長。",
+      "tailo_pronunciation": "Guán tsa-bóo-kiánn beh kè tsìn-tsîng, guá kā i khui-phuà kóng “ang-á-bóo sī sio-khiàm-tsè”, ài hōo-siong tsun-tiōng, hun-in tsiah ē kú-tn̂g.。",
+      "chinese_translation": "我女兒出嫁前，我開導他說「夫妻是前世因果」，要互相尊重，婚姻才能長久。",
+      "source_word": "翁仔某是相欠債。",
+      "extraction_time": "2025-08-27 14:54:42",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "阿姆",
+      "taiwanese_sentence": "請你替我共恁阿姆請安。",
+      "tailo_pronunciation": "Tshiánn lí thè guá kā lín a-ḿ tshíng-an.。",
+      "chinese_translation": "請你代我向你伯母問候。",
+      "source_word": "請安",
+      "extraction_time": "2025-08-27 14:54:48",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "叔公",
+      "taiwanese_sentence": "阮三叔公誠有親，定定辦桌請阮，予阮遮的序細仔足感心的。",
+      "tailo_pronunciation": "Guán sann-tsik-kong tsiânn ū-tshin, tiānn-tiānn pān-toh tshiánn--guán, hōo guán tsia-ê sī-sè-á tsiok kám-sim--ê.。",
+      "chinese_translation": "我三叔公很看重親屬情誼，常常設宴請我們，讓我們這些晚輩非常感恩。",
+      "source_word": "有親",
+      "extraction_time": "2025-08-27 14:54:51",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "咱逐家",
+      "taiwanese_sentence": "各位親情朋友、先進序大，我「食人頭鍾酒，講人頭句話」有較僭權，今仔日是主人家七十歲大壽，咱逐家祝伊平安順序食百二。",
+      "tailo_pronunciation": "Kok-uī tshin-tsiânn pîng-iú, sian-tsìn sī-tuā, guá “tsia̍h lâng thâu tsing tsiú, kóng lâng thâu kù uē” ū khah tsiàm-khuân, kin-á-ji̍t sī tsú-jîn-ka tshit-tsa̍p huè tuā-siū, lán ta̍k-ke tsiok i pîng-an sūn-sī tsia̍h pah-jī.。",
+      "chinese_translation": "各位親朋好友、前輩們，我「喝第一杯酒，講第一句話」較為越權，今天是主人七十歲生日，我們大家祝他平安順遂活到一百二十歲。",
+      "source_word": "食人頭鍾酒，講人頭句話。",
+      "extraction_time": "2025-08-27 14:54:57",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "翁婿",
+      "taiwanese_sentence": "阿母講：「做人的新婦著愛『入人門，順人意』，歡喜接受大家官、翁婿共咱牽教，通冗早慣勢新環境。」",
+      "tailo_pronunciation": "A-bú kóng, “Tsò lâng ê sin-pū tio̍h-ài ‘ji̍p lâng mn̂g, sūn lâng ì’, huann-hí tsiap-siū ta-ke-kuann, ang-sài kā lán khan-kà, thang liōng-tsá kuàn-sì sin khuân-kíng.”。」",
+      "chinese_translation": "媽媽說：「為人媳婦應當要『進別人家門，順從別人意見』，樂於接受公婆、夫婿的教導，以便儘早適應新環境。」",
+      "source_word": "入人門，順人意。",
+      "extraction_time": "2025-08-27 14:55:08",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "奶母",
+      "taiwanese_sentence": "嬰仔愛坐奶母車。",
+      "tailo_pronunciation": "Enn-á ài tsē ling-bú-tshia.。",
+      "chinese_translation": "嬰兒要坐嬰兒車。",
+      "source_word": "奶母車",
+      "extraction_time": "2025-08-27 14:55:11",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "姑婆",
+      "taiwanese_sentence": "較緊睏！無，虎姑婆欲來矣。",
+      "tailo_pronunciation": "Khah kín khùn! Bô, Hóo-koo-pô beh lâi--ah.。",
+      "chinese_translation": "趕快睡！不然，虎姑婆要來了。",
+      "source_word": "虎姑婆",
+      "extraction_time": "2025-08-27 14:55:14",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "阿祖",
+      "taiwanese_sentence": "阮阿祖早起就過氣矣。",
+      "tailo_pronunciation": "Guán a-tsóo tsá-khí tō kuè-khuì--ah.。",
+      "chinese_translation": "我曾祖父在早晨就斷氣了。",
+      "source_word": "過氣",
+      "extraction_time": "2025-08-27 14:55:16",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "爸母",
+      "taiwanese_sentence": "伊欠人的錢無還，閣罵債主來討錢害伊無面子；家己不孝閣有一大堆理由，嫌爸母雜唸，怨爸母無好好仔栽培，真正是「欠錢怨債主，不孝怨爸母」。",
+      "tailo_pronunciation": "I khiàm--lâng ê tsînn bô hîng, koh mē tsè-tsú lâi thó-tsînn hāi i bô bīn-tsú; ka-kī put-hàu koh ū tsi̍t-tuā-tui lí-iû, hiâm pē-bú tsa̍p-liām, uàn pē-bú bô hó-hó-á tsai-puê, tsin-tsiànn sī “khiàm tsînn uàn tsè-tsú, put-hàu uàn pē-bú”.。",
+      "chinese_translation": "他欠別人錢沒還，還罵債主來討債害他沒面子；自己不孝還有一大篇理由，嫌爸母嘮叨，怨父母沒好好栽培，真是「欠錢怨債主，不孝怨父母」。",
+      "source_word": "欠錢怨債主，不孝怨爸母。",
+      "extraction_time": "2025-08-27 14:55:19",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "親情",
+      "taiwanese_sentence": "各位親情朋友、先進序大，我「食人頭鍾酒，講人頭句話」有較僭權，今仔日是主人家七十歲大壽，咱逐家祝伊平安順序食百二。",
+      "tailo_pronunciation": "Kok-uī tshin-tsiânn pîng-iú, sian-tsìn sī-tuā, guá “tsia̍h lâng thâu tsing tsiú, kóng lâng thâu kù uē” ū khah tsiàm-khuân, kin-á-ji̍t sī tsú-jîn-ka tshit-tsa̍p huè tuā-siū, lán ta̍k-ke tsiok i pîng-an sūn-sī tsia̍h pah-jī.。",
+      "chinese_translation": "各位親朋好友、前輩們，我「喝第一杯酒，講第一句話」較為越權，今天是主人七十歲生日，我們大家祝他平安順遂活到一百二十歲。",
+      "source_word": "食人頭鍾酒，講人頭句話。",
+      "extraction_time": "2025-08-27 14:55:22",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "後生",
+      "taiwanese_sentence": "阿財仔下真濟苦心佮所費咧共𪜶後生栽培，向望伊會當出頭天，結局伊毋但大學讀無畢業，閣欲食毋討趁，顛倒是𪜶查某囝較有才情，研究所都猶未出業，幾若間公司就相爭欲共倩，阿財仔怨嘆講：「豬毋大，大對狗去。」",
+      "tailo_pronunciation": "A-tsâi--á hē tsin tsē khóo-sim kah sóo-huì teh kā in hāu-senn tsai-puê, ǹg-bāng i ē-tàng tshut-thâu-thinn, kiat-kio̍k i m̄-nā tāi-ha̍k tha̍k bô pit-gia̍p, koh beh tsia̍h m̄ thó-thàn, tian-tò sī in tsa-bóo-kiánn khah ū tsâi-tsîng, gián-kiù-sóo to iáu-buē tshut-gia̍p, kuí-nā king kong-si tō sio-tsenn beh kā tshiànn, A-tsâi--á uàn-thàn kóng, “Ti m̄ tuā, tuā tuì káu--khì.”。」",
+      "chinese_translation": "阿財花費了許多苦心和費用栽培他兒子，希望他能出人頭地，結果他不但大學無法畢業，還好逸惡勞，反而是他女兒比較有才華，研究所還沒畢業，好幾間公司就搶著要聘用他，阿財嘆氣說：「事與願違。」",
+      "source_word": "豬毋大，大對狗去。",
+      "extraction_time": "2025-08-27 14:55:28",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "阿叔",
+      "taiwanese_sentence": "當初阿爸好心共無地去的阿叔收留，予伊暫時蹛佇阮兜，想袂到伊毋但毋知影通感恩，閣不時招朋友來厝裡啉酒，舞甲逐四界挐氅氅，共阮兜當做伊家己的厝仝款，有影是「乞食趕廟公」。",
+      "tailo_pronunciation": "Tong-tshoo a-pah hó-sim kā bô-tè khì ê a-tsik siu-liû, hōo i tsiām-sî tuà tī guán tau, siūnn-bē-kàu i m̄-nā m̄ tsai-iánn thang kám-un, koh put-sî tsio pîng-iú lâi tshù--lí lim tsiú, bú kah ta̍k-sì-kè jû-tsháng-tsháng, kā guán tau tòng-tsò i ka-kī ê tshù kāng-khuán, ū-iánn sī “khit-tsia̍h kuánn biō-kong”.。",
+      "chinese_translation": "當初爸爸好心收留無家可歸的叔叔，讓他暫時住在我們家，想不到他非但不知感恩，還時常呼朋引伴來家裡喝酒，四處弄得亂七八糟，把我們家當作他自己家一樣，簡直是「鳩佔鵲巢」！",
+      "source_word": "乞食趕廟公。",
+      "extraction_time": "2025-08-27 14:55:34",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "家屬",
+      "taiwanese_sentence": "有的人做官真清廉，過身了後，𪜶家屬的生活猶原困苦。莫怪人咧講：「做官若清廉，食飯著攪鹽。」",
+      "tailo_pronunciation": "Ū ê lâng tsò-kuann tsin tshing-liâm, kuè-sin liáu-āu, in ka-sio̍k ê sing-ua̍h iu-guân khùn-khóo. Bo̍k-kuài lâng teh kóng, “Tsò-kuann nā tshing-liâm, tsia̍h-pn̄g tio̍h kiáu iâm.”。難怪人家說：「當官若清廉，吃飯得拌鹽。」",
+      "chinese_translation": "有些人當官很清廉，過世之後，家屬的生活依然很困苦。難怪人家說：「當官若清廉，吃飯得拌鹽。」",
+      "source_word": "做官若清廉，食飯著攪鹽。",
+      "extraction_time": "2025-08-27 14:55:36",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "阿公",
+      "taiwanese_sentence": "阿公送到病院的時雖然猶知人，毋過袂講話嘛袂振動，干焦恬恬看病床邊的人，真正是「目睭金金人傷重」。",
+      "tailo_pronunciation": "A-kong sàng kàu pēnn-īnn ê sî sui-jiân iáu tsai lâng, m̄-koh bē kóng-uē mā bē tín-tāng, kan-na tiām-tiām khuànn pēnn-tshn̂g-pinn ê lâng, tsin-tsiànn sī “ba̍k-tsiu kim-kim lâng siong-tiōng”.。",
+      "chinese_translation": "爺爺送到醫院的時候雖然還有知覺，不過無法講話也無法移動，只靜靜的看著病床邊的人，真的是「眼睛睜大，病情嚴重」。",
+      "source_word": "目睭金金人傷重。",
+      "extraction_time": "2025-08-27 14:55:42",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "少年家",
+      "taiwanese_sentence": "你毋通叫是彼个少年家「倒吊無墨水」呢，人伊讀冊誠綿爛，學問飽滇閣袂臭屁。",
+      "tailo_pronunciation": "Lí m̄-thang kiò-sī hit ê siàu-liân-ke “tò-tiàu bô ba̍k-tsuí”--neh, lâng i tha̍k-tsheh tsiânn mî-nuā, ha̍k-būn pá-tīnn koh bē tshàu-phuì.。",
+      "chinese_translation": "你別以為那個年輕人「胸無點墨」喔，他讀書很認真，學問很豐富又不喜歡吹噓。",
+      "source_word": "倒吊無墨水。",
+      "extraction_time": "2025-08-27 14:55:45",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "阿伯",
+      "taiwanese_sentence": "阿伯儉腸凹肚共伊彼陣囝捏大漢，今隨个仔嘛攏誠才情，毋過煞無甲半个欲共伊有孝，予伊不時都咧怨嘆講：「好囝毋免濟，濟囝餓死爸。」早若知，當初時就莫開遐爾濟錢來栽培𪜶。",
+      "tailo_pronunciation": "A-peh khiām-tn̂g-neh-tōo kā i hit tīn kiánn lia̍p tuā-hàn, tann suî-ê-á mā lóng tsiânn tsâi-tsîng, m̄-koh suah bô kah puànn ê beh kā i iú-hàu, hōo i put-sî to teh uàn-thàn kóng, “Hó kiánn m̄-bián tsē, tsē kiánn gō-sí pē.” Tsá nā tsai, tong-tshe-sî tō mài khai hiah-nī tsē tsînn lâi tsai-puê--in.。」早知如此，當初就不要花大錢栽培他們了。",
+      "chinese_translation": "伯父省吃儉用拉拔那群小孩長大，現在各個也都很成功，不過卻沒人肯孝順他，讓他不時感嘆：「小孩不必多，能孝順父母最重要。」早知如此，當初就不要花大錢栽培他們了。",
+      "source_word": "好囝毋免濟，濟囝餓死爸。",
+      "extraction_time": "2025-08-27 14:55:48",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "家己",
+      "taiwanese_sentence": "阿福嬸仔的後生攏娶某生囝矣，老翁過身了後，後生新婦隨人無閒事業、顧囡仔，伊煞著家己一个人生活，真正是「十囝十新婦，賰一个老寡婦」。",
+      "tailo_pronunciation": "A-hok tsím--á ê hāu-senn lóng tshuā-bóo senn-kiánn--ah, lāu-ang kuè-sin liáu-āu, hāu-senn sin-pū suî-lâng bô-îng sū-gia̍p, kòo gín-á, i suah tio̍h ka-kī tsi̍t ê lâng sing-ua̍h, tsin-tsiànn sī “tsa̍p kiánn tsa̍p sin-pū, tshun tsi̍t ê lāu kuá-hū”.。",
+      "chinese_translation": "阿福嬸的兒子都娶老婆生小孩了，老伴去世以後，兒子媳婦各自忙事業、顧小孩，他卻得自己一個人生活，真的是「兒女多不是福」。",
+      "source_word": "十囝十新婦，賰一个老寡婦。",
+      "extraction_time": "2025-08-27 14:55:56",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "阿姑",
+      "taiwanese_sentence": "人阿姑有紮等路來，咱合該然嘛著攢寡伴手予伊紮轉去。",
+      "tailo_pronunciation": "Lâng a-koo ū tsah tán-lōo lâi, lán ha̍p-kai-jiân mā tio̍h tshuân kuá phuānn-tshiú hōo i tsah--tńg-khì.。",
+      "chinese_translation": "人家姑姑帶了禮物來，我們理當也準備些伴手禮讓他帶回去。",
+      "source_word": "合該然",
+      "extraction_time": "2025-08-27 14:55:59",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "外甥",
+      "taiwanese_sentence": "頂日仔你欲搬厝，恁阿舅專工請假來共你鬥搬，你毋但無感謝伊，閣嫌伊跤手慢，誠實是「外甥食母舅，親像食豆腐」。",
+      "tailo_pronunciation": "Tíng-ji̍t-á lí beh puann-tshù, lín a-kū tsuan-kang tshíng-ká lâi kā lí tàu puann, lí m̄-nā bô kám-siā--i, koh hiâm i kha-tshiú bān, tsiânn-si̍t sī “guē-sing tsia̍h bú-kū, tshin-tshiūnn tsia̍h tāu-hū”.。",
+      "chinese_translation": "前幾天你要搬家，你舅舅特地請假來幫你搬，你非但沒有感謝他，還嫌他笨手笨腳，你這個外甥真是「占盡你舅舅的便宜」。",
+      "source_word": "外甥食母舅，親像食豆腐。",
+      "extraction_time": "2025-08-27 14:56:02",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "丈公",
+      "taiwanese_sentence": "姑婆的翁我愛叫伊「丈公」。",
+      "tailo_pronunciation": "Koo-pô ê ang guá ài kiò i “tiūnn-kong”.。",
+      "chinese_translation": "姑婆的先生我要叫他「姑公」。",
+      "source_word": "丈公",
+      "extraction_time": "2025-08-27 14:56:07",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "姑丈",
+      "taiwanese_sentence": "伊是阮姑丈。",
+      "tailo_pronunciation": "I sī guán koo-tiūnn.。",
+      "chinese_translation": "他是我的姑丈。",
+      "source_word": "姑丈",
+      "extraction_time": "2025-08-27 14:56:24",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "嬸婆",
+      "taiwanese_sentence": "仝祧仔內的人攏知影「人未到，聲先到」的，一定是九嬸婆仔。",
+      "tailo_pronunciation": "Kāng thiāu-á-lāi ê lâng lóng tsai-iánn “lâng buē kàu, siann sing kàu”--ê, it-tīng sī káu-tsím-pô--á.。",
+      "chinese_translation": "同宗族的人都知道「人尚未出現，就先聽到聲音的那個大嗓門」，肯定就是九嬸婆。",
+      "source_word": "人未到，聲先到。",
+      "extraction_time": "2025-08-27 14:56:27",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "查某囝",
+      "taiwanese_sentence": "阿財仔下真濟苦心佮所費咧共𪜶後生栽培，向望伊會當出頭天，結局伊毋但大學讀無畢業，閣欲食毋討趁，顛倒是𪜶查某囝較有才情，研究所都猶未出業，幾若間公司就相爭欲共倩，阿財仔怨嘆講：「豬毋大，大對狗去。」",
+      "tailo_pronunciation": "A-tsâi--á hē tsin tsē khóo-sim kah sóo-huì teh kā in hāu-senn tsai-puê, ǹg-bāng i ē-tàng tshut-thâu-thinn, kiat-kio̍k i m̄-nā tāi-ha̍k tha̍k bô pit-gia̍p, koh beh tsia̍h m̄ thó-thàn, tian-tò sī in tsa-bóo-kiánn khah ū tsâi-tsîng, gián-kiù-sóo to iáu-buē tshut-gia̍p, kuí-nā king kong-si tō sio-tsenn beh kā tshiànn, A-tsâi--á uàn-thàn kóng, “Ti m̄ tuā, tuā tuì káu--khì.”。」",
+      "chinese_translation": "阿財花費了許多苦心和費用栽培他兒子，希望他能出人頭地，結果他不但大學無法畢業，還好逸惡勞，反而是他女兒比較有才華，研究所還沒畢業，好幾間公司就搶著要聘用他，阿財嘆氣說：「事與願違。」",
+      "source_word": "豬毋大，大對狗去。",
+      "extraction_time": "2025-08-27 14:56:33",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "新婦",
+      "taiwanese_sentence": "老爸老母攏過身去的阿木，是一个欲食毋討趁的貧惰骨，見想的齊是彼款「無米有舂臼，無囝抱新婦」的套頭，到今嘛是十一哥仔光𣮈𣮈，後過食老毋知欲靠啥人咧？",
+      "tailo_pronunciation": "Lāu-pē lāu-bú lóng kuè-sin--khì ê A-bo̍k, sī tsi̍t ê beh tsia̍h m̄ thó-thàn ê pîn-tuānn-kut, kiàn siūnn--ê tsiâu sī hit khuán “bô bí ū tsing-khū, bô kiánn phō sin-pū” ê thò-thâu, kàu-tann mā sī tsa̍p-it-ko--á kng-khu̍t-khu̍t, āu-kuè tsia̍h-lāu m̄ tsai beh khò siánn-lâng--leh?。",
+      "chinese_translation": "父母雙亡的阿木，是一個不肯努力工作的懶惰鬼，每次想的都是那種「沒米卻有臼；沒有兒子卻領養童養媳」的把戲，折騰到現在還是孑然一身、家徒四壁，往後的晚年生活要倚靠誰呢？",
+      "source_word": "無米有舂臼，無囝抱新婦。",
+      "extraction_time": "2025-08-27 14:56:39",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "紅嬰仔",
+      "taiwanese_sentence": "紅嬰仔咧大，有的大著較快，有的較袂大，總是平均扯差不多就是俗語講的「七坐八爬九發牙」。",
+      "tailo_pronunciation": "Âng-enn-á teh tuā, ū ê tuā tio̍h khah khuài, ū ê khah bē tuā, tsóng--sī pîng-kin-tshé tsha-put-to tō sī sio̍k-gí kóng--ê “tshit tsē peh pê káu huat-gê”.。",
+      "chinese_translation": "嬰兒長大過程中，有的長得快，有的長得慢，平均起來大約就是俗語說的「七坐八爬九長牙」。",
+      "source_word": "七坐八爬九發牙。",
+      "extraction_time": "2025-08-27 14:56:41",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "老歲仔",
+      "taiwanese_sentence": "老歲仔人若身體勇健、心情樂暢，手頭閣有寡，就較有才調踏入到食清、睏宮、人精英的坎站。",
+      "tailo_pronunciation": "Lāu-huè-á-lâng nā sin-thé ióng-kiānn, sim-tsîng lo̍k-thiòng, tshiú-thâu koh ū--kuá, tō khah ū tsâi-tiāu ta̍h-ji̍p kàu tsia̍h-tshing, khùn-king, lâng tsing-ing ê khám-tsām.。",
+      "chinese_translation": "老人家如果能維持身體健康、心情舒暢，手頭上又富裕些，才有辦法進入到吃飯不欠人情，不必感謝他人，無憂無慮的境界。",
+      "source_word": "食清",
+      "extraction_time": "2025-08-27 14:56:53",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "阿媽",
+      "taiwanese_sentence": "阿媽真知「好田地不如好子弟」的道理，以早的生活雖然較艱難，伊猶原堅持予每一个囡仔攏有受教育的機會，實在誠無簡單。",
+      "tailo_pronunciation": "A-má tsin tsai “hó tshân-tē put-jû hó tsú-tē” ê tō-lí, í-tsá ê sing-ua̍h sui-jiân khah kan-lân, i iu-guân kian-tshî hōo muí tsi̍t ê gín-á lóng ū siū kàu-io̍k ê ki-huē, si̍t-tsāi tsiânn bô kán-tan.。",
+      "chinese_translation": "奶奶很了解「家有千頃田，不如子孫賢」的道理，以前的生活雖然比較艱辛困難，他仍然堅持讓每個孩子都有受教育的機會，真的是很不簡單。",
+      "source_word": "好田地不如好子弟。",
+      "extraction_time": "2025-08-27 14:56:56",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "小弟",
+      "taiwanese_sentence": "咱的風俗講：「收瀾收離離，明年招小弟。」雖然是真心適，毋過重男輕女較無合時代。若共這句話改做「收瀾收離離，囡仔好育飼。」按呢敢毋是較妥當咧？",
+      "tailo_pronunciation": "Lán ê hong-sio̍k kóng, “Siu-nuā siu-lī-lī, mê-nî tsio sió-tī.” Sui-jiân sī tsin sim-sik, m̄-koh tiōng-lâm-khin-lí khah bô ha̍h sî-tāi. Nā kā tsit kù uē kái-tsò “Siu-nuā siu-lī-lī, gín-á hó io-tshī.” Án-ne kám m̄ sī khah thò-tòng--leh?。」這是我們的風俗，風俗是很有趣，卻重男輕女較不合時宜。如果將這句話改為「收口水收乾淨，小孩子好養育。」這樣是不是比較妥當呢？",
+      "chinese_translation": "人家說：「收口水收乾淨，明年招個小弟弟來。」這是我們的風俗，風俗是很有趣，卻重男輕女較不合時宜。如果將這句話改為「收口水收乾淨，小孩子好養育。」這樣是不是比較妥當呢？",
+      "source_word": "收瀾收離離，明年招小弟。",
+      "extraction_time": "2025-08-27 14:56:59",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "婦人人",
+      "taiwanese_sentence": "阿三上愛佮婦人人狗鯊，實在有夠顧人怨的。",
+      "tailo_pronunciation": "A-sam siōng ài kah hū-jîn-lâng káu-sua, si̍t-tsāi ū-kàu kòo-lâng-uàn--ê.。",
+      "chinese_translation": "張三最喜歡跟女人開黃腔，實在惹人厭。",
+      "source_word": "狗鯊",
+      "extraction_time": "2025-08-27 14:57:04",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "阿舅",
+      "taiwanese_sentence": "頂日仔你欲搬厝，恁阿舅專工請假來共你鬥搬，你毋但無感謝伊，閣嫌伊跤手慢，誠實是「外甥食母舅，親像食豆腐」。",
+      "tailo_pronunciation": "Tíng-ji̍t-á lí beh puann-tshù, lín a-kū tsuan-kang tshíng-ká lâi kā lí tàu puann, lí m̄-nā bô kám-siā--i, koh hiâm i kha-tshiú bān, tsiânn-si̍t sī “guē-sing tsia̍h bú-kū, tshin-tshiūnn tsia̍h tāu-hū”.。",
+      "chinese_translation": "前幾天你要搬家，你舅舅特地請假來幫你搬，你非但沒有感謝他，還嫌他笨手笨腳，你這個外甥真是「占盡你舅舅的便宜」。",
+      "source_word": "外甥食母舅，親像食豆腐。",
+      "extraction_time": "2025-08-27 14:57:07",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "囝婿",
+      "taiwanese_sentence": "人講：「囝婿是半子。」阿菊仔共𪜶囝婿疼命命，袂輸親生的仝款。",
+      "tailo_pronunciation": "Lâng kóng, “Kiánn-sài sī puàn-tsú.” A-kiok--á kā in kiánn-sài thiànn-miā-miā, bē-su tshin-senn--ê kāng-khuán.。」阿菊疼女婿疼得要命，就如同他是親生兒子一樣。",
+      "chinese_translation": "人家說：「女婿是半子。」阿菊疼女婿疼得要命，就如同他是親生兒子一樣。",
+      "source_word": "囝婿是半子。",
+      "extraction_time": "2025-08-27 14:57:10",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "夫妻",
+      "taiwanese_sentence": "少年夫妻毋免驚無家伙，人所說：「翁某若仝心，烏塗變成金」。翁仔姐相楗和齊拍拚定著會成功。",
+      "tailo_pronunciation": "Siàu-liân hu-tshe m̄-bián kiann bô ke-hué, lâng sóo sueh, “Ang-bóo nā kāng-sim, oo-thôo piàn-sîng kim”. Ang-á-tsiá sio-kīng hô-tsê phah-piànn tiānn-tio̍h ē sîng-kong.。夫妻相互扶持合作共同努力一定能成功。",
+      "chinese_translation": "年輕夫妻不必擔心沒有恆產，人們說：「夫妻若同心協力，困境也能創造財富」。夫妻相互扶持合作共同努力一定能成功。",
+      "source_word": "翁某若仝心，烏塗變成金。",
+      "extraction_time": "2025-08-27 14:57:13",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "牽手",
+      "taiwanese_sentence": "俗語講：「艱苦頭，快活尾。」阿發自國小出業了後就綴人去做塗水，骨力趁錢來飼規家伙仔，天公伯仔也真疼惜伊，予伊娶著願意做伙拍拚的媠某，閣踏著好時機佮人合股起厝趁著錢，兩个囡仔嘛真有孝閣有才情，予伊穩心仔提早退休，佮𪜶牽手鬥陣去遊山玩水。",
+      "tailo_pronunciation": "Sio̍k-gí kóng, “Kan-khóo thâu, khuìnn-ua̍h bué.” A-huat tsū kok-sió tshut-gia̍p liáu-āu tō tuè lâng khì tsò thôo-tsuí, kut-la̍t thàn-tsînn lâi tshī kui-ke-hué-á, thinn-kong-peh--á iā tsin thiànn-sioh--i, hōo i tshuā-tio̍h guān-ì tsò-hué phah-piànn ê suí bóo, koh ta̍h-tio̍h hó sî-ki kah lâng ha̍p-kóo khí-tshù thàn-tio̍h tsînn, nn̄g ê gín-á mā tsin iú-hàu koh ū tsâi-tsîng, hōo i ún-sim-á thê-tsá thè-hiu, kah in khan-tshiú tàu-tīn khì iû-san-uán-suí.。」阿發從國小畢業後就跟著別人去做泥水匠，賣力賺錢養一家人，老天爺也很疼愛他，讓他娶到願意一起努力的美嬌娘，又遇上景氣好跟人合建公寓賺到錢，兩個小孩很孝順又有才華，讓他安心提早退休，和妻子一同去遊山玩水。",
+      "chinese_translation": "俗諺說：「含淚播種，歡笑收割。」阿發從國小畢業後就跟著別人去做泥水匠，賣力賺錢養一家人，老天爺也很疼愛他，讓他娶到願意一起努力的美嬌娘，又遇上景氣好跟人合建公寓賺到錢，兩個小孩很孝順又有才華，讓他安心提早退休，和妻子一同去遊山玩水。",
+      "source_word": "艱苦頭，快活尾。",
+      "extraction_time": "2025-08-27 14:57:30",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "妗婆",
+      "taiwanese_sentence": "妗婆雖然真老矣，精神猶真好。",
+      "tailo_pronunciation": "Kīm-pô sui-jiân tsin lāu--ah, tsing-sîn iáu tsin hó.。",
+      "chinese_translation": "舅婆雖然很老了，但精神依然很好。",
+      "source_word": "妗婆",
+      "extraction_time": "2025-08-27 14:57:33",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "新郎",
+      "taiwanese_sentence": "俗語講：「肉欲予人食，骨毋予人齧。」較早結婚的時，新郎這爿扛豬爿到新娘彼頭的時，新娘彼爿定著愛共豬頭、豬尾硩佇𣛮台，予人扛轉去還新郎，按呢才有照結婚的禮俗咧行。",
+      "tailo_pronunciation": "Sio̍k-gí kóng, “Bah beh hōo lâng tsia̍h, kut m̄ hōo lâng khè.” Khah-tsá kiat-hun ê sî, sin-lông tsit-pîng kng ti-pîng kàu sin-niû hit thâu ê sî, sin-niû hit-pîng tiānn-tio̍h ài kā ti-thâu, ti-bué teh tī siānn-tâi, hōo lâng kng tńg-khì hîng sin-lông, án-ne tsiah ū tsiàu kiat-hun ê lé-sio̍k teh kiânn.。」從前結婚的時候，男方抬半條豬到女方家，女方一定要把豬頭、豬尾巴放回扛臺上，讓人抬回男方家，這樣才是遵照結婚的習俗在辦理。",
+      "chinese_translation": "俗話說：「肉可以被人家吃，骨頭是不讓人家啃的。」從前結婚的時候，男方抬半條豬到女方家，女方一定要把豬頭、豬尾巴放回扛臺上，讓人抬回男方家，這樣才是遵照結婚的習俗在辦理。",
+      "source_word": "肉欲予人食，骨毋予人齧。",
+      "extraction_time": "2025-08-27 14:57:35",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "對方",
+      "taiwanese_sentence": "這改比賽去予對方修理甲塗塗塗，佇檢討會裡，教練予人檢討半點鐘，會使講是「滿面專豆花」。",
+      "tailo_pronunciation": "Tsit kái pí-sài khì hōo tuì-hong siu-lí kah thôo-thôo-thôo, tī kiám-thó-huē--lí, kàu-liān hōo lâng kiám-thó puànn tiám-tsing, ē-sái kóng sī “muá-bīn tsuan tāu-hue”.。",
+      "chinese_translation": "這次比賽被對方修理得慘兮兮，在檢討會中，教練被人檢討了半個小時，可以說是「狼狽不堪」。",
+      "source_word": "滿面專豆花。",
+      "extraction_time": "2025-08-27 14:57:38",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "阮兜",
+      "taiwanese_sentence": "阮兜的三頓攏我咧發落，阮翁佮囡仔攏干焦知影通食，有時閣會嫌無好料的通拜牙槽神，真正是「食米毋知米價」。",
+      "tailo_pronunciation": "Guán tau ê sann tǹg lóng guá teh hua̍t-lo̍h, guán ang kah gín-á lóng kan-na tsai-iánn thang tsia̍h, ū-sî koh ē hiâm bô hó-liāu--ê thang pài gê-tsô-sîn, tsin tsiànn sī “tsia̍h bí m̄ tsai bí kè”.。",
+      "chinese_translation": "我們家的三餐都是我在張羅，我先生跟孩子都只知道吃，有時候還會嫌沒有美食可以祭五臟廟，真的是「吃米飯不曉得米的價錢」。",
+      "source_word": "食米毋知米價。",
+      "extraction_time": "2025-08-27 14:57:44",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "娘囝",
+      "taiwanese_sentence": "我一个好娘囝。",
+      "tailo_pronunciation": "Guá tsi̍t ê hó niû-kiánn.。",
+      "chinese_translation": "我的好妻子。",
+      "source_word": "娘囝",
+      "extraction_time": "2025-08-27 14:57:50",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "厝邊",
+      "taiwanese_sentence": "俗語講：「千金買厝，萬金買厝邊。」最近想欲買厝，看厝的時，攏嘛斟酌探聽厝邊是啥物款人，若有好厝邊，才敢買落來。",
+      "tailo_pronunciation": "Sio̍k-gí kóng, “Tshian-kim bé tshù, bān kim bé tshù-pinn.” Tsuè-kīn siūnn-beh bé tshù, khuànn tshù ê sî, lóng mā tsim-tsiok thàm-thiann tshù-pinn sī siánn-mih khuán lâng, nā ū hó tshù-pinn, tsiah kánn bé--lo̍h-lâi.。」最近想要買房子，看房子的時候，都會仔細打聽鄰居到底是怎麼樣的人，若有好鄰居，才敢買下來。",
+      "chinese_translation": "俗話說：「千金買屋，萬金買鄰。」最近想要買房子，看房子的時候，都會仔細打聽鄰居到底是怎麼樣的人，若有好鄰居，才敢買下來。",
+      "source_word": "千金買厝，萬金買厝邊。",
+      "extraction_time": "2025-08-27 14:57:55",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "我家",
+      "taiwanese_sentence": "阮牽手當咧無閒的時陣，我家婆講欲替伊煎一盤菜脯卵請人客，盍會知影「好好鱟刣甲屎那流」，煞煎甲臭火焦兼著火。",
+      "tailo_pronunciation": "Guán khan-tshiú tng-teh bô-îng ê sî-tsūn, guá ke-pô kóng beh thè i tsian tsi̍t puânn tshài-póo-nn̄g tshiánn lâng-kheh, khah ē tsai-iánn “hó-hó hāu thâi kah sái ná lâu”, suah tsian kah tshàu-hué-ta kiam to̍h-hué.。",
+      "chinese_translation": "內人正忙的時候，我多管閒事主動要替他煎一盤蘿蔔乾炒蛋給客人吃，哪裡知道「成事不足，敗事有餘」，竟然炒得焦黑不堪。",
+      "source_word": "好好鱟刣甲屎那流。",
+      "extraction_time": "2025-08-27 14:58:07",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "阿妗",
+      "taiwanese_sentence": "咱是欲去共恁阿妗送山，你穿甲規身軀花彔彔，敢有合？",
+      "tailo_pronunciation": "Lán sī beh khì kā lín a-kīm sàng-suann, lí tshīng kah kui-sin-khu hue-lok-lok, kám ū ha̍h",
+      "chinese_translation": "我們要去送舅媽出殯，你全身穿得花花綠綠，合適嗎？",
+      "source_word": "花彔彔",
+      "extraction_time": "2025-08-27 14:58:09",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "大人",
+      "taiwanese_sentence": "伊總是怨嘆𪜶爸母較為小弟，人咧講：「十指伸出，無平長。」序大人無論按怎做，加減都會予囝兒序細感覺無公平。",
+      "tailo_pronunciation": "I tsóng-sī uàn-thàn in pē-bú khah uī sió-tī, lâng teh kóng, “Tsa̍p tsáinn tshun-tshut, bô pênn tn̂g.” Sī-tuā-lâng bô-lūn án-tsuánn tsò, ke-kiám to ē hōo kiánn-jî sī-sè kám-kak bô kong-pênn.。」父母親不論怎麼做，多少還是會讓子女覺得有不公的地方。",
+      "chinese_translation": "他總是抱怨他的父母比較偏坦弟弟，人們說：「十根手指頭伸出來，長短也不一樣。」父母親不論怎麼做，多少還是會讓子女覺得有不公的地方。",
+      "source_word": "十指伸出，無平長。",
+      "extraction_time": "2025-08-27 14:58:18",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "大官",
+      "taiwanese_sentence": "伊佇小學教冊三十外冬，學生有的做大官，有的做教授，伊定定笑講：「有狀元學生，無狀元先生。」",
+      "tailo_pronunciation": "I tī sió-ha̍k kà-tsheh sann-tsa̍p-guā tang, ha̍k-sing ū ê tsò tuā-kuann, ū ê tsò kàu-siū, i tiānn-tiānn tshiò kóng, “Ū tsiōng-guân ha̍k-sing, bô tsiōng-guân sian-sinn.”。」",
+      "chinese_translation": "他在小學教書三十多年，學生有的做大官，有的當教授，他常常笑說：「有狀元學生，沒有狀元老師。」",
+      "source_word": "有狀元學生，無狀元先生。",
+      "extraction_time": "2025-08-27 14:58:29",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "新娘",
+      "taiwanese_sentence": "俗語講：「肉欲予人食，骨毋予人齧。」較早結婚的時，新郎這爿扛豬爿到新娘彼頭的時，新娘彼爿定著愛共豬頭、豬尾硩佇𣛮台，予人扛轉去還新郎，按呢才有照結婚的禮俗咧行。",
+      "tailo_pronunciation": "Sio̍k-gí kóng, “Bah beh hōo lâng tsia̍h, kut m̄ hōo lâng khè.” Khah-tsá kiat-hun ê sî, sin-lông tsit-pîng kng ti-pîng kàu sin-niû hit thâu ê sî, sin-niû hit-pîng tiānn-tio̍h ài kā ti-thâu, ti-bué teh tī siānn-tâi, hōo lâng kng tńg-khì hîng sin-lông, án-ne tsiah ū tsiàu kiat-hun ê lé-sio̍k teh kiânn.。」從前結婚的時候，男方抬半條豬到女方家，女方一定要把豬頭、豬尾巴放回扛臺上，讓人抬回男方家，這樣才是遵照結婚的習俗在辦理。",
+      "chinese_translation": "俗話說：「肉可以被人家吃，骨頭是不讓人家啃的。」從前結婚的時候，男方抬半條豬到女方家，女方一定要把豬頭、豬尾巴放回扛臺上，讓人抬回男方家，這樣才是遵照結婚的習俗在辦理。",
+      "source_word": "肉欲予人食，骨毋予人齧。",
+      "extraction_time": "2025-08-27 14:58:32",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "原住民",
+      "taiwanese_sentence": "自細漢就定定聽阮阿公講「有唐山公，無唐山媽」。伊講阮的開基祖是對唐山來的羅漢跤仔，查某祖是平埔族的原住民。",
+      "tailo_pronunciation": "Tsū sè-hàn tō tiānn-tiānn thiann guán a-kong kóng “ū Tn̂g-suann kong, bô Tn̂g-suann má”. I kóng guán ê khai-ki-tsóo sī uì Tn̂g-suann lâi ê lô-hàn-kha-á, tsa-bóo-tsóo sī pênn-poo-tso̍k ê guân-tsū-bîn.。原來我們的第一代男祖先是來自華南的單身流浪漢，女性祖先是平埔族的原住民。",
+      "chinese_translation": "從小時候就常常聽爺爺說「有來自唐山的男祖先，沒有來自唐山的女祖先」。原來我們的第一代男祖先是來自華南的單身流浪漢，女性祖先是平埔族的原住民。",
+      "source_word": "有唐山公，無唐山媽。",
+      "extraction_time": "2025-08-27 14:58:35",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "丈夫",
+      "taiwanese_sentence": "人講：「驚某大丈夫，拍某豬狗牛。」你著愛好好仔疼惜恁牽手才著。",
+      "tailo_pronunciation": "Lâng kóng, “Kiann bóo tāi-tiōng-hu, phah bóo ti-káu-gû.” Lí tio̍h-ài hó-hó-á thiànn-sioh lín khan-tshiú tsiah tio̍h.。」你要好好疼惜你的老婆才對。",
+      "chinese_translation": "人家說：「怕老婆是大丈夫，打老婆是豬狗牛。」你要好好疼惜你的老婆才對。",
+      "source_word": "驚某",
+      "extraction_time": "2025-08-27 14:58:38",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    }
+  ],
+  "missing_words": [
+    {
+      "word": "嬰兒",
+      "reason": "無用例",
+      "index": 3
+    },
+    {
+      "word": "祖父的姊妹或同輩女性親友、過了適婚年齡而還沒有出嫁的女性，通常帶有負面意涵",
+      "reason": "無用例",
+      "index": 4
+    },
+    {
+      "word": "稱祖母或外祖母的兄弟",
+      "reason": "無用例",
+      "index": 5
+    },
+    {
+      "word": "妹妹",
+      "reason": "無用例",
+      "index": 7
+    },
+    {
+      "word": "女性",
+      "reason": "無用例",
+      "index": 10
+    },
+    {
+      "word": "女兒",
+      "reason": "無用例",
+      "index": 12
+    },
+    {
+      "word": "阿嬸",
+      "reason": "無用例",
+      "index": 17
+    },
+    {
+      "word": "自己",
+      "reason": "無用例",
+      "index": 18
+    },
+    {
+      "word": "曾祖父母",
+      "reason": "無用例",
+      "index": 21
+    },
+    {
+      "word": "伯母、伯父的妻子、尊稱母輩中年紀較大的女子",
+      "reason": "無用例",
+      "index": 22
+    },
+    {
+      "word": "公公",
+      "reason": "無用例",
+      "index": 26
+    },
+    {
+      "word": "伯祖母、稱呼父親的伯母",
+      "reason": "無用例",
+      "index": 28
+    },
+    {
+      "word": "嬸嬸、叔叔的妻子",
+      "reason": "無用例",
+      "index": 30
+    },
+    {
+      "word": "我們大家",
+      "reason": "無用例",
+      "index": 32
+    },
+    {
+      "word": "爸爸",
+      "reason": "無用例",
+      "index": 33
+    },
+    {
+      "word": "父母親的舅母",
+      "reason": "無用例",
+      "index": 35
+    },
+    {
+      "word": "伯父、父親的哥哥、 尊稱父輩中年紀較大的男子",
+      "reason": "無用例",
+      "index": 36
+    },
+    {
+      "word": "兒子",
+      "reason": "無用例",
+      "index": 39
+    },
+    {
+      "word": "姊妹所生的兒子",
+      "reason": "無用例",
+      "index": 42
+    },
+    {
+      "word": "女婿",
+      "reason": "無用例",
+      "index": 44
+    },
+    {
+      "word": "父母",
+      "reason": "無用例",
+      "index": 45
+    },
+    {
+      "word": "晚輩、後輩",
+      "reason": "無用例",
+      "index": 46
+    },
+    {
+      "word": "姑母的丈夫",
+      "reason": "無用例",
+      "index": 53
+    },
+    {
+      "word": "姆婆",
+      "reason": "無用例",
+      "index": 55
+    },
+    {
+      "word": "娘子、妻子",
+      "reason": "無用例",
+      "index": 58
+    },
+    {
+      "word": "父母親的嬸嬸",
+      "reason": "無用例",
+      "index": 62
+    },
+    {
+      "word": "舅媽、舅舅的妻子",
+      "reason": "無用例",
+      "index": 63
+    },
+    {
+      "word": "姨丈",
+      "reason": "無用例",
+      "index": 67
+    },
+    {
+      "word": "哥哥",
+      "reason": "無用例",
+      "index": 69
+    },
+    {
+      "word": "爺爺、祖父",
+      "reason": "無用例",
+      "index": 70
+    },
+    {
+      "word": "大人、成年人",
+      "reason": "無用例",
+      "index": 71
+    },
+    {
+      "word": "奶媽、奶娘",
+      "reason": "無用例",
+      "index": 72
+    },
+    {
+      "word": "父親的伯父",
+      "reason": "無用例",
+      "index": 73
+    },
+    {
+      "word": "姑姑、姑媽、爸爸的姊妹",
+      "reason": "無用例",
+      "index": 76
+    },
+    {
+      "word": "客人",
+      "reason": "無用例",
+      "index": 78
+    },
+    {
+      "word": "太太、老婆",
+      "reason": "無用例",
+      "index": 81
+    },
+    {
+      "word": "姨媽、母親的姊妹、尊稱與母親同輩份的女性",
+      "reason": "無用例",
+      "index": 82
+    },
+    {
+      "word": "親戚",
+      "reason": "無用例",
+      "index": 83
+    },
+    {
+      "word": "母親姊妹的丈夫",
+      "reason": "無用例",
+      "index": 87
+    },
+    {
+      "word": "男性",
+      "reason": "無用例",
+      "index": 92
+    },
+    {
+      "word": "稱呼姑婆或姨婆的先生",
+      "reason": "無用例",
+      "index": 93
+    },
+    {
+      "word": "叔叔、爸爸的弟弟",
+      "reason": "無用例",
+      "index": 94
+    },
+    {
+      "word": "姨婆",
+      "reason": "無用例",
+      "index": 95
+    },
+    {
+      "word": "弟弟",
+      "reason": "無用例",
+      "index": 96
+    },
+    {
+      "word": "孫子輩對祖母的姊妹的稱呼",
+      "reason": "無用例",
+      "index": 101
+    },
+    {
+      "word": "小孩、兒童",
+      "reason": "無用例",
+      "index": 103
+    },
+    {
+      "word": "兒媳婦、媳婦",
+      "reason": "無用例",
+      "index": 105
+    },
+    {
+      "word": "舅舅、舅父、對母親的兄弟的稱呼",
+      "reason": "無用例",
+      "index": 107
+    },
+    {
+      "word": "因老爸",
+      "reason": "無用例",
+      "index": 108
+    },
+    {
+      "word": "年輕人",
+      "reason": "無用例",
+      "index": 109
+    },
+    {
+      "word": "奶奶、祖母",
+      "reason": "無用例",
+      "index": 112
+    },
+    {
+      "word": "婆婆",
+      "reason": "無用例",
+      "index": 113
+    },
+    {
+      "word": "姊姊",
+      "reason": "無用例",
+      "index": 115
+    },
+    {
+      "word": "婦道人家、婦女",
+      "reason": "無用例",
+      "index": 116
+    },
+    {
+      "word": "他爸爸",
+      "reason": "無用例",
+      "index": 117
+    },
+    {
+      "word": "老年人",
+      "reason": "無用例",
+      "index": 122
+    },
+    {
+      "word": "鄰居",
+      "reason": "無用例",
+      "index": 123
+    },
+    {
+      "word": "父親的叔父",
+      "reason": "無用例",
+      "index": 124
+    }
+  ]
+}

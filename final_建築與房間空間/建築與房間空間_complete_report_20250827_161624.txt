@@ -1,0 +1,378 @@
+最終版台語辭典擷取完整報告 - 建築與房間空間
+================================================================================
+🎯 操作流程：輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理
+📊 完整統計：
+   - 總計單字：79 個
+   - 成功擷取：42 個
+   - 缺失單字：37 個
+   - 成功率：53.2%
+⏰ 擷取時間：20250827_161624
+
+🌟 完整擷取（台語+台羅+中文）:
+------------------------------------------------------------
+ 1. 夜市
+    台語：阿榮頭一改贌園種弓蕉隨搪著風颱，了甲叫毋敢。佳哉尾仔換去夜市做油湯，拄著時機好，才予伊趁甲油洗洗，有影是「人飼人，一支骨；天飼人，肥朒朒」，真正予人袂𠢕得。
+    台羅：A-îng thâu tsi̍t kái pa̍k-hn̂g tsìng king-tsio suî tn̄g-tio̍h hong-thai, liáu kah kiò-m̄-kánn. Ka-tsài bué--á uānn-khì iā-tshī tsò iû-thng, tú-tio̍h sî-ki hó, tsiah hōo i thàn kah iû-sé-sé, ū-iánn sī “lâng tshī lâng, tsi̍t ki kut; thinn tshī lâng, puî-tsut-tsut”, tsin-tsiànn hōo lâng bē-gâu--tit.。幸虧後來換跑道去夜市擺麵攤，遇到景氣好，才讓讓他賺得油水多多，真正是「只靠人，瘦巴巴；天幫助，笑哈哈」，人真的不能自以為了得。
+    中文：阿榮第一次租田園種香蕉就碰上颱風，賠的叫苦連天。幸虧後來換跑道去夜市擺麵攤，遇到景氣好，才讓讓他賺得油水多多，真正是「只靠人，瘦巴巴；天幫助，笑哈哈」，人真的不能自以為了得。
+    來源：人飼人，一支骨；天飼人，肥朒朒。
+
+ 2. 房間
+    台語：古早嫁娶的風俗誠心適，新娘暗頓愛佇房間內底食，好命婆捀幾項仔飯菜入來，有雞肉、鰇魚，閣會講好話：「食雞，會起家；食鰇魚，生囡仔好育飼。」予新娘止飢兼祝賀。
+    台羅：Kóo-tsá kè-tshuā ê hong-sio̍k tsiânn sim-sik, sin-niû àm-tǹg ài tī pâng-king lāi-té tsia̍h, hó-miā-pô phâng kuí-hāng-á pn̄g-tshài ji̍p--lâi, ū ke-bah, jiû-hî, koh ē kóng hó-uē, “Tsia̍h ke, ē khí-ke; tsia̍h jiû-hî, senn gín-á hó io-tshī.” Hōo sin-niû tsí-ki kiam tsiok-hō.。」給新娘墊墊肚子兼祝福。
+    中文：舊時結婚的風俗很有趣，新娘的晚餐要在臥室裡吃，喜娘會端幾樣飯菜進來，有雞肉、魷魚，還會說吉祥話：「吃雞，會建立家庭；吃魷魚，生出來的孩子會很好養育。」給新娘墊墊肚子兼祝福。
+    來源：食雞，會起家；食鰇魚，生囡仔好育飼。
+
+ 3. 水池
+    台語：我毋知水池仔的深淺。
+    台羅：Guá m̄ tsai tsuí-tî-á ê tshim-tshián.。
+    中文：我不知道水池的深度。
+    來源：深淺
+
+ 4. 浴間仔
+    台語：浴間仔的水道頭咧漏水，阮仙舞都袂好勢，結局阮阿爸攑活扳仔共鎖予絚，一下手就好勢溜溜，有影是「食著藥，青草一葉；食毋著藥，人參一石」。
+    台羅：Tsia̍h tio̍h io̍h, tshenn-tsháu tsi̍t hio̍h; tsia̍h m̄-tio̍h io̍h, jîn-sim tsi̍t tsio̍h
+    中文：浴室的水龍頭漏水，我們怎麼修理都沒用。結果我爸爸拿活動板手將它鎖緊，三兩下就搞定，正所謂「做事掌握關鍵，方能達到事半功倍之效」。
+    來源：食著藥，青草一葉；食毋著藥，人參一石。
+
+ 5. 花園
+    台語：伊公開展覽伊的私人花園。
+    台羅：I kong-khai tián-lám i ê su-jîn hue-hn̂g.。
+    中文：他把他的私人花園公開展覽。
+    來源：公開
+
+ 6. 大路
+    台語：外媽𪜶厝是有六龍的大厝起，三十年前因為大路欲楦闊，護龍予人削兩龍去，外埕開做大車路。總是「涼傘雖破，骨格原在」，入去厝內猶原看會著較早的氣派。
+    台羅：Guā-má in tshù sī ū la̍k lîng ê tuā-tshù-khí, sann-tsa̍p nî tsîng in-uī tuā-lōo beh hùn-khuah, hōo-lîng hōo lâng siah nn̄g lîng--khì, guā-tiânn khui-tsò tuā tshia-lōo. Tsóng--sī “niû-suànn sui phuà, kut-keh guân-tsāi”, ji̍p-khì tshù-lāi iu-guân khuànn ē tio̍h khah-tsá ê khì-phài.。不過「外觀被毀，氣派猶存」，進去屋裡仍可看到從前的氣派。
+    中文：外婆家是有三對廂房的大宅第，三十年前因為道路要拓寬，廂房被拆掉兩排，外庭院闢成大馬路。不過「外觀被毀，氣派猶存」，進去屋裡仍可看到從前的氣派。
+    來源：涼傘雖破，骨格原在。
+
+ 7. 碼頭
+    台語：船到碼頭，逐家攏準備欲落船。
+    台羅：Tsûn kàu bé-thâu, ta̍k-ke lóng tsún-pī beh lo̍h-tsûn.。
+    中文：船到碼頭，大家都準備要下船。
+    來源：落船
+
+ 8. 高速公路
+    台語：高速公路好駛車，毋過路標複雜，一下看無真，落南駛對上北去，就「一丈差九尺」，加了時間、閣加了油的。
+    台羅：Ko-sok kong-lōo hó sái-tshia, m̄-koh lōo-piau ho̍k-tsa̍p, tsi̍t-ē khuànn bô tsin, lo̍h-lâm sái tuì tsiūnn-pak--khì, tō “tsi̍t tn̄g tsha káu tshioh”, ke liáu sî-kan, koh ke liáu iû--ê.。
+    中文：高速公路好開車，但是號誌複雜，一下沒看仔細，南下開到北上去，「南轅北轍」，費時又費油。
+    來源：一丈差九尺。
+
+ 9. 山路
+    台語：這條山路行到半中站拄好有一塊大石鼓，咱會當坐佇遐小歇睏一下。
+    台羅：Tsit tiâu suann-lōo kiânn kàu puànn-tiong-tsām tú-hó ū tsi̍t tè tuā tsio̍h-kóo, lán ē-tàng tsē tī hia sió hioh-khùn--tsi̍t-ē.。
+    中文：這條山路走到中途剛好有一塊大圓石，我們可以坐在那裡稍微休息一下。
+    來源：石鼓
+
+10. 電梯
+    台語：都市的厝邊兜，就準講佇電梯間搪著，嘛無的確會相借喙。
+    台羅：Too-tshī ê tshù-pinn-tau, tō tsún-kóng tī tiān-thui-king tn̄g--tio̍h, mā bô-tik-khak ē sio-tsioh-tshuì.。
+    中文：都市的鄰居之間，即便在電梯裡面不期而遇，也未必會相互打招呼。
+    來源：相借喙
+
+11. 動物園
+    台語：囡仔佇動物園看著麒麟鹿，就歡喜甲跳起來。
+    台羅：Gín-á tī tōng-bu̍t-hn̂g khuànn-tio̍h kî-lîn-lo̍k, tō huann-hí kah thiàu--khí-lâi.。
+    中文：小孩子在動物園看到長頸鹿，就高興得跳起來。
+    來源：麒麟鹿
+
+12. 樓頂
+    台語：你起去樓頂共恁阿爸鬥晾衫。
+    台羅：Lí khí-khì lâu-tíng kā lín a-pah tàu nê sann.。
+    中文：你上樓去幫你爸爸晾衣服。
+    來源：起去
+
+13. 𥴊仔店
+    台語：我提一千箍去𥴊仔店買五十箍的物件，頭家娘找我四百五。我講伊找毋著，伊一直諍講我予伊五百箍。等錄影看了，伊隨雞喙變鴨喙。
+    台羅：Guá the̍h tsi̍t-tshing khoo khì kám-á-tiàm bé gōo-tsa̍p khoo ê mi̍h-kiānn, thâu-ke-niû tsāu guá sì-pah-gōo. Guá kóng i tsāu m̄-tio̍h, i it-ti̍t tsènn kóng guá hōo i gōo-pah khoo. Tán lo̍k-iánn khuànn-liáu, i suî ke-tshuì piàn ah-tshuì.。我說他找錯了，她一直爭辯說我給她五百塊。等看過錄影，她立刻啞口無言。
+    中文：我拿一千塊到雜貨店買五十塊的東西，老闆娘找我四百五。我說他找錯了，她一直爭辯說我給她五百塊。等看過錄影，她立刻啞口無言。
+    來源：雞喙變鴨喙
+
+14. 停車場
+    台語：以早遮是田，這馬做停車場，聽講以後欲起厝。
+    台羅：Í-tsá tsia sī tshân, tsit-má tsò thîng-tshia-tiûnn, thiann-kóng í-āu beh khí-tshù.。
+    中文：以前這裡是田，現在當停車場，聽說以後要蓋房子。
+    來源：以早
+
+15. 樓梯
+    台語：非洲真濟國家因為飢荒，百姓枵飢失頓，真濟囡仔攏「腹肚若水櫃，胸坎若樓梯」，予人真毋甘。
+    台羅：Hui-tsiu tsin tsē kok-ka in-uī ki-hng, peh-sènn iau-ki-sit-tǹg, tsin tsē gín-á lóng “pak-tóo ná tsuí-kuī, hing-khám ná lâu-thui”, hōo lâng tsin m̄-kam.。
+    中文：非洲很多國家因為飢荒，人民三餐不繼，很多兒童都「骨瘦如柴，卻又挺個大肚子」，讓人很不捨。
+    來源：腹肚若水櫃，胸坎若樓梯。
+
+16. 樓跤
+    台語：樓跤有人咧喝咻，毋知是啥物代誌。
+    台羅：Lâu-kha ū lâng teh huah-hiu, m̄ tsai sī siánn-mih tāi-tsì.。
+    中文：樓下有人在大聲叫嚷，不知道是什麼事情。
+    來源：喝咻
+
+17. 夜市仔
+    台語：我去夜市仔開兩百箍買著這條椅仔，哪知坐無兩工就害去，袂輸擤鼻糊的，人講「一分錢，一分貨」，有影俗物就無好貨。
+    台羅：Guá khì iā-tshī-á khai nn̄g-pah khoo bé-tio̍h tsit liâu í-á, ná tsai tsē bô nn̄g kang tō hāi--khì, bē-su tshìng-phīnn kôo--ê, lâng kóng “tsi̍t hun tsînn, tsi̍t hun huè”, ū-iánn sio̍k-mi̍h tō bô hó huè.。
+    中文：我去夜市花了兩百塊買到這張椅子，哪知道坐不到兩天就壞了，就好像用鼻涕黏的一樣，人家說「一分錢，一分貨」，果然便宜就沒好貨。
+    來源：一分錢，一分貨。
+
+18. 大樓
+    台語：你都毋知咧，這棟遮挑俍的大樓，當初時欲動土進前是偌仔厚事路咧！
+    台羅：Lí to m̄ tsai--leh, tsit tòng tsiah thiau-lāng ê tuā-lâu, tong-tshe-sî beh tāng-thóo tsìn-tsîng sī guā-á kāu-sū-lōo--leh
+    中文：你都不知道，這棟聳立的大樓，當初要動土之前可是波折不斷啊！
+    來源：厚事路
+
+19. 鐵路
+    台語：欲完成這條高速鐵路，著閣坉錢。
+    台羅：Beh uân-sîng tsit tiâu ko-sok thih-lōo, tio̍h koh thūn-tsînn.。
+    中文：想要完成這條高速鐵路，得再填補資金。
+    來源：坉錢
+
+20. 路口
+    台語：行到雙叉路口，毋知愛按怎行。
+    台羅：Kiânn kàu siang-tshe-lōo-kháu, m̄ tsai ài án-tsuánn kiânn.。
+    中文：走到雙叉路口，不知道該怎麼走。
+    來源：雙叉路
+
+21. 巷仔
+    台語：咱巷仔口彼个陳董的閣去自助餐買便當來食矣，枉費伊大某、細姨媠噹噹，厝內煞定定冤家量債，無人欲煮予食。莫怪人講：「一某無人知，兩某相卸代。」
+    台羅：Lán hāng-á-kháu hit ê Tân-táng--ê koh khì tsū-tsōo-tshan bé piān-tong lâi tsia̍h--ah, óng-huì i tuā-bóo, sè-î suí-tang-tang, tshù-lāi suah tiānn-tiānn uan-ke-niû-tsè, bô lâng beh tsú hōo tsia̍h. Bo̍k-kuài lâng kóng, “Tsi̍t bóo bô lâng tsai, nn̄g bóo sio-sià-tāi.”。難怪人家說：「一夫一妻，夫唱婦隨；家有妻妾，雞犬不寧。」
+    中文：住巷口的陳董事長又去自助餐買便當來吃了，虧他有老婆、姨太太而且都很漂亮，家裡卻常常爭吵，沒人做飯給他吃。難怪人家說：「一夫一妻，夫唱婦隨；家有妻妾，雞犬不寧。」
+    來源：一某無人知，兩某相卸代。
+
+22. 戲院
+    台語：警察佇戲院門口掠著黃牛。
+    台羅：Kíng-tshat tī hì-īnn mn̂g-kháu lia̍h-tio̍h n̂g-gû.。
+    中文：警察在電影院門口抓到黃牛。
+    來源：黃牛
+
+23. 辦公室
+    台語：這陣時勢無仝矣，古早彼種「千途萬途，毋值得翻田塗」的觀念早就退時去矣，少年人攏嘛欲揣坐佇辦公室吹冷氣的頭路，今是有幾个甘願攑鋤頭落田去作穡咧！
+    台羅：Tsit-tsūn sî-sè bô kāng--ah, kóo-tsá hit tsióng “tshian tôo bān tôo, m̄ ta̍t-tit huan tshân-thôo” ê kuan-liām tsá tō thè-sî--khì--ah, siàu-liân-lâng lóng mā beh tshuē tsē tī pān-kong-sik tshue líng-khì ê thâu-lōo, tann sī ū kuí ê kam-guān gia̍h tî-thâu lo̍h-tshân khì tsoh-sit--leh!。
+    中文：現今時代不同了，以前那套「重農輕商」的觀念早已過時了，年輕人都想找坐在辦公室吹冷氣的工作，現在有幾個願意拿著鋤頭下田耕種啊！
+    來源：千途萬途，毋值得翻田塗。
+
+24. 窗仔
+    台語：若欲共窗仔子刻甲有花有草，著愛倩會曉幼工的木匠來創才會媠。
+    台羅：Nā beh kā thang-á-tsí khik kah ū hue ū tsháu, tio̍h-ài tshiànn ē-hiáu iù-kang ê ba̍k-tshiūnn lâi tshòng tsiah ē suí.。
+    中文：想把窗櫺雕成有花有草的圖案，必須聘請會細工的木匠來做才會漂亮。
+    來源：幼工
+
+25. 電台
+    台語：電台節目咧推銷健康食品，定定講甲比美國仙丹閣較好用。
+    台羅：Tiān-tâi tsiat-bo̍k teh thui-siau kiān-khong si̍t-phín, tiānn-tiānn kóng kah pí Bí-kok-sian-tan koh-khah hó-īng.。
+    中文：電台節目在推銷健康食品，常常說得比靈丹妙藥還好用。
+    來源：美國仙丹
+
+26. 博物館
+    台語：黃金博物館彼塊金仔角重篤篤，到今猶無人搬會振動得。
+    台羅：N̂g-kim Phok-bu̍t-kuán hit tè kim-á-kak tāng-tauh-tauh, kàu-tann iáu bô lâng puann ē-tín-tāng--tit.。
+    中文：黃金博物館裡的那塊金塊非常的重，至今還沒有人能搬得動。
+    來源：重篤篤
+
+27. 市場
+    台語：伊講當選了後，欲整頓市場，結果攏無影跡。
+    台羅：I kóng tòng-suán liáu-āu, beh tsíng-tùn tshī-tiûnn, kiat-kó lóng bô iánn-tsiah.。
+    中文：他說當選之後，要整頓市場，結果都是虛假。
+    來源：影跡
+
+28. 灶跤
+    台語：我轉來欲攢下晝頓，行入灶跤就看著大漢查某囝當咧煮矣。
+    台羅：Guá tńg-lâi beh tshuân ē-tàu-tǹg, kiânn-ji̍p tsàu-kha tō khuànn-tio̍h tuā-hàn tsa-bóo-kiánn tng-teh tsú--ah.。
+    中文：我回來要做午飯，走進廚房就看到大女兒正在煮了。
+    來源：下晝頓
+
+29. 塗跤
+    台語：你行路攏無咧看路，「目睭看懸，無看低」，塗跤一窟水，你嘛共伊踏落去。
+    台羅：Lí kiânn-lōo lóng bô teh khuànn lōo, “ba̍k-tsiu khuànn-kuân, bô khuànn-kē”, thôo-kha tsi̍t khut tsuí, lí mā kā i ta̍h--lo̍h-khì.。
+    中文：你走路都不看路，「只看高處，不看地面」，路上一汪水，你也踩下去。
+    來源：目睭看懸，無看低。
+
+30. 便所
+    台語：咱著教囡仔，去便所了後，挩鍊仔著愛挩予好勢。
+    台羅：Lán tio̍h kà gín-á, khì piān-sóo liáu-āu, thuah-liān-á tio̍h-ài thuah hōo hó-sè.。
+    中文：咱們得教小孩，上完廁所，拉鍊得要拉好。
+    來源：挩鍊仔
+
+31. 水庫
+    台語：誠久無落雨矣，水庫的水一直消蝕落去。
+    台羅：Tsiânn kú bô lo̍h-hōo--ah, tsuí-khòo ê tsuí it-ti̍t siau-si̍h--lo̍h-khì.。
+    中文：很久沒下雨了，水庫的水一直蒸發掉。
+    來源：消蝕
+
+32. 水溝
+    台語：古早對唐山渡烏水溝來臺灣的人，總扯十个死六个，實在真無捨施。
+    台羅：Kóo-tsá tuì Tn̂g-suann tōo Oo-tsuí-kau lâi Tâi-uân ê lâng, tsóng-tshé tsa̍p ê sí la̍k ê, si̍t-tsāi tsin bô-siá-sì.。
+    中文：以前從唐山渡黑水溝來臺灣的人，平均十個死六個，實在很可憐。
+    來源：烏水溝
+
+33. 菜市仔
+    台語：想欲食金瓜湯，煞規菜市仔攏無人咧賣金瓜，「無魚，蝦嘛好」，今仔日先買冬瓜轉來去𤉙排骨湯。
+    台羅：Siūnn-beh tsia̍h kim-kue-thng, suah kui tshài-tshī-á lóng bô lâng teh bē kim-kue, “bô hî, hê mā hó”, kin-á-ji̍t sing bé tang-kue tńg lâi-khì kûn pâi-kut-thng.。
+    中文：想喝南瓜湯，整個菜市場卻沒有人賣南瓜，「退而求其次」，今天先買冬瓜回家煮排骨湯。
+    來源：無魚，蝦嘛好。
+
+34. 古蹟
+    台語：聽講𪜶兜彼間大厝這馬是古蹟。
+    台羅：Thiann-kóng in tau hit king tuā-tshù tsit-má sī kóo-tsik.。
+    中文：聽說他家的那間大房子現在是古蹟。
+    來源：大厝
+
+35. 客廳
+    台語：下昏暗干焦𪜶兩姊妹仔顧厝，半暝雄雄聽著客廳有跤步聲，兩人驚甲圇痀去。
+    台羅：E-hng-àm kan-na in nn̄g tsí-muē-á kòo-tshù, puànn-mê hiông-hiông thiann-tio̍h kheh-thiann ū kha-pōo-siann, nn̄g lâng kiann kah lun-ku--khì.。
+    中文：今晚只有他們兩姊妹看家，半夜突然聽到客廳有腳步聲，兩人嚇得縮成一團。
+    來源：圇痀
+
+36. 大門
+    台語：散會的時，阮有攢三、四百塊王梨酥，佇大門口送予人客。
+    台羅：Suànn-huē ê sî, guán ū tshuân sann, sì-pah tè ông-lâi-soo, tī tuā-mn̂g-kháu sàng hōo lâng-kheh.。
+    中文：散會時，我們準備了三、四百塊鳳梨酥，在大門口送給客人。
+    來源：王梨酥
+
+37. 水溝仔
+    台語：水溝仔窒牢咧，落大雨的時水瀉袂出去。
+    台羅：Tsuí-kau-á that-tiâu--leh, lo̍h tuā-hōo ê sî tsuí sià bē tshut--khì.。
+    中文：水溝堵住了，下大雨時水排不出去。
+    來源：瀉
+
+38. 電影院
+    台語：這間電影院的設備真周全。
+    台羅：Tsit king tiān-iánn-īnn ê siat-pī tsin tsiu-tsuân.。
+    中文：這間電影院的設備很完善。
+    來源：設備
+
+39. 運動埕
+    台語：學校宣佈運動會欲緩期，講聽候運動埕整修好勢才來辦。
+    台羅：Ha̍k-hāu suan-pòo ūn-tōng-huē beh uān-kî, kóng thìng-hāu ūn-tōng-tiânn tsíng-siu hó-sè tsiah lâi pān.。
+    中文：學校宣布運動會要延期，說等到運動場整修完成後再舉辦。
+    來源：緩期
+
+40. 燈塔
+    台語：有燈塔的指引，船仔才會當平安入港。
+    台羅：Ū ting-thah ê tsí-ín, tsûn-á tsiah ē-tàng pîng-an ji̍p káng.。
+    中文：有燈塔的指引，船才能夠平安入港。
+
+41. 圖書館
+    台語：細漢的時我鬥共阿爸借來的冊提去圖書館還，阿爸就會買一塊麭予我，算講是工錢。
+    台羅：Sè-hàn ê sî guá tàu kā a-pah tsioh--lâi ê tsheh the̍h-khì tôo-su-kuán hîng, a-pah tō ē bé tsi̍t tè pháng hōo--guá, sǹg-kóng sī kang-tsînn.。
+    中文：小時候我將爸爸借來的書幫忙拿去還給圖書館，爸爸就會買一塊麵包給我，就當作是工錢。
+    來源：算講
+
+42. 地板
+    台語：地板推甲會照人影。
+    台羅：Tē-pán thui kah ē tsiò lâng-iánn.。
+    中文：地板擦亮到可照出人影。
+    來源：推文thui
+
+	1.	鐵門
+台語：咱厝的鐵門仔愛閂好，毋通放輕鬆。
+台羅：Lán-tshù ê thih-mn̂g-á ài suan-hó, m̄-thang pàng khin-sang.
+中文：我們家的鐵門要鎖好，不可以大意。
+	2.	走廊
+台語：學校的走廊真長，雨天行過去會滴甲全身。
+台羅：Ha̍k-hāu ê tsáu-lông tsin tn̂g, hōo-thinn kiânn kuè-khì ē tih kah tsuân-sin.
+中文：學校的走廊很長，雨天走過去會淋得全身都是。
+	3.	車庫
+台語：車庫內攏堆滿雜物，無位仔擺車矣。
+台羅：Tshia-khòo lāi lóng tui-muá tsa̍p-mi̍h, bô uī-á pái tshia–ah.
+中文：車庫裡堆滿了雜物，已經沒有位置停車了。
+	4.	書房
+台語：阿明每日攏佇書房讀冊，真用功。
+台羅：A-bîng ta̍k-ji̍t lóng tī tsu-pâng tha̍k-tsheh, tsin iōng-kong.
+中文：小明每天都在書房看書，很用功。
+	5.	食飯廳
+台語：逐家坐落食飯廳，準備開始食暗頓。
+台羅：Ta̍k-ke tsē–lo̍h tsia̍h-pn̄g-thiann, tsún-pī khai-sí tsia̍h àm-tǹg.
+中文：大家坐在餐廳裡，準備開始吃晚餐。
+	6.	古厝
+台語：這幢古厝閣猶留有紅磚牆，真有古早味。
+台羅：Tsit tòng kóo-tshù koh iáu lâu-ū âng-tsng-tshiûnn, tsin ū kóo-tsá-bī.
+中文：這棟古厝還保留著紅磚牆，很有古早的味道。
+	7.	天橋
+台語：行過天橋，比較安全。
+台羅：Kiânn kuè thian-kiô, khah an-tsuân.
+中文：走天橋比較安全。
+	8.	地下道
+台語：落大雨，地下道的水淹甲真深。
+台羅：Lo̍h tuā-hōo, tē-hā-tōo ê tsuí im kah tsin tshim.
+中文：下大雨，地下道的水淹得很深。
+	9.	鐵枝仔路（鐵路）
+台語：欲過鐵枝仔路愛注意，免予火車撞著。
+台羅：Beh kuè thih-ki-á-lōo ài tsù-ì, bián hōo hué-tshia tòng-tio̍h.
+中文：要過鐵路要小心，不要被火車撞到。
+	10.	涼亭
+台語：行到山頂，攏會坐涼亭歇睏。
+台羅：Kiânn kàu suann-tíng, lóng ē tsē liâng-tîng hioh-khùn.
+中文：走到山頂，大家會坐在涼亭裡休息。
+	11.	游泳池
+台語：暑假囡仔攏愛去游泳池拍水。
+台羅：Sú-ka gín-á lóng ài khì iû-íng-tî phah tsuí.
+中文：暑假時小孩都喜歡去游泳池玩水。
+	12.	幼稚園
+台語：細漢仔去幼稚園，攏學歌學畫圖。
+台羅：Sè-hàn-á khì iù-tī-hn̂g, lóng o̍h kua o̍h uē-tôo.
+中文：小孩子去幼稚園，都學唱歌和畫圖。
+	13.	體育館
+台語：阮學校的新體育館真大間。
+台羅：Guán ha̍k-hāu ê sin thé-io̍k-kuán tsin tuā-king.
+中文：我們學校的新體育館很大一棟。
+	14.	地下室
+台語：地下室攏收囥舊物件。
+台羅：Tē-hā-sik lóng siu-khǹg kū mi̍h-kiānn.
+中文：地下室都用來存放舊東西。
+	15.	會議室
+台語：主管今仔日佇會議室開會。
+台羅：Tsú-kuán kin-á-ji̍t tī huē-gī-sik khui-huē.
+中文：主管今天在會議室開會。
+	16.	福利社
+台語：學校的福利社咧賣便當、飲料。
+台羅：Ha̍k-hāu ê hok-lī-siā teh bē piān-tong, ím-liāu.
+中文：學校的福利社在賣便當和飲料。
+	17.	健康中心
+台語：頭殼痛，去健康中心掛號看醫生。
+台羅：Thâu-khak-thiànn, khì kiān-khong-tiong-sim kuà-hōo khuànn i-sing.
+中文：頭痛的時候，就去健康中心掛號看醫生。
+	18.	超市
+台語：超市攏有賣青菜水果，真方便。
+台羅：Tshiau-tshī lóng ū bē tshenn-tshài suí-kó, tsin hong-piān.
+中文：超市都有賣蔬菜水果，很方便。
+	19.	書局
+台語：書局內有真濟冊，愛啥物攏買會著。
+台羅：Tsu-kio̍k lāi ū tsin tsē tsheh, ài siánn-mih lóng bé ē-tio̍h.
+中文：書店裡有很多書，想要什麼都能買得到。
+	20.	銀樓
+台語：伊去銀樓買一隻金手環。
+台羅：I khì gîn-lâu bé tsi̍t tsiah kim tshiú-khuân.
+中文：她去銀樓買了一只金手環。
+	21.	遊樂園
+台語：暑假攏有人帶囡仔去遊樂園玩。
+台羅：Sú-ka lóng ū lâng tuā gín-á khì iû-lo̍k-hn̂g tshù.
+中文：暑假總有人帶小孩去遊樂園玩。
+	22.	洗衫店
+台語：這領西裝送去洗衫店洗較方便。
+台羅：Tsit niá se-tsong sàng khì sé-sann-tiàm sé khah hong-piān.
+中文：這套西裝送去洗衣店洗比較方便。
+	23.	五金行
+台語：阿爸去五金行買鐵釘仔。
+台羅：A-pah khì ngóo-kim-hâng bé thih-ting-á.
+中文：爸爸去五金行買鐵釘。
+	24.	櫃台
+台語：請你去櫃台繳錢。
+台羅：Tshiánn lí khì kuī-tâi kiáu-tsînn.
+中文：請你到櫃台繳錢。
+	25.	故宮
+台語：咱台北有名的古蹟就是故宮博物院。
+台羅：Lán Tâi-pak ū-miâ ê kóo-tsik tō sī Kòo-kiong phok-bu̍t-īnn.
+中文：台北有名的古蹟就是故宮博物院。
+
+❌ 缺失單字報告:
+============================================================
+以下 37 個單字沒有找到可用的例句：
+
+📋 無用例 (37個):
+   鐵枝仔路    廁所      運動場     天橋      超市      廚房      洗衫店     浴室      幼稚園     地下室     
+   遊樂園     鐵門      樓上      走廊      窗戶      故宮      洗衣店     樓下      飯廳      五金行     
+   巷子      食飯廳     菜市場     地下道     雜貨店     會議室     福利社     書房      游泳池     涼亭      
+   櫃台      書局      銀樓      體育館     健康中心    古厝      車庫      
+
+💡 建議：
+   1. 這些單字可能在教育部辭典中沒有用例
+   2. 可以嘗試其他台語辭典或資源
+   3. 或者手動查詢相關的同義詞

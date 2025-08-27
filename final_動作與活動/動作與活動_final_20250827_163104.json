@@ -1,0 +1,344 @@
+{
+  "metadata": {
+    "scraper_type": "最終版手動操作風格爬蟲",
+    "operation_flow": "輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理",
+    "source_url": "https://sutian.moe.edu.tw/zh-hant/tshiau/",
+    "extraction_date": "20250827_163104",
+    "statistics": {
+      "total_words": 41,
+      "successful_extractions": 23,
+      "missing_words": 18,
+      "success_rate": "56.1%",
+      "quality_stats": {
+        "完整": 23,
+        "良好": 0,
+        "基本": 0,
+        "不完整": 0
+      }
+    }
+  },
+  "successful_records": [
+    {
+      "word": "保持",
+      "taiwanese_sentence": "咱厝內逐工攏著摒盪保持衛生。",
+      "tailo_pronunciation": "Lán tshù-lāi ta̍k-kang lóng tio̍h piànn-tn̄g pó-tshî uē-sing.。",
+      "chinese_translation": "家裡每天都得打掃保持衛生。",
+      "source_word": "摒盪",
+      "extraction_time": "2025-08-27 16:29:14",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "嫁娶",
+      "taiwanese_sentence": "古早嫁娶的風俗誠心適，新娘暗頓愛佇房間內底食，好命婆捀幾項仔飯菜入來，有雞肉、鰇魚，閣會講好話：「食雞，會起家；食鰇魚，生囡仔好育飼。」予新娘止飢兼祝賀。",
+      "tailo_pronunciation": "Kóo-tsá kè-tshuā ê hong-sio̍k tsiânn sim-sik, sin-niû àm-tǹg ài tī pâng-king lāi-té tsia̍h, hó-miā-pô phâng kuí-hāng-á pn̄g-tshài ji̍p--lâi, ū ke-bah, jiû-hî, koh ē kóng hó-uē, “Tsia̍h ke, ē khí-ke; tsia̍h jiû-hî, senn gín-á hó io-tshī.” Hōo sin-niû tsí-ki kiam tsiok-hō.。」給新娘墊墊肚子兼祝福。",
+      "chinese_translation": "舊時結婚的風俗很有趣，新娘的晚餐要在臥室裡吃，喜娘會端幾樣飯菜進來，有雞肉、魷魚，還會說吉祥話：「吃雞，會建立家庭；吃魷魚，生出來的孩子會很好養育。」給新娘墊墊肚子兼祝福。",
+      "source_word": "食雞，會起家；食鰇魚，生囡仔好育飼。",
+      "extraction_time": "2025-08-27 16:29:17",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "比賽",
+      "taiwanese_sentence": "阿義仔歌聲真好，老師鼓勵伊去參加歌唱比賽，伊攏講伊足驚上台唱歌。老師講：「『驚驚袂著等。』你愛勇敢徛起去舞台，才會當予人知影你的歌聲有偌好。」",
+      "tailo_pronunciation": "A-gī--á kua-siann tsin hó, lāu-su kóo-lē i khì tsham-ka kua-tshiùnn pí-sài, i lóng kóng i tsiok kiann tsiūnn-tâi tshiùnn-kua. Lāu-su kóng, “ ‘Kiann-kiann bē tio̍h-tíng.’ Lí ài ióng-kám khiā khí-khì bú-tâi, tsiah ē-tàng hōo lâng tsai-iánn lí ê kua-siann ū guā hó.”。老師說 ：「『光是恐懼擔憂不會獲得優勝。』你要勇敢站上舞台，才能讓人知道你的歌聲有多好。」",
+      "chinese_translation": "小義歌聲很好，老師鼓勵他去參加歌唱比賽，他都說他很怕上台唱歌。老師說 ：「『光是恐懼擔憂不會獲得優勝。』你要勇敢站上舞台，才能讓人知道你的歌聲有多好。」",
+      "source_word": "驚驚袂著等。",
+      "extraction_time": "2025-08-27 16:29:19",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "結婚",
+      "taiwanese_sentence": "𪜶結婚十外冬矣，攏無生甲半个，人講：「有囝有囝命，無囝天註定。」有囝無囝毋是人會當決定的。",
+      "tailo_pronunciation": "In kiat-hun tsa̍p-guā tang--ah, lóng bô senn kah puànn ê, lâng kóng, “Ū kiánn ū kiánn miā, bô kiánn thinn tsù-tiānn.” Ū kiánn bô kiánn m̄ sī lâng ē-tàng kuat-tīng--ê.。」有沒有孩子不是人能決定的。",
+      "chinese_translation": "他們結婚十幾年了，都沒有生半個子女，人家說：「有孩子是命運的安排，沒孩子是天註定的。」有沒有孩子不是人能決定的。",
+      "source_word": "有囝有囝命，無囝天註定。",
+      "extraction_time": "2025-08-27 16:29:22",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "籃球",
+      "taiwanese_sentence": "伊對籃球運動真有興趣。",
+      "tailo_pronunciation": "I tuì nâ-kiû ūn-tōng tsin ū hìng-tshù.。",
+      "chinese_translation": "他對籃球運動很有興趣。",
+      "source_word": "籃球",
+      "extraction_time": "2025-08-27 16:29:33",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "辦桌",
+      "taiwanese_sentence": "阮三叔公誠有親，定定辦桌請阮，予阮遮的序細仔足感心的。",
+      "tailo_pronunciation": "Guán sann-tsik-kong tsiânn ū-tshin, tiānn-tiānn pān-toh tshiánn--guán, hōo guán tsia-ê sī-sè-á tsiok kám-sim--ê.。",
+      "chinese_translation": "我三叔公很看重親屬情誼，常常設宴請我們，讓我們這些晚輩非常感恩。",
+      "source_word": "有親",
+      "extraction_time": "2025-08-27 16:29:44",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "拍球",
+      "taiwanese_sentence": "伊雖然穿插若庄跤倯咧，毋過泅水、拍球、唱歌、演奏樂器逐項會，真正是「烏矸仔貯豆油」，予人看袂出。",
+      "tailo_pronunciation": "I sui-jiân tshīng-tshah ná tsng-kha-sông--leh, m̄-koh siû-tsuí, phah-kiû, tshiùnn-kua, ián-tsàu ga̍k-khì ta̍k hāng ē, tsin-tsiànn sī “oo kan-á té tāu-iû”, hōo lâng khuànn bē tshut.。",
+      "chinese_translation": "他雖然衣著打扮像鄉巴佬，不過游泳、打球、唱歌、演奏樂器樣樣會，真是「黑色罐子裝上醬油」，讓人看不出來。",
+      "source_word": "烏矸仔貯豆油。",
+      "extraction_time": "2025-08-27 16:29:52",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "旅遊",
+      "taiwanese_sentence": "𪜶這遍的旅遊，費用攏由公司負擔。",
+      "tailo_pronunciation": "In tsit piàn ê lí-iû, huì-iōng lóng iû kong-si hū-tam.。",
+      "chinese_translation": "他們這次的旅遊，費用都由公司負擔。",
+      "source_word": "負擔",
+      "extraction_time": "2025-08-27 16:29:58",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "撞球",
+      "taiwanese_sentence": "我叫阮囝共我鬥顧擔，伊煞閬港去佮人撞球。",
+      "tailo_pronunciation": "Guá kiò guán kiánn kā guá tàu kòo-tànn, i suah làng-káng khì kah lâng tōng-kiû.。",
+      "chinese_translation": "我叫我兒子幫我顧攤子，他竟開溜去跟人家打撞球。",
+      "source_word": "閬港",
+      "extraction_time": "2025-08-27 16:30:00",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "化妝",
+      "taiwanese_sentence": "伊出門的時若有化妝，轉到厝就會隨落妝。",
+      "tailo_pronunciation": "I tshut-mn̂g ê sî nā ū huà-tsong, tńg kàu tshù tō ē suî lo̍h-tsng.。",
+      "chinese_translation": "他出門的時候要是化了妝，回到家就會隨即卸妝。",
+      "source_word": "落妝",
+      "extraction_time": "2025-08-27 16:30:03",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "訓練",
+      "taiwanese_sentence": "俗語講：「少年袂曉想，食老毋成樣。」這馬無工夫嘛免煩惱，若肯食苦，去職業訓練班受訓學技術，就免驚見食老歹過日。",
+      "tailo_pronunciation": "Siàu-liân bē-hiáu siūnn, tsia̍h-lāu m̄-tsiânn-iūnn",
+      "chinese_translation": "俗語說：「年輕時思慮不周，等到老了生活堪憂。」現在沒專長也不用煩惱，只要肯吃苦，去職業訓練班受訓學技術，就不怕老來日子不好過。",
+      "source_word": "少年袂曉想，食老毋成樣。",
+      "extraction_time": "2025-08-27 16:30:06",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "表達",
+      "taiwanese_sentence": "古早人驚見囡仔講毋著話會顧人怨，才會講「囡仔人有耳無喙」，這馬的人顛倒會鼓勵囡仔愛勇敢表達家己的想法。",
+      "tailo_pronunciation": "Kóo-tsá-lâng kiann-kìnn gín-á kóng m̄-tio̍h uē ē kòo-lâng-uàn, tsiah ē kóng “gín-á-lâng ū-hīnn-bô-tshuì”, tsit-má ê lâng tian-tò ē kóo-lē gín-á ài ióng-kám piáu-ta̍t ka-kī ê siūnn-huat.。",
+      "chinese_translation": "以前的人擔心小孩說錯話會惹人厭，才會說「小孩子有耳朵沒嘴巴」，現代人反而鼓勵小孩要勇於表達自己的想法。",
+      "source_word": "囡仔人有耳無喙。",
+      "extraction_time": "2025-08-27 16:30:11",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "食薰",
+      "taiwanese_sentence": "恁囝偷食薰，確實應該愛罵愛教，是講「大狗盤牆，細狗看樣」，你家己規日薰食牢牢，是欲按怎教囝？",
+      "tailo_pronunciation": "Lín kiánn thau tsia̍h-hun, khak-si̍t ing-kai ài mē ài kà, sī-kóng “tuā káu puânn tshiûnn, sè káu khuànn-iūnn”, lí ka-kī kui-ji̍t hun tsia̍h-tiâu-tiâu, sī beh án-tsuánn kà kiánn?。",
+      "chinese_translation": "你兒子偷抽煙，確實該罵該教，不過「大狗翻牆，小狗學樣」，你自己整天煙不離口，要怎麼教小孩？",
+      "source_word": "大狗盤牆，細狗看樣。",
+      "extraction_time": "2025-08-27 16:30:14",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "看覓",
+      "taiwanese_sentence": "明其知伊這个人是無半撇，猶是交代一寡簡單的穡頭予伊試看覓咧，結局照常做甲離離落落，有影是「爛塗袂糊得壁」。",
+      "tailo_pronunciation": "Bîng-ki-tsai i tsit ê lâng sī bô-puànn-phiat, iáu-sī kau-tài tsi̍t-kuá kán-tan ê sit-thâu hōo i tshì khuànn-māi--leh, kiat-kio̍k tsiàu-siông tsò kah li-li-lak-lak, ū-iánn sī “nuā-thôo bē-kôo-tit piah”.。",
+      "chinese_translation": "明知他這個人一點本事也沒有，仍舊把一些簡單的工作交付他試試看，結果照樣做得亂七八糟，果然「爛泥扶不上牆」。",
+      "source_word": "爛塗袂糊得壁。",
+      "extraction_time": "2025-08-27 16:30:17",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "寫字",
+      "taiwanese_sentence": "伊寫字、食飯攏用倒手。",
+      "tailo_pronunciation": "I siá-jī, tsia̍h-pn̄g lóng īng tò-tshiú.。",
+      "chinese_translation": "他寫字、吃飯都用左手。",
+      "source_word": "倒手",
+      "extraction_time": "2025-08-27 16:30:20",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "錄影",
+      "taiwanese_sentence": "我提一千箍去𥴊仔店買五十箍的物件，頭家娘找我四百五。我講伊找毋著，伊一直諍講我予伊五百箍。等錄影看了，伊隨雞喙變鴨喙。",
+      "tailo_pronunciation": "Guá the̍h tsi̍t-tshing khoo khì kám-á-tiàm bé gōo-tsa̍p khoo ê mi̍h-kiānn, thâu-ke-niû tsāu guá sì-pah-gōo. Guá kóng i tsāu m̄-tio̍h, i it-ti̍t tsènn kóng guá hōo i gōo-pah khoo. Tán lo̍k-iánn khuànn-liáu, i suî ke-tshuì piàn ah-tshuì.。我說他找錯了，她一直爭辯說我給她五百塊。等看過錄影，她立刻啞口無言。",
+      "chinese_translation": "我拿一千塊到雜貨店買五十塊的東西，老闆娘找我四百五。我說他找錯了，她一直爭辯說我給她五百塊。等看過錄影，她立刻啞口無言。",
+      "source_word": "雞喙變鴨喙",
+      "extraction_time": "2025-08-27 16:30:25",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "野球",
+      "taiwanese_sentence": "這馬的野球攏真注重戰術。",
+      "tailo_pronunciation": "Tsit-má ê iá-kiû lóng tsin tsù-tiōng tsiàn-su̍t.。",
+      "chinese_translation": "現在的棒球比賽都很注重戰術。",
+      "source_word": "戰術",
+      "extraction_time": "2025-08-27 16:30:28",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "跤球",
+      "taiwanese_sentence": "世界杯跤球比賽，戰況變化真大，著愛到尾才知輸贏。",
+      "tailo_pronunciation": "Sè-kài-pue kha-kiû pí-sài, tsiàn-hóng piàn-huà tsin tuā, tio̍h-ài kàu-bué tsiah tsai su-iânn.。",
+      "chinese_translation": "世界盃足球比賽，戰況變化很大，得要到最後才知道輸贏。",
+      "source_word": "到尾",
+      "extraction_time": "2025-08-27 16:30:31",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "畫圖",
+      "taiwanese_sentence": "雖罔表兄功課無甲偌好，毋過「荏荏馬也有一步踢」，伊參加全國畫圖比賽定定攏會著等。",
+      "tailo_pronunciation": "Sui-bóng piáu-hiann kong-khò bô kah guā hó, m̄-koh “lám-lám bé iā ū tsi̍t pōo that”, i tsham-ka tsuân-kok uē-tôo pí-sài tiānn-tiānn lóng ē tio̍h-tíng.。",
+      "chinese_translation": "雖然表哥功課不怎麼好，不過「天生我材必有用」，他參加全國繪畫比賽常常會得名。",
+      "source_word": "荏荏馬也有一步踢。",
+      "extraction_time": "2025-08-27 16:30:36",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "控制",
+      "taiwanese_sentence": "你的血壓傷懸，愛控制一下。",
+      "tailo_pronunciation": "Lí ê hueh-ap siunn kuân, ài khòng-tsè--tsi̍t-ē.。",
+      "chinese_translation": "你的血壓太高，要控制一下。",
+      "source_word": "血壓",
+      "extraction_time": "2025-08-27 16:30:39",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "棒球",
+      "taiwanese_sentence": "棒球場下昏暗的電火點甲光映映，檢采閣有精彩的比賽通好看矣。",
+      "tailo_pronunciation": "Pāng-kiû-tiûnn ē-hng-àm ê tiān-hué tiám kah kng-iànn-iànn, kiám-tshái koh ū tsing-tshái ê pí-sài thang-hó khuànn--ah.。",
+      "chinese_translation": "棒球場今晚燈火通明，也許又有精彩的賽事可以觀賞了。",
+      "source_word": "光映映",
+      "extraction_time": "2025-08-27 16:30:47",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "上車",
+      "taiwanese_sentence": "上車進前半點鐘上好先食一粒眩車丹就較袂眩車。",
+      "tailo_pronunciation": "Tsiūnn-tshia tsìn-tsîng puànn tiám-tsing siōng-hó sing tsia̍h tsi̍t lia̍p hîn-tshia-tan tō khah bē hîn-tshia.。",
+      "chinese_translation": "上車前半個小時最好先服用一顆暈車藥就比較不會暈車了。",
+      "source_word": "眩車丹",
+      "extraction_time": "2025-08-27 16:30:53",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "相拍",
+      "taiwanese_sentence": "少年人衝碰閣好強，冤家相拍閣較車，莫怪人講：「少年若無一擺戇，路邊哪有有應公。」家己無惜性命，嘛愛替爸母小想咧。",
+      "tailo_pronunciation": "Siàu-liân-lâng tshóng-pōng koh hònn-kiông, uan-ke sio-phah koh kà-tshia, bo̍k-kuài lâng kóng, “Siàu-liân nā bô tsi̍t pái gōng, lōo-pinn ná ū Iú-ìng-kong.” Ka-kī bô sioh sènn-miā, mā ài thè pē-bú sió siūnn--leh.。」自己不愛惜生命，也要替父母想一下。",
+      "chinese_translation": "年輕人衝動又好強，吵架打架又飆車，難怪有人說：「若非年少時傻過一次，路邊哪來的有應公廟。」自己不愛惜生命，也要替父母想一下。",
+      "source_word": "少年若無一擺戇，路邊哪有有應公。",
+      "extraction_time": "2025-08-27 16:31:01",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    }
+  ],
+  "missing_words": [
+    {
+      "word": "註釋：",
+      "reason": "無用例",
+      "index": 5
+    },
+    {
+      "word": "把褲管折起來",
+      "reason": "無用例",
+      "index": 6
+    },
+    {
+      "word": "打球",
+      "reason": "無用例",
+      "index": 7
+    },
+    {
+      "word": "足球",
+      "reason": "無用例",
+      "index": 9
+    },
+    {
+      "word": "遊行",
+      "reason": "無用例",
+      "index": 10
+    },
+    {
+      "word": "炕窯",
+      "reason": "無用例",
+      "index": 11
+    },
+    {
+      "word": "功夫、工夫",
+      "reason": "無用例",
+      "index": 13
+    },
+    {
+      "word": "種田",
+      "reason": "無用例",
+      "index": 14
+    },
+    {
+      "word": "縖褲帶",
+      "reason": "無用例",
+      "index": 16
+    },
+    {
+      "word": "桌球",
+      "reason": "無用例",
+      "index": 21
+    },
+    {
+      "word": "巡邏",
+      "reason": "無用例",
+      "index": 26
+    },
+    {
+      "word": "採訪",
+      "reason": "無用例",
+      "index": 30
+    },
+    {
+      "word": "排球",
+      "reason": "無用例",
+      "index": 33
+    },
+    {
+      "word": "焢窯",
+      "reason": "無用例",
+      "index": 34
+    },
+    {
+      "word": "羽毛球",
+      "reason": "無用例",
+      "index": 36
+    },
+    {
+      "word": "繫褲腰帶",
+      "reason": "無用例",
+      "index": 38
+    },
+    {
+      "word": "撆褲跤",
+      "reason": "無用例",
+      "index": 39
+    },
+    {
+      "word": "網球",
+      "reason": "無用例",
+      "index": 41
+    }
+  ]
+}

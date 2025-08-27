@@ -1,0 +1,609 @@
+{
+  "metadata": {
+    "scraper_type": "最終版手動操作風格爬蟲",
+    "operation_flow": "輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理",
+    "source_url": "https://sutian.moe.edu.tw/zh-hant/tshiau/",
+    "extraction_date": "20250827_125113",
+    "statistics": {
+      "total_words": 81,
+      "successful_extractions": 36,
+      "missing_words": 45,
+      "success_rate": "44.4%",
+      "quality_stats": {
+        "完整": 36,
+        "良好": 0,
+        "基本": 0,
+        "不完整": 0
+      }
+    }
+  },
+  "successful_records": [
+    {
+      "word": "寸尺",
+      "taiwanese_sentence": "你若欲做衫，愛先量寸尺。",
+      "tailo_pronunciation": "Lí nā beh tsò sann, ài sing niû tshùn-tshioh.。",
+      "chinese_translation": "你如果想要做衣服，要先量身材尺寸。",
+      "source_word": "寸尺",
+      "extraction_time": "2025-08-27 12:47:44",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "𨑨迌物仔",
+      "taiwanese_sentence": "這種𨑨迌物仔外面窒倒街，免驚無地買。",
+      "tailo_pronunciation": "Tsit tsióng tshit-thô-mih-á guā-bīn that-tó-ke, bián kiann bô-tè bé.。",
+      "chinese_translation": "這種玩具外面到處都是，不用怕買不到。",
+      "source_word": "窒倒街",
+      "extraction_time": "2025-08-27 12:47:46",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "報紙",
+      "taiwanese_sentence": "選舉的時陣，電視、報紙共候選人皂烏漆白的事件不止仔濟，才予咱好歹人攏分袂清楚。",
+      "tailo_pronunciation": "Suán-kí ê sî-tsūn, tiān-sī, pò-tsuá kā hāu-suán-jîn tsō-oo-tshat-pe̍h ê sū-kiānn put-tsí-á tsē, tsiah hōo lán hó-pháinn lâng lóng hun bē tshing-tshó.。",
+      "chinese_translation": "選舉期間，電視、報紙抹黑候選人的事件特別多，才讓我們好人壞人都分不清楚。",
+      "source_word": "皂烏漆白",
+      "extraction_time": "2025-08-27 12:47:49",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "管理",
+      "taiwanese_sentence": "頭家人上要緊的工課是管理公司的業務，毋通「豬頭毋顧，顧鴨母卵」，干焦咧斟酌辦公室的花有沃水無？",
+      "tailo_pronunciation": "Thâu-ke-lâng siōng iàu-kín ê khang-khuè sī kuán-lí kong-si ê gia̍p-bū, m̄-thang “ti-thâu m̄ kòo, kòo ah-bó-nn̄g”, kan-na teh tsim-tsiok pān-kong-sik ê hue ū ak-tsuí--bô?。",
+      "chinese_translation": "當老板最要緊的工作是管理公司的業務，不可以「捨本逐末」，光是注意辦公室的花有沒有澆水。",
+      "source_word": "豬頭毋顧，顧鴨母卵。",
+      "extraction_time": "2025-08-27 12:47:55",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "合作",
+      "taiwanese_sentence": "科學研究需要團隊合作，逐家相激頭腦，工課才做會媠氣。",
+      "tailo_pronunciation": "Kho-ha̍k gián-kiù su-iàu thuân-tuī ha̍p-tsok, ta̍k-ke sio-kik-thâu-náu, khang-khuè tsiah tsò ē suí-khuì.。",
+      "chinese_translation": "科學研究需要團隊合作，大家相互腦力激盪，事情才能做得完善。",
+      "source_word": "激頭腦",
+      "extraction_time": "2025-08-27 12:48:03",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "參觀",
+      "taiwanese_sentence": "咱先坐高鐵來去臺中，才閣盤火車去大肚參觀磺溪書院。",
+      "tailo_pronunciation": "Lán sing tsē ko-thih lâi-khì Tâi-tiong, tsiah-koh puânn hué-tshia khì Tuā-tōo tsham-kuan Hông-khe Su-īnn.。",
+      "chinese_translation": "我們先搭高鐵去臺中，再轉搭火車去大肚參觀磺溪書院。",
+      "source_word": "才閣",
+      "extraction_time": "2025-08-27 12:48:06",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "青紅燈",
+      "taiwanese_sentence": "閣過一个青紅燈，就會當看著𪜶兜。",
+      "tailo_pronunciation": "Koh kuè tsi̍t ê tshenn-âng-ting, tō ē-tàng khuànn-tio̍h in tau.。",
+      "chinese_translation": "再過一個紅綠燈，就可以看到他家了。",
+      "source_word": "就替tō",
+      "extraction_time": "2025-08-27 12:48:08",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "窒車",
+      "taiwanese_sentence": "有兩个人佇路邊為著欲搶停車位咧冤家，邊仔的人逐个都「徛懸山，看馬相踢」，無一觸久仔煞開始咧窒車矣！",
+      "tailo_pronunciation": "Ū nn̄g ê lâng tī lōo-pinn uī-tio̍h beh tshiúnn thîng-tshia-uī teh uan-ke, pinn--á ê lâng ta̍k ê to “khiā kuân suann, khuànn bé sio-that”, bô tsi̍t-tak-kú-á suah khai-sí teh that-tshia--ah!。",
+      "chinese_translation": "有兩個人在路邊為了搶停車位正在爭吵，旁邊每個人都「事不關己看好戲」，沒多久就開始塞車了！",
+      "source_word": "徛懸山，看馬相踢。",
+      "extraction_time": "2025-08-27 12:48:11",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "冷凍",
+      "taiwanese_sentence": "冷凍的魚仔提出來退冰。",
+      "tailo_pronunciation": "Líng-tòng ê hî-á the̍h tshut-lâi thè-ping.。",
+      "chinese_translation": "冷凍庫裡的魚拿出來退冰。",
+      "source_word": "退冰",
+      "extraction_time": "2025-08-27 12:48:19",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "字紙",
+      "taiwanese_sentence": "買賣田地的字紙，雙方攏愛親身押名，才有準算。",
+      "tailo_pronunciation": "Bé-bē tshân-tē ê jī-tsuá, siang-hong lóng ài tshin-sin ah-miâ, tsiah ū tsún-sǹg.。",
+      "chinese_translation": "買賣田地的合約，都要雙方親自簽名，才有效力。",
+      "source_word": "押名",
+      "extraction_time": "2025-08-27 12:48:28",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "罐仔",
+      "taiwanese_sentence": "我用罐仔倒匼，掠著一隻虼蚻。",
+      "tailo_pronunciation": "Guá iōng kuàn-á tò-khap, lia̍h-tio̍h tsi̍t tsiah ka-tsua̍h.。",
+      "chinese_translation": "我用罐子倒蓋抓到一隻蟑螂。",
+      "source_word": "倒匼",
+      "extraction_time": "2025-08-27 12:48:33",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "塑膠",
+      "taiwanese_sentence": "塑膠射出的成品脫模了後，邊仔一寡肉幼仔愛閣抾抾咧！",
+      "tailo_pronunciation": "Sok-ka siā-tshut ê sîng-phín thuat-bôo liáu-āu, pinn--á tsi̍t-kuá bah-iù-á ài koh khioh-khioh--leh",
+      "chinese_translation": "塑膠射出的成品脫模後，旁邊一些屑屑要再修一修！",
+      "source_word": "肉幼仔",
+      "extraction_time": "2025-08-27 12:48:38",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "決定",
+      "taiwanese_sentence": "咱欲做決定進前，逐个想較齊著咧，閣看予斟酌，親像俗語咧講的「三人共五目，日後無長短跤話」，按呢好無？",
+      "tailo_pronunciation": "Lán beh tsò kuat-tīng tsìn-tsîng, ta̍k ê siūnn khah tsiâu-tio̍h--leh, koh khuànn hōo tsim-tsiok, tshin-tshiūnn sio̍k-gí teh kóng--ê “sann lâng kāng gōo ba̍k, ji̍t-āu bô tn̂g-té-kha-uē”, án-ne hó--bô?。",
+      "chinese_translation": "我們要做決定之前，大家要顧慮周全，再仔細看看，就像俗話說的「所有人都眼見為憑，日後不要再說長道短」，這樣好嗎？",
+      "source_word": "三人共五目，日後無長短跤話。",
+      "extraction_time": "2025-08-27 12:48:46",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "斑馬線",
+      "taiwanese_sentence": "駛車欲通過斑馬線，著愛讓予過路人先過。",
+      "tailo_pronunciation": "Sái-tshia beh thong-kuè pan-má-suànn, tio̍h-ài niū hōo kuè-lōo-lâng sing kuè.。",
+      "chinese_translation": "開車要通過斑馬線，得要禮讓行人先過。",
+      "source_word": "過路人",
+      "extraction_time": "2025-08-27 12:48:52",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "文化",
+      "taiwanese_sentence": "「人間條件」是一齣會當予外國人認捌臺灣文化的新劇。",
+      "tailo_pronunciation": "“Jîn-kan Tiâu-kiānn” sī tsi̍t tshut ē-tàng hōo guā-kok-lâng jīn-bat Tâi-uân bûn-huà ê sin-kio̍k.。",
+      "chinese_translation": "「人間條件」是一齣可以讓外國人認識臺灣文化的話劇。",
+      "source_word": "新劇",
+      "extraction_time": "2025-08-27 12:49:00",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "紡織",
+      "taiwanese_sentence": "俗語講：「近水知魚性，近山識鳥音。」伊都自細漢綴𪜶爸母佇紡織廠做工課，這陣毋才會對織布這方面的工課遮爾熟手。",
+      "tailo_pronunciation": "Sio̍k-gí kóng, “Kīn suí ti gû sìng, kīn san sik niáu im.” I to tsū sè-hàn tuè in pē-bú tī pháng-tsit-tshiúnn tsò khang-khuè, tsit-tsūn m̄-tsiah ē tuì tsit-pòo tsit hong-bīn ê khang-khuè tsiah-nī si̍k-tshiú.。」他從小就跟他的父母在紡織廠工作，現在他才會對織布這方面的工作如此熟練。",
+      "chinese_translation": "俗話說：「近水知魚性，近山識鳥音。」他從小就跟他的父母在紡織廠工作，現在他才會對織布這方面的工作如此熟練。",
+      "source_word": "近水知魚性，近山識鳥音。",
+      "extraction_time": "2025-08-27 12:49:05",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "目屎",
+      "taiwanese_sentence": "音樂比賽彈鋼琴的時，阿美彈走精去，比賽比了伊是哭甲目屎四淋垂，老師緊共伊安慰講：「仙人拍鼓有時錯，跤步踏差啥人無？」",
+      "tailo_pronunciation": "Im-ga̍k pí-sài tuânn kǹg-khîm ê sî, A-bí tuânn tsáu-tsing--khì, pí-sài pí-liáu i sī khàu kah ba̍k-sái sì-lâm-suî, lāu-su kín kā i an-uì kóng, “Sian-jîn phah kóo iú sî tshò, kha-pōo ta̍h-tsha siánn-lâng bô?”。人非聖賢，孰能無過？」",
+      "chinese_translation": "音樂比賽彈鋼琴時，小美彈錯了，他賽後哭得唏哩嘩啦，老師趕緊安慰他說：「人有失足，馬有失蹄。人非聖賢，孰能無過？」",
+      "source_word": "仙人拍鼓有時錯，跤步踏差啥人無？",
+      "extraction_time": "2025-08-27 12:49:08",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "問題",
+      "taiwanese_sentence": "公司的錢水雄雄轉踅袂過來，因端淡薄仔複雜，古早人講：「緊行無好步。」欲解決問題，千萬毋通傷過趕狂，愛三思而後行。",
+      "tailo_pronunciation": "Kong-si ê tsînn-tsuí hiông-hiông tńg-se̍h bē kuè--lâi, in-tuann tām-po̍h-á ho̍k-tsa̍p, kóo-tsá-lâng kóng, “Kín kiânn bô hó pōo.” Beh kái-kuat būn-tê, tshian-bān m̄-thang siunn kuè kuánn-kông, ài sàm-su jî hiō hîng.。」要解決問題，千萬不可太過慌張，須三思而後行。",
+      "chinese_translation": "公司的資金突然周轉不過來，原因略微複雜，古人說：「欲速則不達。」要解決問題，千萬不可太過慌張，須三思而後行。",
+      "source_word": "緊行無好步。",
+      "extraction_time": "2025-08-27 12:49:13",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "工具",
+      "taiwanese_sentence": "辭典是真重要的工具冊。",
+      "tailo_pronunciation": "Sû-tián sī tsin tiōng-iàu ê kang-kū-tsheh.。",
+      "chinese_translation": "辭典是很重要的工具書。",
+      "source_word": "辭典",
+      "extraction_time": "2025-08-27 12:49:16",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "需要",
+      "taiwanese_sentence": "伊佇孤兒院大漢，受著真濟人的捐助。大漢了後事業做了真成功，伊知影「食人一口，報人一斗」的道理，嘛捐足濟錢幫助需要贊助的孤兒。",
+      "tailo_pronunciation": "I tī koo-jî-īnn tuā-hàn, siū-tio̍h tsin tsē lâng ê kuan-tsōo. Tuā-hàn liáu-āu sū-gia̍p tsò liáu tsin sîng-kong, i tsai-iánn “tsia̍h lâng tsi̍t kháu, pò lâng tsi̍t táu” ê tō-lí, mā kuan tsiok tsē tsînn pang-tsōo su-iàu tsàn-tsōo ê koo-jî.。長大以後事業很成功，他懂得「知恩圖報」的道理，也捐很多錢幫助需要贊助的孤兒。",
+      "chinese_translation": "他在孤兒院長大，受到很多人的捐助。長大以後事業很成功，他懂得「知恩圖報」的道理，也捐很多錢幫助需要贊助的孤兒。",
+      "source_word": "食人一口，報人一斗。",
+      "extraction_time": "2025-08-27 12:49:27",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "崁蓋",
+      "taiwanese_sentence": "大港無崁蓋。",
+      "tailo_pronunciation": "Tuā-káng bô khàm-kuà.。這句話多用於罵人去跳河自殺算了。",
+      "chinese_translation": "大河沒有覆蓋。這句話多用於罵人去跳河自殺算了。",
+      "source_word": "大港",
+      "extraction_time": "2025-08-27 12:49:38",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "西元",
+      "taiwanese_sentence": "西元1940年起去的臺灣人差不多攏有受日本教育。",
+      "tailo_pronunciation": "Se-guân 1940 nî khí-khì ê Tâi-uân-lâng tsha-put-to lóng ū siū Ji̍t-pún kàu-io̍k.。",
+      "chinese_translation": "西元1940年以前的臺灣人差不多都有接受日語教育。",
+      "source_word": "起去",
+      "extraction_time": "2025-08-27 12:49:51",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "付出",
+      "taiwanese_sentence": "枉費我對你付出遮爾仔濟，你一點仔都毋知著感恩。",
+      "tailo_pronunciation": "Óng-huì guá tuì lí hù-tshut tsiah-nī-á tsē, lí tsi̍t-tiám-á to m̄ tsai tio̍h kám-un.。",
+      "chinese_translation": "枉費我對你付出這麼多，你一點都不知道要感恩。",
+      "source_word": "枉費",
+      "extraction_time": "2025-08-27 12:49:57",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "守寡",
+      "taiwanese_sentence": "𪜶翁過身了後，伊就守寡到今。",
+      "tailo_pronunciation": "In ang kuè-sin liáu-āu, i tō tsiú-kuá kàu-tann.。",
+      "chinese_translation": "他先生過世之後，他就守寡至今。",
+      "source_word": "守寡",
+      "extraction_time": "2025-08-27 12:50:02",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "家私",
+      "taiwanese_sentence": "高科技公司趁錢的家私是技術，若是內底的人將技術漏洩，親像人所講的「內神通外鬼」，閣較大間的公司嘛會倒店。",
+      "tailo_pronunciation": "Ko-kho-ki kong-si thàn-tsînn ê ke-si sī ki-su̍t, nā-sī lāi-té ê lâng tsiong ki-su̍t lāu-sia̍p, tshin-tshiūnn lâng sóo kóng ê “lāi sîn thong guā kuí”, koh-khah tuā king ê kong-si mā ē tó-tiàm.。",
+      "chinese_translation": "高科技公司賺錢的利器是技術，若是內部的人將技術外洩，像人們所說的「內神通外鬼」，再怎麼大的公司也會倒閉。",
+      "source_word": "內神通外鬼。",
+      "extraction_time": "2025-08-27 12:50:07",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "車牌",
+      "taiwanese_sentence": "你閣行幾伐仔就會當看著公車牌仔矣。",
+      "tailo_pronunciation": "Lí koh kiânn--kuí-hua̍h-á tō ē-tàng khuànn-tio̍h kong-tshia-pâi-á--ah.。",
+      "chinese_translation": "你再走幾步就可以看到公車站牌了。",
+      "source_word": "伐白hua̍h",
+      "extraction_time": "2025-08-27 12:50:13",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "芳水",
+      "taiwanese_sentence": "伊逐工欲出門進前，攏愛𫝺一寡芳水。",
+      "tailo_pronunciation": "I ta̍k-kang beh tshut-mn̂g tsìn-tsîng, lóng ài hiù tsi̍t-kuá phang-tsuí.。",
+      "chinese_translation": "他每天要出門之前，都要灑一點香水。",
+      "source_word": "芳水",
+      "extraction_time": "2025-08-27 12:50:21",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "車位",
+      "taiwanese_sentence": "有兩个人佇路邊為著欲搶停車位咧冤家，邊仔的人逐个都「徛懸山，看馬相踢」，無一觸久仔煞開始咧窒車矣！",
+      "tailo_pronunciation": "Ū nn̄g ê lâng tī lōo-pinn uī-tio̍h beh tshiúnn thîng-tshia-uī teh uan-ke, pinn--á ê lâng ta̍k ê to “khiā kuân suann, khuànn bé sio-that”, bô tsi̍t-tak-kú-á suah khai-sí teh that-tshia--ah!。",
+      "chinese_translation": "有兩個人在路邊為了搶停車位正在爭吵，旁邊每個人都「事不關己看好戲」，沒多久就開始塞車了！",
+      "source_word": "徛懸山，看馬相踢。",
+      "extraction_time": "2025-08-27 12:50:24",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "要求",
+      "taiwanese_sentence": "一寡爸母對𪜶囝兒的教育傷過關心，要求欲換班級，抑是調去別間學校，毋過「一日徙栽，三日徛黃」，囡仔人曷會堪得按呢搬徙，嘛無法度注心來讀冊。",
+      "tailo_pronunciation": "Tsi̍t-kuá pē-bú tuì in kiánn-jî ê kàu-io̍k siunn kuè kuan-sim, iau-kiû beh uānn pan-kip, ia̍h-sī tiàu-khì pa̍t king ha̍k-hāu, m̄-koh “tsi̍t ji̍t suá-tsai, sann ji̍t khiā-n̂g”, gín-á-lâng a̍h ē-kham-tit án-ne puann-suá, mā bô-huat-tōo tsù-sim lâi tha̍k-tsheh.。",
+      "chinese_translation": "一些父母對於他們的小孩的教育太過關心，要求要換班級，或是調去別間學校，但是「移植一次，蔫黃三日」，小孩子怎麼能受得了這樣遷移，也沒辦法用心讀書。",
+      "source_word": "一日徙栽，三日徛黃。",
+      "extraction_time": "2025-08-27 12:50:32",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "車禍",
+      "taiwanese_sentence": "伊出車禍傷甲真食力，醫生講流傷濟血著愛緊共伊注血，若無會無命去。",
+      "tailo_pronunciation": "I tshut tshia-hō siong kah tsin tsia̍h-la̍t, i-sing kóng lâu siunn tsē hueh tio̍h-ài kín kā i tsù-hueh, nā-bô ē bô-miā--khì.。",
+      "chinese_translation": "他出車禍受重傷，醫生說流太多血要緊急輸血，不然會沒命。",
+      "source_word": "注血",
+      "extraction_time": "2025-08-27 12:50:35",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "胭脂",
+      "taiwanese_sentence": "有明星咧鬥宣傳，這支胭脂加足搶市。",
+      "tailo_pronunciation": "Ū bîng-tshenn teh tàu suan-thuân, tsit ki ian-tsi ke tsiok tshiúnn-tshī.。",
+      "chinese_translation": "有明星在代言，這款口紅暢銷多了。",
+      "source_word": "搶市",
+      "extraction_time": "2025-08-27 12:50:40",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "矸仔",
+      "taiwanese_sentence": "一个查某人參加歌唱比賽，主持人看伊大箍閣濟歲，就看伊無點，啥人知影伊「烏矸仔貯豆油」，歌聲袂輸聲樂家，佇網路世界大轟動。",
+      "tailo_pronunciation": "Tsi̍t ê tsa-bóo-lâng tsham-ka kua-tshiùnn pí-sài, tsú-tshî-jîn khuànn i tuā-khoo koh tsē-huè, tō khuànn i bô tiám, siánn-lâng tsai-iánn i “oo kan-á té tāu-iû”, kua-siann bē-su siann-ga̍k-ka, tī bāng-lōo sè-kài tuā hong-tōng.。",
+      "chinese_translation": "一個女人參加歌唱比賽，主持人看他肥胖年紀又大，就不看好他，誰知道「人不可貌相」，他的歌聲不輸給聲樂家，轟動了網路世界。",
+      "source_word": "烏矸仔貯豆油。",
+      "extraction_time": "2025-08-27 12:50:43",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "車輪",
+      "taiwanese_sentence": "毋知佗一个夭壽人共我的車輪落風。",
+      "tailo_pronunciation": "M̄ tsai tó tsi̍t ê iáu-siū lâng kā guá ê tshia-lián làu-hong.。",
+      "chinese_translation": "不知哪個可惡鬼把我的輪胎洩了氣。",
+      "source_word": "落風",
+      "extraction_time": "2025-08-27 12:50:48",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "呸喙瀾",
+      "taiwanese_sentence": "你莫烏白呸喙瀾啦！",
+      "tailo_pronunciation": "Lí mài oo-pe̍h phuì tshuì-nuā--lah",
+      "chinese_translation": "你不要亂吐口水啦！",
+      "source_word": "喙瀾",
+      "extraction_time": "2025-08-27 12:50:54",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "開始",
+      "taiwanese_sentence": "伊破病倒佇眠床頂廿捅冬矣，寢開始後生猶真盡心看顧，不而過俗語講：「久長病，無孝子。」這幾冬𪜶後生予伊的醫藥費硩甲袂喘氣，就無通遐認真共照顧矣。",
+      "tailo_pronunciation": "I phuà-pēnn tó tī bîn-tshn̂g-tíng jia̍p-thóng tang--ah, tshím-khai-sí hāu-senn iáu tsin tsīn-sim khuànn-kòo, put-jî-kò sio̍k-gí kóng, “Kú-tn̂g pēnn, bô hàu-tsú.” Tsit kuí tang in hāu-senn hōo i ê i-io̍h-huì teh kah bē tshuán-khuì, tō bô thang hiah jīn-tsin kā tsiàu-kòo--ah.。」這幾年他兒子被他的醫藥費壓得喘不過氣來，就沒辦法那麼認真照顧他了。",
+      "chinese_translation": "他已臥病在床二十多年了，剛開始兒子還很盡心照顧，但俗話說：「久病床前無孝子。」這幾年他兒子被他的醫藥費壓得喘不過氣來，就沒辦法那麼認真照顧他了。",
+      "source_word": "久長病，無孝子。",
+      "extraction_time": "2025-08-27 12:51:07",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "玻璃",
+      "taiwanese_sentence": "人到中年目睭的玻璃清有可能會退化，目睭前會有烏影。若有這種症頭，愛去揣醫生檢查。",
+      "tailo_pronunciation": "Lâng kàu tiong-liân ba̍k-tsiu ê po-lê-tshing ū khó-lîng ē thè-huà, ba̍k-tsiu-tsîng ē ū oo-iánn. Nā ū tsit tsióng tsìng-thâu, ài khì tshuē i-sing kiám-tsa.。要是有這種症狀，得去找醫生檢查。",
+      "chinese_translation": "人到中年眼睛的玻璃體可能會退化，眼前會有黑影。要是有這種症狀，得去找醫生檢查。",
+      "source_word": "玻璃清",
+      "extraction_time": "2025-08-27 12:51:13",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    }
+  ],
+  "missing_words": [
+    {
+      "word": "吸收",
+      "reason": "無用例",
+      "index": 1
+    },
+    {
+      "word": "焚化爐",
+      "reason": "無用例",
+      "index": 2
+    },
+    {
+      "word": "掌聲",
+      "reason": "無用例",
+      "index": 3
+    },
+    {
+      "word": "玩具、小東西",
+      "reason": "無用例",
+      "index": 7
+    },
+    {
+      "word": "蓋上蓋子",
+      "reason": "無用例",
+      "index": 9
+    },
+    {
+      "word": "香水",
+      "reason": "無用例",
+      "index": 10
+    },
+    {
+      "word": "塞車",
+      "reason": "無用例",
+      "index": 15
+    },
+    {
+      "word": "做工用的工具、道具",
+      "reason": "無用例",
+      "index": 16
+    },
+    {
+      "word": "駕照",
+      "reason": "無用例",
+      "index": 18
+    },
+    {
+      "word": "銅管仔",
+      "reason": "無用例",
+      "index": 19
+    },
+    {
+      "word": "答案",
+      "reason": "無用例",
+      "index": 21
+    },
+    {
+      "word": "版本",
+      "reason": "無用例",
+      "index": 23
+    },
+    {
+      "word": "路線",
+      "reason": "無用例",
+      "index": 25
+    },
+    {
+      "word": "完整",
+      "reason": "無用例",
+      "index": 26
+    },
+    {
+      "word": "油煙",
+      "reason": "無用例",
+      "index": 28
+    },
+    {
+      "word": "地圖",
+      "reason": "無用例",
+      "index": 30
+    },
+    {
+      "word": "瓶子",
+      "reason": "無用例",
+      "index": 31
+    },
+    {
+      "word": "設定",
+      "reason": "無用例",
+      "index": 33
+    },
+    {
+      "word": "針對",
+      "reason": "無用例",
+      "index": 36
+    },
+    {
+      "word": "相硞",
+      "reason": "無用例",
+      "index": 39
+    },
+    {
+      "word": "採取",
+      "reason": "無用例",
+      "index": 40
+    },
+    {
+      "word": "超速",
+      "reason": "無用例",
+      "index": 41
+    },
+    {
+      "word": "年齡",
+      "reason": "無用例",
+      "index": 43
+    },
+    {
+      "word": "主題",
+      "reason": "無用例",
+      "index": 44
+    },
+    {
+      "word": "分析",
+      "reason": "無用例",
+      "index": 45
+    },
+    {
+      "word": "罐子",
+      "reason": "無用例",
+      "index": 47
+    },
+    {
+      "word": "民國",
+      "reason": "無用例",
+      "index": 48
+    },
+    {
+      "word": "尺寸",
+      "reason": "無用例",
+      "index": 49
+    },
+    {
+      "word": "溫度",
+      "reason": "無用例",
+      "index": 50
+    },
+    {
+      "word": "秘密",
+      "reason": "無用例",
+      "index": 52
+    },
+    {
+      "word": "開關",
+      "reason": "無用例",
+      "index": 54
+    },
+    {
+      "word": "互相碰撞",
+      "reason": "無用例",
+      "index": 56
+    },
+    {
+      "word": "空的鐵製罐頭罐子",
+      "reason": "無用例",
+      "index": 58
+    },
+    {
+      "word": "陷阱",
+      "reason": "無用例",
+      "index": 60
+    },
+    {
+      "word": "創作",
+      "reason": "無用例",
+      "index": 61
+    },
+    {
+      "word": "海報",
+      "reason": "無用例",
+      "index": 64
+    },
+    {
+      "word": "祕密",
+      "reason": "無用例",
+      "index": 65
+    },
+    {
+      "word": "廢紙、寫過字的紙、 文書、契約、證明文件、權狀、謄本",
+      "reason": "無用例",
+      "index": 68
+    },
+    {
+      "word": "人口",
+      "reason": "無用例",
+      "index": 71
+    },
+    {
+      "word": "紅綠燈",
+      "reason": "無用例",
+      "index": 73
+    },
+    {
+      "word": "自來水",
+      "reason": "無用例",
+      "index": 75
+    },
+    {
+      "word": "眼淚",
+      "reason": "無用例",
+      "index": 76
+    },
+    {
+      "word": "腮紅",
+      "reason": "無用例",
+      "index": 77
+    },
+    {
+      "word": "吐口水",
+      "reason": "無用例",
+      "index": 78
+    },
+    {
+      "word": "金屬",
+      "reason": "無用例",
+      "index": 80
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+最終版台語辭典擷取完整報告 - 其他
+================================================================================
+🎯 操作流程：輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理
+📊 完整統計：
+   - 總計單字：81 個
+   - 成功擷取：36 個
+   - 缺失單字：45 個
+   - 成功率：44.4%
+⏰ 擷取時間：20250827_125113
+
+🌟 完整擷取（台語+台羅+中文）:
+------------------------------------------------------------
+ 1. 寸尺
+    台語：你若欲做衫，愛先量寸尺。
+    台羅：Lí nā beh tsò sann, ài sing niû tshùn-tshioh.。
+    中文：你如果想要做衣服，要先量身材尺寸。
+
+ 2. 𨑨迌物仔
+    台語：這種𨑨迌物仔外面窒倒街，免驚無地買。
+    台羅：Tsit tsióng tshit-thô-mih-á guā-bīn that-tó-ke, bián kiann bô-tè bé.。
+    中文：這種玩具外面到處都是，不用怕買不到。
+    來源：窒倒街
+
+ 3. 報紙
+    台語：選舉的時陣，電視、報紙共候選人皂烏漆白的事件不止仔濟，才予咱好歹人攏分袂清楚。
+    台羅：Suán-kí ê sî-tsūn, tiān-sī, pò-tsuá kā hāu-suán-jîn tsō-oo-tshat-pe̍h ê sū-kiānn put-tsí-á tsē, tsiah hōo lán hó-pháinn lâng lóng hun bē tshing-tshó.。
+    中文：選舉期間，電視、報紙抹黑候選人的事件特別多，才讓我們好人壞人都分不清楚。
+    來源：皂烏漆白
+
+ 4. 管理
+    台語：頭家人上要緊的工課是管理公司的業務，毋通「豬頭毋顧，顧鴨母卵」，干焦咧斟酌辦公室的花有沃水無？
+    台羅：Thâu-ke-lâng siōng iàu-kín ê khang-khuè sī kuán-lí kong-si ê gia̍p-bū, m̄-thang “ti-thâu m̄ kòo, kòo ah-bó-nn̄g”, kan-na teh tsim-tsiok pān-kong-sik ê hue ū ak-tsuí--bô?。
+    中文：當老板最要緊的工作是管理公司的業務，不可以「捨本逐末」，光是注意辦公室的花有沒有澆水。
+    來源：豬頭毋顧，顧鴨母卵。
+
+ 5. 合作
+    台語：科學研究需要團隊合作，逐家相激頭腦，工課才做會媠氣。
+    台羅：Kho-ha̍k gián-kiù su-iàu thuân-tuī ha̍p-tsok, ta̍k-ke sio-kik-thâu-náu, khang-khuè tsiah tsò ē suí-khuì.。
+    中文：科學研究需要團隊合作，大家相互腦力激盪，事情才能做得完善。
+    來源：激頭腦
+
+ 6. 參觀
+    台語：咱先坐高鐵來去臺中，才閣盤火車去大肚參觀磺溪書院。
+    台羅：Lán sing tsē ko-thih lâi-khì Tâi-tiong, tsiah-koh puânn hué-tshia khì Tuā-tōo tsham-kuan Hông-khe Su-īnn.。
+    中文：我們先搭高鐵去臺中，再轉搭火車去大肚參觀磺溪書院。
+    來源：才閣
+
+ 7. 青紅燈
+    台語：閣過一个青紅燈，就會當看著𪜶兜。
+    台羅：Koh kuè tsi̍t ê tshenn-âng-ting, tō ē-tàng khuànn-tio̍h in tau.。
+    中文：再過一個紅綠燈，就可以看到他家了。
+    來源：就替tō
+
+ 8. 窒車
+    台語：有兩个人佇路邊為著欲搶停車位咧冤家，邊仔的人逐个都「徛懸山，看馬相踢」，無一觸久仔煞開始咧窒車矣！
+    台羅：Ū nn̄g ê lâng tī lōo-pinn uī-tio̍h beh tshiúnn thîng-tshia-uī teh uan-ke, pinn--á ê lâng ta̍k ê to “khiā kuân suann, khuànn bé sio-that”, bô tsi̍t-tak-kú-á suah khai-sí teh that-tshia--ah!。
+    中文：有兩個人在路邊為了搶停車位正在爭吵，旁邊每個人都「事不關己看好戲」，沒多久就開始塞車了！
+    來源：徛懸山，看馬相踢。
+
+ 9. 冷凍
+    台語：冷凍的魚仔提出來退冰。
+    台羅：Líng-tòng ê hî-á the̍h tshut-lâi thè-ping.。
+    中文：冷凍庫裡的魚拿出來退冰。
+    來源：退冰
+
+10. 字紙
+    台語：買賣田地的字紙，雙方攏愛親身押名，才有準算。
+    台羅：Bé-bē tshân-tē ê jī-tsuá, siang-hong lóng ài tshin-sin ah-miâ, tsiah ū tsún-sǹg.。
+    中文：買賣田地的合約，都要雙方親自簽名，才有效力。
+    來源：押名
+
+11. 罐仔
+    台語：我用罐仔倒匼，掠著一隻虼蚻。
+    台羅：Guá iōng kuàn-á tò-khap, lia̍h-tio̍h tsi̍t tsiah ka-tsua̍h.。
+    中文：我用罐子倒蓋抓到一隻蟑螂。
+    來源：倒匼
+
+12. 塑膠
+    台語：塑膠射出的成品脫模了後，邊仔一寡肉幼仔愛閣抾抾咧！
+    台羅：Sok-ka siā-tshut ê sîng-phín thuat-bôo liáu-āu, pinn--á tsi̍t-kuá bah-iù-á ài koh khioh-khioh--leh
+    中文：塑膠射出的成品脫模後，旁邊一些屑屑要再修一修！
+    來源：肉幼仔
+
+13. 決定
+    台語：咱欲做決定進前，逐个想較齊著咧，閣看予斟酌，親像俗語咧講的「三人共五目，日後無長短跤話」，按呢好無？
+    台羅：Lán beh tsò kuat-tīng tsìn-tsîng, ta̍k ê siūnn khah tsiâu-tio̍h--leh, koh khuànn hōo tsim-tsiok, tshin-tshiūnn sio̍k-gí teh kóng--ê “sann lâng kāng gōo ba̍k, ji̍t-āu bô tn̂g-té-kha-uē”, án-ne hó--bô?。
+    中文：我們要做決定之前，大家要顧慮周全，再仔細看看，就像俗話說的「所有人都眼見為憑，日後不要再說長道短」，這樣好嗎？
+    來源：三人共五目，日後無長短跤話。
+
+14. 斑馬線
+    台語：駛車欲通過斑馬線，著愛讓予過路人先過。
+    台羅：Sái-tshia beh thong-kuè pan-má-suànn, tio̍h-ài niū hōo kuè-lōo-lâng sing kuè.。
+    中文：開車要通過斑馬線，得要禮讓行人先過。
+    來源：過路人
+
+15. 文化
+    台語：「人間條件」是一齣會當予外國人認捌臺灣文化的新劇。
+    台羅：“Jîn-kan Tiâu-kiānn” sī tsi̍t tshut ē-tàng hōo guā-kok-lâng jīn-bat Tâi-uân bûn-huà ê sin-kio̍k.。
+    中文：「人間條件」是一齣可以讓外國人認識臺灣文化的話劇。
+    來源：新劇
+
+16. 紡織
+    台語：俗語講：「近水知魚性，近山識鳥音。」伊都自細漢綴𪜶爸母佇紡織廠做工課，這陣毋才會對織布這方面的工課遮爾熟手。
+    台羅：Sio̍k-gí kóng, “Kīn suí ti gû sìng, kīn san sik niáu im.” I to tsū sè-hàn tuè in pē-bú tī pháng-tsit-tshiúnn tsò khang-khuè, tsit-tsūn m̄-tsiah ē tuì tsit-pòo tsit hong-bīn ê khang-khuè tsiah-nī si̍k-tshiú.。」他從小就跟他的父母在紡織廠工作，現在他才會對織布這方面的工作如此熟練。
+    中文：俗話說：「近水知魚性，近山識鳥音。」他從小就跟他的父母在紡織廠工作，現在他才會對織布這方面的工作如此熟練。
+    來源：近水知魚性，近山識鳥音。
+
+17. 目屎
+    台語：音樂比賽彈鋼琴的時，阿美彈走精去，比賽比了伊是哭甲目屎四淋垂，老師緊共伊安慰講：「仙人拍鼓有時錯，跤步踏差啥人無？」
+    台羅：Im-ga̍k pí-sài tuânn kǹg-khîm ê sî, A-bí tuânn tsáu-tsing--khì, pí-sài pí-liáu i sī khàu kah ba̍k-sái sì-lâm-suî, lāu-su kín kā i an-uì kóng, “Sian-jîn phah kóo iú sî tshò, kha-pōo ta̍h-tsha siánn-lâng bô?”。人非聖賢，孰能無過？」
+    中文：音樂比賽彈鋼琴時，小美彈錯了，他賽後哭得唏哩嘩啦，老師趕緊安慰他說：「人有失足，馬有失蹄。人非聖賢，孰能無過？」
+    來源：仙人拍鼓有時錯，跤步踏差啥人無？
+
+18. 問題
+    台語：公司的錢水雄雄轉踅袂過來，因端淡薄仔複雜，古早人講：「緊行無好步。」欲解決問題，千萬毋通傷過趕狂，愛三思而後行。
+    台羅：Kong-si ê tsînn-tsuí hiông-hiông tńg-se̍h bē kuè--lâi, in-tuann tām-po̍h-á ho̍k-tsa̍p, kóo-tsá-lâng kóng, “Kín kiânn bô hó pōo.” Beh kái-kuat būn-tê, tshian-bān m̄-thang siunn kuè kuánn-kông, ài sàm-su jî hiō hîng.。」要解決問題，千萬不可太過慌張，須三思而後行。
+    中文：公司的資金突然周轉不過來，原因略微複雜，古人說：「欲速則不達。」要解決問題，千萬不可太過慌張，須三思而後行。
+    來源：緊行無好步。
+
+19. 工具
+    台語：辭典是真重要的工具冊。
+    台羅：Sû-tián sī tsin tiōng-iàu ê kang-kū-tsheh.。
+    中文：辭典是很重要的工具書。
+    來源：辭典
+
+20. 需要
+    台語：伊佇孤兒院大漢，受著真濟人的捐助。大漢了後事業做了真成功，伊知影「食人一口，報人一斗」的道理，嘛捐足濟錢幫助需要贊助的孤兒。
+    台羅：I tī koo-jî-īnn tuā-hàn, siū-tio̍h tsin tsē lâng ê kuan-tsōo. Tuā-hàn liáu-āu sū-gia̍p tsò liáu tsin sîng-kong, i tsai-iánn “tsia̍h lâng tsi̍t kháu, pò lâng tsi̍t táu” ê tō-lí, mā kuan tsiok tsē tsînn pang-tsōo su-iàu tsàn-tsōo ê koo-jî.。長大以後事業很成功，他懂得「知恩圖報」的道理，也捐很多錢幫助需要贊助的孤兒。
+    中文：他在孤兒院長大，受到很多人的捐助。長大以後事業很成功，他懂得「知恩圖報」的道理，也捐很多錢幫助需要贊助的孤兒。
+    來源：食人一口，報人一斗。
+
+21. 崁蓋
+    台語：大港無崁蓋。
+    台羅：Tuā-káng bô khàm-kuà.。這句話多用於罵人去跳河自殺算了。
+    中文：大河沒有覆蓋。這句話多用於罵人去跳河自殺算了。
+    來源：大港
+
+22. 西元
+    台語：西元1940年起去的臺灣人差不多攏有受日本教育。
+    台羅：Se-guân 1940 nî khí-khì ê Tâi-uân-lâng tsha-put-to lóng ū siū Ji̍t-pún kàu-io̍k.。
+    中文：西元1940年以前的臺灣人差不多都有接受日語教育。
+    來源：起去
+
+23. 付出
+    台語：枉費我對你付出遮爾仔濟，你一點仔都毋知著感恩。
+    台羅：Óng-huì guá tuì lí hù-tshut tsiah-nī-á tsē, lí tsi̍t-tiám-á to m̄ tsai tio̍h kám-un.。
+    中文：枉費我對你付出這麼多，你一點都不知道要感恩。
+    來源：枉費
+
+24. 守寡
+    台語：𪜶翁過身了後，伊就守寡到今。
+    台羅：In ang kuè-sin liáu-āu, i tō tsiú-kuá kàu-tann.。
+    中文：他先生過世之後，他就守寡至今。
+
+25. 家私
+    台語：高科技公司趁錢的家私是技術，若是內底的人將技術漏洩，親像人所講的「內神通外鬼」，閣較大間的公司嘛會倒店。
+    台羅：Ko-kho-ki kong-si thàn-tsînn ê ke-si sī ki-su̍t, nā-sī lāi-té ê lâng tsiong ki-su̍t lāu-sia̍p, tshin-tshiūnn lâng sóo kóng ê “lāi sîn thong guā kuí”, koh-khah tuā king ê kong-si mā ē tó-tiàm.。
+    中文：高科技公司賺錢的利器是技術，若是內部的人將技術外洩，像人們所說的「內神通外鬼」，再怎麼大的公司也會倒閉。
+    來源：內神通外鬼。
+
+26. 車牌
+    台語：你閣行幾伐仔就會當看著公車牌仔矣。
+    台羅：Lí koh kiânn--kuí-hua̍h-á tō ē-tàng khuànn-tio̍h kong-tshia-pâi-á--ah.。
+    中文：你再走幾步就可以看到公車站牌了。
+    來源：伐白hua̍h
+
+27. 芳水
+    台語：伊逐工欲出門進前，攏愛𫝺一寡芳水。
+    台羅：I ta̍k-kang beh tshut-mn̂g tsìn-tsîng, lóng ài hiù tsi̍t-kuá phang-tsuí.。
+    中文：他每天要出門之前，都要灑一點香水。
+
+28. 車位
+    台語：有兩个人佇路邊為著欲搶停車位咧冤家，邊仔的人逐个都「徛懸山，看馬相踢」，無一觸久仔煞開始咧窒車矣！
+    台羅：Ū nn̄g ê lâng tī lōo-pinn uī-tio̍h beh tshiúnn thîng-tshia-uī teh uan-ke, pinn--á ê lâng ta̍k ê to “khiā kuân suann, khuànn bé sio-that”, bô tsi̍t-tak-kú-á suah khai-sí teh that-tshia--ah!。
+    中文：有兩個人在路邊為了搶停車位正在爭吵，旁邊每個人都「事不關己看好戲」，沒多久就開始塞車了！
+    來源：徛懸山，看馬相踢。
+
+29. 要求
+    台語：一寡爸母對𪜶囝兒的教育傷過關心，要求欲換班級，抑是調去別間學校，毋過「一日徙栽，三日徛黃」，囡仔人曷會堪得按呢搬徙，嘛無法度注心來讀冊。
+    台羅：Tsi̍t-kuá pē-bú tuì in kiánn-jî ê kàu-io̍k siunn kuè kuan-sim, iau-kiû beh uānn pan-kip, ia̍h-sī tiàu-khì pa̍t king ha̍k-hāu, m̄-koh “tsi̍t ji̍t suá-tsai, sann ji̍t khiā-n̂g”, gín-á-lâng a̍h ē-kham-tit án-ne puann-suá, mā bô-huat-tōo tsù-sim lâi tha̍k-tsheh.。
+    中文：一些父母對於他們的小孩的教育太過關心，要求要換班級，或是調去別間學校，但是「移植一次，蔫黃三日」，小孩子怎麼能受得了這樣遷移，也沒辦法用心讀書。
+    來源：一日徙栽，三日徛黃。
+
+30. 車禍
+    台語：伊出車禍傷甲真食力，醫生講流傷濟血著愛緊共伊注血，若無會無命去。
+    台羅：I tshut tshia-hō siong kah tsin tsia̍h-la̍t, i-sing kóng lâu siunn tsē hueh tio̍h-ài kín kā i tsù-hueh, nā-bô ē bô-miā--khì.。
+    中文：他出車禍受重傷，醫生說流太多血要緊急輸血，不然會沒命。
+    來源：注血
+
+31. 胭脂
+    台語：有明星咧鬥宣傳，這支胭脂加足搶市。
+    台羅：Ū bîng-tshenn teh tàu suan-thuân, tsit ki ian-tsi ke tsiok tshiúnn-tshī.。
+    中文：有明星在代言，這款口紅暢銷多了。
+    來源：搶市
+
+32. 矸仔
+    台語：一个查某人參加歌唱比賽，主持人看伊大箍閣濟歲，就看伊無點，啥人知影伊「烏矸仔貯豆油」，歌聲袂輸聲樂家，佇網路世界大轟動。
+    台羅：Tsi̍t ê tsa-bóo-lâng tsham-ka kua-tshiùnn pí-sài, tsú-tshî-jîn khuànn i tuā-khoo koh tsē-huè, tō khuànn i bô tiám, siánn-lâng tsai-iánn i “oo kan-á té tāu-iû”, kua-siann bē-su siann-ga̍k-ka, tī bāng-lōo sè-kài tuā hong-tōng.。
+    中文：一個女人參加歌唱比賽，主持人看他肥胖年紀又大，就不看好他，誰知道「人不可貌相」，他的歌聲不輸給聲樂家，轟動了網路世界。
+    來源：烏矸仔貯豆油。
+
+33. 車輪
+    台語：毋知佗一个夭壽人共我的車輪落風。
+    台羅：M̄ tsai tó tsi̍t ê iáu-siū lâng kā guá ê tshia-lián làu-hong.。
+    中文：不知哪個可惡鬼把我的輪胎洩了氣。
+    來源：落風
+
+34. 呸喙瀾
+    台語：你莫烏白呸喙瀾啦！
+    台羅：Lí mài oo-pe̍h phuì tshuì-nuā--lah
+    中文：你不要亂吐口水啦！
+    來源：喙瀾
+
+35. 開始
+    台語：伊破病倒佇眠床頂廿捅冬矣，寢開始後生猶真盡心看顧，不而過俗語講：「久長病，無孝子。」這幾冬𪜶後生予伊的醫藥費硩甲袂喘氣，就無通遐認真共照顧矣。
+    台羅：I phuà-pēnn tó tī bîn-tshn̂g-tíng jia̍p-thóng tang--ah, tshím-khai-sí hāu-senn iáu tsin tsīn-sim khuànn-kòo, put-jî-kò sio̍k-gí kóng, “Kú-tn̂g pēnn, bô hàu-tsú.” Tsit kuí tang in hāu-senn hōo i ê i-io̍h-huì teh kah bē tshuán-khuì, tō bô thang hiah jīn-tsin kā tsiàu-kòo--ah.。」這幾年他兒子被他的醫藥費壓得喘不過氣來，就沒辦法那麼認真照顧他了。
+    中文：他已臥病在床二十多年了，剛開始兒子還很盡心照顧，但俗話說：「久病床前無孝子。」這幾年他兒子被他的醫藥費壓得喘不過氣來，就沒辦法那麼認真照顧他了。
+    來源：久長病，無孝子。
+
+36. 玻璃
+    台語：人到中年目睭的玻璃清有可能會退化，目睭前會有烏影。若有這種症頭，愛去揣醫生檢查。
+    台羅：Lâng kàu tiong-liân ba̍k-tsiu ê po-lê-tshing ū khó-lîng ē thè-huà, ba̍k-tsiu-tsîng ē ū oo-iánn. Nā ū tsit tsióng tsìng-thâu, ài khì tshuē i-sing kiám-tsa.。要是有這種症狀，得去找醫生檢查。
+    中文：人到中年眼睛的玻璃體可能會退化，眼前會有黑影。要是有這種症狀，得去找醫生檢查。
+    來源：玻璃清
+
+1. 自來水
+	•	台語：咱臺灣大部分人攏用自來水，煮食飲水誠方便。
+	•	台羅：Lán Tâi-uân tuā-pōo-hūn lâng lóng iōng tsū-lâi-tsuí, tsú-tsia̍h ím-tsuí tsiânn hong-piān.
+	•	中文：我們臺灣大部分人都用自來水，煮飯喝水很方便。
+
+2. 陷阱
+	•	台語：山中行路愛細膩，免予野獸設的陷阱擒著。
+	•	台羅：Suann-tiong kiânn-lōo ài sè-jī, bián hōo iá-siù siat ê hām-tsínn khîm-tio̍h.
+	•	中文：在山裡行走要小心，免得被野獸設的陷阱抓到。
+
+3. 人口
+	•	台語：這个城市的人口愈來愈濟，交通嘛愈擁擠。
+	•	台羅：Tsit ê siânn-tshī ê lîn-kháu jú lâi jú tsē, kau-thong mā jú íng-tsé.
+	•	中文：這個城市人口越來越多，交通也越來越擁擠。
+
+4. 年齡
+	•	台語：參加比賽愛限制年齡，毋通超過三十歲。
+	•	台羅：Tsham-ka pí-sài ài hān-tsè nî-lîng, m̄-thang tshiau-kuè sann-tsa̍p huè.
+	•	中文：參加比賽要有限制年齡，不可以超過三十歲。
+
+5. 路線
+	•	台語：咱行山愛先規劃路線，才袂徛徛蹛蹛。
+	•	台羅：Lán kiânn-suann ài sing kui-uè lōo-suànn, tsiah bē khiā-khiā-tuà-tuà.
+	•	中文：我們登山要先規劃路線，才不會走來走去。
+
+6. 油煙
+	•	台語：廚房若無抽風機，煮食就會產生濟油煙。
+	•	台羅：Tû-pâng nā bô thiu-hong-ki, tsú-tsia̍h tō ē sán-seng tsē iû-ian.
+	•	中文：廚房若沒有抽油煙機，煮飯就會產生很多油煙。
+
+7. 開關
+	•	台語：電燈的開關佇門邊。
+	•	台羅：Tiān-ting ê khai-kuan tī mn̂g-pinn.
+	•	中文：電燈的開關在門邊。
+
+8. 溫度
+	•	台語：冬天的時陣，室內的溫度愛保持溫暖。
+	•	台羅：Tang-thinn ê sî-tsūn, sik-lāi ê un-tōo ài póo-tshî un-luán.
+	•	中文：冬天的時候，室內的溫度要保持溫暖。
+
+9. 金屬
+	•	台語：金屬的東西若久放，可能會生鏽。
+	•	台羅：Kim-sio̍k ê tong-si nā kú pàng, khó-lîng ē senn-siù.
+	•	中文：金屬的東西若是放久了，可能會生鏽。
+
+10. 祕密
+	•	台語：這个祕密攏無人知，你毋通共人漏出去。
+	•	台羅：Tsit ê pì-bí lóng bô-lâng tsai, lí m̄-thang kā lâng làu–tshut-khì.
+	•	中文：這個祕密沒有人知道，你不要告訴別人。
+
+11. 海報
+	•	台語：學校的大門口掛真濟活動的海報。
+	•	台羅：Ha̍k-hāu ê tuā mn̂g-kháu kuà tsin tsē ua̍h-tāng ê hái-pò.
+	•	中文：學校的大門口掛著很多活動的海報。
+
+12. 民國
+	•	台語：阮阿公是民國三十年出世的。
+	•	台羅：Guán a-kong sī Bîn-kok sann-tsa̍p nî tshut-sì ê.
+	•	中文：我阿公是民國三十年出生的。
+
+13. 版本
+	•	台語：這个故事有好幾个版本，無啥仝款。
+	•	台羅：Tsit ê kòo-sū ū hó-kuí ê pán-pún, bô siánn kâng-khuán.
+	•	中文：這個故事有好幾個版本，不太一樣。
+
+14. 地圖
+	•	台語：你提地圖出來看，阮欲揣車站。
+	•	台羅：Lí the̍h tē-tôo tshut-lâi khuànn, guán beh tshuē tshia-tsām.
+	•	中文：你把地圖拿出來看，我們要找車站。
+
+15. 答案
+	•	台語：這个數學題的答案誠簡單。
+	•	台羅：Tsit ê sòo-ha̍k-tê ê tap-àn tsiânn kán-tann.
+	•	中文：這道數學題的答案很簡單。
+
+16. 主題
+	•	台語：今仔日演講的主題是環保。
+	•	台羅：Kin-á-ji̍t ián-káng ê tsú-tê sī khuân-pó.
+	•	中文：今天演講的主題是環保。
+
+17. 吸收
+	•	台語：囡仔愛食青菜，才會吸收營養。
+	•	台羅：Gín-á ài tsia̍h tshenn-tshài, tsiah ē hip-siu iân-iúⁿ.
+	•	中文：小孩子要吃青菜，才能吸收營養。
+
+18. 完整
+	•	台語：這本冊保存真完整，連一頁嘛無缺。
+	•	台羅：Tsit pún tsheh póo-tsûn tsin uân-tsíng, liân tsi̍t ia̍h mā bô khuat.
+	•	中文：這本書保存得很完整，連一頁也沒缺。
+
+19. 超速
+	•	台語：伊駛車超速，予警察罰錢。
+	•	台羅：I sái-tshia tshiau-sok, hōo kíng-tshat hua̍t-tsînn.
+	•	中文：他開車超速，被警察罰錢。
+
+20. 駕照
+	•	台語：你若欲駛車，就一定愛有駕照。
+	•	台羅：Lí nā beh sái-tshia, tō it-tīng ài ū kà-tsiàu.
+	•	中文：你若要開車，就一定要有駕照。
+
+21. 焚化爐
+	•	台語：垃圾車收來的糞埽會送去焚化爐處理。
+	•	台羅：Lah-sap-tshia siu-lâi ê pùn-sò ē sàng khì hûn-huà-lôo tshú-lí.
+	•	中文：垃圾車收來的垃圾會送去焚化爐處理。
+
+22. 銅管仔
+	•	台語：工地內面鋪的銅管仔愛綁緊，免流風漏水。
+	•	台羅：Kang-tē lāi-bīn phoo ê tâng-kóng-á ài páng kín, bián lâu-hong làu-tsuí.
+	•	中文：工地裡鋪設的銅管要綁緊，避免漏氣漏水。
+
+23. 相硞
+	•	台語：這兩个人真相硞，講話攏無退步。
+	•	台羅：Tsit nn̄g ê lâng tsin sio-khok, kóng-uē lóng bô thuè-pōo.
+	•	中文：這兩個人很固執，說話都不退讓。
+
+24. 創作
+	•	台語：伊閣寫一本新詩集，是伊近來的創作。
+	•	台羅：I koh siá tsi̍t pún sin-si-tsip, sī i kīn-lâi ê tshòng-tsok.
+	•	中文：他又寫了一本新詩集，這是他最近的創作。
+
+25. 分析
+	•	台語：老師欲學生分析文章內底的意思。
+	•	台羅：Lāu-su beh ha̍k-sing hun-sik bun-tsiong lāi-té ê ì-sù.
+	•	中文：老師要學生分析文章裡的意思。
+
+26. 設定
+	•	台語：手機的鬧鐘設定好矣，明仔載欲早起。
+	•	台羅：Siu-ki ê lāu-tsing siat-tīng hó–ah, bîn-á-tsài beh tsá-khí.
+	•	中文：手機的鬧鐘已經設定好，明天要早起。
+
+27. 針對
+	•	台語：老師針對這个問題，解說真詳細。
+	•	台羅：Lāu-su tsiam-tuì tsit ê būn-tê, kái-sueh tsin siong-sè.
+	•	中文：老師針對這個問題，解說得很詳細。
+
+28. 採取
+	•	台語：政府愛採取行動，保護環境。
+	•	台羅：Tsíng-hú ài tshái-tshú hîng-tōng, póo-hōo khuân-kíng.
+	•	中文：政府要採取行動，保護環境。
+
+29. 掌聲
+	•	台語：歌手唱甲真好，觀眾攏拍掌聲鼓勵伊。
+	•	台羅：Kua-siú tshiùnn kah tsin hó, kuan-tsiòng lóng phah tsióng-siann kóo-lē i.
+	•	中文：歌手唱得很好，觀眾都拍掌聲鼓勵他。
+
+
+❌ 缺失單字報告:
+============================================================
+以下 45 個單字沒有找到可用的例句：
+
+📋 無用例 (45個):
+   吸收      焚化爐     掌聲      玩具、小東西  蓋上蓋子    香水      塞車      做工用的工具、道具駕照      銅管仔     
+   答案      版本      路線      完整      油煙      地圖      瓶子      設定      針對      相硞      
+   採取      超速      年齡      主題      分析      罐子      民國      尺寸      溫度      秘密      
+   開關      互相碰撞    空的鐵製罐頭罐子陷阱      創作      海報      祕密      廢紙、寫過字的紙、 文書、契約、證明文件、權狀、謄本人口      紅綠燈     
+   自來水     眼淚      腮紅      吐口水     金屬      
+
+💡 建議：
+   1. 這些單字可能在教育部辭典中沒有用例
+   2. 可以嘗試其他台語辭典或資源
+   3. 或者手動查詢相關的同義詞

@@ -1,0 +1,205 @@
+最終版台語辭典擷取完整報告 - 法律與政治
+================================================================================
+🎯 操作流程：輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理
+📊 完整統計：
+   - 總計單字：27 個
+   - 成功擷取：16 個
+   - 缺失單字：11 個
+   - 成功率：59.3%
+⏰ 擷取時間：20250827_142536
+
+🌟 完整擷取（台語+台羅+中文）:
+------------------------------------------------------------
+ 1. 里長
+    台語：里長伯仔誠熱心，見擺若欲替里民調解糾紛，伊攏會佇厝裡攢酒菜，叫雙方坐落來沓沓仔講。里長姆仔怨嘆講這真正是「做公親，貼本」，月俸都無夠納遮的開銷咧。
+    台羅：Lí-tiúnn peh--á tsiânn jia̍t-sim, kiàn-pái nā beh thè lí-bîn tiâu-kái kiù-hun, i lóng ē tī tshù--lí tshuân tsiú-tshài, kiò siang-hong tsē lo̍h-lâi ta̍uh-ta̍uh-á kóng. Lí-tiúnn ḿ--á uàn-thàn kóng tse tsin-tsiànn sī “tsò kong-tshin, thiap pún”, gue̍h-hōng to bô-kàu la̍p tsia-ê khai-siau--leh.。里長太太哀怨的說「這真的是賠了夫人又折兵」，里長的月薪根本不夠支付這些費用呢。
+    中文：里長伯很熱心，每次為了要替里民調解糾紛，他都會在家裡準備酒菜，叫雙方坐下來好好溝通。里長太太哀怨的說「這真的是賠了夫人又折兵」，里長的月薪根本不夠支付這些費用呢。
+    來源：做公親，貼本。
+
+ 2. 機票
+    台語：伊欲出國是看心情，見若心適興，飛行機票買落就出去。
+    台羅：I beh tshut-kok sī khuànn sim-tsîng, kiàn-nā sim-sik-hìng, hue-lîng-ki-phiò bé--lo̍h tō tshut--khì.。
+    中文：他想出國是取決於心情，只要興起，機票買了就飛出去了。
+    來源：心適興
+
+ 3. 皇帝
+    台語：雖罔是散食人，只要有志氣肯拍拚，將來嘛一定會有出脫。人講：「臭頭仔嘛會做皇帝，做總統你嘛有機會。」
+    台羅：Sui-bóng sī sàn-tsia̍h-lâng, tsí-iàu ū tsì-khì khíng phah-piànn, tsiong-lâi mā it-tīng ē ū tshut-thuat. Lâng kóng, “Tshàu-thâu-á mā ē tsò hông-tè, tsò tsóng-thóng lí mā ū ki-huē.”。人家說：「癩痢頭者也能做皇帝，當總統你也有機會。」
+    中文：雖然是貧窮人家，只要有志氣肯努力，將來也一定會有出息。人家說：「癩痢頭者也能做皇帝，當總統你也有機會。」
+    來源：臭頭仔嘛會做皇帝，做總統你嘛有機會。
+
+ 4. 立委
+    台語：伊出來選立委的時，有真濟好名聲的人共伊徛台。
+    台羅：I tshut-lâi suán li̍p-uí ê sî, ū tsin tsē hó miâ-siann ê lâng kā i khiā-tâi.。
+    中文：他出來選立委時，有很多名聲好的人幫他站臺助選。
+    來源：徛台
+
+ 5. 議會
+    台語：議會是民意代表開會的場所。
+    台羅：Gī-huē sī bîn-ì tāi-piáu khui-huē ê tiûnn-sóo.。
+    中文：議會是民意代表開會的場所。
+
+ 6. 派出所
+    台語：派出所欲遷去佗位？
+    台羅：Phài-tshut-sóo beh tshian-khì tó-uī
+    中文：派出所要搬到哪裡？
+    來源：遷
+
+ 7. 外國
+    台語：寢去外國讀語言學校，逐日都親像「鴨仔聽雷」咧，攏聽無先生咧講啥，真正食力甲袂曉講。
+    台羅：Tshím khì guā-kok tha̍k gí-giân ha̍k-hāu, ta̍k-ji̍t to tshin-tshiūnn “ah-á thiann luî”--leh, lóng thiann-bô sian-sinn teh kóng siannh, tsin-tsiànn tsia̍h-la̍t kah bē-hiáu kóng.。
+    中文：剛去國外讀語言學校，每天都像「鴨子聽到雷聲」，聽不懂老師在說什麼，真是吃力到難以言表。
+    來源：鴨仔聽雷。
+
+ 8. 委員
+    台語：伊這改想欲出來選立法委員，我感覺猶傷幼茈，等後擺啦。
+    台羅：I tsit kái siūnn-beh tshut-lâi suán li̍p-huat uí-uân, guá kám-kak iáu siunn iù-tsínn, tán āu-pái--lah.。
+    中文：他這次想要出來選立法委員，我覺得資歷太淺，等下次啦。
+    來源：幼茈
+
+ 9. 國家
+    台語：生理人若去專制獨裁的國家做生理，佇生疏的環境，不時都予人刁難，了錢猶小局，命嘛定定會無去，正經是「入虎口，無死也烏漚」。
+    台羅：Sing-lí-lâng nā khì tsuan-tsè to̍k-tshâi ê kok-ka tsò-sing-lí, tī tshenn-soo ê khuân-kíng, put-sî to hōo lâng thiau-lân, liáu-tsînn iáu sió-kio̍k, miā mā tiānn-tiānn ē bô--khì, tsìng-king sī “ji̍p hóo kháu, bô sí iā oo-áu”.。
+    中文：商人如果去專制獨裁的國家做生意，在人生地不熟的環境，常常被人刁難，虧錢還小事，也常失去性命，實在是「羊入虎口，沒死也半條命」。
+    來源：入虎口，無死也烏漚。
+
+10. 法院
+    台語：法院的判決無公平，伊欲閣上訴。
+    台羅：Huat-īnn ê phuànn-kuat bô kong-pênn, i beh koh siōng-sòo.。
+    中文：法院的判決不公平，他要再上訴。
+    來源：判決
+
+11. 國際
+    台語：這改的國際標準舞比賽，伊有著等，毋但有獎牌閣有獎金一百萬。
+    台羅：Tsit kái ê kok-tsè piau-tsún-bú pí-sài, i ū tio̍h-tíng, m̄-nā ū tsióng-pâi koh ū tsióng-kim tsi̍t-pah bān.。
+    中文：這次的國際標準舞比賽，他獲獎了，不只有獎牌還有獎金一百萬。
+    來源：著等
+
+12. 總統
+    台語：雖罔是散食人，只要有志氣肯拍拚，將來嘛一定會有出脫。人講：「臭頭仔嘛會做皇帝，做總統你嘛有機會。」
+    台羅：Sui-bóng sī sàn-tsia̍h-lâng, tsí-iàu ū tsì-khì khíng phah-piànn, tsiong-lâi mā it-tīng ē ū tshut-thuat. Lâng kóng, “Tshàu-thâu-á mā ē tsò hông-tè, tsò tsóng-thóng lí mā ū ki-huē.”。人家說：「癩痢頭者也能做皇帝，當總統你也有機會。」
+    中文：雖然是貧窮人家，只要有志氣肯努力，將來也一定會有出息。人家說：「癩痢頭者也能做皇帝，當總統你也有機會。」
+    來源：臭頭仔嘛會做皇帝，做總統你嘛有機會。
+
+13. 立法院
+    台語：這條法案已經佇立法院通過矣。
+    台羅：Tsit tiâu huat-àn í-king tī Li̍p-huat-īnn thong-kuè--ah.。
+    中文：這條法案已經在立法院通過了。
+    來源：通過
+
+14. 選舉
+    台語：選舉的時，真捷看著一寡候選人共無影無跡的代誌講甲若真的，正港是人咧講的「白白布染甲烏」。
+    台羅：Suán-kí ê sî, tsin tsia̍p khuànn-tio̍h tsi̍t-kuá hāu-suán-jîn kā bô-iánn-bô-tsiah ê tāi-tsì kóng kah ná tsin--ê, tsiànn-káng sī lâng teh kóng--ê “pe̍h-pe̍h-pòo ní kah oo”.。
+    中文：選舉的時候，很常看到一些候選人把子虛烏有的事情講得像真的，果然如人家所說的「顛倒黑白，指鹿為馬」。
+    來源：白白布染甲烏。
+
+15. 戰爭
+    台語：便若拄著戰爭，有錢人攏先閬港。
+    台羅：Piān-nā tú-tio̍h tsiàn-tsing, ū-tsînn-lâng lóng sing làng-káng.。
+    中文：只要碰到戰爭，有錢人都先設法逃到外地去。
+    來源：閬港
+
+16. 議員
+    台語：伊是在地選出來的議員，不三時都有選民會來揣伊做服務選區的工課。
+    台羅：I sī tsāi-tē suán--tshut-lâi ê gī-uân, put-sam-sî to ū suán-bîn ē lâi tshuē i tsò ho̍k-bū suán-khu ê khang-khuè.。
+    中文：他是本地選出的議員，經常有選民來找他做服務選區的工作。
+    來源：不三時
+
+1. 行政院 Hîng-tsìng-īnn
+
+台語：行政院提出新的政策，欲改善青年失業的問題。
+台羅：Hîng-tsìng-īnn the̍h-tshut sin ê tsìng-tsik, beh kái-siān tshing-liân sit-gia̍p ê būn-tê.。
+中文：行政院提出新的政策，要改善青年失業的問題。
+
+⸻
+
+2. 護照 hōo-tsiàu
+
+台語：欲去外國，愛先辦護照。
+台羅：Beh khì guā-kok, ài sing pān hōo-tsiàu.。
+中文：要去國外，得先辦護照。
+
+⸻
+
+3. 區公所 khu-kong-sóo
+
+台語：阿英去區公所辦戶籍謄本。
+台羅：A-ing khì khu-kong-sóo pān hōo-tsi̍p thîng-pún.。
+中文：阿英去區公所辦戶籍謄本。
+
+⸻
+
+4. 國旗 kok-kî
+
+台語：升國旗的時，咱著起立唱國歌。
+台羅：Sing kok-kî ê sî, lán tio̍h khí-li̍p tshiùnn kok-koa.。
+中文：升國旗的時候，我們要起立唱國歌。
+
+⸻
+
+5. 國王 kok-ông
+
+台語：故事內底的國王誠英明，百姓攏敬重伊。
+台羅：Kòo-sū lāi-té ê kok-ông tsiânn eng-bîng, peh-sìng lóng kìng-tiōng i.。
+中文：故事裡的國王非常英明，百姓都敬重他。
+
+⸻
+
+6. 軍隊 kun-tuī
+
+台語：軍隊拄到號令，就立刻出發。
+台羅：Kun-tuī tú kàu hō-līng, tō li̍p-khik tshut-huat.。
+中文：軍隊一接到號令，就立刻出發。
+
+⸻
+
+7. 鄰長 lîn-tiúnn
+
+台語：咱鄰長誠熱心，若有人需要攏會主動相助。
+台羅：Lán lîn-tiúnn tsiânn jia̍t-sim, nā ū lâng su-iàu lóng ē tsú-tōng sio-tsōo.。
+中文：我們鄰長很熱心，有人需要幫忙都會主動協助。
+
+⸻
+
+8. 中央政府 tiong-iong-tsìng-hú
+
+台語：中央政府頒布新政策，欲推動環保能源。
+台羅：Tiong-iong-tsìng-hú pan-pòo sin tsìng-tsik, beh thui-tōng khuân-pó lêng-giân.。
+中文：中央政府頒布新政策，要推動環保能源。
+
+⸻
+
+9. 市政府 tshī-tsìng-hú
+
+台語：市政府規劃新的公園，予市民運動散步。
+台羅：Tshī-tsìng-hú kui-uē sin ê kong-hn̂g, hōo tshī-bîn ūn-tōng sàn-pōo.。
+中文：市政府規劃新的公園，供市民運動散步。
+
+⸻
+
+10. 手銬 tshiú-khàu
+
+台語：警察用手銬共賊仔銬起來。
+台羅：Kíng-tshat iōng tshiú-khàu kā tsha̍t-á khàu–khí-lâi.。
+中文：警察用手銬把小偷銬起來。
+
+⸻
+
+11. 村長 tshun-tiúnn
+
+台語：村長主持廟會，召集全村的人做伙來參加。
+台羅：Tshun-tiúnn tsu-tshî biō-huē, tsiàu-tsi̍p tsuân-tshun ê lâng tsò-hué lâi tsham-ka.。
+中文：村長主持廟會，召集全村的人一起參加。
+
+❌ 缺失單字報告:
+============================================================
+以下 11 個單字沒有找到可用的例句：
+
+📋 無用例 (11個):
+   中央政府    區公所     護照      村長      手銬      國旗      行政院     國王      鄰長      軍隊      
+   市政府     
+
+💡 建議：
+   1. 這些單字可能在教育部辭典中沒有用例
+   2. 可以嘗試其他台語辭典或資源
+   3. 或者手動查詢相關的同義詞

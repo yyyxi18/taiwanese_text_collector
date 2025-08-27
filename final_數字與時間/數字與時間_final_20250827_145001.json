@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "scraper_type": "最終版手動操作風格爬蟲",
+    "operation_flow": "輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理",
+    "source_url": "https://sutian.moe.edu.tw/zh-hant/tshiau/",
+    "extraction_date": "20250827_145001",
+    "statistics": {
+      "total_words": 20,
+      "successful_extractions": 11,
+      "missing_words": 9,
+      "success_rate": "55.0%",
+      "quality_stats": {
+        "完整": 11,
+        "良好": 0,
+        "基本": 0,
+        "不完整": 0
+      }
+    }
+  },
+  "successful_records": [
+    {
+      "word": "拜五",
+      "taiwanese_sentence": "逐禮拜五暗時七點，伊準時佇遮開講。",
+      "tailo_pronunciation": "Ta̍k lé-pài-gōo àm-sî tshit tiám, i tsún-sî tī tsia khai-káng.。",
+      "chinese_translation": "每週五晚上七點，他準時在這裡演講。",
+      "source_word": "開講",
+      "extraction_time": "2025-08-27 14:49:07",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "大約",
+      "taiwanese_sentence": "三噸半的貨車扣除車身重量，會使載大約一千五百公斤的貨。",
+      "tailo_pronunciation": "Sann tòng puànn ê huè-tshia khàu-tû tshia-sin tāng-liōng, ē-sái tsài tāi-iok tsi̍t-tshing gōo-pah kong-kin ê huè.。",
+      "chinese_translation": "三噸半的貨車扣除車身重量，可以載運大約一千五百公斤的貨。",
+      "source_word": "噸",
+      "extraction_time": "2025-08-27 14:49:10",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "禮拜日",
+      "taiwanese_sentence": "宿題傷濟，禮拜日寫規工嘛寫袂了。",
+      "tailo_pronunciation": "Siok-tê siunn tsē, lé-pài-ji̍t siá kui-kang mā siá bē liáu.。",
+      "chinese_translation": "作業太多，星期日寫一整天也寫不完。",
+      "source_word": "規工",
+      "extraction_time": "2025-08-27 14:49:18",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "拜一",
+      "taiwanese_sentence": "在生食一粒塗豆，較贏死了拜一个豬頭。",
+      "tailo_pronunciation": "Tsāi-senn tsia̍h tsi̍t lia̍p thôo-tāu, khah iânn sí-liáu pài tsi̍t ê ti-thâu.。意思是說為人子女應及時孝敬父母，而非等父母死後才隆重祭拜。",
+      "chinese_translation": "在世時拿一顆花生孝敬，好過死後用一顆豬頭祭拜。意思是說為人子女應及時孝敬父母，而非等父母死後才隆重祭拜。",
+      "source_word": "在生",
+      "extraction_time": "2025-08-27 14:49:21",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "拜二",
+      "taiwanese_sentence": "拜二早起，我會招阮同門的做陣去。",
+      "tailo_pronunciation": "Pài-jī tsá-khí, guá ē tsio guán tâng-mn̂g--ê tsò-tīn khì.。",
+      "chinese_translation": "週二早上，我會找我的連襟一起去。",
+      "source_word": "同門",
+      "extraction_time": "2025-08-27 14:49:24",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "偌濟",
+      "taiwanese_sentence": "欲對紅紅幼幼的嬰仔，晟養到成樣，愛了偌濟時間、精神佮氣力，古早人毋才會講：「生囝師仔，飼囝師傅」。",
+      "tailo_pronunciation": "Beh uì âng-âng-iù-iù ê enn-á, tshiânn-ióng kàu tsiânn-iūnn, ài liáu guā-tsē sî-kan, tsing-sîn kah khuì-la̍t, kóo-tsá-lâng m̄-tsiah ē kóng, “Senn-kiánn sai-á, tshī kiánn sai-hū”.。」",
+      "chinese_translation": "要從紅嫩的小嬰兒，養育到成材，要花多少時間、精神和力氣，古人才會說：「生孩子是學徒，養育孩子是師傅。」",
+      "source_word": "生囝師仔，飼囝師傅。",
+      "extraction_time": "2025-08-27 14:49:27",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "禮拜五",
+      "taiwanese_sentence": "逐禮拜五暗時七點，伊準時佇遮開講。",
+      "tailo_pronunciation": "Ta̍k lé-pài-gōo àm-sî tshit tiám, i tsún-sî tī tsia khai-káng.。",
+      "chinese_translation": "每週五晚上七點，他準時在這裡演講。",
+      "source_word": "開講",
+      "extraction_time": "2025-08-27 14:49:35",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "禮拜",
+      "taiwanese_sentence": "後禮拜都欲考試矣，這禮拜的歇睏日你猶是莫出去𨑨迌會較穩當，才袂時到「喙食，予尻川坐數」。",
+      "tailo_pronunciation": "Āu lé-pài to beh khó-tshì--ah, tsit lé-pài ê hioh-khùn-ji̍t lí iáu-sī mài tshut-khì tshit-thô ē khah ún-tàng, tsiah bē sî kàu “tshuì tsia̍h, hōo kha-tshng tshē-siàu”.。",
+      "chinese_translation": "下禮拜就要考試了，這周的假日你還是別出去玩會比較妥當，才不會到時「貪圖一時的好處，自己得承受後果」。",
+      "source_word": "喙食，予尻川坐數。",
+      "extraction_time": "2025-08-27 14:49:44",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "幾若",
+      "taiwanese_sentence": "阿財仔下真濟苦心佮所費咧共𪜶後生栽培，向望伊會當出頭天，結局伊毋但大學讀無畢業，閣欲食毋討趁，顛倒是𪜶查某囝較有才情，研究所都猶未出業，幾若間公司就相爭欲共倩，阿財仔怨嘆講：「豬毋大，大對狗去。」",
+      "tailo_pronunciation": "A-tsâi--á hē tsin tsē khóo-sim kah sóo-huì teh kā in hāu-senn tsai-puê, ǹg-bāng i ē-tàng tshut-thâu-thinn, kiat-kio̍k i m̄-nā tāi-ha̍k tha̍k bô pit-gia̍p, koh beh tsia̍h m̄ thó-thàn, tian-tò sī in tsa-bóo-kiánn khah ū tsâi-tsîng, gián-kiù-sóo to iáu-buē tshut-gia̍p, kuí-nā king kong-si tō sio-tsenn beh kā tshiànn, A-tsâi--á uàn-thàn kóng, “Ti m̄ tuā, tuā tuì káu--khì.”。」",
+      "chinese_translation": "阿財花費了許多苦心和費用栽培他兒子，希望他能出人頭地，結果他不但大學無法畢業，還好逸惡勞，反而是他女兒比較有才華，研究所還沒畢業，好幾間公司就搶著要聘用他，阿財嘆氣說：「事與願違。」",
+      "source_word": "豬毋大，大對狗去。",
+      "extraction_time": "2025-08-27 14:49:52",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "號碼",
+      "taiwanese_sentence": "共伊的電話號碼記落來。",
+      "tailo_pronunciation": "Kā i ê tiān-uē hō-bé kì--lo̍h-lâi.。",
+      "chinese_translation": "把他的電話號碼記下來。",
+      "source_word": "記",
+      "extraction_time": "2025-08-27 14:49:55",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "拜六",
+      "taiwanese_sentence": "拜六禮拜，伊上愛去看摃球比賽。",
+      "tailo_pronunciation": "Pài-la̍k lé-pài, i siōng ài khì khuànn kòng-kiû pí-sài.。",
+      "chinese_translation": "週末時，他最喜歡去看棒球比賽。",
+      "source_word": "摃球",
+      "extraction_time": "2025-08-27 14:50:01",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    }
+  ],
+  "missing_words": [
+    {
+      "word": "禮拜二",
+      "reason": "無用例",
+      "index": 3
+    },
+    {
+      "word": "幾、若干",
+      "reason": "無用例",
+      "index": 4
+    },
+    {
+      "word": "禮拜一",
+      "reason": "無用例",
+      "index": 9
+    },
+    {
+      "word": "拜四",
+      "reason": "無用例",
+      "index": 10
+    },
+    {
+      "word": "禮拜六",
+      "reason": "無用例",
+      "index": 12
+    },
+    {
+      "word": "禮拜四",
+      "reason": "無用例",
+      "index": 13
+    },
+    {
+      "word": "多少",
+      "reason": "無用例",
+      "index": 15
+    },
+    {
+      "word": "拜三",
+      "reason": "無用例",
+      "index": 16
+    },
+    {
+      "word": "禮拜三",
+      "reason": "無用例",
+      "index": 19
+    }
+  ]
+}

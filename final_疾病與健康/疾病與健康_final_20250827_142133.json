@@ -1,0 +1,529 @@
+{
+  "metadata": {
+    "scraper_type": "最終版手動操作風格爬蟲",
+    "operation_flow": "輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理",
+    "source_url": "https://sutian.moe.edu.tw/zh-hant/tshiau/",
+    "extraction_date": "20250827_142133",
+    "statistics": {
+      "total_words": 65,
+      "successful_extractions": 36,
+      "missing_words": 29,
+      "success_rate": "55.4%",
+      "quality_stats": {
+        "完整": 36,
+        "良好": 0,
+        "基本": 0,
+        "不完整": 0
+      }
+    }
+  },
+  "successful_records": [
+    {
+      "word": "傷風",
+      "taiwanese_sentence": "人生的路途起起落落，俗語講：「花無百日紅，人無千日好。」咱人好空的時毋通傷風神，歹空的時嘛莫餒志，按呢才是健康的生活態度。",
+      "tailo_pronunciation": "Jîn-sing ê lōo-tôo khí-khí-lo̍h-lo̍h, sio̍k-gí kóng, “Hue bô pah ji̍t âng, lâng bô tshian ji̍t hó.” Lán-lâng hó-khang ê sî m̄-thang siunn hong-sîn, pháinn-khang ê sî mā mài lué-tsì, án-ne tsiah-sī kiān-khong ê sing-ua̍h thāi-tōo.。」我們處順境時不要太得意，處逆境時也不要氣餒，這樣才是健康的生活態度。",
+      "chinese_translation": "人生之路總是起起伏伏，俗話說：「花無百日紅，人無千日好。」我們處順境時不要太得意，處逆境時也不要氣餒，這樣才是健康的生活態度。",
+      "source_word": "花無百日紅，人無千日好。",
+      "extraction_time": "2025-08-27 14:18:32",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "病毒",
+      "taiwanese_sentence": "流感的病毒會綴瀾鬚穢人，毋才講感著的人愛掛喙罨。",
+      "tailo_pronunciation": "Liû-kám ê pēnn-to̍k ē tuè nuā-tshiu uè--lâng, m̄-tsiah kóng kám--tio̍h ê lâng ài kuà tshuì-am.。",
+      "chinese_translation": "流感的病毒會隨著飛沫傳染給別人，才會建議染病的人要戴口罩。",
+      "source_word": "瀾鬚",
+      "extraction_time": "2025-08-27 14:18:34",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "養生",
+      "taiwanese_sentence": "這馬的人注重養生，所以真濟人食素，四界攏有賣素料的店頭。",
+      "tailo_pronunciation": "Tsit-má ê lâng tsù-tiōng ióng-sing, sóo-í tsin tsē lâng tsia̍h-sòo, sì-kè lóng ū bē sòo-liāu ê tiàm-thâu.。",
+      "chinese_translation": "現代人重視養生，所以很多人吃素，到處都有賣素料的商店。",
+      "source_word": "素料",
+      "extraction_time": "2025-08-27 14:18:37",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "減肥",
+      "taiwanese_sentence": "有人講躡跤尾行路會減肥呢。",
+      "tailo_pronunciation": "Ū lâng kóng neh-kha-bué kiânn-lōo ē kiám-puî--neh.。",
+      "chinese_translation": "有人說踮著腳尖走路可以減肥。",
+      "source_word": "躡跤尾",
+      "extraction_time": "2025-08-27 14:18:46",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "藥仔",
+      "taiwanese_sentence": "你定定頭疼，著愛緊去予先生看，對根頭落手，毋通一直食止疼藥仔。",
+      "tailo_pronunciation": "Lí tiānn-tiānn thâu-thiànn, tio̍h-ài kín khì hōo sian-sinn khuànn, uì kin-thâu lo̍h-tshiú, m̄-thang it-ti̍t tsia̍h tsí-thiànn-io̍h-á.。",
+      "chinese_translation": "你時常頭痛，要去看醫生，從源頭下手，不可一直吃止痛藥。",
+      "source_word": "根頭",
+      "extraction_time": "2025-08-27 14:18:49",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "靠著",
+      "taiwanese_sentence": "我𬦰樓梯無細膩，靠著跤胴，疼甲欲死！",
+      "tailo_pronunciation": "Guá peh lâu-thui bô-sè-jī, khò-tio̍h kha-tâng, thiànn kah beh-sí",
+      "chinese_translation": "我爬樓梯不小心，撞到腳脛，痛得要死！",
+      "source_word": "跤胴",
+      "extraction_time": "2025-08-27 14:19:05",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "烏青",
+      "taiwanese_sentence": "伊跋倒挵一下跤腿煞烏青。",
+      "tailo_pronunciation": "I pua̍h-tó lòng tsi̍t-ē kha-thuí suah oo-tshenn.。",
+      "chinese_translation": "他跌倒腳撞了一下瘀青了。",
+      "source_word": "烏青",
+      "extraction_time": "2025-08-27 14:19:11",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "摔倒",
+      "taiwanese_sentence": "伊昨昏無細膩佇便所摔倒。",
+      "tailo_pronunciation": "I tsa-hng bô-sè-jī tī piān-sóo siak--tó.。",
+      "chinese_translation": "他昨天不小心在廁所摔倒。",
+      "source_word": "摔倒",
+      "extraction_time": "2025-08-27 14:19:14",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "近視",
+      "taiwanese_sentence": "你若欲半䖙倒看電視，你的目睭早慢會近視。",
+      "tailo_pronunciation": "Lí nā beh puànn-the-tó khuànn tiān-sī, lí ê ba̍k-tsiu tsá-bān ē kīn-sī.。",
+      "chinese_translation": "你如果要斜躺著看電視，你的眼睛早晚會近視。",
+      "source_word": "半䖙倒",
+      "extraction_time": "2025-08-27 14:19:17",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "過敏",
+      "taiwanese_sentence": "伊鼻空過敏，毋才一直拍咳啾。",
+      "tailo_pronunciation": "I phīnn-khang kuè-bín, m̄-tsiah it-ti̍t phah-kha-tshiùnn.。",
+      "chinese_translation": "他鼻子過敏，才會一直打噴嚏。",
+      "source_word": "拍咳啾",
+      "extraction_time": "2025-08-27 14:19:25",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "感冒",
+      "taiwanese_sentence": "流行性感冒病毒的暗作期大約是一工到三工。",
+      "tailo_pronunciation": "Liû-hîng-sìng kám-mōo pēnn-to̍k ê àm-tsoh-kî tāi-iok sī tsi̍t kang kàu sann kang.。",
+      "chinese_translation": "流行性感冒病毒的潛伏期大約是一至三天。",
+      "source_word": "暗作期",
+      "extraction_time": "2025-08-27 14:19:28",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "燙著",
+      "taiwanese_sentence": "湯拄𣁳起來爾爾，猶燒滾滾，毋好燙著。",
+      "tailo_pronunciation": "Thng tú khat--khí-lâi niā-niā, iáu sio-kún-kún, m̄-hó thǹg--tio̍h.。",
+      "chinese_translation": "湯才剛舀起來，還熱騰騰的，不要燙到了。",
+      "source_word": "燒滾滾",
+      "extraction_time": "2025-08-27 14:19:34",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "粒仔",
+      "taiwanese_sentence": "古早糧食缺欠的時，煮糜是幾粒米、一寡番薯簽乾摻一大坩水，「一粒田螺煮九碗公湯」，欲罟一粒飯粒仔就親像海底摸針，真僫啦！",
+      "tailo_pronunciation": "Kóo-tsá niû-si̍t khueh-khiàm ê sî, tsú muê sī kuí lia̍p bí, tsi̍t-kuá han-tsî-tshiam-kuann tsham tsi̍t tuā khann tsuí, “tsi̍t lia̍p tshân-lê tsú káu uánn-kong thng”, beh koo tsi̍t lia̍p pn̄g-lia̍p-á tō tshin-tshiūnn hái-té bong tsiam, tsin oh--lah!。",
+      "chinese_translation": "從前糧食匱乏的時代，煮稀飯是幾粒米、一些番薯簽乾加一大鍋的水，「一粒田螺煮九海碗湯」，要撈到一粒米粒就像海底撈針，好難啊！",
+      "source_word": "一粒田螺煮九碗公湯。",
+      "extraction_time": "2025-08-27 14:19:37",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "發炎",
+      "taiwanese_sentence": "發炎的空喙感覺會燒熱。",
+      "tailo_pronunciation": "Huat-iām ê khang-tshuì kám-kak ē sio-jua̍h.。",
+      "chinese_translation": "發炎的傷口感覺灼熱。",
+      "source_word": "燒熱",
+      "extraction_time": "2025-08-27 14:19:39",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "注射",
+      "taiwanese_sentence": "伊足驚注射，便若看著護士共射筒攑出來，就會驚甲咇咇掣。",
+      "tailo_pronunciation": "I tsiok kiann tsù-siā, piān-nā khuànn-tio̍h hōo-sū kā siā-tâng gia̍h--tshut-lâi, tō ē kiann kah phi̍h-phi̍h-tshuah.。",
+      "chinese_translation": "他很怕打針，只要看到護士拿出針筒，就會嚇得直發抖。",
+      "source_word": "射筒",
+      "extraction_time": "2025-08-27 14:19:45",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "著痧",
+      "taiwanese_sentence": "這陣當咧出大日虎，咱上好莫出去，較袂著痧。",
+      "tailo_pronunciation": "Tsit-tsūn tng-teh tshut tuā-ji̍t-hóo, lán siōng-hó mài tshut--khì, khah bē tio̍h-sua.。",
+      "chinese_translation": "現在正值烈日當空，我們最好不要出門，以免中暑。",
+      "source_word": "大日虎",
+      "extraction_time": "2025-08-27 14:19:51",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "閃著",
+      "taiwanese_sentence": "伊的腰去閃著。",
+      "tailo_pronunciation": "I ê io khì siám--tio̍h.。",
+      "chinese_translation": "他的腰閃到了。",
+      "source_word": "閃著",
+      "extraction_time": "2025-08-27 14:19:54",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "滑倒",
+      "taiwanese_sentence": "你較細膩咧，毋通滑倒。",
+      "tailo_pronunciation": "Lí khah sè-jī--leh, m̄-thang ku̍t--tó.。",
+      "chinese_translation": "你小心一點，不要滑倒。",
+      "source_word": "滑倒",
+      "extraction_time": "2025-08-27 14:19:56",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "流汗",
+      "taiwanese_sentence": "古早人講：「棚頂做甲流汗，棚跤嫌甲流瀾。」橫直做代誌總是袂中眾人意，欲做就認真做，毋免驚人批評。",
+      "tailo_pronunciation": "Kóo-tsá-lâng kóng, “Pênn-tíng tsò kah lâu-kuānn, pênn-kha hiâm kah lâu-nuā.” Huâinn-ti̍t tsò tāi-tsì tsóng-sī bē tìng tsìng-lâng ì, beh tsò tō jīn-tsin tsò, m̄-bián kiann lâng phue-phîng.。」反正做事總是不能符合眾人的意思，想做就認真做，不用怕別人批評。",
+      "chinese_translation": "以前的人說：「戲台上的演員演得汗流浹背，戲台下的觀眾批評得口沫橫飛。」反正做事總是不能符合眾人的意思，想做就認真做，不用怕別人批評。",
+      "source_word": "棚頂做甲流汗，棚跤嫌甲流瀾。",
+      "extraction_time": "2025-08-27 14:20:05",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "傷著",
+      "taiwanese_sentence": "有的人「一句話三角六尖」，出喙就去傷著人，毋過有的人就加真有外才，講著話在伊挲圓捏扁、抹壁雙面光。",
+      "tailo_pronunciation": "Ū ê lâng “tsi̍t kù uē sann kak la̍k tsiam”, tshut-tshuì tō khì siong-tio̍h lâng, m̄-koh ū ê lâng tō ke tsin ū guā-tsâi, kóng-tio̍h uē tsāi i so-înn-tēnn-pínn, buah-piah siang-bīn kng.。",
+      "chinese_translation": "有的人「言語銳利」，出言就傷人，不過有的人就很有交際能力，說起話來能字斟句酌、兩面討好。",
+      "source_word": "一句話三角六尖。",
+      "extraction_time": "2025-08-27 14:20:10",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "流血",
+      "taiwanese_sentence": "伊食酒閣騎oo-tóo-bái，摔一下流血流滴。",
+      "tailo_pronunciation": "I tsia̍h tsiú koh khiâ oo-tóo-bái, siak tsi̍t-ē lâu-hueh-lâu-tih.。",
+      "chinese_translation": "他喝酒還騎機車，摔得頭破血流。",
+      "source_word": "流血流滴",
+      "extraction_time": "2025-08-27 14:20:16",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "糾筋",
+      "taiwanese_sentence": "泅水的時陣上驚跤糾筋。",
+      "tailo_pronunciation": "Siû-tsuí ê sî-tsūn siōng kiann kha kiù-kin.。",
+      "chinese_translation": "游泳的時候最怕腳抽筋。",
+      "source_word": "糾筋",
+      "extraction_time": "2025-08-27 14:20:19",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "拍咳啾",
+      "taiwanese_sentence": "伊鼻空過敏，毋才一直拍咳啾。",
+      "tailo_pronunciation": "I phīnn-khang kuè-bín, m̄-tsiah it-ti̍t phah-kha-tshiùnn.。",
+      "chinese_translation": "他鼻子過敏，才會一直打噴嚏。",
+      "source_word": "拍咳啾",
+      "extraction_time": "2025-08-27 14:20:24",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "倒摔向",
+      "taiwanese_sentence": "好禮仔坐，無，會倒摔向。",
+      "tailo_pronunciation": "Hó-lé-á tsē, bô, ē tò-siàng-hiànn.。",
+      "chinese_translation": "小心坐好，不然，會摔個倒栽蔥。",
+      "source_word": "倒摔向",
+      "extraction_time": "2025-08-27 14:20:27",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "寒著",
+      "taiwanese_sentence": "看你寒甲規身軀爍爍顫，毋就緊提一領較厚的衫來穿，才袂去寒著。",
+      "tailo_pronunciation": "Khuànn lí kuânn kah kui-sin-khu sih-sih-tsùn, m̄-tō kín the̍h tsi̍t niá khah kāu ê sann lâi tshīng, tsiah bē khì kuânn--tio̍h.。",
+      "chinese_translation": "看你全身冷得直發抖，快一點拿件厚一點的衣服來穿，才不會受到風寒。",
+      "source_word": "爍爍顫",
+      "extraction_time": "2025-08-27 14:20:30",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "擤鼻",
+      "taiwanese_sentence": "我去夜市仔開兩百箍買著這條椅仔，哪知坐無兩工就害去，袂輸擤鼻糊的，人講「一分錢，一分貨」，有影俗物就無好貨。",
+      "tailo_pronunciation": "Guá khì iā-tshī-á khai nn̄g-pah khoo bé-tio̍h tsit liâu í-á, ná tsai tsē bô nn̄g kang tō hāi--khì, bē-su tshìng-phīnn kôo--ê, lâng kóng “tsi̍t hun tsînn, tsi̍t hun huè”, ū-iánn sio̍k-mi̍h tō bô hó huè.。",
+      "chinese_translation": "我去夜市花了兩百塊買到這張椅子，哪知道坐不到兩天就壞了，就好像用鼻涕黏的一樣，人家說「一分錢，一分貨」，果然便宜就沒好貨。",
+      "source_word": "一分錢，一分貨。",
+      "extraction_time": "2025-08-27 14:20:39",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "頓龜",
+      "taiwanese_sentence": "伊予一个生狂囡仔挵一下頓龜。",
+      "tailo_pronunciation": "I hōo tsi̍t ê tshenn-kông gín-á lòng tsi̍t-ē tǹg-ku.。",
+      "chinese_translation": "他被一個慌張的孩子撞了一下摔了屁股。",
+      "source_word": "頓龜",
+      "extraction_time": "2025-08-27 14:20:44",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "受傷",
+      "taiwanese_sentence": "炮仔工場爆炸，員工受傷嚴重。",
+      "tailo_pronunciation": "Phàu-á kang-tiûnn po̍k-tsà, uân-kang siū-siong giâm-tiōng.。",
+      "chinese_translation": "炮竹工廠爆炸，員工受傷嚴重。",
+      "source_word": "爆炸",
+      "extraction_time": "2025-08-27 14:20:47",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "破病",
+      "taiwanese_sentence": "伊破病倒佇眠床頂廿捅冬矣，寢開始後生猶真盡心看顧，不而過俗語講：「久長病，無孝子。」這幾冬𪜶後生予伊的醫藥費硩甲袂喘氣，就無通遐認真共照顧矣。",
+      "tailo_pronunciation": "I phuà-pēnn tó tī bîn-tshn̂g-tíng jia̍p-thóng tang--ah, tshím-khai-sí hāu-senn iáu tsin tsīn-sim khuànn-kòo, put-jî-kò sio̍k-gí kóng, “Kú-tn̂g pēnn, bô hàu-tsú.” Tsit kuí tang in hāu-senn hōo i ê i-io̍h-huì teh kah bē tshuán-khuì, tō bô thang hiah jīn-tsin kā tsiàu-kòo--ah.。」這幾年他兒子被他的醫藥費壓得喘不過氣來，就沒辦法那麼認真照顧他了。",
+      "chinese_translation": "他已臥病在床二十多年了，剛開始兒子還很盡心照顧，但俗話說：「久病床前無孝子。」這幾年他兒子被他的醫藥費壓得喘不過氣來，就沒辦法那麼認真照顧他了。",
+      "source_word": "久長病，無孝子。",
+      "extraction_time": "2025-08-27 14:21:07",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "蛀齒",
+      "taiwanese_sentence": "糖仔食傷濟會蛀齒。",
+      "tailo_pronunciation": "Thn̂g-á tsia̍h siunn tsē ē tsiù-khí.。",
+      "chinese_translation": "糖果吃太多會蛀牙。",
+      "source_word": "糖仔",
+      "extraction_time": "2025-08-27 14:21:13",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "跋倒",
+      "taiwanese_sentence": "伊跋倒，雖然人無按怎，醫生講猶是照電光確定骨頭無含梢較好。",
+      "tailo_pronunciation": "I pua̍h-tó, sui-jiân lâng bô án-tsuánn, i-sing kóng iáu-sī tsiò-tiān-kong khak-tīng kut-thâu bô hâm-sau khah hó.。",
+      "chinese_translation": "他跌倒了，雖然覺得沒怎樣，醫生說還是照X光確定骨骼沒裂痕比較好。",
+      "source_word": "照電光",
+      "extraction_time": "2025-08-27 14:21:16",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "扭著",
+      "taiwanese_sentence": "伊這陣手扭著，無才調去工地做粗重的，就允一寡較輕可的穡頭轉來厝裡做，「罔趁較袂散」，嘛較贏規工佇厝裡閒仙仙。",
+      "tailo_pronunciation": "I tsit-tsūn tshiú láu--tio̍h, bô tsâi-tiāu khì kang-tē tsò tshoo-tāng--ê, tō ín tsi̍t-kuá khah khin-khó ê sit-thâu tńg-lâi tshù--lí tsò, “bóng thàn khah bē sàn”, mā khah iânn kui-kang tī tshù--lí îng-sian-sian.。",
+      "chinese_translation": "他現在手扭到，沒法到工地做粗重的工作，便承接一些比較輕鬆的工作回來家裡做，「多少賺一點」，也勝過於成天在家無所事事。",
+      "source_word": "罔趁較袂散。",
+      "extraction_time": "2025-08-27 14:21:21",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "發燒",
+      "taiwanese_sentence": "你去提度針來磅看囡仔敢有發燒。",
+      "tailo_pronunciation": "Lí khì the̍h tōo-tsiam lâi pōng khuànn gín-á kám ū huat-sio.。",
+      "chinese_translation": "你去拿溫度計來量量看孩子有沒有發燒。",
+      "source_word": "磅",
+      "extraction_time": "2025-08-27 14:21:24",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "割著",
+      "taiwanese_sentence": "刀仔割著的空喙若較細空，就較快堅血。",
+      "tailo_pronunciation": "To-á kuah--tio̍h ê khang-tshuì nā khah sè khang, tō khah khuài kian-hueh.。",
+      "chinese_translation": "刀子割到的傷口如果比較小，就比較容易止血。",
+      "source_word": "堅血",
+      "extraction_time": "2025-08-27 14:21:27",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "實鼻",
+      "taiwanese_sentence": "感冒佮過敏攏會實鼻。",
+      "tailo_pronunciation": "Kám-mōo kah kuè-bín lóng ē tsa̍t-phīnn.。",
+      "chinese_translation": "感冒與過敏都會鼻塞。",
+      "source_word": "實鼻",
+      "extraction_time": "2025-08-27 14:21:30",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "牚腿",
+      "taiwanese_sentence": "昨暗走一下傷久，害我今仔日跤牚腿。",
+      "tailo_pronunciation": "Tsa-àm tsáu tsi̍t-ē siunn kú, hāi guá kin-á-ji̍t kha thènn-thuí.。",
+      "chinese_translation": "昨晚跑了太久，害我今天腳肌肉酸疼。",
+      "source_word": "牚腿",
+      "extraction_time": "2025-08-27 14:21:33",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    }
+  ],
+  "missing_words": [
+    {
+      "word": "相撞",
+      "reason": "無用例",
+      "index": 4
+    },
+    {
+      "word": "殘障",
+      "reason": "無用例",
+      "index": 5
+    },
+    {
+      "word": "嚨喉疼",
+      "reason": "無用例",
+      "index": 8
+    },
+    {
+      "word": "打噴嚏",
+      "reason": "無用例",
+      "index": 9
+    },
+    {
+      "word": "傷到",
+      "reason": "無用例",
+      "index": 10
+    },
+    {
+      "word": "扭到",
+      "reason": "無用例",
+      "index": 11
+    },
+    {
+      "word": "中暑",
+      "reason": "無用例",
+      "index": 12
+    },
+    {
+      "word": "閃到",
+      "reason": "無用例",
+      "index": 14
+    },
+    {
+      "word": "著涼、感冒",
+      "reason": "無用例",
+      "index": 18
+    },
+    {
+      "word": "抽筋",
+      "reason": "無用例",
+      "index": 19
+    },
+    {
+      "word": "溼疹",
+      "reason": "無用例",
+      "index": 22
+    },
+    {
+      "word": "咳嗽",
+      "reason": "無用例",
+      "index": 26
+    },
+    {
+      "word": "蛀牙",
+      "reason": "無用例",
+      "index": 28
+    },
+    {
+      "word": "瘀青",
+      "reason": "無用例",
+      "index": 32
+    },
+    {
+      "word": "鐵腿",
+      "reason": "無用例",
+      "index": 33
+    },
+    {
+      "word": "跌倒",
+      "reason": "無用例",
+      "index": 35
+    },
+    {
+      "word": "生病",
+      "reason": "無用例",
+      "index": 37
+    },
+    {
+      "word": "整個屁股跌坐在地上",
+      "reason": "無用例",
+      "index": 40
+    },
+    {
+      "word": "撞到",
+      "reason": "無用例",
+      "index": 44
+    },
+    {
+      "word": "割到",
+      "reason": "無用例",
+      "index": 45
+    },
+    {
+      "word": "擤鼻涕",
+      "reason": "無用例",
+      "index": 47
+    },
+    {
+      "word": "濕疹",
+      "reason": "無用例",
+      "index": 50
+    },
+    {
+      "word": "喉嚨痛",
+      "reason": "無用例",
+      "index": 51
+    },
+    {
+      "word": "鼻塞",
+      "reason": "無用例",
+      "index": 52
+    },
+    {
+      "word": "注射、打針",
+      "reason": "無用例",
+      "index": 53
+    },
+    {
+      "word": "燙到",
+      "reason": "無用例",
+      "index": 54
+    },
+    {
+      "word": "皮膚病",
+      "reason": "無用例",
+      "index": 55
+    },
+    {
+      "word": "倒栽蔥、仰面摔倒，整個身體往後傾而摔倒",
+      "reason": "無用例",
+      "index": 57
+    },
+    {
+      "word": "相挵",
+      "reason": "無用例",
+      "index": 60
+    }
+  ]
+}

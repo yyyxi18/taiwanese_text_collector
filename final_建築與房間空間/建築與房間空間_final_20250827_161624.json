@@ -1,0 +1,629 @@
+{
+  "metadata": {
+    "scraper_type": "最終版手動操作風格爬蟲",
+    "operation_flow": "輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理",
+    "source_url": "https://sutian.moe.edu.tw/zh-hant/tshiau/",
+    "extraction_date": "20250827_161624",
+    "statistics": {
+      "total_words": 79,
+      "successful_extractions": 42,
+      "missing_words": 37,
+      "success_rate": "53.2%",
+      "quality_stats": {
+        "完整": 42,
+        "良好": 0,
+        "基本": 0,
+        "不完整": 0
+      }
+    }
+  },
+  "successful_records": [
+    {
+      "word": "夜市",
+      "taiwanese_sentence": "阿榮頭一改贌園種弓蕉隨搪著風颱，了甲叫毋敢。佳哉尾仔換去夜市做油湯，拄著時機好，才予伊趁甲油洗洗，有影是「人飼人，一支骨；天飼人，肥朒朒」，真正予人袂𠢕得。",
+      "tailo_pronunciation": "A-îng thâu tsi̍t kái pa̍k-hn̂g tsìng king-tsio suî tn̄g-tio̍h hong-thai, liáu kah kiò-m̄-kánn. Ka-tsài bué--á uānn-khì iā-tshī tsò iû-thng, tú-tio̍h sî-ki hó, tsiah hōo i thàn kah iû-sé-sé, ū-iánn sī “lâng tshī lâng, tsi̍t ki kut; thinn tshī lâng, puî-tsut-tsut”, tsin-tsiànn hōo lâng bē-gâu--tit.。幸虧後來換跑道去夜市擺麵攤，遇到景氣好，才讓讓他賺得油水多多，真正是「只靠人，瘦巴巴；天幫助，笑哈哈」，人真的不能自以為了得。",
+      "chinese_translation": "阿榮第一次租田園種香蕉就碰上颱風，賠的叫苦連天。幸虧後來換跑道去夜市擺麵攤，遇到景氣好，才讓讓他賺得油水多多，真正是「只靠人，瘦巴巴；天幫助，笑哈哈」，人真的不能自以為了得。",
+      "source_word": "人飼人，一支骨；天飼人，肥朒朒。",
+      "extraction_time": "2025-08-27 16:12:58",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "房間",
+      "taiwanese_sentence": "古早嫁娶的風俗誠心適，新娘暗頓愛佇房間內底食，好命婆捀幾項仔飯菜入來，有雞肉、鰇魚，閣會講好話：「食雞，會起家；食鰇魚，生囡仔好育飼。」予新娘止飢兼祝賀。",
+      "tailo_pronunciation": "Kóo-tsá kè-tshuā ê hong-sio̍k tsiânn sim-sik, sin-niû àm-tǹg ài tī pâng-king lāi-té tsia̍h, hó-miā-pô phâng kuí-hāng-á pn̄g-tshài ji̍p--lâi, ū ke-bah, jiû-hî, koh ē kóng hó-uē, “Tsia̍h ke, ē khí-ke; tsia̍h jiû-hî, senn gín-á hó io-tshī.” Hōo sin-niû tsí-ki kiam tsiok-hō.。」給新娘墊墊肚子兼祝福。",
+      "chinese_translation": "舊時結婚的風俗很有趣，新娘的晚餐要在臥室裡吃，喜娘會端幾樣飯菜進來，有雞肉、魷魚，還會說吉祥話：「吃雞，會建立家庭；吃魷魚，生出來的孩子會很好養育。」給新娘墊墊肚子兼祝福。",
+      "source_word": "食雞，會起家；食鰇魚，生囡仔好育飼。",
+      "extraction_time": "2025-08-27 16:13:01",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "水池",
+      "taiwanese_sentence": "我毋知水池仔的深淺。",
+      "tailo_pronunciation": "Guá m̄ tsai tsuí-tî-á ê tshim-tshián.。",
+      "chinese_translation": "我不知道水池的深度。",
+      "source_word": "深淺",
+      "extraction_time": "2025-08-27 16:13:04",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "浴間仔",
+      "taiwanese_sentence": "浴間仔的水道頭咧漏水，阮仙舞都袂好勢，結局阮阿爸攑活扳仔共鎖予絚，一下手就好勢溜溜，有影是「食著藥，青草一葉；食毋著藥，人參一石」。",
+      "tailo_pronunciation": "Tsia̍h tio̍h io̍h, tshenn-tsháu tsi̍t hio̍h; tsia̍h m̄-tio̍h io̍h, jîn-sim tsi̍t tsio̍h",
+      "chinese_translation": "浴室的水龍頭漏水，我們怎麼修理都沒用。結果我爸爸拿活動板手將它鎖緊，三兩下就搞定，正所謂「做事掌握關鍵，方能達到事半功倍之效」。",
+      "source_word": "食著藥，青草一葉；食毋著藥，人參一石。",
+      "extraction_time": "2025-08-27 16:13:06",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "花園",
+      "taiwanese_sentence": "伊公開展覽伊的私人花園。",
+      "tailo_pronunciation": "I kong-khai tián-lám i ê su-jîn hue-hn̂g.。",
+      "chinese_translation": "他把他的私人花園公開展覽。",
+      "source_word": "公開",
+      "extraction_time": "2025-08-27 16:13:09",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "大路",
+      "taiwanese_sentence": "外媽𪜶厝是有六龍的大厝起，三十年前因為大路欲楦闊，護龍予人削兩龍去，外埕開做大車路。總是「涼傘雖破，骨格原在」，入去厝內猶原看會著較早的氣派。",
+      "tailo_pronunciation": "Guā-má in tshù sī ū la̍k lîng ê tuā-tshù-khí, sann-tsa̍p nî tsîng in-uī tuā-lōo beh hùn-khuah, hōo-lîng hōo lâng siah nn̄g lîng--khì, guā-tiânn khui-tsò tuā tshia-lōo. Tsóng--sī “niû-suànn sui phuà, kut-keh guân-tsāi”, ji̍p-khì tshù-lāi iu-guân khuànn ē tio̍h khah-tsá ê khì-phài.。不過「外觀被毀，氣派猶存」，進去屋裡仍可看到從前的氣派。",
+      "chinese_translation": "外婆家是有三對廂房的大宅第，三十年前因為道路要拓寬，廂房被拆掉兩排，外庭院闢成大馬路。不過「外觀被毀，氣派猶存」，進去屋裡仍可看到從前的氣派。",
+      "source_word": "涼傘雖破，骨格原在。",
+      "extraction_time": "2025-08-27 16:13:12",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "碼頭",
+      "taiwanese_sentence": "船到碼頭，逐家攏準備欲落船。",
+      "tailo_pronunciation": "Tsûn kàu bé-thâu, ta̍k-ke lóng tsún-pī beh lo̍h-tsûn.。",
+      "chinese_translation": "船到碼頭，大家都準備要下船。",
+      "source_word": "落船",
+      "extraction_time": "2025-08-27 16:13:23",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "高速公路",
+      "taiwanese_sentence": "高速公路好駛車，毋過路標複雜，一下看無真，落南駛對上北去，就「一丈差九尺」，加了時間、閣加了油的。",
+      "tailo_pronunciation": "Ko-sok kong-lōo hó sái-tshia, m̄-koh lōo-piau ho̍k-tsa̍p, tsi̍t-ē khuànn bô tsin, lo̍h-lâm sái tuì tsiūnn-pak--khì, tō “tsi̍t tn̄g tsha káu tshioh”, ke liáu sî-kan, koh ke liáu iû--ê.。",
+      "chinese_translation": "高速公路好開車，但是號誌複雜，一下沒看仔細，南下開到北上去，「南轅北轍」，費時又費油。",
+      "source_word": "一丈差九尺。",
+      "extraction_time": "2025-08-27 16:13:26",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "山路",
+      "taiwanese_sentence": "這條山路行到半中站拄好有一塊大石鼓，咱會當坐佇遐小歇睏一下。",
+      "tailo_pronunciation": "Tsit tiâu suann-lōo kiânn kàu puànn-tiong-tsām tú-hó ū tsi̍t tè tuā tsio̍h-kóo, lán ē-tàng tsē tī hia sió hioh-khùn--tsi̍t-ē.。",
+      "chinese_translation": "這條山路走到中途剛好有一塊大圓石，我們可以坐在那裡稍微休息一下。",
+      "source_word": "石鼓",
+      "extraction_time": "2025-08-27 16:13:28",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "電梯",
+      "taiwanese_sentence": "都市的厝邊兜，就準講佇電梯間搪著，嘛無的確會相借喙。",
+      "tailo_pronunciation": "Too-tshī ê tshù-pinn-tau, tō tsún-kóng tī tiān-thui-king tn̄g--tio̍h, mā bô-tik-khak ē sio-tsioh-tshuì.。",
+      "chinese_translation": "都市的鄰居之間，即便在電梯裡面不期而遇，也未必會相互打招呼。",
+      "source_word": "相借喙",
+      "extraction_time": "2025-08-27 16:13:31",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "動物園",
+      "taiwanese_sentence": "囡仔佇動物園看著麒麟鹿，就歡喜甲跳起來。",
+      "tailo_pronunciation": "Gín-á tī tōng-bu̍t-hn̂g khuànn-tio̍h kî-lîn-lo̍k, tō huann-hí kah thiàu--khí-lâi.。",
+      "chinese_translation": "小孩子在動物園看到長頸鹿，就高興得跳起來。",
+      "source_word": "麒麟鹿",
+      "extraction_time": "2025-08-27 16:13:39",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "樓頂",
+      "taiwanese_sentence": "你起去樓頂共恁阿爸鬥晾衫。",
+      "tailo_pronunciation": "Lí khí-khì lâu-tíng kā lín a-pah tàu nê sann.。",
+      "chinese_translation": "你上樓去幫你爸爸晾衣服。",
+      "source_word": "起去",
+      "extraction_time": "2025-08-27 16:13:45",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "𥴊仔店",
+      "taiwanese_sentence": "我提一千箍去𥴊仔店買五十箍的物件，頭家娘找我四百五。我講伊找毋著，伊一直諍講我予伊五百箍。等錄影看了，伊隨雞喙變鴨喙。",
+      "tailo_pronunciation": "Guá the̍h tsi̍t-tshing khoo khì kám-á-tiàm bé gōo-tsa̍p khoo ê mi̍h-kiānn, thâu-ke-niû tsāu guá sì-pah-gōo. Guá kóng i tsāu m̄-tio̍h, i it-ti̍t tsènn kóng guá hōo i gōo-pah khoo. Tán lo̍k-iánn khuànn-liáu, i suî ke-tshuì piàn ah-tshuì.。我說他找錯了，她一直爭辯說我給她五百塊。等看過錄影，她立刻啞口無言。",
+      "chinese_translation": "我拿一千塊到雜貨店買五十塊的東西，老闆娘找我四百五。我說他找錯了，她一直爭辯說我給她五百塊。等看過錄影，她立刻啞口無言。",
+      "source_word": "雞喙變鴨喙",
+      "extraction_time": "2025-08-27 16:13:50",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "停車場",
+      "taiwanese_sentence": "以早遮是田，這馬做停車場，聽講以後欲起厝。",
+      "tailo_pronunciation": "Í-tsá tsia sī tshân, tsit-má tsò thîng-tshia-tiûnn, thiann-kóng í-āu beh khí-tshù.。",
+      "chinese_translation": "以前這裡是田，現在當停車場，聽說以後要蓋房子。",
+      "source_word": "以早",
+      "extraction_time": "2025-08-27 16:13:53",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "樓梯",
+      "taiwanese_sentence": "非洲真濟國家因為飢荒，百姓枵飢失頓，真濟囡仔攏「腹肚若水櫃，胸坎若樓梯」，予人真毋甘。",
+      "tailo_pronunciation": "Hui-tsiu tsin tsē kok-ka in-uī ki-hng, peh-sènn iau-ki-sit-tǹg, tsin tsē gín-á lóng “pak-tóo ná tsuí-kuī, hing-khám ná lâu-thui”, hōo lâng tsin m̄-kam.。",
+      "chinese_translation": "非洲很多國家因為飢荒，人民三餐不繼，很多兒童都「骨瘦如柴，卻又挺個大肚子」，讓人很不捨。",
+      "source_word": "腹肚若水櫃，胸坎若樓梯。",
+      "extraction_time": "2025-08-27 16:13:59",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "樓跤",
+      "taiwanese_sentence": "樓跤有人咧喝咻，毋知是啥物代誌。",
+      "tailo_pronunciation": "Lâu-kha ū lâng teh huah-hiu, m̄ tsai sī siánn-mih tāi-tsì.。",
+      "chinese_translation": "樓下有人在大聲叫嚷，不知道是什麼事情。",
+      "source_word": "喝咻",
+      "extraction_time": "2025-08-27 16:14:07",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "夜市仔",
+      "taiwanese_sentence": "我去夜市仔開兩百箍買著這條椅仔，哪知坐無兩工就害去，袂輸擤鼻糊的，人講「一分錢，一分貨」，有影俗物就無好貨。",
+      "tailo_pronunciation": "Guá khì iā-tshī-á khai nn̄g-pah khoo bé-tio̍h tsit liâu í-á, ná tsai tsē bô nn̄g kang tō hāi--khì, bē-su tshìng-phīnn kôo--ê, lâng kóng “tsi̍t hun tsînn, tsi̍t hun huè”, ū-iánn sio̍k-mi̍h tō bô hó huè.。",
+      "chinese_translation": "我去夜市花了兩百塊買到這張椅子，哪知道坐不到兩天就壞了，就好像用鼻涕黏的一樣，人家說「一分錢，一分貨」，果然便宜就沒好貨。",
+      "source_word": "一分錢，一分貨。",
+      "extraction_time": "2025-08-27 16:14:13",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "大樓",
+      "taiwanese_sentence": "你都毋知咧，這棟遮挑俍的大樓，當初時欲動土進前是偌仔厚事路咧！",
+      "tailo_pronunciation": "Lí to m̄ tsai--leh, tsit tòng tsiah thiau-lāng ê tuā-lâu, tong-tshe-sî beh tāng-thóo tsìn-tsîng sī guā-á kāu-sū-lōo--leh",
+      "chinese_translation": "你都不知道，這棟聳立的大樓，當初要動土之前可是波折不斷啊！",
+      "source_word": "厚事路",
+      "extraction_time": "2025-08-27 16:14:15",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "鐵路",
+      "taiwanese_sentence": "欲完成這條高速鐵路，著閣坉錢。",
+      "tailo_pronunciation": "Beh uân-sîng tsit tiâu ko-sok thih-lōo, tio̍h koh thūn-tsînn.。",
+      "chinese_translation": "想要完成這條高速鐵路，得再填補資金。",
+      "source_word": "坉錢",
+      "extraction_time": "2025-08-27 16:14:18",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "路口",
+      "taiwanese_sentence": "行到雙叉路口，毋知愛按怎行。",
+      "tailo_pronunciation": "Kiânn kàu siang-tshe-lōo-kháu, m̄ tsai ài án-tsuánn kiânn.。",
+      "chinese_translation": "走到雙叉路口，不知道該怎麼走。",
+      "source_word": "雙叉路",
+      "extraction_time": "2025-08-27 16:14:24",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "巷仔",
+      "taiwanese_sentence": "咱巷仔口彼个陳董的閣去自助餐買便當來食矣，枉費伊大某、細姨媠噹噹，厝內煞定定冤家量債，無人欲煮予食。莫怪人講：「一某無人知，兩某相卸代。」",
+      "tailo_pronunciation": "Lán hāng-á-kháu hit ê Tân-táng--ê koh khì tsū-tsōo-tshan bé piān-tong lâi tsia̍h--ah, óng-huì i tuā-bóo, sè-î suí-tang-tang, tshù-lāi suah tiānn-tiānn uan-ke-niû-tsè, bô lâng beh tsú hōo tsia̍h. Bo̍k-kuài lâng kóng, “Tsi̍t bóo bô lâng tsai, nn̄g bóo sio-sià-tāi.”。難怪人家說：「一夫一妻，夫唱婦隨；家有妻妾，雞犬不寧。」",
+      "chinese_translation": "住巷口的陳董事長又去自助餐買便當來吃了，虧他有老婆、姨太太而且都很漂亮，家裡卻常常爭吵，沒人做飯給他吃。難怪人家說：「一夫一妻，夫唱婦隨；家有妻妾，雞犬不寧。」",
+      "source_word": "一某無人知，兩某相卸代。",
+      "extraction_time": "2025-08-27 16:14:26",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "戲院",
+      "taiwanese_sentence": "警察佇戲院門口掠著黃牛。",
+      "tailo_pronunciation": "Kíng-tshat tī hì-īnn mn̂g-kháu lia̍h-tio̍h n̂g-gû.。",
+      "chinese_translation": "警察在電影院門口抓到黃牛。",
+      "source_word": "黃牛",
+      "extraction_time": "2025-08-27 16:14:40",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "辦公室",
+      "taiwanese_sentence": "這陣時勢無仝矣，古早彼種「千途萬途，毋值得翻田塗」的觀念早就退時去矣，少年人攏嘛欲揣坐佇辦公室吹冷氣的頭路，今是有幾个甘願攑鋤頭落田去作穡咧！",
+      "tailo_pronunciation": "Tsit-tsūn sî-sè bô kāng--ah, kóo-tsá hit tsióng “tshian tôo bān tôo, m̄ ta̍t-tit huan tshân-thôo” ê kuan-liām tsá tō thè-sî--khì--ah, siàu-liân-lâng lóng mā beh tshuē tsē tī pān-kong-sik tshue líng-khì ê thâu-lōo, tann sī ū kuí ê kam-guān gia̍h tî-thâu lo̍h-tshân khì tsoh-sit--leh!。",
+      "chinese_translation": "現今時代不同了，以前那套「重農輕商」的觀念早已過時了，年輕人都想找坐在辦公室吹冷氣的工作，現在有幾個願意拿著鋤頭下田耕種啊！",
+      "source_word": "千途萬途，毋值得翻田塗。",
+      "extraction_time": "2025-08-27 16:14:48",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "窗仔",
+      "taiwanese_sentence": "若欲共窗仔子刻甲有花有草，著愛倩會曉幼工的木匠來創才會媠。",
+      "tailo_pronunciation": "Nā beh kā thang-á-tsí khik kah ū hue ū tsháu, tio̍h-ài tshiànn ē-hiáu iù-kang ê ba̍k-tshiūnn lâi tshòng tsiah ē suí.。",
+      "chinese_translation": "想把窗櫺雕成有花有草的圖案，必須聘請會細工的木匠來做才會漂亮。",
+      "source_word": "幼工",
+      "extraction_time": "2025-08-27 16:14:51",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "電台",
+      "taiwanese_sentence": "電台節目咧推銷健康食品，定定講甲比美國仙丹閣較好用。",
+      "tailo_pronunciation": "Tiān-tâi tsiat-bo̍k teh thui-siau kiān-khong si̍t-phín, tiānn-tiānn kóng kah pí Bí-kok-sian-tan koh-khah hó-īng.。",
+      "chinese_translation": "電台節目在推銷健康食品，常常說得比靈丹妙藥還好用。",
+      "source_word": "美國仙丹",
+      "extraction_time": "2025-08-27 16:14:56",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "博物館",
+      "taiwanese_sentence": "黃金博物館彼塊金仔角重篤篤，到今猶無人搬會振動得。",
+      "tailo_pronunciation": "N̂g-kim Phok-bu̍t-kuán hit tè kim-á-kak tāng-tauh-tauh, kàu-tann iáu bô lâng puann ē-tín-tāng--tit.。",
+      "chinese_translation": "黃金博物館裡的那塊金塊非常的重，至今還沒有人能搬得動。",
+      "source_word": "重篤篤",
+      "extraction_time": "2025-08-27 16:14:59",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "市場",
+      "taiwanese_sentence": "伊講當選了後，欲整頓市場，結果攏無影跡。",
+      "tailo_pronunciation": "I kóng tòng-suán liáu-āu, beh tsíng-tùn tshī-tiûnn, kiat-kó lóng bô iánn-tsiah.。",
+      "chinese_translation": "他說當選之後，要整頓市場，結果都是虛假。",
+      "source_word": "影跡",
+      "extraction_time": "2025-08-27 16:15:02",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "灶跤",
+      "taiwanese_sentence": "我轉來欲攢下晝頓，行入灶跤就看著大漢查某囝當咧煮矣。",
+      "tailo_pronunciation": "Guá tńg-lâi beh tshuân ē-tàu-tǹg, kiânn-ji̍p tsàu-kha tō khuànn-tio̍h tuā-hàn tsa-bóo-kiánn tng-teh tsú--ah.。",
+      "chinese_translation": "我回來要做午飯，走進廚房就看到大女兒正在煮了。",
+      "source_word": "下晝頓",
+      "extraction_time": "2025-08-27 16:15:07",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "塗跤",
+      "taiwanese_sentence": "你行路攏無咧看路，「目睭看懸，無看低」，塗跤一窟水，你嘛共伊踏落去。",
+      "tailo_pronunciation": "Lí kiânn-lōo lóng bô teh khuànn lōo, “ba̍k-tsiu khuànn-kuân, bô khuànn-kē”, thôo-kha tsi̍t khut tsuí, lí mā kā i ta̍h--lo̍h-khì.。",
+      "chinese_translation": "你走路都不看路，「只看高處，不看地面」，路上一汪水，你也踩下去。",
+      "source_word": "目睭看懸，無看低。",
+      "extraction_time": "2025-08-27 16:15:16",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "便所",
+      "taiwanese_sentence": "咱著教囡仔，去便所了後，挩鍊仔著愛挩予好勢。",
+      "tailo_pronunciation": "Lán tio̍h kà gín-á, khì piān-sóo liáu-āu, thuah-liān-á tio̍h-ài thuah hōo hó-sè.。",
+      "chinese_translation": "咱們得教小孩，上完廁所，拉鍊得要拉好。",
+      "source_word": "挩鍊仔",
+      "extraction_time": "2025-08-27 16:15:21",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "水庫",
+      "taiwanese_sentence": "誠久無落雨矣，水庫的水一直消蝕落去。",
+      "tailo_pronunciation": "Tsiânn kú bô lo̍h-hōo--ah, tsuí-khòo ê tsuí it-ti̍t siau-si̍h--lo̍h-khì.。",
+      "chinese_translation": "很久沒下雨了，水庫的水一直蒸發掉。",
+      "source_word": "消蝕",
+      "extraction_time": "2025-08-27 16:15:27",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "水溝",
+      "taiwanese_sentence": "古早對唐山渡烏水溝來臺灣的人，總扯十个死六个，實在真無捨施。",
+      "tailo_pronunciation": "Kóo-tsá tuì Tn̂g-suann tōo Oo-tsuí-kau lâi Tâi-uân ê lâng, tsóng-tshé tsa̍p ê sí la̍k ê, si̍t-tsāi tsin bô-siá-sì.。",
+      "chinese_translation": "以前從唐山渡黑水溝來臺灣的人，平均十個死六個，實在很可憐。",
+      "source_word": "烏水溝",
+      "extraction_time": "2025-08-27 16:15:44",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "菜市仔",
+      "taiwanese_sentence": "想欲食金瓜湯，煞規菜市仔攏無人咧賣金瓜，「無魚，蝦嘛好」，今仔日先買冬瓜轉來去𤉙排骨湯。",
+      "tailo_pronunciation": "Siūnn-beh tsia̍h kim-kue-thng, suah kui tshài-tshī-á lóng bô lâng teh bē kim-kue, “bô hî, hê mā hó”, kin-á-ji̍t sing bé tang-kue tńg lâi-khì kûn pâi-kut-thng.。",
+      "chinese_translation": "想喝南瓜湯，整個菜市場卻沒有人賣南瓜，「退而求其次」，今天先買冬瓜回家煮排骨湯。",
+      "source_word": "無魚，蝦嘛好。",
+      "extraction_time": "2025-08-27 16:15:46",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "古蹟",
+      "taiwanese_sentence": "聽講𪜶兜彼間大厝這馬是古蹟。",
+      "tailo_pronunciation": "Thiann-kóng in tau hit king tuā-tshù tsit-má sī kóo-tsik.。",
+      "chinese_translation": "聽說他家的那間大房子現在是古蹟。",
+      "source_word": "大厝",
+      "extraction_time": "2025-08-27 16:15:49",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "客廳",
+      "taiwanese_sentence": "下昏暗干焦𪜶兩姊妹仔顧厝，半暝雄雄聽著客廳有跤步聲，兩人驚甲圇痀去。",
+      "tailo_pronunciation": "E-hng-àm kan-na in nn̄g tsí-muē-á kòo-tshù, puànn-mê hiông-hiông thiann-tio̍h kheh-thiann ū kha-pōo-siann, nn̄g lâng kiann kah lun-ku--khì.。",
+      "chinese_translation": "今晚只有他們兩姊妹看家，半夜突然聽到客廳有腳步聲，兩人嚇得縮成一團。",
+      "source_word": "圇痀",
+      "extraction_time": "2025-08-27 16:15:55",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "大門",
+      "taiwanese_sentence": "散會的時，阮有攢三、四百塊王梨酥，佇大門口送予人客。",
+      "tailo_pronunciation": "Suànn-huē ê sî, guán ū tshuân sann, sì-pah tè ông-lâi-soo, tī tuā-mn̂g-kháu sàng hōo lâng-kheh.。",
+      "chinese_translation": "散會時，我們準備了三、四百塊鳳梨酥，在大門口送給客人。",
+      "source_word": "王梨酥",
+      "extraction_time": "2025-08-27 16:16:00",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "水溝仔",
+      "taiwanese_sentence": "水溝仔窒牢咧，落大雨的時水瀉袂出去。",
+      "tailo_pronunciation": "Tsuí-kau-á that-tiâu--leh, lo̍h tuā-hōo ê sî tsuí sià bē tshut--khì.。",
+      "chinese_translation": "水溝堵住了，下大雨時水排不出去。",
+      "source_word": "瀉",
+      "extraction_time": "2025-08-27 16:16:05",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "電影院",
+      "taiwanese_sentence": "這間電影院的設備真周全。",
+      "tailo_pronunciation": "Tsit king tiān-iánn-īnn ê siat-pī tsin tsiu-tsuân.。",
+      "chinese_translation": "這間電影院的設備很完善。",
+      "source_word": "設備",
+      "extraction_time": "2025-08-27 16:16:08",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "運動埕",
+      "taiwanese_sentence": "學校宣佈運動會欲緩期，講聽候運動埕整修好勢才來辦。",
+      "tailo_pronunciation": "Ha̍k-hāu suan-pòo ūn-tōng-huē beh uān-kî, kóng thìng-hāu ūn-tōng-tiânn tsíng-siu hó-sè tsiah lâi pān.。",
+      "chinese_translation": "學校宣布運動會要延期，說等到運動場整修完成後再舉辦。",
+      "source_word": "緩期",
+      "extraction_time": "2025-08-27 16:16:11",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "燈塔",
+      "taiwanese_sentence": "有燈塔的指引，船仔才會當平安入港。",
+      "tailo_pronunciation": "Ū ting-thah ê tsí-ín, tsûn-á tsiah ē-tàng pîng-an ji̍p káng.。",
+      "chinese_translation": "有燈塔的指引，船才能夠平安入港。",
+      "source_word": "燈塔",
+      "extraction_time": "2025-08-27 16:16:14",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "圖書館",
+      "taiwanese_sentence": "細漢的時我鬥共阿爸借來的冊提去圖書館還，阿爸就會買一塊麭予我，算講是工錢。",
+      "tailo_pronunciation": "Sè-hàn ê sî guá tàu kā a-pah tsioh--lâi ê tsheh the̍h-khì tôo-su-kuán hîng, a-pah tō ē bé tsi̍t tè pháng hōo--guá, sǹg-kóng sī kang-tsînn.。",
+      "chinese_translation": "小時候我將爸爸借來的書幫忙拿去還給圖書館，爸爸就會買一塊麵包給我，就當作是工錢。",
+      "source_word": "算講",
+      "extraction_time": "2025-08-27 16:16:22",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "地板",
+      "taiwanese_sentence": "地板推甲會照人影。",
+      "tailo_pronunciation": "Tē-pán thui kah ē tsiò lâng-iánn.。",
+      "chinese_translation": "地板擦亮到可照出人影。",
+      "source_word": "推文thui",
+      "extraction_time": "2025-08-27 16:16:24",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    }
+  ],
+  "missing_words": [
+    {
+      "word": "鐵枝仔路",
+      "reason": "無用例",
+      "index": 1
+    },
+    {
+      "word": "廁所",
+      "reason": "無用例",
+      "index": 2
+    },
+    {
+      "word": "運動場",
+      "reason": "無用例",
+      "index": 3
+    },
+    {
+      "word": "天橋",
+      "reason": "無用例",
+      "index": 10
+    },
+    {
+      "word": "超市",
+      "reason": "無用例",
+      "index": 11
+    },
+    {
+      "word": "廚房",
+      "reason": "無用例",
+      "index": 12
+    },
+    {
+      "word": "洗衫店",
+      "reason": "無用例",
+      "index": 17
+    },
+    {
+      "word": "浴室",
+      "reason": "無用例",
+      "index": 18
+    },
+    {
+      "word": "幼稚園",
+      "reason": "無用例",
+      "index": 20
+    },
+    {
+      "word": "地下室",
+      "reason": "無用例",
+      "index": 22
+    },
+    {
+      "word": "遊樂園",
+      "reason": "無用例",
+      "index": 25
+    },
+    {
+      "word": "鐵門",
+      "reason": "無用例",
+      "index": 27
+    },
+    {
+      "word": "樓上",
+      "reason": "無用例",
+      "index": 28
+    },
+    {
+      "word": "走廊",
+      "reason": "無用例",
+      "index": 30
+    },
+    {
+      "word": "窗戶",
+      "reason": "無用例",
+      "index": 34
+    },
+    {
+      "word": "故宮",
+      "reason": "無用例",
+      "index": 37
+    },
+    {
+      "word": "洗衣店",
+      "reason": "無用例",
+      "index": 38
+    },
+    {
+      "word": "樓下",
+      "reason": "無用例",
+      "index": 39
+    },
+    {
+      "word": "飯廳",
+      "reason": "無用例",
+      "index": 40
+    },
+    {
+      "word": "五金行",
+      "reason": "無用例",
+      "index": 42
+    },
+    {
+      "word": "巷子",
+      "reason": "無用例",
+      "index": 43
+    },
+    {
+      "word": "食飯廳",
+      "reason": "無用例",
+      "index": 46
+    },
+    {
+      "word": "菜市場",
+      "reason": "無用例",
+      "index": 50
+    },
+    {
+      "word": "地下道",
+      "reason": "無用例",
+      "index": 52
+    },
+    {
+      "word": "雜貨店",
+      "reason": "無用例",
+      "index": 53
+    },
+    {
+      "word": "會議室",
+      "reason": "無用例",
+      "index": 55
+    },
+    {
+      "word": "福利社",
+      "reason": "無用例",
+      "index": 57
+    },
+    {
+      "word": "書房",
+      "reason": "無用例",
+      "index": 59
+    },
+    {
+      "word": "游泳池",
+      "reason": "無用例",
+      "index": 60
+    },
+    {
+      "word": "涼亭",
+      "reason": "無用例",
+      "index": 61
+    },
+    {
+      "word": "櫃台",
+      "reason": "無用例",
+      "index": 62
+    },
+    {
+      "word": "書局",
+      "reason": "無用例",
+      "index": 63
+    },
+    {
+      "word": "銀樓",
+      "reason": "無用例",
+      "index": 67
+    },
+    {
+      "word": "體育館",
+      "reason": "無用例",
+      "index": 69
+    },
+    {
+      "word": "健康中心",
+      "reason": "無用例",
+      "index": 71
+    },
+    {
+      "word": "古厝",
+      "reason": "無用例",
+      "index": 76
+    },
+    {
+      "word": "車庫",
+      "reason": "無用例",
+      "index": 77
+    }
+  ]
+}

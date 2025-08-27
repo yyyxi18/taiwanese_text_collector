@@ -1,0 +1,197 @@
+最終版台語辭典擷取完整報告 - 醫療
+================================================================================
+🎯 操作流程：輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理
+📊 完整統計：
+   - 總計單字：37 個
+   - 成功擷取：13 個
+   - 缺失單字：24 個
+   - 成功率：35.1%
+⏰ 擷取時間：20250827_125958
+
+🌟 完整擷取（台語+台羅+中文）:
+------------------------------------------------------------
+ 1. 開刀
+    台語：醫生當咧共患者開刀，欲共窒佇伊頭殼內的血凍提出來。
+    台羅：I-sing tng-teh kā huān-tsiá khui-to, beh kā that tī i thâu-khak-lāi ê hueh-tàng the̍h--tshut-lâi.。
+    中文：醫生正在替患者動手術，要清除他腦中的血塊。
+    來源：血凍
+
+ 2. 瀉藥
+    台語：你喔！「無彼號尻川，想欲食彼號瀉藥」，行無三步就怦怦喘的人，也欲參人去𬦰山。
+    台羅：Lí--ooh! “Bô hit-lō kha-tshng, siūnn-beh tsia̍h hit-lō sià-io̍h”, kiânn bô sann pōo tō phēnn-phēnn-tshuán ê lâng, iā beh tsham lâng khì peh-suann.。
+    中文：你喔﹗「沒有那種能耐，還妄想做那種事」，走不到三步就氣喘吁吁的人，也想跟人家去爬山。
+    來源：無彼號尻川，想欲食彼號瀉藥。
+
+ 3. 急救
+    台語：醫生看伊攏直目去矣，嘛無放棄，繼續共伊急救。
+    台羅：I-sing khuànn i lóng ti̍t-ba̍k--khì--ah, mā bô hòng-khì, kè-sio̍k kā i kip-kiù.。
+    中文：醫生看他都兩眼直視，也沒放棄，繼續為他急救。
+    來源：直目
+
+ 4. 手術
+    台語：醫生當咧手術，欲共窒佇患者血管的血角清出來。
+    台羅：I-sing tng-teh tshiú-su̍t, beh kā that tī huān-tsiá hueh-kńg ê hueh-kak tshing--tshut-lâi.。
+    中文：醫生正在動手術，要清除病患血管中的血栓。
+    來源：血角
+
+ 5. 診所
+    台語：阿舅的診所拄開業，阿爸送一塊牌匾共𪜶祝賀。
+    台羅：A-kū ê tsín-sóo tú khai-gia̍p, a-pah sàng tsi̍t tè pâi-pián kā in tsiok-hō.。
+    中文：舅舅的診所剛開業，父親送了一塊牌匾慶賀他們。
+    來源：牌匾
+
+ 6. 急診
+    台語：救護車沿路掠車佮爍紅火，誠緊就共病人送去病院的急診室。
+    台羅：Kiù-hōo-tshia iân-lōo lia̍h-tshia kah sih âng-hué, tsiânn kín tō kā pēnn-lâng sàng-khì pēnn-īnn ê kip-tsín-sik.。
+    中文：救護車沿途超車和閃爍紅燈，很快就把病人送到醫院的急診室。
+    來源：掠車
+
+ 7. 神經
+    台語：喙齒若有蛀空愛緊予醫生坉起來，若無，到尾仔愛抽神經就真正是「細空毋補，大空叫苦」。
+    台羅：Tshuì-khí nā ū tsiù-khang ài kín hōo i-sing thūn--khí-lâi, nā-bô, kàu bué--á ài thiu sîn-king tō tsin-tsiànn sī “sè khang m̄ póo, tuā khang kiò-khóo”.。
+    中文：牙齒要是蛀了就要趕緊找醫生填補，要不然，到最後必須做根管治療就真的是「小洞不補，大洞叫苦」。
+    來源：細空毋補，大空叫苦。
+
+ 8. 皮膚科
+    台語：生癬愛去看皮膚科。
+    台羅：Senn sián ài khì khuànn phuê-hu-kho.。
+    中文：長癬要去看皮膚科。
+    來源：生癬
+
+ 9. 病院
+    台語：阿公送到病院的時雖然猶知人，毋過袂講話嘛袂振動，干焦恬恬看病床邊的人，真正是「目睭金金人傷重」。
+    台羅：A-kong sàng kàu pēnn-īnn ê sî sui-jiân iáu tsai lâng, m̄-koh bē kóng-uē mā bē tín-tāng, kan-na tiām-tiām khuànn pēnn-tshn̂g-pinn ê lâng, tsin-tsiànn sī “ba̍k-tsiu kim-kim lâng siong-tiōng”.。
+    中文：爺爺送到醫院的時候雖然還有知覺，不過無法講話也無法移動，只靜靜的看著病床邊的人，真的是「眼睛睜大，病情嚴重」。
+    來源：目睭金金人傷重。
+
+10. 藥局
+    台語：路口彼間藥局生理真好。
+    台羅：Lōo-kháu hit king io̍h-kio̍k sing-lí tsin hó.。
+    中文：路口那間藥房的生意很好。
+
+11. 電光
+    台語：伊跋倒，雖然人無按怎，醫生講猶是照電光確定骨頭無含梢較好。
+    台羅：I pua̍h-tó, sui-jiân lâng bô án-tsuánn, i-sing kóng iáu-sī tsiò-tiān-kong khak-tīng kut-thâu bô hâm-sau khah hó.。
+    中文：他跌倒了，雖然覺得沒怎樣，醫生說還是照X光確定骨骼沒裂痕比較好。
+    來源：照電光
+
+12. 抗生素
+    台語：食抗生素治療細菌感染，的確著按時服藥，好原全才會使停藥。
+    台羅：Tsia̍h khòng-sing-sòo tī-liâu sè-khún kám-jiám, tik-khak tio̍h àn-sî ho̍k-io̍h, hó guân-tsuân tsiah ē-sái thîng io̍h.。
+    中文：服用抗生素來治療細菌感染，務必得按時吃藥，痊癒後才可以停藥。
+    來源：服藥
+
+13. 病房
+    台語：伊病甲真傷重，這馬猶蹛佇加護病房。
+    台羅：I pēnn kah tsin siong-tiōng, tsit-má iáu tuà tī ka-hōo pēnn-pâng.。
+    中文：他病得很嚴重，現在還住在加護病房。
+    來源：傷重
+
+1. 救命
+	•	台語：阿明跌落溪裡，大聲呼叫救命。
+	•	台羅：A-bîng pua̍h-lo̍h khe–lí, tuā-siann hoo-kiò kiù-miā.
+	•	中文：阿明掉到溪裡，大聲呼喊救命。
+
+2. 健保
+	•	台語：咱有健保，看病愛繳費，毋過比無健保省濟。
+	•	台羅：Lán ū kiān-pó, khuànn-pēnn ài kiáu-huè, m̄-koh pí bô kiān-pó síng-tsē.
+	•	中文：我們有健保，看病需要付費，但比起沒有健保省很多。
+
+3. 衛生所
+	•	台語：欲注射疫苗，會使去厝邊的衛生所掛號。
+	•	台羅：Beh tsù-siā io̍k-biâu, ē-sái khì tshù-pinn ê uē-sing-sóo kuà-hō.
+	•	中文：要打疫苗，可以去附近的衛生所掛號。
+
+4. 掛號
+	•	台語：阮阿母上網替阿公掛號看醫生。
+	•	台羅：Guán a-bú siōng-bāng thè a-kong kuà-hō khuànn i-sing.
+	•	中文：我媽媽上網替爺爺掛號看醫生。
+
+5. 西藥房
+	•	台語：頭家娘仔開一間西藥房，專門賣成藥。
+	•	台羅：Thâu-ke-niû-á khui tsi̍t king se-io̍h-pâng, tsuan-bûn bē sîng-io̍h.
+	•	中文：老闆娘開了一間西藥房，專門賣成藥。
+
+6. 漢藥房
+	•	台語：阿伯習慣去漢藥房抓藥，講較合伊的身體。
+	•	台羅：A-peh si̍p-kuān khì hàn-io̍h-pâng jua̍h-io̍h, kóng khah ha̍p i ê sin-thé.
+	•	中文：伯父習慣去中藥房抓藥，說比較適合他的身體。
+
+7. 國術館
+	•	台語：彼時陣真濟人去國術館學跌打損傷的療法。
+	•	台羅：Hit sî-tsūn tsin tsē lâng khì kok-su̍t-kuán o̍h tuah-tán sńg-siong ê liâu-huat.
+	•	中文：那個時代很多人去國術館學習跌打損傷的治療方法。
+
+8. 中藥
+	•	台語：這味中藥真苦，毋過對治感冒真有用。
+	•	台羅：Tsit bī tiong-io̍h tsin khóo, m̄-koh tuì tī kám-mōo tsin ū-iōng.
+	•	中文：這帖中藥很苦，不過對治感冒很有效。
+
+9. 外科
+	•	台語：伊受傷真重，醫生安排去外科治療。
+	•	台羅：I siū-siong tsin tiōng, i-sing an-pai khì guā-kho tī-liâu.
+	•	中文：他受傷很嚴重，醫生安排去外科治療。
+
+10. 內科
+	•	台語：若感冒發燒，攏會掛號內科。
+	•	台羅：Nā kám-mōo hoat-sio, lóng ē kuà-hō lāi-kho.
+	•	中文：如果感冒發燒，通常會掛號內科。
+
+11. 骨科
+	•	台語：阿明踅跤斷骨，送去骨科治療。
+	•	台羅：A-bîng se̍h-kha tn̄g-kut, sàng khì kut-kho tī-liâu.
+	•	中文：阿明摔斷腿骨，被送去骨科治療。
+
+12. 眼科
+	•	台語：囡仔若目睭歹看，爸母攏會帶去眼科檢查。
+	•	台羅：Gín-á nā ba̍k-tsiu pháinn-khuànn, pē-bú lóng ē tuā khì gán-kho kiám-tsa.
+	•	中文：小孩如果視力不好，父母都會帶去眼科檢查。
+
+13. 齒科
+	•	台語：齒科醫生建議阮阿母欲做假齒。
+	•	台羅：Khí-kho i-sing kiàn-gī guán a-bú beh tsò ké-khí.
+	•	中文：牙科醫生建議我媽媽要做假牙。
+
+14. 小兒科
+	•	台語：囡仔發高燒，阿爸緊送去小兒科看。
+	•	台羅：Gín-á hoat ko-sio, a-pah kín sàng khì sió-jî-kho khuànn.
+	•	中文：小孩發高燒，爸爸趕緊送去小兒科看診。
+
+15. 婦產科
+	•	台語：阿珠欲生囡仔，就掛號婦產科。
+	•	台羅：A-tsu beh senn gín-á, tō kuà-hō hū-sán-kho.
+	•	中文：阿珠要生小孩，就去掛號婦產科。
+
+16. 精神科
+	•	台語：若心情長期鬱卒，嘛會使去精神科求助。
+	•	台羅：Nā sim-tsîng tn̂g-kî ut-tsut, mā ē-sái khì tsing-sîn-kho kiû-tsōo.
+	•	中文：如果長期心情憂鬱，也可以去精神科求助。
+
+17. 復健
+	•	台語：阿公跌跤斷骨，醫生交代愛認真做復健，才會行甲較好。
+	•	台羅：A-kong tuah-kha tn̄g-kut, i-sing kau-tài ài jīn-tsin tsò ho̍k-kiān, tsiah ē kiânn kah khah hó.
+	•	中文：阿公摔斷腿骨，醫生交代要認真做復健，才能走得比較好。
+
+18. 致癌
+	•	台語：專家警告講，抽菸會致癌。
+	•	台羅：Tsuan-ka kíng-kò kóng, thiu-iān ē tì-gâm.
+	•	中文：專家警告說，抽菸會致癌。
+
+19. 超音波
+	•	台語：醫生用超音波檢查伊腹肚內的狀況。
+	•	台羅：I-sing iōng tshiau-im-pho kiám-tsa i pak-tóo-lāi ê tsōng-huāng.
+	•	中文：醫生用超音波檢查他肚子裡的狀況。
+
+❌ 缺失單字報告:
+============================================================
+以下 24 個單字沒有找到可用的例句：
+
+📋 無用例 (24個):
+   婦產科     致癌      小兒科     精神科     救命      健保      超音波     西藥房     漢藥房     中藥局     
+   外科      X光      牙科      復健      眼科      內科      西藥局     齒科      掛號      骨科      
+   國術館     中藥      衛生所     醫院      
+
+💡 建議：
+   1. 這些單字可能在教育部辭典中沒有用例
+   2. 可以嘗試其他台語辭典或資源
+   3. 或者手動查詢相關的同義詞

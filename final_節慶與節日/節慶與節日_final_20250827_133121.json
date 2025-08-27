@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "scraper_type": "最終版手動操作風格爬蟲",
+    "operation_flow": "輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理",
+    "source_url": "https://sutian.moe.edu.tw/zh-hant/tshiau/",
+    "extraction_date": "20250827_133121",
+    "statistics": {
+      "total_words": 21,
+      "successful_extractions": 10,
+      "missing_words": 11,
+      "success_rate": "47.6%",
+      "quality_stats": {
+        "完整": 10,
+        "良好": 0,
+        "基本": 0,
+        "不完整": 0
+      }
+    }
+  },
+  "successful_records": [
+    {
+      "word": "元宵",
+      "taiwanese_sentence": "鹽水的蜂仔炮全國有名，佇元宵暝，逐家攏放蜂仔炮敬神，毋過人講「神明興，弟子窮」，𪜶逐口灶逐年攏著開幾萬箍放蜂仔炮。",
+      "tailo_pronunciation": "Kiâm-tsuí ê phang-á-phàu tsuân-kok ū-miâ, tī Guân-siau-mê, ta̍k-ke lóng pàng-phang-á-phàu kìng-sîn, m̄-koh lâng kóng “sîn-bîng hing, tē-tsú kîng”, in ta̍k kháu-tsàu ta̍k-nî lóng tio̍h khai kuí-bān khoo pàng-phang-á-phàu.。",
+      "chinese_translation": "鹽水鎮的蜂炮全國有名，在元宵節這晚，每家都放蜂炮敬神，不過有句話說「敬神耗財」，他們每家每年都得花幾萬元放蜂炮。",
+      "source_word": "神明興，弟子窮。",
+      "extraction_time": "2025-08-27 13:30:25",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "過年",
+      "taiwanese_sentence": "俗語講：「清明無轉厝，無祖；過年無轉厝，無某。」就算你這陣佇外位稅的厝離爸母的厝不止仔遠，過年過節嘛愛轉去。",
+      "tailo_pronunciation": "Sio̍k-gí kóng, “Tshing-bîng bô tńg tshù, bô tsóo; kuè-nî bô tńg tshù, bô bóo.” Tō-sǹg lí tsit-tsūn tī guā-uī suè ê tshù lī pē-bú ê tshù put-tsí-á hn̄g, kuè-nî-kuè-tseh mā ài tńg--khì.。」就算你現在在外頭租的屋子離父母家很遠，逢年過節都得回去。",
+      "chinese_translation": "俗諺說：「清明節不回家祭祖掃墓，會背負背祖忘本之名；而過年不回家的出外人，可能是無家庭觀念或是沒妻小的人。」就算你現在在外頭租的屋子離父母家很遠，逢年過節都得回去。",
+      "source_word": "清明無轉厝，無祖；過年無轉厝，無某。",
+      "extraction_time": "2025-08-27 13:30:31",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "元宵節",
+      "taiwanese_sentence": "元宵節的時，南北二路的人攏來看「臺灣燈會」。",
+      "tailo_pronunciation": "Guân-siau-tseh ê sî, lâm-pak-jī-lōo ê lâng lóng lâi khuànn “Tâi-uân ting-huē”.。",
+      "chinese_translation": "元宵節的時候，全臺各地的人都來看「臺灣燈會」。",
+      "source_word": "南北二路",
+      "extraction_time": "2025-08-27 13:30:45",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "清明",
+      "taiwanese_sentence": "俗語講：「清明無轉厝，無祖；過年無轉厝，無某。」就算你這陣佇外位稅的厝離爸母的厝不止仔遠，過年過節嘛愛轉去。",
+      "tailo_pronunciation": "Sio̍k-gí kóng, “Tshing-bîng bô tńg tshù, bô tsóo; kuè-nî bô tńg tshù, bô bóo.” Tō-sǹg lí tsit-tsūn tī guā-uī suè ê tshù lī pē-bú ê tshù put-tsí-á hn̄g, kuè-nî-kuè-tseh mā ài tńg--khì.。」就算你現在在外頭租的屋子離父母家很遠，逢年過節都得回去。",
+      "chinese_translation": "俗諺說：「清明節不回家祭祖掃墓，會背負背祖忘本之名；而過年不回家的出外人，可能是無家庭觀念或是沒妻小的人。」就算你現在在外頭租的屋子離父母家很遠，逢年過節都得回去。",
+      "source_word": "清明無轉厝，無祖；過年無轉厝，無某。",
+      "extraction_time": "2025-08-27 13:30:48",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "冬節",
+      "taiwanese_sentence": "照咱人的例，冬節愛挲圓仔。",
+      "tailo_pronunciation": "Tsiàu lán-lâng ê lē, tang-tseh ài so înn-á.。",
+      "chinese_translation": "照臺灣人的風俗，冬至要搓湯圓。",
+      "source_word": "例",
+      "extraction_time": "2025-08-27 13:30:56",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "五月節",
+      "taiwanese_sentence": "照咱的例，囡仔佇五月節的時愛挂香芳。",
+      "tailo_pronunciation": "Tsiàu lán ê lē, gín-á tī Gōo-gue̍h-tseh ê sî ài kuì hiunn-phang.。",
+      "chinese_translation": "依照我們的習俗，小孩子在端午節時要戴香包。",
+      "source_word": "香芳",
+      "extraction_time": "2025-08-27 13:31:01",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "年兜",
+      "taiwanese_sentence": "年兜逐家咧攢欲過年攏真無閒。",
+      "tailo_pronunciation": "Nî-tau ta̍k-ke teh tshuân beh kuè-nî lóng tsin bô-îng.。",
+      "chinese_translation": "年底大家要準備過年都會非常忙。",
+      "source_word": "年兜",
+      "extraction_time": "2025-08-27 13:31:07",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "普渡",
+      "taiwanese_sentence": "普渡的時，司公道士唸的咒語無幾个人捌，民間定定供體𪜶是「毛呼龜粿粽，紅包在你送」。",
+      "tailo_pronunciation": "Phóo-tōo ê sî, sai-kong tō-sū liām ê tsiù-gí bô kuí ê lâng bat, bîn-kan tiānn-tiānn king-thé in sī “môo-honn ku kué tsàng, âng-pau tsāi lí sàng”.。",
+      "chinese_translation": "普渡的時候，道士們唸的咒語沒有幾個人知道，民間常常嘲諷他們是「看著祭品隨口亂誦經，心中只有紅包」。",
+      "source_word": "毛呼龜粿粽，紅包在你送。",
+      "extraction_time": "2025-08-27 13:31:16",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "正月",
+      "taiwanese_sentence": "逐冬正月初二阮細姑仔攏會轉來做客。",
+      "tailo_pronunciation": "Ta̍k tang tsiann-gue̍h tshe-jī guán sè-koo-á lóng ē tńg-lâi tsò-kheh.。",
+      "chinese_translation": "每年正月初二小姑都會回娘家來。",
+      "source_word": "細姑仔",
+      "extraction_time": "2025-08-27 13:31:19",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "七月半",
+      "taiwanese_sentence": "時機無好，逐家攏驚會去予人刣頭，毋敢請假，總是嘛有人「七月半鴨仔，毋知死活」，閣敢請假請半個月去國外𨑨迌。",
+      "tailo_pronunciation": "Sî-ki bô hó, ta̍k-ke lóng kiann ē khì hōo lâng thâi-thâu, m̄ kánn tshíng-ká, tsóng--sī mā ū lâng “tshit-gue̍h-puànn ah-á, m̄ tsai sí-ua̍h”, koh kánn tshíng-ká tshíng puànn kò gue̍h khì kok-guā tshit-thô.。",
+      "chinese_translation": "景氣不好，大家都怕被裁員，不敢請假，不過也有人像是「七月半的鴨子，不知死活」，還敢請假半個月去國外旅遊。",
+      "source_word": "七月半鴨仔，毋知死活。",
+      "extraction_time": "2025-08-27 13:31:21",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    }
+  ],
+  "missing_words": [
+    {
+      "word": "中秋節",
+      "reason": "無用例",
+      "index": 2
+    },
+    {
+      "word": "清明節",
+      "reason": "無用例",
+      "index": 4
+    },
+    {
+      "word": "端午節",
+      "reason": "無用例",
+      "index": 5
+    },
+    {
+      "word": "農曆七月十五日、中元節",
+      "reason": "無用例",
+      "index": 6
+    },
+    {
+      "word": "重陽節",
+      "reason": "無用例",
+      "index": 7
+    },
+    {
+      "word": "中秋",
+      "reason": "無用例",
+      "index": 10
+    },
+    {
+      "word": "年尾、年跟腳",
+      "reason": "無用例",
+      "index": 11
+    },
+    {
+      "word": "冬至",
+      "reason": "無用例",
+      "index": 13
+    },
+    {
+      "word": "農曆一月",
+      "reason": "無用例",
+      "index": 15
+    },
+    {
+      "word": "重陽",
+      "reason": "無用例",
+      "index": 17
+    },
+    {
+      "word": "聖誕節",
+      "reason": "無用例",
+      "index": 18
+    }
+  ]
+}

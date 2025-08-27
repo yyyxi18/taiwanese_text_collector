@@ -1,0 +1,213 @@
+最終版台語辭典擷取完整報告 - 自然現象與天氣
+================================================================================
+🎯 操作流程：輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理
+📊 完整統計：
+   - 總計單字：50 個
+   - 成功擷取：25 個
+   - 缺失單字：25 個
+   - 成功率：50.0%
+⏰ 擷取時間：20250827_135308
+
+🌟 完整擷取（台語+台羅+中文）:
+------------------------------------------------------------
+ 1. 落雪
+    台語：從到今我攏毋捌看過天頂落雪。
+    台羅：Tsîng-kàu-tann guá lóng m̄ bat khuànn-kuè thinn-tíng lo̍h-seh.。
+    中文：我從來沒看過下雪。
+    來源：從到今
+
+ 2. 大海
+    台語：佇大海浮沉
+    台羅：tī tuā-hái phû-tîm
+    中文：在大海中隨波逐流
+    來源：浮沉
+
+ 3. 烏暗
+    台語：我做工課做甲烏暗眩，足艱苦的。
+    台羅：Guá tsò khang-khuè tsò kah oo-àm-hîn, tsiok kan-khóo--ê.。
+    中文：我工作做到眼前發黑，很不舒服。
+    來源：烏暗眩
+
+ 4. 陰天
+    台語：今仔日烏陰天，你上好紮雨傘出門較穩當。
+    台羅：Kin-á-ji̍t oo-im-thinn, lí siōng-hó tsah hōo-suànn tshut-mn̂g khah ún-tàng.。
+    中文：今天陰天，你最好帶雨傘出門比較妥當。
+    來源：穩當
+
+ 5. 透風
+    台語：透風的時，佇海邊會當看著海湧搧佇礁石頂面的海波。
+    台羅：Thàu-hong ê sî, tī hái-pinn ē-tàng khuànn-tio̍h hái-íng siàn tī ta-tsio̍h tíng-bīn ê hái-pho.。
+    中文：颳風的時候，在海邊可以看到海浪打在礁石上面的浪花。
+    來源：海波
+
+ 6. 月娘
+    台語：你講手指月娘會予月娘割耳仔，彼是欲騙囡仔的，我予你袂食聲得。
+    台羅：Lí kóng tshiú kí gue̍h-niû ē hōo gue̍h-niû kuah hīnn-á, he sī beh phiàn gín-á--ê, guá hōo lí bē-tsia̍h-siann--tit.。
+    中文：你說手指月亮會被月亮割耳朵，那是要騙小孩的，你別想騙我。
+    來源：食聲
+
+ 7. 海湧
+    台語：透風的時，佇海邊會當看著海湧搧佇礁石頂面的海波。
+    台羅：Thàu-hong ê sî, tī hái-pinn ē-tàng khuànn-tio̍h hái-íng siàn tī ta-tsio̍h tíng-bīn ê hái-pho.。
+    中文：颳風的時候，在海邊可以看到海浪打在礁石上面的浪花。
+    來源：海波
+
+ 8. 石頭
+    台語：志勇駛遊覽車到今十外冬矣，攏毋捌發生事故，想袂到昨昏煞予山頂落落來的石頭硩一下誠傷重，莫怪有人講「行船走馬三分命」，真正攏袂按得。
+    台羅：Tsì-ióng sái iû-lám-tshia kàu-tann tsa̍p-guā tang--ah, lóng m̄ bat huat-sing sū-kòo, siūnn-bē-kàu tsa-hng suah hōo suann-tíng lak--lo̍h-lâi ê tsio̍h-thâu teh tsi̍t-ē tsiânn siong-tiōng, bo̍k-kuài ū lâng kóng “kiânn-tsûn tsáu-bé sann hun miā”, tsin-tsiànn lóng bē-àn--tit.。
+    中文：志勇開遊覽車開了十多年，都不曾沒發生過事故，想不到昨天竟然被山上砸下來的石頭打到重傷，難怪人家說「航海走馬三分命」真是讓人無法預料。
+    來源：行船走馬三分命。
+
+ 9. 落雨
+    台語：賣雨幔的煩惱攏好天，無人欲共買；做麵的煩惱一直落雨，麵會曝袂焦，真正是「一人煩惱一樣，無人煩惱親像」。
+    台羅：Bē hōo-mua--ê huân-ló lóng hó-thinn, bô lâng beh kā bé; tsò mī--ê huân-ló it-ti̍t lo̍h-hōo, mī ē pha̍k bē ta, tsin-tsiànn sī “tsi̍t lâng huân-ló tsi̍t iūnn, bô lâng huân-ló tshin-tshiūnn”.。
+    中文：賣雨衣的煩惱一直都是好天氣，雨衣賣不出去；製麵條的擔心一直下雨，麵條曬不乾，真是「每個人都有各自煩心的事」。
+    來源：一人煩惱一樣，無人煩惱親像。
+
+10. 西北雨
+    台語：雖然講「西北雨，落袂過車路」，天會烏無一定會落，作田人嘛愛趕緊收草、收粟、收衫，號做「走西北雨」。
+    台羅：Sui-jiân kóng “sai-pak-hōo, lo̍h bē kuè tshia-lōo”, thinn ē oo bô-it-tīng ē lo̍h, tsoh-tshân-lâng mā ài kuánn-kín siu tsháu, siu tshik, siu sann, hō-tsò “tsáu sai-pak-hōo”.。
+    中文：雖說「西北雨，下不過馬路」，天黑不一定會下雨，農夫也得趕緊收稻草、收穀子、收衣服，叫做「跑西北雨」。
+    來源：西北雨，落袂過車路。
+
+11. 風颱
+    台語：阿榮頭一改贌園種弓蕉隨搪著風颱，了甲叫毋敢。佳哉尾仔換去夜市做油湯，拄著時機好，才予伊趁甲油洗洗，有影是「人飼人，一支骨；天飼人，肥朒朒」，真正予人袂𠢕得。
+    台羅：A-îng thâu tsi̍t kái pa̍k-hn̂g tsìng king-tsio suî tn̄g-tio̍h hong-thai, liáu kah kiò-m̄-kánn. Ka-tsài bué--á uānn-khì iā-tshī tsò iû-thng, tú-tio̍h sî-ki hó, tsiah hōo i thàn kah iû-sé-sé, ū-iánn sī “lâng tshī lâng, tsi̍t ki kut; thinn tshī lâng, puî-tsut-tsut”, tsin-tsiànn hōo lâng bē-gâu--tit.。幸虧後來換跑道去夜市擺麵攤，遇到景氣好，才讓讓他賺得油水多多，真正是「只靠人，瘦巴巴；天幫助，笑哈哈」，人真的不能自以為了得。
+    中文：阿榮第一次租田園種香蕉就碰上颱風，賠的叫苦連天。幸虧後來換跑道去夜市擺麵攤，遇到景氣好，才讓讓他賺得油水多多，真正是「只靠人，瘦巴巴；天幫助，笑哈哈」，人真的不能自以為了得。
+    來源：人飼人，一支骨；天飼人，肥朒朒。
+
+12. 露水
+    台語：二姊欲嫁的前一暗，阿母共二姊交代講：「花食露水，人食喙水，做人的新婦拄著人著愛好喙佮人相借問，才會得人疼」。
+    台羅：Jī-tsé beh kè ê tsîng tsi̍t àm, a-bú kā jī-tsé kau-tài kóng, “Hue tsia̍h lōo-tsuí, lâng tsia̍h tshuì-suí, tsò lâng ê sin-pū tú-tio̍h lâng tio̍h-ài hó-tshuì kah lâng sio-tsioh-mn̄g, tsiah ē tit-lâng-thiànn”.。
+    中文：二姊要結婚的前一晚，媽媽交代二姊說：「花需要露水，人需要口才，當人家的媳婦碰到人要懂得跟人噓寒問暖，才能得到長輩疼愛」。
+    來源：花食露水，人食喙水。
+
+13. 鳥仔岫
+    台語：鳥仔欲生湠後代才會作鳥仔岫。
+    台羅：Tsiáu-á beh senn-thuànn āu-tāi tsiah ē tsoh tsiáu-á-siū.。
+    中文：鳥要繁衍後代才會築鳥巢。
+
+14. 空氣
+    台語：拚經濟愛用電，毋過燃塗炭汙染空氣，核能發電無安全，綠能成本傷懸，實在是「放屎也疼，放尿也疼」。
+    台羅：Piànn king-tsè ài iōng tiān, m̄-koh hiânn thôo-thuànn u-jiám khong-khì, hi̍k-lîng huat-tiān bô an-tsuân, li̍k-lîng sîng-pún siunn kuân, si̍t-tsāi sī “pàng-sái iā thiànn, pàng-jiō iā thiànn”.。
+    中文：拚經濟要用電，不過燃燒煤炭會導致空氣汙染，核能發電不安全，綠能成本太高，實在是「很難左右逢源」。
+    來源：放屎也疼，放尿也疼。
+
+15. 好天
+    台語：賣雨幔的煩惱攏好天，無人欲共買；做麵的煩惱一直落雨，麵會曝袂焦，真正是「一人煩惱一樣，無人煩惱親像」。
+    台羅：Bē hōo-mua--ê huân-ló lóng hó-thinn, bô lâng beh kā bé; tsò mī--ê huân-ló it-ti̍t lo̍h-hōo, mī ē pha̍k bē ta, tsin-tsiànn sī “tsi̍t lâng huân-ló tsi̍t iūnn, bô lâng huân-ló tshin-tshiūnn”.。
+    中文：賣雨衣的煩惱一直都是好天氣，雨衣賣不出去；製麵條的擔心一直下雨，麵條曬不乾，真是「每個人都有各自煩心的事」。
+    來源：一人煩惱一樣，無人煩惱親像。
+
+16. 海水
+    台語：風颱天海水倒激的時會做大水。
+    台羅：Hong-thai-thinn hái-tsuí tò-kik ê sî ē tsò-tuā-tsuí.。
+    中文：颱風天海水倒灌的時候會發生水災。
+    來源：海水倒激
+
+17. 海邊
+    台語：你定定愛家己一个走去無救生員的海邊泅水，緊縒慢會出代誌。
+    台羅：Lí tiānn-tiānn ài ka-kī tsi̍t ê tsáu-khì bô kiù-sing-uân ê hái-pinn siû-tsuí, kín-tsua̍h-bān ē tshut-tāi-tsì.。
+    中文：你老是喜歡自己一個人跑去沒有救生員的海邊游泳，早晚會出事。
+    來源：緊縒慢
+
+18. 日頭
+    台語：因為「西北雨，落袂過車路」，有時天頂一爿咧落雨，另外一爿顛倒咧出日頭，有人共伊叫做「日頭雨」。
+    台羅：In-uī “sai-pak-hōo, lo̍h bē kuè tshia-lōo”, ū-sî thinn-tíng tsi̍t pîng teh lo̍h-hōo, līng-guā tsi̍t pîng tian-tò teh tshut-ji̍t-thâu, ū lâng kā i kiò-tsò “ji̍t-thâu-hōo”.。
+    中文：因為「西北雨，下不過馬路」，有時候一邊在下雨，另外一邊反而出太陽，有人將它稱作「太陽雨」。
+    來源：西北雨，落袂過車路。
+
+19. 霆雷公
+    台語：落西北雨的時定定會霆雷公。
+    台羅：Lo̍h sai-pak-hōo ê sî tiānn-tiānn ē tân-luî-kong.。
+    中文：下午後雷陣雨時常常會打雷。
+
+20. 地動
+    台語：人講：「千算萬算，毋值天一劃。」閣較大間的厝，若拄著七級的大地動，嘛是喝倒就倒，一點仔都袂按算得。
+    台羅：Lâng kóng, “Tshian sǹg bān sǹg, m̄-ta̍t thinn tsi̍t ue̍h.” Koh-khah tuā king ê tshù, nā tú-tio̍h tshit kip ê tuā tē-tāng, mā sī huah tó tō tó, tsi̍t-tiám-á to bē-àn-sǹg--tit.。」再大的房子，一遇到七級強震，仍然經不起侵襲而倒塌，完全無法防範。
+    中文：人們說：「人算不如天算。」再大的房子，一遇到七級強震，仍然經不起侵襲而倒塌，完全無法防範。
+    來源：千算萬算，毋值天一劃。
+
+21. 大雨
+    台語：透早有出日，毋過阿義顛倒講會變天，千拄千下晡一點真正摔大雨。
+    台羅：Thàu-tsá ū tshut-ji̍t, m̄-koh A-gī tian-tò kóng ē piàn-thinn, tshian-tú-tshian ē-poo tsi̍t tiám tsin-tsiànn siàng-tuā-hōo.。
+    中文：早上出太陽，但是阿義卻說天氣會轉壞，果然到下午一點就下起豪雨來。
+    來源：千拄千
+
+22. 海邊仔
+    台語：阮規家伙仔不時趁歇睏日去海邊仔抾糞埽，做環保志工。
+    台羅：Guán kui-ke-hué-á put-sî thàn hioh-khùn-ji̍t khì hái-pinn-á khioh pùn-sò, tsò khuân-pó tsì-kang.。
+    中文：我們全家人時常趁著假日去海邊撿垃圾，做環保志工。
+    來源：規家伙仔
+
+23. 爍爁
+    台語：雷公爍爁直直來。
+    台羅：Luî-kong sih-nah ti̍t-ti̍t lâi.。
+    中文：雷電交加。
+
+24. 烏陰天
+    台語：今仔日烏陰天，你上好紮雨傘出門較穩當。
+    台羅：Kin-á-ji̍t oo-im-thinn, lí siōng-hó tsah hōo-suànn tshut-mn̂g khah ún-tàng.。
+    中文：今天陰天，你最好帶雨傘出門比較妥當。
+    來源：穩當
+
+1. 天星
+	•	台語：暗時天星閃爍爍，予人看了心情誠好。
+	•	台羅：Àm-sî thinn-tshenn siám-sih-sih, hōo lâng khuànn liáu sim-tsîng tsiânn hó.
+	•	中文：晚上星星閃閃發亮，讓人看了心情很好。
+
+2. 烏雲
+	•	台語：烏雲密密層，遮蓋日頭，無偌久就落雨矣。
+	•	台羅：oo-hûn bi̍t-bi̍t-tsân, tia-khòe ji̍t-thâu, bô guā-kú tō lo̍h-hōo–ah.
+	•	中文：烏雲層層密布，遮住了太陽，不久就下雨了。
+
+3. 夕陽
+	•	台語：海邊的夕陽落下去，天頂攏變做金黃色。
+	•	台羅：Hái-pinn ê si̍k-iông lo̍h–khì, thinn-tíng lóng piàn-tsò kim-n̂g-sik.
+	•	中文：海邊的夕陽落下去，天空都變成金黃色。
+
+4. 光線
+	•	台語：日頭光線照入窗仔內，囡仔才閣緊醒過來。
+	•	台羅：Ji̍t-thâu kng-suànn tsiò ji̍p thang-á-lāi, gín-á tsiah koh kín tshíng kuè-lâi.
+	•	中文：陽光的光線照進窗戶裡，小孩才趕緊醒來。
+
+5. 出虹
+	•	台語：雨才閣停，天頂就現出虹，真媠。
+	•	台羅：Hōo tsiah koh thîng, thinn-tíng tō hiān tshut-khīng, tsin suí.
+	•	中文：雨剛停，天空就出現彩虹，很美。
+
+6. 雨霎仔
+	•	台語：才閣一陣雨霎仔過去，地面攏溼答答。
+	•	台羅：Tsiah koh tsi̍t tsūn hōo-sap-á kuè–khì, tē-bīn lóng sip-tah-tah.
+	•	中文：剛剛一陣陣驟雨過去，地面全都濕答答的。
+
+
+7. 罩雺霧　tà-bông-bū
+	•	台語：清早山頂罩雺霧，視線霧霧矇矇，行路真危險。
+	•	台羅：Tshing-tsá suann-tíng tàu bông-bū, sī-siān bū-bū-bông-bông, kiânn-lōo tsin guî-hiám.
+	•	中文：清早山上籠罩著濃霧，視線模糊不清，走路很危險。
+
+8. 春夏秋冬
+	•	台語：台灣四季分明，春夏秋冬攏有家己的特色。
+	•	台羅：Tâi-uân sì-kuì hun-bîng, tshun-hā-tshiu-tang lóng ū ka-kī ê the̍k-sik.
+	•	中文：台灣四季分明，春夏秋冬都有自己的特色。
+
+📝 良好擷取:
+------------------------------------------------------------
+ 1. 天星
+    台語：閃爍的天星
+    台羅：siám-sih ê thinn-tshenn
+
+❌ 缺失單字報告:
+============================================================
+以下 25 個單字沒有找到可用的例句：
+
+📋 無用例 (25個):
+   好天氣     地震      烏雲      鳥巢      打雷      春夏秋冬    熱雷雨、雷陣雨 雨霎仔     出現彩虹    細雨、小雨   
+   星星      閃電      海浪      夕陽      月亮      太陽      颳風      光線      起霧      黑暗      
+   颱風      罩雺霧     下雪      出虹      下雨      
+
+💡 建議：
+   1. 這些單字可能在教育部辭典中沒有用例
+   2. 可以嘗試其他台語辭典或資源
+   3. 或者手動查詢相關的同義詞

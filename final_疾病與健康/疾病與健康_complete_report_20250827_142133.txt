@@ -1,0 +1,264 @@
+最終版台語辭典擷取完整報告 - 疾病與健康
+================================================================================
+🎯 操作流程：輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理
+📊 完整統計：
+   - 總計單字：65 個
+   - 成功擷取：36 個
+   - 缺失單字：29 個
+   - 成功率：55.4%
+⏰ 擷取時間：20250827_142133
+
+🌟 完整擷取（台語+台羅+中文）:
+------------------------------------------------------------
+ 1. 傷風
+    台語：人生的路途起起落落，俗語講：「花無百日紅，人無千日好。」咱人好空的時毋通傷風神，歹空的時嘛莫餒志，按呢才是健康的生活態度。
+    台羅：Jîn-sing ê lōo-tôo khí-khí-lo̍h-lo̍h, sio̍k-gí kóng, “Hue bô pah ji̍t âng, lâng bô tshian ji̍t hó.” Lán-lâng hó-khang ê sî m̄-thang siunn hong-sîn, pháinn-khang ê sî mā mài lué-tsì, án-ne tsiah-sī kiān-khong ê sing-ua̍h thāi-tōo.。」我們處順境時不要太得意，處逆境時也不要氣餒，這樣才是健康的生活態度。
+    中文：人生之路總是起起伏伏，俗話說：「花無百日紅，人無千日好。」我們處順境時不要太得意，處逆境時也不要氣餒，這樣才是健康的生活態度。
+    來源：花無百日紅，人無千日好。
+
+ 2. 病毒
+    台語：流感的病毒會綴瀾鬚穢人，毋才講感著的人愛掛喙罨。
+    台羅：Liû-kám ê pēnn-to̍k ē tuè nuā-tshiu uè--lâng, m̄-tsiah kóng kám--tio̍h ê lâng ài kuà tshuì-am.。
+    中文：流感的病毒會隨著飛沫傳染給別人，才會建議染病的人要戴口罩。
+    來源：瀾鬚
+
+ 3. 養生
+    台語：這馬的人注重養生，所以真濟人食素，四界攏有賣素料的店頭。
+    台羅：Tsit-má ê lâng tsù-tiōng ióng-sing, sóo-í tsin tsē lâng tsia̍h-sòo, sì-kè lóng ū bē sòo-liāu ê tiàm-thâu.。
+    中文：現代人重視養生，所以很多人吃素，到處都有賣素料的商店。
+    來源：素料
+
+ 4. 減肥
+    台語：有人講躡跤尾行路會減肥呢。
+    台羅：Ū lâng kóng neh-kha-bué kiânn-lōo ē kiám-puî--neh.。
+    中文：有人說踮著腳尖走路可以減肥。
+    來源：躡跤尾
+
+ 5. 藥仔
+    台語：你定定頭疼，著愛緊去予先生看，對根頭落手，毋通一直食止疼藥仔。
+    台羅：Lí tiānn-tiānn thâu-thiànn, tio̍h-ài kín khì hōo sian-sinn khuànn, uì kin-thâu lo̍h-tshiú, m̄-thang it-ti̍t tsia̍h tsí-thiànn-io̍h-á.。
+    中文：你時常頭痛，要去看醫生，從源頭下手，不可一直吃止痛藥。
+    來源：根頭
+
+ 6. 靠著
+    台語：我𬦰樓梯無細膩，靠著跤胴，疼甲欲死！
+    台羅：Guá peh lâu-thui bô-sè-jī, khò-tio̍h kha-tâng, thiànn kah beh-sí
+    中文：我爬樓梯不小心，撞到腳脛，痛得要死！
+    來源：跤胴
+
+ 7. 烏青
+    台語：伊跋倒挵一下跤腿煞烏青。
+    台羅：I pua̍h-tó lòng tsi̍t-ē kha-thuí suah oo-tshenn.。
+    中文：他跌倒腳撞了一下瘀青了。
+
+ 8. 摔倒
+    台語：伊昨昏無細膩佇便所摔倒。
+    台羅：I tsa-hng bô-sè-jī tī piān-sóo siak--tó.。
+    中文：他昨天不小心在廁所摔倒。
+
+ 9. 近視
+    台語：你若欲半䖙倒看電視，你的目睭早慢會近視。
+    台羅：Lí nā beh puànn-the-tó khuànn tiān-sī, lí ê ba̍k-tsiu tsá-bān ē kīn-sī.。
+    中文：你如果要斜躺著看電視，你的眼睛早晚會近視。
+    來源：半䖙倒
+
+10. 過敏
+    台語：伊鼻空過敏，毋才一直拍咳啾。
+    台羅：I phīnn-khang kuè-bín, m̄-tsiah it-ti̍t phah-kha-tshiùnn.。
+    中文：他鼻子過敏，才會一直打噴嚏。
+    來源：拍咳啾
+
+11. 感冒
+    台語：流行性感冒病毒的暗作期大約是一工到三工。
+    台羅：Liû-hîng-sìng kám-mōo pēnn-to̍k ê àm-tsoh-kî tāi-iok sī tsi̍t kang kàu sann kang.。
+    中文：流行性感冒病毒的潛伏期大約是一至三天。
+    來源：暗作期
+
+12. 燙著
+    台語：湯拄𣁳起來爾爾，猶燒滾滾，毋好燙著。
+    台羅：Thng tú khat--khí-lâi niā-niā, iáu sio-kún-kún, m̄-hó thǹg--tio̍h.。
+    中文：湯才剛舀起來，還熱騰騰的，不要燙到了。
+    來源：燒滾滾
+
+13. 粒仔
+    台語：古早糧食缺欠的時，煮糜是幾粒米、一寡番薯簽乾摻一大坩水，「一粒田螺煮九碗公湯」，欲罟一粒飯粒仔就親像海底摸針，真僫啦！
+    台羅：Kóo-tsá niû-si̍t khueh-khiàm ê sî, tsú muê sī kuí lia̍p bí, tsi̍t-kuá han-tsî-tshiam-kuann tsham tsi̍t tuā khann tsuí, “tsi̍t lia̍p tshân-lê tsú káu uánn-kong thng”, beh koo tsi̍t lia̍p pn̄g-lia̍p-á tō tshin-tshiūnn hái-té bong tsiam, tsin oh--lah!。
+    中文：從前糧食匱乏的時代，煮稀飯是幾粒米、一些番薯簽乾加一大鍋的水，「一粒田螺煮九海碗湯」，要撈到一粒米粒就像海底撈針，好難啊！
+    來源：一粒田螺煮九碗公湯。
+
+14. 發炎
+    台語：發炎的空喙感覺會燒熱。
+    台羅：Huat-iām ê khang-tshuì kám-kak ē sio-jua̍h.。
+    中文：發炎的傷口感覺灼熱。
+    來源：燒熱
+
+15. 注射
+    台語：伊足驚注射，便若看著護士共射筒攑出來，就會驚甲咇咇掣。
+    台羅：I tsiok kiann tsù-siā, piān-nā khuànn-tio̍h hōo-sū kā siā-tâng gia̍h--tshut-lâi, tō ē kiann kah phi̍h-phi̍h-tshuah.。
+    中文：他很怕打針，只要看到護士拿出針筒，就會嚇得直發抖。
+    來源：射筒
+
+16. 著痧
+    台語：這陣當咧出大日虎，咱上好莫出去，較袂著痧。
+    台羅：Tsit-tsūn tng-teh tshut tuā-ji̍t-hóo, lán siōng-hó mài tshut--khì, khah bē tio̍h-sua.。
+    中文：現在正值烈日當空，我們最好不要出門，以免中暑。
+    來源：大日虎
+
+17. 閃著
+    台語：伊的腰去閃著。
+    台羅：I ê io khì siám--tio̍h.。
+    中文：他的腰閃到了。
+
+18. 滑倒
+    台語：你較細膩咧，毋通滑倒。
+    台羅：Lí khah sè-jī--leh, m̄-thang ku̍t--tó.。
+    中文：你小心一點，不要滑倒。
+
+19. 流汗
+    台語：古早人講：「棚頂做甲流汗，棚跤嫌甲流瀾。」橫直做代誌總是袂中眾人意，欲做就認真做，毋免驚人批評。
+    台羅：Kóo-tsá-lâng kóng, “Pênn-tíng tsò kah lâu-kuānn, pênn-kha hiâm kah lâu-nuā.” Huâinn-ti̍t tsò tāi-tsì tsóng-sī bē tìng tsìng-lâng ì, beh tsò tō jīn-tsin tsò, m̄-bián kiann lâng phue-phîng.。」反正做事總是不能符合眾人的意思，想做就認真做，不用怕別人批評。
+    中文：以前的人說：「戲台上的演員演得汗流浹背，戲台下的觀眾批評得口沫橫飛。」反正做事總是不能符合眾人的意思，想做就認真做，不用怕別人批評。
+    來源：棚頂做甲流汗，棚跤嫌甲流瀾。
+
+20. 傷著
+    台語：有的人「一句話三角六尖」，出喙就去傷著人，毋過有的人就加真有外才，講著話在伊挲圓捏扁、抹壁雙面光。
+    台羅：Ū ê lâng “tsi̍t kù uē sann kak la̍k tsiam”, tshut-tshuì tō khì siong-tio̍h lâng, m̄-koh ū ê lâng tō ke tsin ū guā-tsâi, kóng-tio̍h uē tsāi i so-înn-tēnn-pínn, buah-piah siang-bīn kng.。
+    中文：有的人「言語銳利」，出言就傷人，不過有的人就很有交際能力，說起話來能字斟句酌、兩面討好。
+    來源：一句話三角六尖。
+
+21. 流血
+    台語：伊食酒閣騎oo-tóo-bái，摔一下流血流滴。
+    台羅：I tsia̍h tsiú koh khiâ oo-tóo-bái, siak tsi̍t-ē lâu-hueh-lâu-tih.。
+    中文：他喝酒還騎機車，摔得頭破血流。
+    來源：流血流滴
+
+22. 糾筋
+    台語：泅水的時陣上驚跤糾筋。
+    台羅：Siû-tsuí ê sî-tsūn siōng kiann kha kiù-kin.。
+    中文：游泳的時候最怕腳抽筋。
+
+23. 拍咳啾
+    台語：伊鼻空過敏，毋才一直拍咳啾。
+    台羅：I phīnn-khang kuè-bín, m̄-tsiah it-ti̍t phah-kha-tshiùnn.。
+    中文：他鼻子過敏，才會一直打噴嚏。
+
+24. 倒摔向
+    台語：好禮仔坐，無，會倒摔向。
+    台羅：Hó-lé-á tsē, bô, ē tò-siàng-hiànn.。
+    中文：小心坐好，不然，會摔個倒栽蔥。
+
+25. 寒著
+    台語：看你寒甲規身軀爍爍顫，毋就緊提一領較厚的衫來穿，才袂去寒著。
+    台羅：Khuànn lí kuânn kah kui-sin-khu sih-sih-tsùn, m̄-tō kín the̍h tsi̍t niá khah kāu ê sann lâi tshīng, tsiah bē khì kuânn--tio̍h.。
+    中文：看你全身冷得直發抖，快一點拿件厚一點的衣服來穿，才不會受到風寒。
+    來源：爍爍顫
+
+26. 擤鼻
+    台語：我去夜市仔開兩百箍買著這條椅仔，哪知坐無兩工就害去，袂輸擤鼻糊的，人講「一分錢，一分貨」，有影俗物就無好貨。
+    台羅：Guá khì iā-tshī-á khai nn̄g-pah khoo bé-tio̍h tsit liâu í-á, ná tsai tsē bô nn̄g kang tō hāi--khì, bē-su tshìng-phīnn kôo--ê, lâng kóng “tsi̍t hun tsînn, tsi̍t hun huè”, ū-iánn sio̍k-mi̍h tō bô hó huè.。
+    中文：我去夜市花了兩百塊買到這張椅子，哪知道坐不到兩天就壞了，就好像用鼻涕黏的一樣，人家說「一分錢，一分貨」，果然便宜就沒好貨。
+    來源：一分錢，一分貨。
+
+27. 頓龜
+    台語：伊予一个生狂囡仔挵一下頓龜。
+    台羅：I hōo tsi̍t ê tshenn-kông gín-á lòng tsi̍t-ē tǹg-ku.。
+    中文：他被一個慌張的孩子撞了一下摔了屁股。
+
+28. 受傷
+    台語：炮仔工場爆炸，員工受傷嚴重。
+    台羅：Phàu-á kang-tiûnn po̍k-tsà, uân-kang siū-siong giâm-tiōng.。
+    中文：炮竹工廠爆炸，員工受傷嚴重。
+    來源：爆炸
+
+29. 破病
+    台語：伊破病倒佇眠床頂廿捅冬矣，寢開始後生猶真盡心看顧，不而過俗語講：「久長病，無孝子。」這幾冬𪜶後生予伊的醫藥費硩甲袂喘氣，就無通遐認真共照顧矣。
+    台羅：I phuà-pēnn tó tī bîn-tshn̂g-tíng jia̍p-thóng tang--ah, tshím-khai-sí hāu-senn iáu tsin tsīn-sim khuànn-kòo, put-jî-kò sio̍k-gí kóng, “Kú-tn̂g pēnn, bô hàu-tsú.” Tsit kuí tang in hāu-senn hōo i ê i-io̍h-huì teh kah bē tshuán-khuì, tō bô thang hiah jīn-tsin kā tsiàu-kòo--ah.。」這幾年他兒子被他的醫藥費壓得喘不過氣來，就沒辦法那麼認真照顧他了。
+    中文：他已臥病在床二十多年了，剛開始兒子還很盡心照顧，但俗話說：「久病床前無孝子。」這幾年他兒子被他的醫藥費壓得喘不過氣來，就沒辦法那麼認真照顧他了。
+    來源：久長病，無孝子。
+
+30. 蛀齒
+    台語：糖仔食傷濟會蛀齒。
+    台羅：Thn̂g-á tsia̍h siunn tsē ē tsiù-khí.。
+    中文：糖果吃太多會蛀牙。
+    來源：糖仔
+
+31. 跋倒
+    台語：伊跋倒，雖然人無按怎，醫生講猶是照電光確定骨頭無含梢較好。
+    台羅：I pua̍h-tó, sui-jiân lâng bô án-tsuánn, i-sing kóng iáu-sī tsiò-tiān-kong khak-tīng kut-thâu bô hâm-sau khah hó.。
+    中文：他跌倒了，雖然覺得沒怎樣，醫生說還是照X光確定骨骼沒裂痕比較好。
+    來源：照電光
+
+32. 扭著
+    台語：伊這陣手扭著，無才調去工地做粗重的，就允一寡較輕可的穡頭轉來厝裡做，「罔趁較袂散」，嘛較贏規工佇厝裡閒仙仙。
+    台羅：I tsit-tsūn tshiú láu--tio̍h, bô tsâi-tiāu khì kang-tē tsò tshoo-tāng--ê, tō ín tsi̍t-kuá khah khin-khó ê sit-thâu tńg-lâi tshù--lí tsò, “bóng thàn khah bē sàn”, mā khah iânn kui-kang tī tshù--lí îng-sian-sian.。
+    中文：他現在手扭到，沒法到工地做粗重的工作，便承接一些比較輕鬆的工作回來家裡做，「多少賺一點」，也勝過於成天在家無所事事。
+    來源：罔趁較袂散。
+
+33. 發燒
+    台語：你去提度針來磅看囡仔敢有發燒。
+    台羅：Lí khì the̍h tōo-tsiam lâi pōng khuànn gín-á kám ū huat-sio.。
+    中文：你去拿溫度計來量量看孩子有沒有發燒。
+    來源：磅
+
+34. 割著
+    台語：刀仔割著的空喙若較細空，就較快堅血。
+    台羅：To-á kuah--tio̍h ê khang-tshuì nā khah sè khang, tō khah khuài kian-hueh.。
+    中文：刀子割到的傷口如果比較小，就比較容易止血。
+    來源：堅血
+
+35. 實鼻
+    台語：感冒佮過敏攏會實鼻。
+    台羅：Kám-mōo kah kuè-bín lóng ē tsa̍t-phīnn.。
+    中文：感冒與過敏都會鼻塞。
+
+36. 牚腿
+    台語：昨暗走一下傷久，害我今仔日跤牚腿。
+    台羅：Tsa-àm tsáu tsi̍t-ē siunn kú, hāi guá kin-á-ji̍t kha thènn-thuí.。
+    中文：昨晚跑了太久，害我今天腳肌肉酸疼。
+
+1. 殘障 (tsân-tsiòng)
+	•	台語：伊車禍了後，雙腳受傷，變做殘障，需要輪椅代步。
+	•	台羅：I tshia-hō liáu-āu, siang-kha siū-siong, piàn-tsò tsân-tsiòng, su-iàu lûn-í tāi-pōo.。
+	•	中文：他車禍之後，雙腿受傷，成了殘障，需要依靠輪椅行動。
+
+⸻
+
+2. 溼疹 (sip-tsín)
+	•	台語：阿妹仔手肘出溼疹，痒甲一直掻，媽媽趕緊帶去看醫生。
+	•	台羅：A-muē-á tshiú-táng tshut sip-tsín, iúnn kah it-ti̍t gau, má-ma kuánn-kín tuā khì khuànn i-sing.。
+	•	中文：妹妹手肘長了濕疹，癢得一直抓，媽媽趕緊帶她去看醫生。
+
+⸻
+
+3. 相挵 (sio-lòng)
+	•	台語：囡仔咧操場相挵，煞有一个跋倒流血。
+	•	台羅：Gín-á teh tshau-tiûnn sio-lòng, suah ū tsi̍t ê pua̍h-tó lâu-hueh.。
+	•	中文：孩子們在操場上互相打鬧，結果有一個跌倒流血。
+
+⸻
+
+4. 咳嗽 (ka-sàu)
+	•	台語：阿公咳嗽咳甲無停，阿嬤煮薑湯予伊飲。
+	•	台羅：A-kong ka-sàu khah kah bô thîng, A-má tsú kiunn-thng hōo i lim.。
+	•	中文：阿公一直咳嗽不停，阿嬤煮了薑湯給他喝。
+
+⸻
+
+5. 嚨喉疼 (nâ-âu-thiànn)
+	•	台語：伊感冒幾工，嚨喉疼，講話攏沙啞去。
+	•	台羅：I kám-mōo kuí kang, nâ-âu-thiànn, kóng-uē lóng sa-a–khì.。
+	•	中文：他感冒好幾天，喉嚨痛，說話都沙啞了。
+    
+❌ 缺失單字報告:
+============================================================
+以下 29 個單字沒有找到可用的例句：
+
+📋 無用例 (29個):
+   相撞      殘障      嚨喉疼     打噴嚏     傷到      扭到      中暑      閃到      著涼、感冒   抽筋      
+   溼疹      咳嗽      蛀牙      瘀青      鐵腿      跌倒      生病      整個屁股跌坐在地上撞到      割到      
+   擤鼻涕     濕疹      喉嚨痛     鼻塞      注射、打針   燙到      皮膚病     倒栽蔥、仰面摔倒，整個身體往後傾而摔倒相挵      
+
+💡 建議：
+   1. 這些單字可能在教育部辭典中沒有用例
+   2. 可以嘗試其他台語辭典或資源
+   3. 或者手動查詢相關的同義詞

@@ -1,0 +1,597 @@
+最終版台語辭典擷取完整報告 - 飲食與食物
+================================================================================
+🎯 操作流程：輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理
+📊 完整統計：
+   - 總計單字：159 個
+   - 成功擷取：54 個
+   - 缺失單字：105 個
+   - 成功率：34.0%
+⏰ 擷取時間：20250827_154803
+
+🌟 完整擷取（台語+台羅+中文）:
+------------------------------------------------------------
+ 1. 飯包
+    台語：你明仔載欲紮飯包無？
+    台羅：Lí bîn-á-tsài beh tsah pn̄g-pau--bô
+    中文：你明天要帶便當嗎？
+
+ 2. 冬粉
+    台語：若講著鵝肉冬粉料理，我就會流喙瀾。
+    台羅：Nā kóng-tio̍h gô-bah tang-hún liāu-lí, guá tō ē lâu tshuì-nuā.。
+    中文：若談到鵝肉冬粉料理，我就會流口水。
+
+ 3. 豬跤
+    台語：豬跤𤉙爛爛，真好食。
+    台羅：Ti-kha kûn nuā-nuā, tsin hó-tsia̍h.。
+    中文：豬腳煮得爛爛的，真好吃。
+    來源：𤉙替kûn
+
+ 4. 豬肝
+    台語：我欲來去市場買一塊豬肝。
+    台羅：Guá beh lâi-khì tshī-tiûnn bé tsi̍t tè ti-kuann.。
+    中文：我要到市埸買一塊豬肝。
+    來源：市場
+
+ 5. 棗仔
+    台語：屏東的高樹出產棗仔。
+    台羅：Pîn-tong ê Ko-tshiū tshut-sán tsó-á.。
+    中文：屏東高樹出產棗子。
+    來源：出產
+
+ 6. 點心
+    台語：較早作田人攏放伴割稻仔，人若來鬥相共，愛攢三頓佮點心予人食，閣袂使驚人大食。
+    台羅：Khah-tsá tsoh-tshân-lâng lóng pàng-phuānn kuah-tiū-á, lâng nā lâi tàu-sann-kāng, ài tshuân sann tǹg kah tiám-sim hōo lâng tsia̍h, koh bē-sái kiann lâng tuā-tsia̍h.。
+    中文：從前農人都輪流協助割稻子，人家如果來幫忙，要準備三餐跟點心給人家吃，還不能怕人家食量大。
+    來源：大食
+
+ 7. 柳丁
+    台語：牛犅𨂿會損蕩柑仔欉、柳丁欉、檸檬欉佮木瓜欉等果子欉。
+    台羅：Gû-káng-uainnh ē sńg-tn̄g kam-á tsâng, liú-ting tsâng, lê-bóng tsâng kah bo̍k-kue tsâng tíng kué-tsí tsâng.。
+    中文：天牛會危害橘子、柳丁、檸檬和木瓜樹等果樹。
+    來源：牛犅𨂿
+
+ 8. 紅茶
+    台語：我的紅茶無愛摻糖。
+    台羅：Guá ê âng-tê bô ài tsham thn̂g.。
+    中文：我的紅茶不要加糖。
+    來源：摻
+
+ 9. 牛奶
+    台語：卵、牛奶、肉類、豆仔類是咱人的食食當中重要的卵白質來源。
+    台羅：Nn̄g, gû-ling, bah-luī, tāu-á-luī sī lán-lâng ê tsia̍h-si̍t tang-tiong tiōng-iàu ê nn̄g-pe̍h-tsit lâi-guân
+    中文：蛋、牛奶、肉類、豆類是吾人的食物當中重要的蛋白質來源
+    來源：卵白質
+
+10. 木瓜
+    台語：牛犅𨂿會損蕩柑仔欉、柳丁欉、檸檬欉佮木瓜欉等果子欉。
+    台羅：Gû-káng-uainnh ē sńg-tn̄g kam-á tsâng, liú-ting tsâng, lê-bóng tsâng kah bo̍k-kue tsâng tíng kué-tsí tsâng.。
+    中文：天牛會危害橘子、柳丁、檸檬和木瓜樹等果樹。
+    來源：牛犅𨂿
+
+11. 豆花
+    台語：這改比賽去予對方修理甲塗塗塗，佇檢討會裡，教練予人檢討半點鐘，會使講是「滿面專豆花」。
+    台羅：Tsit kái pí-sài khì hōo tuì-hong siu-lí kah thôo-thôo-thôo, tī kiám-thó-huē--lí, kàu-liān hōo lâng kiám-thó puànn tiám-tsing, ē-sái kóng sī “muá-bīn tsuan tāu-hue”.。
+    中文：這次比賽被對方修理得慘兮兮，在檢討會中，教練被人檢討了半個小時，可以說是「狼狽不堪」。
+    來源：滿面專豆花。
+
+12. 青菜
+    台語：最近我搬來庄跤蹛，若有好食物，我就捾去送厝邊。𪜶嘛定定送𪜶家己種的青菜、果子來予我。人講「千金買厝，萬金買厝邊」，咱著佮厝邊頭尾好好仔交陪！
+    台羅：Tsuè-kīn guá puann-lâi tsng-kha tuà, nā ū hó-tsia̍h mi̍h, guá tō kuānn-khì sàng tshù-pinn. In mā tiānn-tiānn sàng in ka-kī tsìng ê tshenn-tshài, kué-tsí lâi hōo--guá. Lâng kóng “tshian-kim bé tshù, bān kim bé tshù-pinn”, lán tio̍h kah tshù-pinn-thâu-bué hó-hó-á kau-puê!。他們也常常送他們自己種的蔬菜、水果給我。人家說：「千金買屋，萬金買鄰」，我們得跟鄰居好好交往！
+    中文：最近我搬到鄉下住，若有好吃的食物，我就拿去送給隔壁鄰居。他們也常常送他們自己種的蔬菜、水果給我。人家說：「千金買屋，萬金買鄰」，我們得跟鄰居好好交往！
+    來源：千金買厝，萬金買厝邊。
+
+13. 豆乾
+    台語：阮阿公上愛食豆乾。
+    台羅：Guán a-kong siōng ài tsia̍h tāu-kuann.。
+    中文：我爺爺最喜歡吃豆干。
+
+14. 茶米
+    台語：伊做茶米的中盤欲成十冬矣。
+    台羅：I tsò tê-bí ê tiong-puânn beh tsiânn tsa̍p tang--ah.。
+    中文：他從事茶葉的中盤生意快十年了。
+    來源：中盤
+
+15. 塗豆
+    台語：在生食一粒塗豆，較贏死了拜一个豬頭。
+    台羅：Tsāi-senn tsia̍h tsi̍t lia̍p thôo-tāu, khah iânn sí-liáu pài tsi̍t ê ti-thâu.。意思是說為人子女應及時孝敬父母，而非等父母死後才隆重祭拜。
+    中文：在世時拿一顆花生孝敬，好過死後用一顆豬頭祭拜。意思是說為人子女應及時孝敬父母，而非等父母死後才隆重祭拜。
+    來源：在生
+
+16. 鹹酸甜
+    台語：鹹酸甜食起來酸甘甜仔酸甘甜。
+    台羅：Kiâm-sng-tinn tsia̍h--khí-lâi sng-kam-tinn-á-sng-kam-tinn.。
+    中文：蜜餞吃起來的味道是酸中帶甜。
+    來源：酸甘甜
+
+17. 麻糍
+    台語：麻糍做好愛糝粉才袂黏做伙。
+    台羅：Muâ-tsî tsò-hó ài sám-hún tsiah bē liâm tsò-hué.。
+    中文：麻糬做好後要撒粉才不會黏在一起。
+    來源：糝粉
+
+18. 糖仔
+    台語：阮阿母已經九十歲矣，煞變做愛食糖仔閣愛共我司奶，真正是「老人囡仔性」。
+    台羅：Guán a-bú í-king káu-tsa̍p huè--ah, suah piàn-tsò ài tsia̍h thn̂g-á koh ài kā guá sai-nai, tsin-tsiànn sī “lāu-lâng gín-á-sìng”.。
+    中文：我媽媽已經九十歲了，竟變得喜歡吃糖果又愛跟我撒嬌，真的是「老人孩子氣」。
+    來源：老人囡仔性。
+
+19. 粟仔
+    台語：阿母講伊細漢的時，攏會佇庄跤舊厝的外埕，共𪜶阿舅鬥曝粟仔。
+    台羅：A-bú kóng i sè-hàn ê sî, lóng ē tī tsng-kha kū-tshù ê guā-tiânn, kā in a-kū tàu pha̍k tshik-á.。
+    中文：媽媽說他小時候，都會在鄉下古厝的外面的空地，幫他舅舅曬稻穀。
+    來源：外埕
+
+20. 粉粿
+    台語：凡若麵粉做的我攏真有路，特別是麵粉粿仔我上愛食。
+    台羅：Huān-nā mī-hún tsò--ê guá lóng tsin ū-lōo, ti̍k-pia̍t sī mī-hún-kué-á guá siōng ài tsia̍h.。
+    中文：凡是麵粉做的食物都是我喜愛的類型，尤其麵疙瘩是我最愛吃的。
+    來源：麵粉粿仔
+
+21. 咖哩
+    台語：猶未咖哩嗹囉咧。
+    台羅：Iáu-buē ka-lí-liân-lô--leh.。
+    中文：八字還沒一撇呢。
+    來源：咖哩嗹囉
+
+22. 香油
+    台語：伊食火鍋搵料愛濫醋、蒜茸、番薑仔、蔥仔、豆乳、香油，伊講愛較厚味才會好食。
+    台羅：I tsia̍h hué-ko ùn-liāu ài lām tshòo, suàn-jiông, huan-kiunn-á, tshang-á, tāu-jú, hiang-iû, i kóng ài khah kāu-bī tsiah ē hó-tsia̍h.。
+    中文：他吃火鍋沾醬要摻雜醋、蒜泥、辣椒、蔥、豆腐乳、香油，他說要五味俱全才會好吃。
+    來源：厚味
+
+23. 卵清
+    台語：用雞卵清做雞卵糕。
+    台羅：Īng ke-nn̄g-tshing tsò ke-nn̄g-ko.。
+    中文：用雞蛋的蛋白製做蛋糕。
+    來源：雞卵清
+
+24. 蚶仔
+    台語：有疼風的人愛忌喙，腹內、蚶仔佮蚵仔較莫食咧。
+    台羅：Ū thiànn-hong ê lâng ài khī-tshuì, pak-lāi, ham-á kah ô-á khah mài tsia̍h--leh.。
+    中文：患有痛風的人要忌口，內臟、蛤蜊、牡蠣盡量不要吃。
+    來源：疼風
+
+25. 西瓜
+    台語：「王梨頭，西瓜尾」是咧講王梨是倚蒂頭的所在上蓋甜，西瓜顛倒是離蒂頭上遠的彼爿較甜，欲食的時先食較無甜的彼爿就會愈食愈甜。
+    台羅：“Ông-lâi thâu, si-kue bué” sī teh kóng ông-lâi sī uá tì-thâu ê sóo-tsāi siōng-kài tinn, si-kue tian-tò sī lī tì-thâu siōng hn̄g ê hit pîng khah tinn, beh tsia̍h ê sî sing tsia̍h khah bô tinn ê hit pîng tō ē jú tsia̍h jú tinn.。
+    中文：「鳳梨頭，西瓜尾」是說鳳梨最甜的地方是靠近基根底部的那頭，西瓜反而是離蒂頭最遠端的那邊最甜，要吃的時候先吃比較不甜的那邊就會越吃越甜。
+    來源：王梨頭，西瓜尾。
+
+26. 包仔
+    台語：伊拄對銀行領錢出來，雄雄一个強徒出手共伊的皮包仔搶去。
+    台羅：I tú tuì gîn-hâng niá tsînn tshut--lâi, hiông-hiông tsi̍t ê kiông-tôo tshut-tshiú kā i ê phuê-pau-á tshiúnn--khì.。
+    中文：他剛從銀行領錢出來，突然一個搶匪動手搶走了他的皮包。
+    來源：強徒
+
+27. 料理
+    台語：阿媽佇田裡拍菜股，一股一股的菜蔬攏成做飯桌頂的好料理。
+    台羅：A-má tī tshân--lí phah tshài-kóo, tsi̍t kóo tsi̍t kóo ê tshài-se lóng tsiânn-tsò pn̄g-toh-tíng ê hó liāu-lí.。
+    中文：奶奶在田裏面築造菜畦，一畦一畦的青菜都成了飯桌上的好菜色。
+    來源：菜股
+
+28. 豆油
+    台語：伊雖然穿插若庄跤倯咧，毋過泅水、拍球、唱歌、演奏樂器逐項會，真正是「烏矸仔貯豆油」，予人看袂出。
+    台羅：I sui-jiân tshīng-tshah ná tsng-kha-sông--leh, m̄-koh siû-tsuí, phah-kiû, tshiùnn-kua, ián-tsàu ga̍k-khì ta̍k hāng ē, tsin-tsiànn sī “oo kan-á té tāu-iû”, hōo lâng khuànn bē tshut.。
+    中文：他雖然衣著打扮像鄉巴佬，不過游泳、打球、唱歌、演奏樂器樣樣會，真是「黑色罐子裝上醬油」，讓人看不出來。
+    來源：烏矸仔貯豆油。
+
+29. 圓仔
+    台語：做人著愛知影家己有幾兩重，毋通臭煬閣愛歕雞胿，若無，就會予人笑講是「大紅花毋知䆀，圓仔花䆀毋知」。
+    台羅：Tsò-lâng tio̍h-ài tsai-iánn ka-kī ū kuí niú tāng, m̄-thang tshàu-iāng koh ài pûn-ke-kui, nā-bô, tō ē hōo lâng tshiò kóng sī “tuā-âng-hue m̄ tsai bái, înn-á-hue bái m̄ tsai”.。
+    中文：為人得明白自己的實力如何，不要太臭屁又喜歡說大話，否則，就會被人嘲笑「馬不知臉長」。
+    來源：大紅花毋知䆀，圓仔花䆀毋知。
+
+30. 肉羹
+    台語：精肉豉好，滒魚漿落去煠，就是咱咧食的肉羹。
+    台羅：Tsiann-bah sīnn hó, kō hî-tsiunn lo̍h-khì sa̍h, tō sī lán teh tsia̍h ê bah-kenn.。
+    中文：瘦肉醃過，裹魚漿在熱水裡煮熟，就是我們吃的肉羮。
+    來源：魚漿
+
+31. 口味
+    台語：這間冰店攏用在地清氣的山泉水佮各種口味的果子來做霜仔枝。
+    台羅：Tsit king ping-tiàm lóng iōng tsāi-tē tshing-khì ê suann-tsuânn-tsuí kah kok-tsióng kháu-bī ê kué-tsí lâi tsò sng-á-ki.。
+    中文：這家冰店都用在地乾淨的山泉水及各種口味的水果製作冰棒。
+    來源：霜仔枝
+
+32. 油飯
+    台語：人送油飯予咱，咱愛硩米還人。
+    台羅：Lâng sàng iû-pn̄g hōo--lán, lán ài teh bí hîng--lâng.。
+    中文：人家送油飯給我們，我們要用米回禮。
+    來源：硩替teh
+
+33. 雜菜麵
+    台語：會曉煮雜菜麵的麵擔仔愈來愈少矣。
+    台羅：Ē-hiáu tsú tsa̍p-tshài-mī ê mī-tànn-á jú lâi jú tsió--ah.。
+    中文：懂得煮什錦麵的麵攤越來越少了。
+
+34. 肉粽
+    台語：有真濟人會佇肉粽節彼工的正中晝，共生雞卵𫞼佇塗跤兜。
+    台羅：Ū tsin tsē lâng ē tī Bah-tsàng-tseh hit kang ê tsiànn-tiong-tàu, kā tshenn ke-nn̄g tshāi tī thôo-kha-tau.。
+    中文：有很多人在端午節那天正午時分，把生雞蛋立在地上。
+    來源：正中晝
+
+35. 桃仔
+    台語：食桃仔食甲湯㴙㴙滴。
+    台羅：Tsia̍h thô-á tsia̍h kah thng tsha̍p-tsha̍p-tih.。
+    中文：吃桃子吃得湯汁直滴。
+    來源：湯白thng
+
+36. 鵝肉
+    台語：若講著鵝肉冬粉料理，我就會流喙瀾。
+    台羅：Nā kóng-tio̍h gô-bah tang-hún liāu-lí, guá tō ē lâu tshuì-nuā.。
+    中文：若談到鵝肉冬粉料理，我就會流口水。
+    來源：冬粉
+
+37. 泡麵
+    台語：規間店的泡麵掃了了。
+    台羅：Kui king tiàm ê phàu-mī sàu-liáu-liáu.。
+    中文：整家店的泡麵買光光。
+    來源：掃白sàu
+
+38. 臭豆腐
+    台語：阮兜巷仔口彼擔臭豆腐，食過的人攏「呵咾甲會觸舌」。
+    台羅：Guán tau hāng-á-kháu hit tànn tshàu-tāu-hū, tsia̍h--kuè ê lâng lóng “o-ló kah ē tak-tsi̍h”.。
+    中文：我家巷口的那攤臭豆腐，吃過的人都「讚美有加」。
+    來源：呵咾甲會觸舌。
+
+39. 雞卵糕
+    台語：你毋通閣提雞卵糕來，我已經飫喙矣。
+    台羅：Lí m̄-thang koh the̍h ke-nn̄g-ko lâi, guá í-king uì-tshuì--ah.。
+    中文：你不要再拿蛋糕來，我已經吃膩了。
+    來源：飫喙
+
+40. 煙腸
+    台語：煙腸用烘的較好食。
+    台羅：Ian-tshiâng iōng hang--ê khah hó-tsia̍h.。
+    中文：香腸用烤的比較好吃。
+
+41. 礤冰
+    台語：食一碗礤冰，涼一下。
+    台羅：Tsia̍h tsi̍t uánn tshuah-ping, liâng--tsi̍t-ē.。
+    中文：吃一碗刨冰，清涼一下。
+
+42. 麻油雞
+    台語：煮麻油雞一定愛先用薑母落去炒。
+    台羅：Tsú muâ-iû-ke it-tīng ài sing īng kiunn-bó lo̍h-khì tshá.。
+    中文：煮麻油雞一定要先用老薑炒過。
+    來源：薑母
+
+43. 菜脯
+    台語：阮牽手當咧無閒的時陣，我家婆講欲替伊煎一盤菜脯卵請人客，盍會知影「好好鱟刣甲屎那流」，煞煎甲臭火焦兼著火。
+    台羅：Guán khan-tshiú tng-teh bô-îng ê sî-tsūn, guá ke-pô kóng beh thè i tsian tsi̍t puânn tshài-póo-nn̄g tshiánn lâng-kheh, khah ē tsai-iánn “hó-hó hāu thâi kah sái ná lâu”, suah tsian kah tshàu-hué-ta kiam to̍h-hué.。
+    中文：內人正忙的時候，我多管閒事主動要替他煎一盤蘿蔔乾炒蛋給客人吃，哪裡知道「成事不足，敗事有餘」，竟然炒得焦黑不堪。
+    來源：好好鱟刣甲屎那流。
+
+44. 味素
+    台語：煮菜摻味素粉較有氣味。
+    台羅：Tsú tshài tsham bī-sòo-hún khah ū khì-bī.。
+    中文：煮菜加味精會比較有味道。
+    來源：味素粉
+
+45. 燒酒
+    台語：伊駛車進前有啉燒酒閣駛傷緊，才會發生車禍。
+    台羅：I sái-tshia tsìn-tsîng ū lim sio-tsiú koh sái siunn kín, tsiah ē huat-sing tshia-hō.。
+    中文：他開車前有喝酒，加上開太快，才會發生車禍。
+    來源：發生
+
+46. 米酒
+    台語：用碗頭仔啉米酒。
+    台羅：Iōng uánn-thâu-á lim bí-tsiú.。
+    中文：用小碗喝米酒。
+    來源：碗頭仔
+
+47. 杏仁
+    台語：食杏仁茶配油炸粿。
+    台羅：Tsia̍h hīng-jîn-tê phuè iû-tsia̍h-kué.。
+    中文：喝杏仁茶配油條。
+    來源：油炸粿
+
+48. 便當
+    台語：咱巷仔口彼个陳董的閣去自助餐買便當來食矣，枉費伊大某、細姨媠噹噹，厝內煞定定冤家量債，無人欲煮予食。莫怪人講：「一某無人知，兩某相卸代。」
+    台羅：Lán hāng-á-kháu hit ê Tân-táng--ê koh khì tsū-tsōo-tshan bé piān-tong lâi tsia̍h--ah, óng-huì i tuā-bóo, sè-î suí-tang-tang, tshù-lāi suah tiānn-tiānn uan-ke-niû-tsè, bô lâng beh tsú hōo tsia̍h. Bo̍k-kuài lâng kóng, “Tsi̍t bóo bô lâng tsai, nn̄g bóo sio-sià-tāi.”。難怪人家說：「一夫一妻，夫唱婦隨；家有妻妾，雞犬不寧。」
+    中文：住巷口的陳董事長又去自助餐買便當來吃了，虧他有老婆、姨太太而且都很漂亮，家裡卻常常爭吵，沒人做飯給他吃。難怪人家說：「一夫一妻，夫唱婦隨；家有妻妾，雞犬不寧。」
+    來源：一某無人知，兩某相卸代。
+
+49. 排骨湯
+    台語：想欲食金瓜湯，煞規菜市仔攏無人咧賣金瓜，「無魚，蝦嘛好」，今仔日先買冬瓜轉來去𤉙排骨湯。
+    台羅：Siūnn-beh tsia̍h kim-kue-thng, suah kui tshài-tshī-á lóng bô lâng teh bē kim-kue, “bô hî, hê mā hó”, kin-á-ji̍t sing bé tang-kue tńg lâi-khì kûn pâi-kut-thng.。
+    中文：想喝南瓜湯，整個菜市場卻沒有人賣南瓜，「退而求其次」，今天先買冬瓜回家煮排骨湯。
+    來源：無魚，蝦嘛好。
+
+50. 味素粉
+    台語：煮菜摻味素粉較有氣味。
+    台羅：Tsú tshài tsham bī-sòo-hún khah ū khì-bī.。
+    中文：煮菜加味精會比較有味道。
+
+51. 李仔
+    台語：三月三，桃仔李仔伨頭擔。
+    台羅：Sann-gue̍h-sann, thô-á lí-á thīn-thâu tann.。
+    中文：農曆三月，以成擔方式挑著盛產的桃子、李子。
+    來源：伨頭
+
+52. 汽水
+    台語：熱天時仔麥仔酒、汽水是𥴊仔店的大色貨。
+    台羅：Jua̍h-thinn-sî-á be̍h-á-tsiú, khì-tsuí sī kám-á-tiàm ê tuā-sik-huè.。
+    中文：夏天的時候啤酒、汽水是雜貨店的主要商品。
+    來源：大色貨
+
+53. 咖啡
+    台語：苦楝舅春天的新葉是笑青色，開花是黃色，漸漸轉紅，結子的時閣變咖啡色，所以嘛予人叫做四色樹。
+    台羅：Khóo-līng-kū tshun-thinn ê sin hio̍h sī tshiò-tshenn-sik, khui-hue sī n̂g-sik, tsiām-tsiām tńg-âng, kiat-tsí ê sî koh piàn ka-pi-sik, sóo-í mā hōo lâng kiò-tsò sì-sik-tshiū.。
+    中文：臺灣欒樹春天的新葉是嫩綠色，開花是黃色，漸漸轉紅，結果時又變成褐色，所以也被人稱為四色樹。
+    來源：苦楝舅
+
+54. 四秀仔
+    台語：阿明共阿兄討拄買來的四秀仔，閣共阿姊討比賽贏來的獎品，就去予阿媽共罵講「目睭掛斗概，看人物就愛」。
+    台羅：A-bîng kā a-hiann thó tú bé--lâi ê sì-siù-á, koh kā a-tsí thó pí-sài iânn--lâi ê tsióng-phín, tō khì hōo a-má kā mē kóng “ba̍k-tsiu kuà táu-kài, khuànn lâng mi̍h tō ài”.。
+    中文：阿明向哥哥要剛買來的零食，又向姊姊要比賽贏得的獎品，所以就被祖母斥責「眼睛掛著平斗的木概，看到別人的東西就想要」。
+    來源：目睭掛斗概，看人物就愛。
+
+	1.	肉圓
+台語：彰化的肉圓真出名，炸甲酥酥咧。
+台羅：Tsiong-huà ê bah-uân tsin tshut-miâ, tsah kah soo-soo–leh.
+中文：彰化的肉圓很有名，炸得酥脆。
+	2.	牛肉麵
+台語：牛肉麵湯頭愈滷愈入味。
+台羅：Gû-bah-mī thng-thâu jú lóo jú ji̍p-bī.
+中文：牛肉麵的湯頭越滷越入味。
+	3.	蚵仔煎
+台語：蚵仔煎配甜辣醬真對味。
+台羅：Ô-á-tsian phuè tinn-luah-tsiùnn tsin tuì-bī.
+中文：蚵仔煎配甜辣醬很對味。
+	4.	麵線糊
+台語：冬天食一碗麵線糊，感覺真溫暖。
+台羅：Tang-thinn tsia̍h tsi̍t uánn mī-suànn-kôo, kám-kak tsin un-luán.
+中文：冬天吃一碗麵線糊，覺得很溫暖。
+	5.	菜頭粿
+台語：過年時家家戶戶攏會煎菜頭粿。
+台羅：Kuè-nî sî ke-ke-hōo-hōo lóng ē tsian tshài-thâu-kué.
+中文：過年時家家戶戶都會煎蘿蔔糕。
+	6.	碗粿
+台語：臺南的碗粿軟Q閣真香。
+台羅：Tâi-lâm ê uánn-kué núa-Q koh tsin phang.
+中文：台南的碗粿軟Q又香。
+	7.	割包
+台語：割包閣有人叫做虎咬豬。
+台羅：Kuah-pau koh ū lâng kiò-tsò hóo-khàu-ti.
+中文：刈包又有人叫做「虎咬豬」。
+	8.	芋冰
+台語：夏天食芋冰真消暑。
+台羅：Hā-thinn tsia̍h ōo-ping tsin siau-sú.
+中文：夏天吃芋頭冰很消暑。
+	9.	沙茶
+台語：沙茶醬炒牛肉真香。
+台羅：Sa-te tsiùnn tshá gû-bah tsin phang.
+中文：沙茶醬炒牛肉很香。
+	10.	皮蛋
+台語：皮蛋豆腐是一款簡單閣清爽的菜。
+台羅：Phî-tàn tāu-hū sī tsi̍t khuán kán-tan koh tshing-sóng ê tshài.
+中文：皮蛋豆腐是一道簡單又清爽的菜。
+	11.	米粉炒
+台語：米粉炒加青菜較有味。
+台羅：Bí-hún-tshá ka tshenn-tshài khah ū bī.
+中文：炒米粉加青菜比較有味。
+	12.	滷肉飯
+台語：滷肉飯嘛是臺灣代表性的美食。
+台羅：Lóo-bah-pn̄g mā sī Tâi-uân tāi-piáu-sìng ê bí-sit.
+中文：滷肉飯也是台灣代表性的美食。
+	13.	炕肉飯
+台語：炕肉飯肉滷甲軟爛，真下飯。
+台羅：Khòng-bah-pn̄g bah lóo kah núa-nuā, tsin hā-pn̄g.
+中文：焢肉飯的肉滷得軟爛，很下飯。
+	14.	豆乾糋
+台語：豆乾糋切片煎一煎就真好食。
+台羅：Tāu-kuann-tsìnn tshiat-phìnn tsian-tsian tō tsin hó-tsia̍h.
+中文：豆干切片煎一煎就很好吃。
+	15.	鹹酥雞
+台語：鹹酥雞攤頭攏有濟人排隊。
+台羅：Kiâm-soo-ke thàn-thâu lóng ū tsē lâng pâi-tuī.
+中文：鹹酥雞攤位總是很多人排隊。
+	16.	羊肉爐
+台語：寒流來，羊肉爐的生理就真好。
+台羅：Kuân-liû lâi, iûnn-bah-lôo ê sing-lí tō tsin hó.
+中文：寒流來時，羊肉爐的生意就很好。
+	17.	薑母鴨
+台語：薑母鴨煮甲香噴噴，配米酒真讚。
+台羅：Kiunn-bú-ah tsú kah phang-phùn-phùn, phuè bí-tsiú tsin tsàn.
+中文：薑母鴨煮得香噴噴，配米酒很讚。
+	18.	牛舌餅
+台語：牛舌餅脆脆咧，老人囡仔攏愛食。
+台羅：Gû-tsi̍h-piánn tshuè-tshuè–leh, lāu-lâng gín-á lóng ài tsia̍h.
+中文：牛舌餅脆脆的，老人小孩都愛吃。
+	19.	花枝丸
+台語：花枝丸煮湯食，滋味真鮮甜。
+台羅：Hue-ki-uân tsú-thng tsia̍h, tsi-bī tsin tshinn-tinn.
+中文：花枝丸煮湯吃，味道很鮮甜。
+	20.	檸檬汁
+台語：運動了後，啉檸檬汁真解渴。
+台羅：Ūn-tōng liáu-āu, lim lê-bóng-tsiap tsin kái-khuah.
+中文：運動後喝檸檬汁很解渴。
+	21.	麥仔茶
+台語：麥仔茶有一種焦香味。
+台羅：Be̍h-á-tê ū tsi̍t tsióng ta-hiong-bī.
+中文：麥茶有一種焦香味。
+	22.	烏龍茶
+台語：烏龍茶有時會予人喝甲心跳較緊。
+台羅：Oo-liông-tê ū-sî ē hōo lâng lim kah sim-thiàu khah kín.
+中文：烏龍茶有時候會讓人喝了心跳加快。
+	23.	包種茶
+台語：包種茶真清香，予人感覺清爽。
+台羅：Pau-tsióng-tê tsin tshing-phang, hōo lâng kám-kak tshing-sóng.
+中文：包種茶很清香，讓人覺得清爽。
+	24.	礦泉水
+台語：運動了後欲補水，啉礦泉水上好。
+台羅：Ūn-tōng liáu-āu beh póo-tsuí, lim khòng-tsuânn-tsuí siōng hó.
+中文：運動後要補水，喝礦泉水最好。
+	25.	麥芽膏
+台語：細漢的時陣，上愛食麥芽膏。
+台羅：Sè-hàn ê sî-tsūn, siōng ài tsia̍h be̍h-gê-ko.
+中文：小時候最喜歡吃麥芽糖膏。
+	26.	筒仔米糕
+台語：夜市攤仔有賣筒仔米糕。
+台羅：Iā-tshī thàn-á ū bē tâng-á-bí-ko.
+中文：夜市攤子有賣筒仔米糕。
+	27.	栗子
+台語：秋天街仔攤仔常常有賣烤栗子。
+台羅：Tshiu-thinn ke-á thàn-á tiông-tiông ū bē khó-la̍t-tsí.
+中文：秋天街頭常常有人賣烤栗子。
+	28.	海帶
+台語：海帶湯真清甜。
+台羅：Hái-tuà-thng tsin tshing-tinn.
+中文：海帶湯很清甜。
+	29.	烏醋
+台語：食扁食愛摻烏醋。
+台羅：Tsia̍h piánn-sit ài tsham oo-tshòo.
+中文：吃餛飩要加烏醋。
+	30.	卵仁
+台語：月餅內底攏有一粒卵仁。
+台羅：Gue̍h-piánn lāi-té lóng ū tsi̍t lia̍p nn̄g-jîn.
+中文：月餅裡面都有一顆蛋黃。
+	31.	肉酥
+台語：肉酥配稀飯真適合。
+台羅：Bah-soo phuè tshing-muê tsin sik-ha̍p.
+中文：肉鬆配稀飯很適合。
+	32.	肉拊
+台語：肉拊切薄片來烤真香。
+台羅：Bah-hú tshiat po̍h-phìnn lâi khó tsin phang.
+中文：肉乾切薄片來烤很香。
+	33.	飯丸
+台語：早餐食一粒飯丸就會飽。
+台羅：Tsá-tsán tsia̍h tsi̍t lia̍p pn̄g-uân tō ē pá.
+中文：早餐吃一顆飯糰就會飽。
+	34.	饅頭
+台語：阮阿公上愛食白饅頭。
+台羅：Guán a-kong siōng ài tsia̍h pe̍h bán-thô.
+中文：我爺爺最喜歡吃白饅頭。
+	35.	豆沙
+台語：豆沙餅攏真甜。
+台羅：Tāu-se-piánn lóng tsin tinn.
+中文：豆沙餅都很甜。
+	36.	樹奶糖
+台語：囡仔真愛食樹奶糖。
+台羅：Gín-á tsin ài tsia̍h tshiū-ling-thn̂g.
+中文：小孩很愛吃口香糖。
+	37.	餅仔
+台語：月餅是一種傳統餅仔。
+台羅：Gue̍h-piánn sī tsi̍t tsióng thuân-thóng piánn-á.
+中文：月餅是一種傳統點心。
+	38.	豆奶
+台語：豆奶是植物性卵白質的來源。
+台羅：Tāu-ling sī tsi̍t-bu̍t-sìng nn̄g-pe̍h-tsit ê lâi-guân.
+中文：豆漿是植物性蛋白質的來源。
+	39.	米奶
+台語：米奶口味較淡，予囡仔真適合。
+台羅：Bí-ling kháu-bī khah tām, hōo gín-á tsin sik-ha̍p.
+中文：米漿味道比較淡，很適合小孩。
+	40.	肉包
+台語：早頓攏會食肉包配豆漿。
+台羅：Tsá-tǹg lóng ē tsia̍h bah-pau phuè tāu-ling.
+中文：早餐常常吃肉包配豆漿。
+	41.	白飯
+台語：阮兜逐頓飯攏無離開白飯。
+台羅：Guán tau ta̍k-tǹg-pn̄g lóng bô lī-khui pe̍h-pn̄g.
+中文：我家每餐都離不開白飯。
+	42.	菜色
+台語：你煮的菜色真豐富。
+台羅：Lí tsú ê tshài-sik tsin hong-hù.
+中文：你煮的菜色很豐富。
+	43.	菱角
+台語：中秋節攏會煮菱角來食。
+台羅：Tiong-tshiu-tseh lóng ē tsú lîng-kak lâi tsia̍h.
+中文：中秋節時都會煮菱角吃。
+	44.	燒餅
+台語：燒餅夾油條真好食。
+台羅：Sio-piánn kah iû-tsia̍h-kué tsin hó-tsia̍h.
+中文：燒餅夾油條很好吃。
+	45.	飲料
+台語：囡仔愛啉甜飲料。
+台羅：Gín-á ài lim tinn ím-liāu.
+中文：小孩喜歡喝甜飲料。
+	46.	滷味
+台語：夜市的滷味攏有真濟選擇。
+台羅：Iā-tshī ê lóo-bī lóng ū tsin tsē suán-tik.
+中文：夜市的滷味有很多選擇。
+	47.	雞腿
+台語：雞腿便當上受歡迎。
+台羅：Ke-thuí piān-tong siōng siū huan-gîng.
+中文：雞腿便當最受歡迎。
+	48.	雞排
+台語：夜市的雞排攤攏排真長的隊。
+台羅：Iā-tshī ê ke-pâi thàn lóng pâi tsin tn̂g ê tuī.
+中文：夜市的雞排攤位都排很長的隊。
+	49.	牛排
+台語：食牛排的時陣愛煎五分熟才真合口味。
+台羅：Tsia̍h gû-pâi ê sî-tsūn ài tsian gōo hun-si̍k tsiah tsin ha̍p kháu-bī.
+中文：吃牛排時要煎五分熟才合口味。
+	50.	蛇肉
+台語：蛇肉有人講補，毋過無啥人敢食。
+台羅：Tsuâ-bah ū lâng kóng póo, m̄-koh bô siánn-lâng kánn tsia̍h.
+中文：有人說蛇肉很補，不過沒什麼人敢吃。
+
+51.	稀飯（清糜）
+台語：老人食稀飯較容易消化。
+台羅：Lāu-lâng tsia̍h tshing-muê khah iông-ī siau-huà.
+中文：老人吃稀飯比較容易消化。
+	52.	蜂蜜水（蜜茶）
+台語：運動了後啉一杯蜂蜜水，會較袂喘。
+台羅：Ūn-tōng liáu-āu lim tsi̍t pue bit-tê, ē khah bē tshuán.
+中文：運動後喝一杯蜂蜜水，會比較不喘。
+	53.	雞翅（雞翼）
+台語：雞翼烤甲香噴噴。
+台羅：Ke-sit khó kah phang-phùn-phùn.
+中文：烤雞翅香噴噴的。
+	54.	鹼粽
+台語：鹼粽配糖食真清涼。
+台羅：Kinn-tsàng phuè thn̂g tsia̍h tsin tshing-liâng.
+中文：鹼粽配糖吃很清涼。
+	55.	冷盤
+台語：結婚桌菜一定會有冷盤。
+台羅：Kiat-hun toh-tshài it-tīng ē ū líng-puânn.
+中文：結婚宴桌菜一定會有冷盤。
+	56.	高粱酒
+台語：伊喝一杯高粱酒，面攏紅起來矣。
+台羅：I lim tsi̍t pue kau-liâng-tsiú, bīn lóng âng–khí-lâi–ah.
+中文：他喝了一杯高粱酒，臉都紅起來了。
+	57.	沙拉油
+台語：煎菜頭粿愛用沙拉油。
+台羅：Tsian tshài-thâu-kué ài iōng sa-lá-iû.
+中文：煎蘿蔔糕要用沙拉油。
+	58.	苦茶油
+台語：苦茶油雞是客家有名的料理。
+台羅：Khóo-tê-iû-ke sī Kheh-ka iú-miâ ê liāu-lí.
+中文：苦茶油雞是客家有名的料理。
+	59.	胡椒粉
+台語：牛排烤好後愛撒胡椒粉較有香味。
+台羅：Gû-pâi khó hó-āu ài soah hôo-tsio-hún khah ū phang-bī.
+中文：牛排烤好後要撒胡椒粉才更香。
+	60.	味素（味素粉）
+台語：煮湯加一點味素粉會較甘。
+台羅：Tsú-thng ka tsi̍t tiám bī-sòo-hún ē khah kam.
+中文：煮湯加一點味精會比較鮮甜。
+	61.	辣椒醬（薟椒仔醬）
+台語：炸豆干愛沾辣椒醬，才會夠味。
+台羅：Tsà tāu-kuann ài tiam hiam-tsio-á-tsiùnn, tsiah ē kàu-bī.
+中文：炸豆干要沾辣椒醬才夠味。
+
+
+❌ 缺失單字報告:
+============================================================
+以下 105 個單字沒有找到可用的例句：
+
+📋 無用例 (105個):
+   胡椒粉     稀飯      什錦麵     飯糰      零嘴、零食   麥仔茶     湯圓      花生      蜂蜜水     肉包      
+   稻穀      口香糖     米粉炒     刈包      雞蛋糕     割包      麥芽膏     礦泉水     茶葉      雞翅      
+   蛋清      肉脯      餅乾      樹奶糖     牛肉麵     高粱酒     花枝丸     羊肉爐     菱角      焢肉飯     
+   蜜餞      包子      卵仁      蛇肉      牛舌餅     香腸      油豆腐     粽子      桃子      雞腿      
+   豆沙      米漿      炒米粉     蚵仔煎     棗子、紅棗   皮蛋      鹼粽      米奶      檸檬汁     海帶      
+   便當、飯盒   李子      肉拊      肉酥      筒仔米糕    麥茶      牛排      麥芽糖     餅仔      芋頭冰     
+   蘿蔔糕     芋冰      豬腳      蛤蜊、文蛤   燒餅      清糜      蛋黃      挫冰      菜頭粿     雞翼      
+   栗子      滷味      鹹酥雞     飯丸      蜜茶      包種茶     滷肉飯     肉圓      辣椒醬     麵線糊     
+   肉鬆      饅頭      糖果      沙茶      碗粿      沙拉油     雞排      水餃      烏醋      冷盤      
+   炕肉飯     白飯      苦茶油     豆漿      豆干      豆奶      薟椒仔醬    薑母鴨     豬肚      豆乾糋     
+   醬油      麻糬      飲料      烏龍茶     菜色      
+
+💡 建議：
+   1. 這些單字可能在教育部辭典中沒有用例
+   2. 可以嘗試其他台語辭典或資源
+   3. 或者手動查詢相關的同義詞

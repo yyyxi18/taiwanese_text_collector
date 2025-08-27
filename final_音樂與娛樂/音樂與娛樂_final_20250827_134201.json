@@ -1,0 +1,369 @@
+{
+  "metadata": {
+    "scraper_type": "最終版手動操作風格爬蟲",
+    "operation_flow": "輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理",
+    "source_url": "https://sutian.moe.edu.tw/zh-hant/tshiau/",
+    "extraction_date": "20250827_134201",
+    "statistics": {
+      "total_words": 45,
+      "successful_extractions": 24,
+      "missing_words": 21,
+      "success_rate": "53.3%",
+      "quality_stats": {
+        "完整": 24,
+        "良好": 0,
+        "基本": 0,
+        "不完整": 0
+      }
+    }
+  },
+  "successful_records": [
+    {
+      "word": "露營",
+      "taiwanese_sentence": "頭擺露營誠有局，毋但暗時欲蹛的布棚愛家己搭，煮食嘛愛先學會曉燃柴起火。",
+      "tailo_pronunciation": "Thâu-pái lōo-iânn tsiânn ū-kio̍k, m̄-nā àm-sî beh tuà ê pòo-pênn ài ka-kī tah, tsú-tsia̍h mā ài sing o̍h ē-hiáu hiânn-tshâ khí-hué.。",
+      "chinese_translation": "第一次露營很有意思，不但要自己搭建晚上住的帳篷，烹飪也要先學會燒柴生火。",
+      "source_word": "有局",
+      "extraction_time": "2025-08-27 13:40:14",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "行棋",
+      "taiwanese_sentence": "阿爸退休了後定定佇公園佮人泡茶、行棋咧消磨時間。",
+      "tailo_pronunciation": "A-pah thè-hiu liáu-āu tiānn-tiānn tī kong-hn̂g kah lâng phàu tê, kiânn-kî teh siau-môo sî-kan.。",
+      "chinese_translation": "父親退休後常常在公園和人泡茶、下棋來打發時間。",
+      "source_word": "消磨",
+      "extraction_time": "2025-08-27 13:40:17",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "喝拳",
+      "taiwanese_sentence": "若有愛喝拳啉酒，過通關的場合，興酒的阿貴定著走第一的。",
+      "tailo_pronunciation": "Nā ū ài huah-kûn lim tsiú, kuè-thong-kuan ê tiûnn-ha̍p, hìng tsiú ê A-kuì tiānn-tio̍h tsáu tē-it--ê.。",
+      "chinese_translation": "如果遇到要划拳喝酒、打通關的場合，好酒的阿貴一定是第一個到。",
+      "source_word": "過通關",
+      "extraction_time": "2025-08-27 13:40:22",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "唱歌",
+      "taiwanese_sentence": "阿義仔歌聲真好，老師鼓勵伊去參加歌唱比賽，伊攏講伊足驚上台唱歌。老師講：「『驚驚袂著等。』你愛勇敢徛起去舞台，才會當予人知影你的歌聲有偌好。」",
+      "tailo_pronunciation": "A-gī--á kua-siann tsin hó, lāu-su kóo-lē i khì tsham-ka kua-tshiùnn pí-sài, i lóng kóng i tsiok kiann tsiūnn-tâi tshiùnn-kua. Lāu-su kóng, “ ‘Kiann-kiann bē tio̍h-tíng.’ Lí ài ióng-kám khiā khí-khì bú-tâi, tsiah ē-tàng hōo lâng tsai-iánn lí ê kua-siann ū guā hó.”。老師說 ：「『光是恐懼擔憂不會獲得優勝。』你要勇敢站上舞台，才能讓人知道你的歌聲有多好。」",
+      "chinese_translation": "小義歌聲很好，老師鼓勵他去參加歌唱比賽，他都說他很怕上台唱歌。老師說 ：「『光是恐懼擔憂不會獲得優勝。』你要勇敢站上舞台，才能讓人知道你的歌聲有多好。」",
+      "source_word": "驚驚袂著等。",
+      "extraction_time": "2025-08-27 13:40:25",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "連續劇",
+      "taiwanese_sentence": "一寡八點檔的連續劇，拄開始真精彩，路尾就漚戲拖棚。",
+      "tailo_pronunciation": "Tsi̍t-kuá peh-tiám-tóng ê liân-sio̍k-kio̍k, tú-khai-sí tsin tsing-tshái, lōo-bué tō àu-hì-thua-pênn.。",
+      "chinese_translation": "一些八點檔的連續劇，一開始很精彩，後來就歹戲拖棚。",
+      "source_word": "漚戲拖棚",
+      "extraction_time": "2025-08-27 13:40:31",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "跳舞",
+      "taiwanese_sentence": "我來唱歌，你來跳舞。",
+      "tailo_pronunciation": "Guá lâi tshiùnn-kua, lí lâi thiàu-bú.。",
+      "chinese_translation": "我來唱歌，你來跳舞。",
+      "source_word": "來",
+      "extraction_time": "2025-08-27 13:40:39",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "釣魚",
+      "taiwanese_sentence": "北海岸的痟狗湧真恐怖，逐年攏有人予伊絞去，毋過釣魚的人拍死無退，人講：「目睭看佇粿，跤踏著火。」𪜶攏毋知通驚。",
+      "tailo_pronunciation": "Pak-hái-huānn ê siáu-káu-íng tsin khióng-pòo, ta̍k-nî lóng ū lâng hōo i ká--khì, m̄-koh tiò-hî ê lâng phah-sí bô thè, lâng kóng, “Ba̍k-tsiu khuànn tī kué, kha ta̍h-tio̍h hué.” In lóng m̄ tsai thang kiann.。",
+      "chinese_translation": "北海岸的瘋狗浪很恐怖，每年都有人被它捲走，不過釣魚的人打死不退，人家說「眼睛看著糕品，腳踩到火」，他們都不知道該害怕。",
+      "source_word": "目睭看佇粿，跤踏著火。",
+      "extraction_time": "2025-08-27 13:40:42",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "唱片",
+      "taiwanese_sentence": "這塊唱片這馬真食市。",
+      "tailo_pronunciation": "Tsit tè tshiùnn-phìnn tsit-má tsin tsia̍h-tshī.。",
+      "chinese_translation": "這張唱片現在很暢銷。",
+      "source_word": "食市",
+      "extraction_time": "2025-08-27 13:40:47",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "電影",
+      "taiwanese_sentence": "原來是欲佮查某囡仔去看電影，莫怪伊喙笑目笑。",
+      "tailo_pronunciation": "Guân-lâi sī beh kah tsa-bóo gín-á khì khuànn tiān-iánn, bo̍k-kuài i tshuì-tshiò-ba̍k-tshiò.。",
+      "chinese_translation": "原來就是要和女孩子去看電影，怪不得他眉開眼笑。",
+      "source_word": "莫怪",
+      "extraction_time": "2025-08-27 13:40:59",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "搬戲",
+      "taiwanese_sentence": "歌仔戲演員搬戲進前佮戲搬煞了後，攏愛用真濟時間畫妝佮落妝。",
+      "tailo_pronunciation": "Kua-á-hì ián-uân puann-hì tsìn-tsîng kah hì puann-suah liáu-āu, lóng ài īng tsin tsē sî-kan uē-tsng kah lo̍h-tsng.。",
+      "chinese_translation": "歌仔戲演員演戲前與下戲後，都要用很多時間化妝與卸妝。",
+      "source_word": "落妝",
+      "extraction_time": "2025-08-27 13:41:02",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "𬦰山",
+      "taiwanese_sentence": "你喔！「無彼號尻川，想欲食彼號瀉藥」，行無三步就怦怦喘的人，也欲參人去𬦰山。",
+      "tailo_pronunciation": "Lí--ooh! “Bô hit-lō kha-tshng, siūnn-beh tsia̍h hit-lō sià-io̍h”, kiânn bô sann pōo tō phēnn-phēnn-tshuán ê lâng, iā beh tsham lâng khì peh-suann.。",
+      "chinese_translation": "你喔﹗「沒有那種能耐，還妄想做那種事」，走不到三步就氣喘吁吁的人，也想跟人家去爬山。",
+      "source_word": "無彼號尻川，想欲食彼號瀉藥。",
+      "extraction_time": "2025-08-27 13:41:05",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "花燈",
+      "taiwanese_sentence": "這擺的花燈真趣味，線頂有真濟人咧討論。",
+      "tailo_pronunciation": "Tsit pái ê hue-ting tsin tshù-bī, suànn-tíng ū tsin tsē lâng teh thó-lūn.。",
+      "chinese_translation": "這次的燈會很有趣，網路上有很多人在討論。",
+      "source_word": "線頂",
+      "extraction_time": "2025-08-27 13:41:07",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "講古",
+      "taiwanese_sentence": "若欲予人會佮意聽你講古，上無，腹肚內嘛愛有膏，像你按呢講無三兩句話就講袂落去，真正是「豬頭皮炸無油」。",
+      "tailo_pronunciation": "Nā beh hōo lâng ē kah-ì thiann lí kóng-kóo, siōng-bô, pak-tóo-lāi mā ài ū ko, tshiūnn lí án-ne kóng bô sann nn̄g kù uē tō kóng bē lo̍h--khì, tsin-tsiànn sī “ti-thâu-phuê tsuànn bô iû”.。",
+      "chinese_translation": "若想要別人喜歡聽你說故事，至少，肚子也要有一些墨水，像你這樣講不到兩三句話就說不下去，真的是「肚子裡沒墨水」。",
+      "source_word": "豬頭皮炸無油。",
+      "extraction_time": "2025-08-27 13:41:10",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "布袋戲",
+      "taiwanese_sentence": "阮去公園散步，行到中站，看著人咧弄布袋戲尪仔，有影誠心適。",
+      "tailo_pronunciation": "Guán khì kong-hn̂g sàn-pōo, kiânn kàu tiong-tsām, khuànn-tio̍h lâng teh lāng pòo-tē-hì ang-á, ū-iánn tsiânn sim-sik.。",
+      "chinese_translation": "我們到公園散步，走到半路，看到有人在操弄布袋戲偶，非常有趣。",
+      "source_word": "中站",
+      "extraction_time": "2025-08-27 13:41:13",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "彈琴",
+      "taiwanese_sentence": "伊本成真愛彈琴，煞因為𪜶老爸逼伊苦練，就按呢起慼，放棄音樂。",
+      "tailo_pronunciation": "I pún-tsiânn tsin ài tuânn-khîm, suah in-uī in lāu-pē pik i khóo-liān, tsiū-án-ne khí-tsheh, hòng-khì im-ga̍k.。",
+      "chinese_translation": "他本來很喜歡彈琴，卻因為爸爸逼迫他苦練，因而心生厭惡感，放棄音樂。",
+      "source_word": "起慼",
+      "extraction_time": "2025-08-27 13:41:16",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "鼓吹",
+      "taiwanese_sentence": "想袂到你竟然會曉歕鼓吹。",
+      "tailo_pronunciation": "Siūnn-bē-kàu lí kìng-jiân ē-hiáu pûn kóo-tshue.。",
+      "chinese_translation": "想不到你竟然會吹嗩吶。",
+      "source_word": "鼓吹",
+      "extraction_time": "2025-08-27 13:41:27",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "演唱會",
+      "taiwanese_sentence": "逐个佇遐排列，是為著欲買演唱會的門票。",
+      "tailo_pronunciation": "Ta̍k ê tī hia pâi-lia̍t, sī uī-tio̍h beh bé ián-tshiùnn-huē ê mn̂g-phiò.。",
+      "chinese_translation": "每個人在那裡排隊，是為了要買演唱會的門票。",
+      "source_word": "排列",
+      "extraction_time": "2025-08-27 13:41:30",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "展覽",
+      "taiwanese_sentence": "看展覽的時，千萬莫手賤去摸展覽品。",
+      "tailo_pronunciation": "Khuànn tián-lám ê sî, tshian-bān mài tshiú-tsiān khì bong tián-lám-phín.。",
+      "chinese_translation": "看展覽時，千萬別手癢去摸展覽品。",
+      "source_word": "手賤",
+      "extraction_time": "2025-08-27 13:41:33",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "歌仔戲",
+      "taiwanese_sentence": "歌仔戲演員搬戲進前佮戲搬煞了後，攏愛用真濟時間畫妝佮落妝。",
+      "tailo_pronunciation": "Kua-á-hì ián-uân puann-hì tsìn-tsîng kah hì puann-suah liáu-āu, lóng ài īng tsin tsē sî-kan uē-tsng kah lo̍h-tsng.。",
+      "chinese_translation": "歌仔戲演員演戲前與下戲後，都要用很多時間化妝與卸妝。",
+      "source_word": "落妝",
+      "extraction_time": "2025-08-27 13:41:39",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "魔術",
+      "taiwanese_sentence": "昨暝佇夜市仔遐，我有看見人咧表演魔術。",
+      "tailo_pronunciation": "Tsa-mê tī iā-tshī-á hia, guá ū khuànn-kìnn lâng teh piáu-ián môo-su̍t.。",
+      "chinese_translation": "昨晚在夜市那，我看見有人在表演魔術。",
+      "source_word": "看見",
+      "extraction_time": "2025-08-27 13:41:44",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "聲音",
+      "taiwanese_sentence": "老師指導學生朗讀，要求聲音愛讀予清、讀予明。",
+      "tailo_pronunciation": "Lāu-su tsí-tō ha̍k-sing lóng-tho̍k, iau-kiû siann-im ài tha̍k hōo tshing, tha̍k hōo bîng.。",
+      "chinese_translation": "老師指導學生朗讀，要求聲音清晰、明朗。",
+      "source_word": "朗讀",
+      "extraction_time": "2025-08-27 13:41:47",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "演講",
+      "taiwanese_sentence": "你若欲去參加演講比賽，想欲講甲會平棒閣紲拍，著愛下工夫。",
+      "tailo_pronunciation": "Lí nā beh khì tsham-ka ián-káng pí-sài, siūnn-beh kóng kah ē pênn-pāng koh suà-phah, tio̍h-ài hē kang-hu.。",
+      "chinese_translation": "你若想去參加演講比賽，想要講得四平八穩又流利，必得下功夫。",
+      "source_word": "平棒",
+      "extraction_time": "2025-08-27 13:41:55",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "鋼琴",
+      "taiwanese_sentence": "音樂比賽彈鋼琴的時，阿美彈走精去，比賽比了伊是哭甲目屎四淋垂，老師緊共伊安慰講：「仙人拍鼓有時錯，跤步踏差啥人無？」",
+      "tailo_pronunciation": "Im-ga̍k pí-sài tuânn kǹg-khîm ê sî, A-bí tuânn tsáu-tsing--khì, pí-sài pí-liáu i sī khàu kah ba̍k-sái sì-lâm-suî, lāu-su kín kā i an-uì kóng, “Sian-jîn phah kóo iú sî tshò, kha-pōo ta̍h-tsha siánn-lâng bô?”。人非聖賢，孰能無過？」",
+      "chinese_translation": "音樂比賽彈鋼琴時，小美彈錯了，他賽後哭得唏哩嘩啦，老師趕緊安慰他說：「人有失足，馬有失蹄。人非聖賢，孰能無過？」",
+      "source_word": "仙人拍鼓有時錯，跤步踏差啥人無？",
+      "extraction_time": "2025-08-27 13:41:58",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "樂器",
+      "taiwanese_sentence": "伊雖然穿插若庄跤倯咧，毋過泅水、拍球、唱歌、演奏樂器逐項會，真正是「烏矸仔貯豆油」，予人看袂出。",
+      "tailo_pronunciation": "I sui-jiân tshīng-tshah ná tsng-kha-sông--leh, m̄-koh siû-tsuí, phah-kiû, tshiùnn-kua, ián-tsàu ga̍k-khì ta̍k hāng ē, tsin-tsiànn sī “oo kan-á té tāu-iû”, hōo lâng khuànn bē tshut.。",
+      "chinese_translation": "他雖然衣著打扮像鄉巴佬，不過游泳、打球、唱歌、演奏樂器樣樣會，真是「黑色罐子裝上醬油」，讓人看不出來。",
+      "source_word": "烏矸仔貯豆油。",
+      "extraction_time": "2025-08-27 13:42:01",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    }
+  ],
+  "missing_words": [
+    {
+      "word": "休閒",
+      "reason": "無用例",
+      "index": 1
+    },
+    {
+      "word": "音樂會",
+      "reason": "無用例",
+      "index": 2
+    },
+    {
+      "word": "嗩吶",
+      "reason": "無用例",
+      "index": 3
+    },
+    {
+      "word": "笛子",
+      "reason": "無用例",
+      "index": 4
+    },
+    {
+      "word": "樂團",
+      "reason": "無用例",
+      "index": 5
+    },
+    {
+      "word": "說書、說故事",
+      "reason": "無用例",
+      "index": 6
+    },
+    {
+      "word": "舞蹈",
+      "reason": "無用例",
+      "index": 9
+    },
+    {
+      "word": "下棋",
+      "reason": "無用例",
+      "index": 12
+    },
+    {
+      "word": "哨子",
+      "reason": "無用例",
+      "index": 14
+    },
+    {
+      "word": "𥰔仔",
+      "reason": "無用例",
+      "index": 15
+    },
+    {
+      "word": "爬山",
+      "reason": "無用例",
+      "index": 18
+    },
+    {
+      "word": "演說、講演、演說會",
+      "reason": "無用例",
+      "index": 20
+    },
+    {
+      "word": "廣播",
+      "reason": "無用例",
+      "index": 21
+    },
+    {
+      "word": "觱仔",
+      "reason": "無用例",
+      "index": 22
+    },
+    {
+      "word": "戲劇",
+      "reason": "無用例",
+      "index": 30
+    },
+    {
+      "word": "划拳、猜拳",
+      "reason": "無用例",
+      "index": 31
+    },
+    {
+      "word": "豫牌仔",
+      "reason": "無用例",
+      "index": 32
+    },
+    {
+      "word": "農場",
+      "reason": "無用例",
+      "index": 36
+    },
+    {
+      "word": "玩牌",
+      "reason": "無用例",
+      "index": 38
+    },
+    {
+      "word": "山歌",
+      "reason": "無用例",
+      "index": 41
+    },
+    {
+      "word": "演戲、表演",
+      "reason": "無用例",
+      "index": 42
+    }
+  ]
+}

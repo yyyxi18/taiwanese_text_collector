@@ -1,0 +1,137 @@
+最終版台語辭典擷取完整報告 - 科技與通訊
+================================================================================
+🎯 操作流程：輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理
+📊 完整統計：
+   - 總計單字：19 個
+   - 成功擷取：12 個
+   - 缺失單字：7 個
+   - 成功率：63.2%
+⏰ 擷取時間：20250827_141513
+
+🌟 完整擷取（台語+台羅+中文）:
+------------------------------------------------------------
+ 1. 翕相機
+    台語：欠錢毋還，我欲提你的翕相機來拄數。
+    台羅：Khiàm tsînn m̄ hîng, guá beh the̍h lí ê hip-siòng-ki lâi tú-siàu.。
+    中文：欠錢不還，我要拿你的相機來抵帳。
+    來源：拄數
+
+ 2. 網路
+    台語：政治人物佇電視頂冤甲目降鬚聳，雙方佇鏡頭的尻川後早就閣你兄我弟矣，網路頂的支持者煞猶原吵甲袂收山，真正是「做戲的欲煞，看戲的毋煞」。
+    台羅：Tsìng-tī jîn-bu̍t tī tiān-sī-tíng uan kah ba̍k-kàng-tshiu-tshàng, siang-hong tī kiànn-thâu ê kha-tshng-āu tsá tō koh lí-hiann-guá-tī--ah, bāng-lōo-tíng ê tsi-tshî-tsiá suah iu-guân tshá kah bē-siu-suann, tsin-tsiànn sī “tsò-hì--ê beh suah, khuànn-hì--ê m̄ suah”.。
+    中文：政治人物在電視上吵得怒目相視，雙方在鏡頭後早就又稱兄道弟了，網路上的支持者卻仍吵得不可開交，真的是「演戲的要結束，看戲的卻不罷休。
+    來源：做戲的欲煞，看戲的毋煞。
+
+ 3. 機器
+    台語：這批機器著先改裝，才會當配合新的規格。
+    台羅：Tsit phue ki-khì tio̍h sing kái-tsong, tsiah ē-tàng phuè-ha̍p sin ê kui-keh.。
+    中文：這批機器必須先改裝，才能配合新的規格。
+    來源：改裝
+
+ 4. 電視
+    台語：政治人物佇電視頂冤甲目降鬚聳，雙方佇鏡頭的尻川後早就閣你兄我弟矣，網路頂的支持者煞猶原吵甲袂收山，真正是「做戲的欲煞，看戲的毋煞」。
+    台羅：Tsìng-tī jîn-bu̍t tī tiān-sī-tíng uan kah ba̍k-kàng-tshiu-tshàng, siang-hong tī kiànn-thâu ê kha-tshng-āu tsá tō koh lí-hiann-guá-tī--ah, bāng-lōo-tíng ê tsi-tshî-tsiá suah iu-guân tshá kah bē-siu-suann, tsin-tsiànn sī “tsò-hì--ê beh suah, khuànn-hì--ê m̄ suah”.。
+    中文：政治人物在電視上吵得怒目相視，雙方在鏡頭後早就又稱兄道弟了，網路上的支持者卻仍吵得不可開交，真的是「演戲的要結束，看戲的卻不罷休。
+    來源：做戲的欲煞，看戲的毋煞。
+
+ 5. 電線
+    台語：兩條電線相拍電，出火金星。
+    台羅：Nn̄g tiâu tiān-suànn sio-phah-tiān, tshut hué-kim-tshenn.。
+    中文：兩條電線發生短路，冒出火花。
+    來源：火金星
+
+ 6. 電話
+    台語：我才臆伊無欲來，聖拄聖，伊就敲電話講欲請假矣。
+    台羅：Guá tsiah ioh i bô beh lâi, siànn-tú-siànn, i tō khà tiān-uē kóng beh tshíng-ká--ah.。
+    中文：我才猜他不來，巧極了，他就打電話來請假了。
+    來源：聖拄聖
+
+ 7. 影印
+    台語：毋免抄啦，提去影印較緊。
+    台羅：M̄-bián tshau--lah, the̍h-khì iánn-ìn khah kín.。
+    中文：不用抄啦，拿去影印比較快。
+
+ 8. 電腦
+    台語：彼間大賣場的電腦連紲予人偷提幾若十台去，警方懷疑是因為「內神通外鬼」，才會損失遮嚴重。
+    台羅：Hit king tuā-bē-tiûnn ê tiān-náu liân-suà hōo lâng thau-the̍h kuí-nā tsa̍p tâi--khì, kíng-hong huâi-gî sī in-uī “lāi sîn thong guā kuí”, tsiah ē sún-sit tsiah giâm-tiōng.。
+    中文：那間大賣場的電腦連續被偷走幾十台，警方懷疑是因為「內神通外鬼」，才會損失這麼嚴重。
+    來源：內神通外鬼。
+
+ 9. 手機
+    台語：你若欲開店賣手機仔，著愛綴會著科技咧發展的速度，毋通「過時賣曆日」，去賣以早彼種無網路功能的，這馬真罕得看著有人咧用矣。
+    台羅：Lí nā beh khui-tiàm bē tshiú-ki-á, tio̍h-ài tuè ē tio̍h kho-ki teh huat-tián ê sok-tōo, m̄-thang “kuè-sî bē la̍h-ji̍t”, khì bē í-tsá hit tsióng bô bāng-lōo kong-lîng--ê, tsit-má tsin hán-tit khuànn-tio̍h ū lâng teh īng--ah.。
+    中文：你如果想開店販售手機，就得追上科技發展的速度，不要「賣過期的日曆」，賣以前那種沒有網路功能的手機，現在很少看到有人使用了。
+    來源：過時賣曆日。
+
+10. 手機仔
+    台語：你若欲開店賣手機仔，著愛綴會著科技咧發展的速度，毋通「過時賣曆日」，去賣以早彼種無網路功能的，這馬真罕得看著有人咧用矣。
+    台羅：Lí nā beh khui-tiàm bē tshiú-ki-á, tio̍h-ài tuè ē tio̍h kho-ki teh huat-tián ê sok-tōo, m̄-thang “kuè-sî bē la̍h-ji̍t”, khì bē í-tsá hit tsióng bô bāng-lōo kong-lîng--ê, tsit-má tsin hán-tit khuànn-tio̍h ū lâng teh īng--ah.。
+    中文：你如果想開店販售手機，就得追上科技發展的速度，不要「賣過期的日曆」，賣以前那種沒有網路功能的手機，現在很少看到有人使用了。
+    來源：過時賣曆日。
+
+11. 電池
+    台語：彼手機仔都已經有打對折矣，伊閣硬拗，叫店員送伊電池佮配件。
+    台羅：He tshiú-ki-á to í-king ū tánn tuì-tsiat--ah, i koh ngē-áu, kiò tiàm-uân sàng i tiān-tî kah phuè-kiānn.。
+    中文：那個手機都已經打了對折了，他還強求，叫店員送他電池和配件。
+    來源：硬拗
+	
+1.	音響 im-hióng
+
+	•	台語：伊逐工攏開音響聽音樂，真享受。
+	•	台羅：I ta̍k-kang lóng khui im-hióng thiann im-ga̍k, tsin hiáng-siū.。
+	•	中文：他每天都開音響聽音樂，很享受。
+
+
+2.	上網 tsiūnn-bāng
+
+	•	台語：學生若欲查資料，攏會去圖書館上網。
+	•	台羅：Ha̍k-sing nā beh tsa tsu-liāu, lóng ē khì tôo-su-kuán tsiūnn-bāng.。
+	•	中文：學生如果要查資料，都會去圖書館上網。
+
+3.	插座 tshah-tsō
+
+	•	台語：欲煮電鍋，記得電線愛插佇插座內。
+	•	台羅：Beh tsú tiān-kue, kì-tit tiān-suànn ài tshah tī tshah-tsō lāi.。
+	•	中文：要煮電鍋，記得電線要插在插座裡。
+
+4.	充電器 tshiong-tiān-khì
+
+	•	台語：我手機無電矣，借我一下充電器好無？
+	•	台羅：Guá tshiú-ki bô tiān–ah, tsioh guá tsi̍t-ē tshiong-tiān-khì hó–bô?。
+	•	中文：我的手機沒電了，借我一下充電器好嗎？
+
+5.	廣告 kóng-kò
+
+	•	台語：電視攏有真濟廣告，有的誠趣味，有的閣真煩。
+	•	台羅：Tiān-sī lóng ū tsin tsē kóng-kò, ū ê tsiânn thú-bī, ū ê koh tsin huân.。
+	•	中文：電視都有很多廣告，有的很有趣，有的卻很煩。
+
+6.	天線 thian-suànn
+
+	•	台語：舊電視機無接好天線，畫面攏無清楚。
+	•	台羅：Kū tiān-sī-ki bô tsiap hó thian-suànn, uē-bīn lóng bô tshing-tshóo.。
+	•	中文：舊電視沒有接好天線，畫面都不清楚。
+
+7.	電纜 tiān-lám
+
+	•	台語：因為電纜斷去，咱遮仔社區停電一工。
+	•	台羅：In-uī tiān-lám tn̄g–khì, lán tsia-á siā-khu thîng-tiān tsi̍t kang.。
+	•	中文：因為電纜斷掉，我們這個社區停電了一天。
+
+📝 良好擷取:
+------------------------------------------------------------
+ 1. 上網
+    台語：欲了解這个議題，你聽好先上網搜揣相關的資料。
+    台羅：Beh liáu-kái tsit ê gī-tê, lí thìng-hó sing tsiūnn-bāng tshiau-tshuē siong-kuan ê tsu-liāu.。
+
+❌ 缺失單字報告:
+============================================================
+以下 7 個單字沒有找到可用的例句：
+
+📋 無用例 (7個):
+   照相機     插座      音響      天線      充電器     電纜      廣告      
+
+💡 建議：
+   1. 這些單字可能在教育部辭典中沒有用例
+   2. 可以嘗試其他台語辭典或資源
+   3. 或者手動查詢相關的同義詞

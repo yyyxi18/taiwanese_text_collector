@@ -1,0 +1,879 @@
+{
+  "metadata": {
+    "scraper_type": "最終版手動操作風格爬蟲",
+    "operation_flow": "輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理",
+    "source_url": "https://sutian.moe.edu.tw/zh-hant/tshiau/",
+    "extraction_date": "20250827_124144",
+    "statistics": {
+      "total_words": 119,
+      "successful_extractions": 52,
+      "missing_words": 67,
+      "success_rate": "43.7%",
+      "quality_stats": {
+        "完整": 52,
+        "良好": 0,
+        "基本": 0,
+        "不完整": 0
+      }
+    }
+  },
+  "successful_records": [
+    {
+      "word": "特別",
+      "taiwanese_sentence": "上下班時間，oo-tóo-bái佮自動車蓋濟，欲行過車路著特別細膩。",
+      "tailo_pronunciation": "Siōng-hā-pan sî-kan, oo-tóo-bái kah tsū-tōng-tshia kài tsē, beh kiânn-kuè tshia-lōo tio̍h ti̍k-pia̍t sè-jī.。",
+      "chinese_translation": "上下班時間，機車和汽車非常多，要走過馬路得特別小心。",
+      "source_word": "車路",
+      "extraction_time": "2025-08-27 12:36:25",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "古錐",
+      "taiwanese_sentence": "看兩个大肥相偃，實在真古錐，尻川䫌予人看現現。",
+      "tailo_pronunciation": "Khuànn nn̄g ê tuā-puî sio-ián, si̍t-tsāi tsin kóo-tsui, kha-tshng-phué hōo lâng khuànn-hiān-hiān.。",
+      "chinese_translation": "看兩個肥胖的人在相撲，實在很可愛，屁股肉讓人看得一清二楚。",
+      "source_word": "大肥",
+      "extraction_time": "2025-08-27 12:36:27",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "全部",
+      "taiwanese_sentence": "這擺的損失，全部由我賠償。",
+      "tailo_pronunciation": "Tsit pái ê sún-sit, tsuân-pōo iû guá puê-siông.。",
+      "chinese_translation": "這次的損失，全部由我賠償。",
+      "source_word": "賠償",
+      "extraction_time": "2025-08-27 12:36:47",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "最近",
+      "taiwanese_sentence": "我最近拄著一寡代誌，無蓋順序，毋過我想著阿母捌共我講過：「跋一倒，抾著一隻金雞母。」遮的代誌一定會當予我愈來愈有智慧，勇敢面對一切。",
+      "tailo_pronunciation": "Guá tsuè-kīn tú-tio̍h tsi̍t-kuá tāi-tsì, bô kài sūn-sī, m̄-koh guá siūnn-tio̍h a-bú bat kā guá kóng--kuè, “Pua̍h tsi̍t tó, khioh-tio̍h tsi̍t tsiah kim ke-bó.” Tsia-ê tāi-tsì it-tīng ē-tàng hōo guá jú lâi jú ū tì-huī, ióng-kám bīn-tuì it-tshè.。」這些事情一定能夠讓我越來越有智慧，勇敢面對一切。",
+      "chinese_translation": "我最近遇到一些事情，不是那麼順利，不過我想到媽媽曾經跟我說過：「塞翁失馬，焉知非福。」這些事情一定能夠讓我越來越有智慧，勇敢面對一切。",
+      "source_word": "跋一倒，抾著一隻金雞母。",
+      "extraction_time": "2025-08-27 12:36:49",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "一定",
+      "taiwanese_sentence": "我最近拄著一寡代誌，無蓋順序，毋過我想著阿母捌共我講過：「跋一倒，抾著一隻金雞母。」遮的代誌一定會當予我愈來愈有智慧，勇敢面對一切。",
+      "tailo_pronunciation": "Guá tsuè-kīn tú-tio̍h tsi̍t-kuá tāi-tsì, bô kài sūn-sī, m̄-koh guá siūnn-tio̍h a-bú bat kā guá kóng--kuè, “Pua̍h tsi̍t tó, khioh-tio̍h tsi̍t tsiah kim ke-bó.” Tsia-ê tāi-tsì it-tīng ē-tàng hōo guá jú lâi jú ū tì-huī, ióng-kám bīn-tuì it-tshè.。」這些事情一定能夠讓我越來越有智慧，勇敢面對一切。",
+      "chinese_translation": "我最近遇到一些事情，不是那麼順利，不過我想到媽媽曾經跟我說過：「塞翁失馬，焉知非福。」這些事情一定能夠讓我越來越有智慧，勇敢面對一切。",
+      "source_word": "跋一倒，抾著一隻金雞母。",
+      "extraction_time": "2025-08-27 12:36:55",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "隨便",
+      "taiwanese_sentence": "你袂使隨便入去人的厝內。",
+      "tailo_pronunciation": "Lí bē-sái suî-piān ji̍p-khì lâng ê tshù-lāi.。",
+      "chinese_translation": "你不能隨便進入人家的屋子裡。",
+      "source_word": "隨便",
+      "extraction_time": "2025-08-27 12:37:00",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "故意",
+      "taiwanese_sentence": "你是毋是刁故意欲為難伊？",
+      "tailo_pronunciation": "Lí sī m̄ sī tiau-kòo-ì beh uî-lân--i",
+      "chinese_translation": "你是不是故意要為難他？",
+      "source_word": "為難",
+      "extraction_time": "2025-08-27 12:37:06",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "共同",
+      "taiwanese_sentence": "咱臺灣人是命運共同體，毋通規工冤家、對立，因為「落水平平沉，全無重頭輕」。",
+      "tailo_pronunciation": "Lán Tâi-uân-lâng sī miā-ūn kiōng-tông-thé, m̄-thang kui-kang uan-ke, tuì-li̍p, in-uī “lo̍h tsuí pênn-pênn tîm, tsuân bô tāng-thâu-khin”.。",
+      "chinese_translation": "我們臺灣人是命運共同體，不要整天吵架、對立，否則「兩敗俱傷，誰也沒佔到便宜」。",
+      "source_word": "落水平平沉，全無重頭輕。",
+      "extraction_time": "2025-08-27 12:37:16",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "麻煩",
+      "taiwanese_sentence": "阮兜是阮某咧攏權的，有啥物代誌麻煩你共阮某講。",
+      "tailo_pronunciation": "Guán tau sī guán bóo teh láng-khuân--ê, ū siánn-mih tāi-tsì mâ-huân lí kā guán bóo kóng.。",
+      "chinese_translation": "我家是我太太在掌權的，有什麼事情麻煩你和我太太說。",
+      "source_word": "攏權",
+      "extraction_time": "2025-08-27 12:37:27",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "合軀",
+      "taiwanese_sentence": "這領衫真合軀。",
+      "tailo_pronunciation": "Tsit niá sann tsin ha̍h-su.。",
+      "chinese_translation": "這件衣服很合身。",
+      "source_word": "合軀",
+      "extraction_time": "2025-08-27 12:37:32",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "刁工",
+      "taiwanese_sentence": "彼个頭家蓋惡質，工廠刁工放予倒，家己走去外國享受。",
+      "tailo_pronunciation": "Hit ê thâu-ke kài ok-tsit, kang-tshiúnn thiau-kang pàng hōo tó, ka-kī tsáu-khì guā-kok hiáng-siū.。",
+      "chinese_translation": "那個老板超惡劣，工廠故意放任它倒閉，自己跑到外國去享受。",
+      "source_word": "惡質",
+      "extraction_time": "2025-08-27 12:37:38",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "照起工",
+      "taiwanese_sentence": "彼間公司的頭家倩阿勇做辛勞，毋但攢三頓予伊食，月俸嘛有照起工發，阿勇煞四界共人講這間公司誠凍霜，正港是「桌頂食飯，桌跤放屎」。",
+      "tailo_pronunciation": "Hit king kong-si ê thâu-ke tshiànn A-ióng tsò sin-lô, m̄-nā tshuân sann tǹg hōo i tsia̍h, gue̍h-hōng mā ū tsiàu-khí-kang huat, A-ióng suah sì-kè kā lâng kóng tsit king kong-si tsiânn tàng-sng, tsiànn-káng sī “toh-tíng tsia̍h-pn̄g, toh-kha pàng-sái”.。",
+      "chinese_translation": "那間公司的老闆聘用阿勇為職員，不僅準備三餐給他們吃，月薪也按規矩發，阿勇卻四處跟別人說這間公司很吝嗇，真的是「受人恩惠而不知報答」。",
+      "source_word": "桌頂食飯，桌跤放屎。",
+      "extraction_time": "2025-08-27 12:37:51",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "垃圾",
+      "taiwanese_sentence": "物件落佇塗跤閣抾起來食，有夠垃圾鬼。",
+      "tailo_pronunciation": "Mi̍h-kiānn lak tī thôo-kha koh khioh khí-lâi tsia̍h, ū-kàu lah-sap-kuí.。",
+      "chinese_translation": "東西掉到地上又撿起來吃，真是不衛生。",
+      "source_word": "垃圾鬼",
+      "extraction_time": "2025-08-27 12:38:13",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "安全",
+      "taiwanese_sentence": "拚經濟愛用電，毋過燃塗炭汙染空氣，核能發電無安全，綠能成本傷懸，實在是「放屎也疼，放尿也疼」。",
+      "tailo_pronunciation": "Piànn king-tsè ài iōng tiān, m̄-koh hiânn thôo-thuànn u-jiám khong-khì, hi̍k-lîng huat-tiān bô an-tsuân, li̍k-lîng sîng-pún siunn kuân, si̍t-tsāi sī “pàng-sái iā thiànn, pàng-jiō iā thiànn”.。",
+      "chinese_translation": "拚經濟要用電，不過燃燒煤炭會導致空氣汙染，核能發電不安全，綠能成本太高，實在是「很難左右逢源」。",
+      "source_word": "放屎也疼，放尿也疼。",
+      "extraction_time": "2025-08-27 12:38:16",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "刁故意",
+      "taiwanese_sentence": "你是毋是刁故意欲為難伊？",
+      "tailo_pronunciation": "Lí sī m̄ sī tiau-kòo-ì beh uî-lân--i",
+      "chinese_translation": "你是不是故意要為難他？",
+      "source_word": "為難",
+      "extraction_time": "2025-08-27 12:38:19",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "理想",
+      "taiwanese_sentence": "阿忠上軁鑽，毋過一直揣袂著理想的頭路；阿義無揀頭路，煞搪著一个欣賞伊的頭家，真緊就升起來做主管。真正是「𠢕算，毋值拄搪」。",
+      "tailo_pronunciation": "A-tiong siōng nǹg-tsǹg, m̄-koh it-ti̍t tshuē bē tio̍h lí-sióng ê thâu-lōo; A-gī bô kíng thâu-lōo, suah tn̄g-tio̍h tsi̍t ê him-sióng--i ê thâu-ke, tsin kín tō sing khí-lâi tsò tsú-kuán. Tsin-tsiànn sī “gâu sǹg, m̄-ta̍t tú-tn̄g”.。真的是「人算不如天算」。",
+      "chinese_translation": "阿忠最善於鑽營，不過一直找不到理想的工作；阿義不挑工作，卻遇到一位欣賞他的老闆，很快就當上主管。真的是「人算不如天算」。",
+      "source_word": "𠢕算，毋值拄搪。",
+      "extraction_time": "2025-08-27 12:38:24",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "精彩",
+      "taiwanese_sentence": "人客倌，咱這齣戲是愈來愈精彩，半中站先歇十分鐘，下半段是「好酒沉甕底」，請逐家準時轉來。",
+      "tailo_pronunciation": "Lâng-kheh-kuann, lán tsit tshut hì sī jú lâi jú tsing-tshái, puànn-tiong-tsām sing hioh--tsa̍p-hun-tsing, ē-puànn-tuānn sī “hó-tsiú tîm àng-té”, tshiánn ta̍k-ke tsún-sî tńg--lâi.。",
+      "chinese_translation": "各位客官，咱們這齣戲愈來愈精彩，中場先休息十分鐘，下半場更是好戲在後頭，請大家準時回來。",
+      "source_word": "好酒沉甕底。",
+      "extraction_time": "2025-08-27 12:38:30",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "嚴重",
+      "taiwanese_sentence": "囡仔自細漢著愛好好仔共教示，若無「細漢偷挽匏，大漢偷牽牛」，聽候伊大漢犯嚴重的錯誤才欲來教，就已經袂赴矣。",
+      "tailo_pronunciation": "Gín-á tsū sè-hàn tio̍h-ài hó-hó-á kā kà-sī, nā-bô “sè-hàn thau bán pû, tuā-hàn thau khan gû”, thìng-hāu i tuā-hàn huān giâm-tiōng ê tshò-gōo tsiah beh lâi kà, tō í-king bē-hù--ah.。",
+      "chinese_translation": "小孩子從小就要好好地教育他，要不然「小時候偷摘匏瓜，長大偷牽牛隻」，等到他長大犯了嚴重錯誤再來教育他，就為時已晚了。",
+      "source_word": "細漢偷挽匏，大漢偷牽牛。",
+      "extraction_time": "2025-08-27 12:38:40",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "正確",
+      "taiwanese_sentence": "俗語講：「春雺曝死鬼，夏雺做大水。」這是老祖先的經驗談。現代社會有氣象局，比遮的話閣較科學，會當提來檢驗這寡話的正確性。",
+      "tailo_pronunciation": "Sio̍k-gí kóng, “Tshun bông pha̍k-sí kuí, hā bông tsò-tuā-tsuí.” Tse sī lāu tsóo-sian ê king-giām tâm. Hiān-tāi siā-huē ū khì-siōng-kio̍k, pí tsia-ê uē koh-khah kho-ha̍k, ē-tàng the̍h-lâi kiám-giām tsit kuá uē ê tsìng-khak-sìng.。」這是老祖先的經驗談。現代社會有氣象局，比這些話更科學，可以拿來檢驗這些話的正確性。",
+      "chinese_translation": "人家說：「春天起霧，預兆旱災，夏天起霧，預兆水災。」這是老祖先的經驗談。現代社會有氣象局，比這些話更科學，可以拿來檢驗這些話的正確性。",
+      "source_word": "春雺曝死鬼，夏雺做大水。",
+      "extraction_time": "2025-08-27 12:38:43",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "真貴",
+      "taiwanese_sentence": "天然的璇石無濟又閣歹挖，所以真貴氣。",
+      "tailo_pronunciation": "Thian-jiân ê suān-tsio̍h bô tsē iū-koh pháinn óo, sóo-í tsin kuì-khì.。",
+      "chinese_translation": "天然的鑽石不多又難開採，所以很珍貴。",
+      "source_word": "貴氣",
+      "extraction_time": "2025-08-27 12:38:51",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "有閒",
+      "taiwanese_sentence": "咱誠久無見面矣，有閒就加減來阮兜坐坐咧，罔破豆一下啦。",
+      "tailo_pronunciation": "Lán tsiânn kú bô kìnn-bīn--ah, ū-îng tō ke-kiám lâi guán tau tsē-tsē--leh, bóng phò-tāu--tsi̍t-ē--lah.。",
+      "chinese_translation": "我們很久沒見面了，有空就多少來我家坐坐，稍作閒聊一下。",
+      "source_word": "破豆",
+      "extraction_time": "2025-08-27 12:38:54",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "家婆",
+      "taiwanese_sentence": "阮牽手當咧無閒的時陣，我家婆講欲替伊煎一盤菜脯卵請人客，盍會知影「好好鱟刣甲屎那流」，煞煎甲臭火焦兼著火。",
+      "tailo_pronunciation": "Guán khan-tshiú tng-teh bô-îng ê sî-tsūn, guá ke-pô kóng beh thè i tsian tsi̍t puânn tshài-póo-nn̄g tshiánn lâng-kheh, khah ē tsai-iánn “hó-hó hāu thâi kah sái ná lâu”, suah tsian kah tshàu-hué-ta kiam to̍h-hué.。",
+      "chinese_translation": "內人正忙的時候，我多管閒事主動要替他煎一盤蘿蔔乾炒蛋給客人吃，哪裡知道「成事不足，敗事有餘」，竟然炒得焦黑不堪。",
+      "source_word": "好好鱟刣甲屎那流。",
+      "extraction_time": "2025-08-27 12:38:57",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "正港",
+      "taiwanese_sentence": "彼間公司的頭家倩阿勇做辛勞，毋但攢三頓予伊食，月俸嘛有照起工發，阿勇煞四界共人講這間公司誠凍霜，正港是「桌頂食飯，桌跤放屎」。",
+      "tailo_pronunciation": "Hit king kong-si ê thâu-ke tshiànn A-ióng tsò sin-lô, m̄-nā tshuân sann tǹg hōo i tsia̍h, gue̍h-hōng mā ū tsiàu-khí-kang huat, A-ióng suah sì-kè kā lâng kóng tsit king kong-si tsiânn tàng-sng, tsiànn-káng sī “toh-tíng tsia̍h-pn̄g, toh-kha pàng-sái”.。",
+      "chinese_translation": "那間公司的老闆聘用阿勇為職員，不僅準備三餐給他們吃，月薪也按規矩發，阿勇卻四處跟別人說這間公司很吝嗇，真的是「受人恩惠而不知報答」。",
+      "source_word": "桌頂食飯，桌跤放屎。",
+      "extraction_time": "2025-08-27 12:38:59",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "有空",
+      "taiwanese_sentence": "阿明人誠古意，袂舞遐的有空無榫的代誌。",
+      "tailo_pronunciation": "A-bîng lâng tsiânn kóo-ì, bē bú hia-ê ū-khang-bô-sún ê tāi-tsì.。",
+      "chinese_translation": "阿明為人很忠厚老實，不會做那些不合情理的事。",
+      "source_word": "有空無榫",
+      "extraction_time": "2025-08-27 12:39:02",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "久長",
+      "taiwanese_sentence": "伊破病倒佇眠床頂廿捅冬矣，寢開始後生猶真盡心看顧，不而過俗語講：「久長病，無孝子。」這幾冬𪜶後生予伊的醫藥費硩甲袂喘氣，就無通遐認真共照顧矣。",
+      "tailo_pronunciation": "I phuà-pēnn tó tī bîn-tshn̂g-tíng jia̍p-thóng tang--ah, tshím-khai-sí hāu-senn iáu tsin tsīn-sim khuànn-kòo, put-jî-kò sio̍k-gí kóng, “Kú-tn̂g pēnn, bô hàu-tsú.” Tsit kuí tang in hāu-senn hōo i ê i-io̍h-huì teh kah bē tshuán-khuì, tō bô thang hiah jīn-tsin kā tsiàu-kòo--ah.。」這幾年他兒子被他的醫藥費壓得喘不過氣來，就沒辦法那麼認真照顧他了。",
+      "chinese_translation": "他已臥病在床二十多年了，剛開始兒子還很盡心照顧，但俗話說：「久病床前無孝子。」這幾年他兒子被他的醫藥費壓得喘不過氣來，就沒辦法那麼認真照顧他了。",
+      "source_word": "久長病，無孝子。",
+      "extraction_time": "2025-08-27 12:39:05",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "非常",
+      "taiwanese_sentence": "原始的湳仔地，生態非常豐富，咱著愛好好仔保護。",
+      "tailo_pronunciation": "Guân-sí ê làm-á-tē, sing-thài hui-siông hong-hù, lán tio̍h-ài hó-hó-á pó-hōo.。",
+      "chinese_translation": "原始的溼地，生態非常豐富，咱們得要好好地保護。",
+      "source_word": "湳仔地",
+      "extraction_time": "2025-08-27 12:39:08",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "仝款",
+      "taiwanese_sentence": "現時社會尊重個人，就算是爸囝嘛有無仝款的想法，人講「會生得囝身，袂生得囝心」，爸囝無仝宗教、無仝政黨，嘛應該互相尊重。",
+      "tailo_pronunciation": "Hiān-sî siā-huē tsun-tiōng kò-jîn, tō-sǹg sī pē-kiánn mā ū bô kāng-khuán ê siūnn-huat, lâng kóng “ē-senn-tit kiánn sin, bē-senn-tit kiánn sim”, pē-kiánn bô kāng tsong-kàu, bô kāng tsìng-tóng, mā ing-kai hōo-siong tsun-tiōng.。",
+      "chinese_translation": "現代社會尊重個人，就算是父子也有不一樣的想法，人們說「能夠生出孩子的身體，卻不能夠生出孩子的心思」，父子不同宗教、不同政黨，也應該要互相尊重。",
+      "source_word": "會生得囝身，袂生得囝心。",
+      "extraction_time": "2025-08-27 12:39:13",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "不幸",
+      "taiwanese_sentence": "食老嘛著儉寡錢銀，萬不幸若破病，才有通去予醫生看。",
+      "tailo_pronunciation": "Tsia̍h-lāu mā tio̍h khiām kuá tsînn-gîn, bān-put-hīng nā phuà-pēnn, tsiah ū thang khì hōo i-sing khuànn.。",
+      "chinese_translation": "年老時也得存些錢財，如果不幸生病了，才有辦法去看病。",
+      "source_word": "萬不幸",
+      "extraction_time": "2025-08-27 12:39:24",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "原來",
+      "taiwanese_sentence": "拄才風一下吹，門雄雄迸一聲，原來是門後的門擋仔歹去矣。",
+      "tailo_pronunciation": "Tú-tsiah hong tsi̍t-ē tshue, mn̂g hiông-hiông piàng tsi̍t siann, guân-lâi sī mn̂g-āu ê mn̂g-tòng-á pháinn--khì--ah.。",
+      "chinese_translation": "剛才風一吹，門突然碰一聲，原來是門後的門擋壞掉了。",
+      "source_word": "門擋仔",
+      "extraction_time": "2025-08-27 12:39:32",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "無彩",
+      "taiwanese_sentence": "無彩伊家財萬貫，煞顛倒寒酸，一箍銀都毋肯寄付。",
+      "tailo_pronunciation": "Bô-tshái i ka-tsâi bān-kuàn, suah tian-tò hân-suan, tsi̍t khoo gîn to m̄ khíng kià-hù.。",
+      "chinese_translation": "徒然擁有他家財萬貫，竟反倒寒酸，一塊錢都不肯捐獻。",
+      "source_word": "寒酸",
+      "extraction_time": "2025-08-27 12:39:51",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "成長",
+      "taiwanese_sentence": "做外交的，若是業績好，升官加薪一直來，毋過「花無百日紅，人無千日好」，若拄著時機䆀，業績無好，就愛趁機會學習、成長，才袂予人叫轉去食家己。",
+      "tailo_pronunciation": "Tsò guā-kau--ê, nā-sī gia̍p-tsik hó, sing-kuann ka-sin it-ti̍t lâi, m̄-koh “hue bô pah ji̍t âng, lâng bô tshian ji̍t hó”, nā tú-tio̍h sî-ki bái, gia̍p-tsik bô hó, tō ài thàn ki-huē ha̍k-si̍p, sîng-tióng, tsiah bē hōo lâng kiò tńg-khì tsia̍h-ka-kī.。",
+      "chinese_translation": "跑業務的，如果業績好，升官加薪一直來，不過「花無百日紅，人無千日好」，要是遇到景氣差，業績不好的時候，就要趁機會學習、成長，才不會被炒魷魚。",
+      "source_word": "花無百日紅，人無千日好。",
+      "extraction_time": "2025-08-27 12:39:54",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "甘願",
+      "taiwanese_sentence": "這陣時勢無仝矣，古早彼種「千途萬途，毋值得翻田塗」的觀念早就退時去矣，少年人攏嘛欲揣坐佇辦公室吹冷氣的頭路，今是有幾个甘願攑鋤頭落田去作穡咧！",
+      "tailo_pronunciation": "Tsit-tsūn sî-sè bô kāng--ah, kóo-tsá hit tsióng “tshian tôo bān tôo, m̄ ta̍t-tit huan tshân-thôo” ê kuan-liām tsá tō thè-sî--khì--ah, siàu-liân-lâng lóng mā beh tshuē tsē tī pān-kong-sik tshue líng-khì ê thâu-lōo, tann sī ū kuí ê kam-guān gia̍h tî-thâu lo̍h-tshân khì tsoh-sit--leh!。",
+      "chinese_translation": "現今時代不同了，以前那套「重農輕商」的觀念早已過時了，年輕人都想找坐在辦公室吹冷氣的工作，現在有幾個願意拿著鋤頭下田耕種啊！",
+      "source_word": "千途萬途，毋值得翻田塗。",
+      "extraction_time": "2025-08-27 12:39:57",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "普通",
+      "taiwanese_sentence": "社會愛分工，𠢕的人使喙，普通人出力，運作才會順序。",
+      "tailo_pronunciation": "Siā-huē ài hun-kang, gâu ê lâng sái-tshuì, phóo-thong lâng tshut-la̍t, ūn-tsok tsiah ē sūn-sī.。",
+      "chinese_translation": "社會需要分工，能力強的人指揮，普通人出力，運作才會順暢。",
+      "source_word": "使喙",
+      "extraction_time": "2025-08-27 12:40:02",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "正常",
+      "taiwanese_sentence": "𪜶序大人不時苦勸伊食食、睏眠愛正常，伊煞「一耳空入，一耳空出」，今身體出問題矣，欲怪啥人！",
+      "tailo_pronunciation": "In sī-tuā-lâng put-sî khóo-khǹg i tsia̍h-si̍t, khùn-bîn ài tsìng-siông, i suah “tsi̍t hīnn-khang ji̍p, tsi̍t hīnn-khang tshut”, tann sin-thé tshut būn-tê--ah, beh kuài siánn-lâng!。",
+      "chinese_translation": "他父母親常常勸告他飲食與睡眠要正常，他卻「右耳進，左耳出」，現在身體出狀況了，要怪誰呢！",
+      "source_word": "一耳空入，一耳空出。",
+      "extraction_time": "2025-08-27 12:40:08",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "鬧熱",
+      "taiwanese_sentence": "彼是𪜶兩人的恩怨，你是毋通去鬥鬧熱唅，俗語講：「看人食肉，毋通看人相拍。」你猶是莫插較無代！",
+      "tailo_pronunciation": "He sī in nn̄g lâng ê un-uàn, lí sī m̄-thang khì tàu-lāu-jia̍t--hannh, sio̍k-gí kóng, “Khuànn lâng tsia̍h bah, m̄-thang khuànn lâng sio-phah.” Lí iáu-sī mài tshap khah bô tāi!。」你還是別插手才不會惹禍上身！",
+      "chinese_translation": "那是他們倆的恩怨，你可千萬別去湊熱鬧啊，俗話說：「看人吃肉，別看人毆鬥。」你還是別插手才不會惹禍上身！",
+      "source_word": "看人食肉，毋通看人相拍。",
+      "extraction_time": "2025-08-27 12:40:16",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "拄好",
+      "taiwanese_sentence": "阮這擺的旅行團都猶有一个位，你的都合若會拄好就招你來塌縫。",
+      "tailo_pronunciation": "Guán tsit pái ê lí-hîng-thuân to iáu-ū tsi̍t ê uī, lí ê too-ha̍p nā ē tú-hó tō tsio lí lâi thap-phāng.。",
+      "chinese_translation": "我們這次的旅行團還有一個名額，你的時間如果湊巧就找你來填補空缺。",
+      "source_word": "塌縫",
+      "extraction_time": "2025-08-27 12:40:24",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "平安",
+      "taiwanese_sentence": "各位親情朋友、先進序大，我「食人頭鍾酒，講人頭句話」有較僭權，今仔日是主人家七十歲大壽，咱逐家祝伊平安順序食百二。",
+      "tailo_pronunciation": "Kok-uī tshin-tsiânn pîng-iú, sian-tsìn sī-tuā, guá “tsia̍h lâng thâu tsing tsiú, kóng lâng thâu kù uē” ū khah tsiàm-khuân, kin-á-ji̍t sī tsú-jîn-ka tshit-tsa̍p huè tuā-siū, lán ta̍k-ke tsiok i pîng-an sūn-sī tsia̍h pah-jī.。",
+      "chinese_translation": "各位親朋好友、前輩們，我「喝第一杯酒，講第一句話」較為越權，今天是主人七十歲生日，我們大家祝他平安順遂活到一百二十歲。",
+      "source_word": "食人頭鍾酒，講人頭句話。",
+      "extraction_time": "2025-08-27 12:40:33",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "骨力",
+      "taiwanese_sentence": "俗語講：「艱苦頭，快活尾。」阿發自國小出業了後就綴人去做塗水，骨力趁錢來飼規家伙仔，天公伯仔也真疼惜伊，予伊娶著願意做伙拍拚的媠某，閣踏著好時機佮人合股起厝趁著錢，兩个囡仔嘛真有孝閣有才情，予伊穩心仔提早退休，佮𪜶牽手鬥陣去遊山玩水。",
+      "tailo_pronunciation": "Sio̍k-gí kóng, “Kan-khóo thâu, khuìnn-ua̍h bué.” A-huat tsū kok-sió tshut-gia̍p liáu-āu tō tuè lâng khì tsò thôo-tsuí, kut-la̍t thàn-tsînn lâi tshī kui-ke-hué-á, thinn-kong-peh--á iā tsin thiànn-sioh--i, hōo i tshuā-tio̍h guān-ì tsò-hué phah-piànn ê suí bóo, koh ta̍h-tio̍h hó sî-ki kah lâng ha̍p-kóo khí-tshù thàn-tio̍h tsînn, nn̄g ê gín-á mā tsin iú-hàu koh ū tsâi-tsîng, hōo i ún-sim-á thê-tsá thè-hiu, kah in khan-tshiú tàu-tīn khì iû-san-uán-suí.。」阿發從國小畢業後就跟著別人去做泥水匠，賣力賺錢養一家人，老天爺也很疼愛他，讓他娶到願意一起努力的美嬌娘，又遇上景氣好跟人合建公寓賺到錢，兩個小孩很孝順又有才華，讓他安心提早退休，和妻子一同去遊山玩水。",
+      "chinese_translation": "俗諺說：「含淚播種，歡笑收割。」阿發從國小畢業後就跟著別人去做泥水匠，賣力賺錢養一家人，老天爺也很疼愛他，讓他娶到願意一起努力的美嬌娘，又遇上景氣好跟人合建公寓賺到錢，兩個小孩很孝順又有才華，讓他安心提早退休，和妻子一同去遊山玩水。",
+      "source_word": "艱苦頭，快活尾。",
+      "extraction_time": "2025-08-27 12:40:38",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "危險",
+      "taiwanese_sentence": "窗仔門關甲密喌喌，萬一gá-suh洩漏，消敨袂出去，彼就危險矣！",
+      "tailo_pronunciation": "Thang-á-mn̂g kuainn kah ba̍t-tsiuh-tsiuh, bān-it gá-suh sia̍p-lāu, siau-tháu bē tshut--khì, he tō guî-hiám--ah",
+      "chinese_translation": "窗戶關得緊緊的，萬一瓦斯洩漏，無法流出室外，那可危險了！",
+      "source_word": "消敨",
+      "extraction_time": "2025-08-27 12:40:41",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "凊彩",
+      "taiwanese_sentence": "你毋通靠勢有倩老師來厝裡共你教，你就會用得凊凊彩彩，人講：「近山剉無柴，近溪擔無水。」若無認真拍拚，時到你的成績猶是袂進步。",
+      "tailo_pronunciation": "Lí m̄-thang khò-sè ū tshiànn lāu-su lâi tshù--lí kā lí kà, lí tō ē-īng-tit tshìn-tshìn-tshái-tshái, lâng kóng, “Kīn suann tshò bô tshâ, kīn khe tann bô tsuí.” Nā bô jīn-tsin phah-piànn, sî kàu lí ê sîng-tsik iáu-sī bē tsìn-pōo.。」如果不認真努力，到時你的成績依舊不會進步。",
+      "chinese_translation": "你不可以仗著聘了老師來家裡教你，你就可以隨隨便便，人們說：「靠近山卻砍不到柴，靠近溪邊卻挑不到水。」如果不認真努力，到時你的成績依舊不會進步。",
+      "source_word": "近山剉無柴，近溪擔無水。",
+      "extraction_time": "2025-08-27 12:40:44",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "公平",
+      "taiwanese_sentence": "伊總是怨嘆𪜶爸母較為小弟，人咧講：「十指伸出，無平長。」序大人無論按怎做，加減都會予囝兒序細感覺無公平。",
+      "tailo_pronunciation": "I tsóng-sī uàn-thàn in pē-bú khah uī sió-tī, lâng teh kóng, “Tsa̍p tsáinn tshun-tshut, bô pênn tn̂g.” Sī-tuā-lâng bô-lūn án-tsuánn tsò, ke-kiám to ē hōo kiánn-jî sī-sè kám-kak bô kong-pênn.。」父母親不論怎麼做，多少還是會讓子女覺得有不公的地方。",
+      "chinese_translation": "他總是抱怨他的父母比較偏坦弟弟，人們說：「十根手指頭伸出來，長短也不一樣。」父母親不論怎麼做，多少還是會讓子女覺得有不公的地方。",
+      "source_word": "十指伸出，無平長。",
+      "extraction_time": "2025-08-27 12:40:52",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "老實",
+      "taiwanese_sentence": "雖然俗語講：「做官騙厝內，做生理騙熟似。」毋過咱相信世間上嘛有足濟好官、真濟老實可靠的生理人。",
+      "tailo_pronunciation": "Sui-jiân sio̍k-gí kóng, “Tsò-kuann phiàn tshù-lāi, tsò-sing-lí phiàn si̍k-sāi.” M̄-koh lán siong-sìn sè-kan-siōng mā ū tsiok tsē hó kuann, tsin tsē láu-si̍t khó-khò ê sing-lí-lâng.。",
+      "chinese_translation": "雖然俗話說「當官的矇騙家人，做生意的欺騙熟人」，我們相信世界上也有很多好官、很多老實可靠的生意人。",
+      "source_word": "做官騙厝內，做生理騙熟似。",
+      "extraction_time": "2025-08-27 12:40:55",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "古意",
+      "taiwanese_sentence": "伊拄入來公司，看著都古意古意，啥人知久來變老鳥煞「龜跤趖出來」，見若有菜鳥入來就欲共人創治。",
+      "tailo_pronunciation": "I tú ji̍p-lâi kong-si, khuànn tio̍h to kóo-ì-kóo-ì, siánn-lâng tsai kú--lâi piàn lāu-tsiáu suah “ku-kha sô--tshut-lâi”, kiàn-nā ū tshài-tsiáu ji̍p--lâi tō beh kā lâng tshòng-tī.。",
+      "chinese_translation": "他剛進來公司，看起來忠厚老實，誰知道時間一久變資深員工卻「露出馬腳」，只要有新進員工進來就想捉弄人家。",
+      "source_word": "龜跤趖出來。",
+      "extraction_time": "2025-08-27 12:40:57",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "一樣",
+      "taiwanese_sentence": "賣雨幔的煩惱攏好天，無人欲共買；做麵的煩惱一直落雨，麵會曝袂焦，真正是「一人煩惱一樣，無人煩惱親像」。",
+      "tailo_pronunciation": "Bē hōo-mua--ê huân-ló lóng hó-thinn, bô lâng beh kā bé; tsò mī--ê huân-ló it-ti̍t lo̍h-hōo, mī ē pha̍k bē ta, tsin-tsiànn sī “tsi̍t lâng huân-ló tsi̍t iūnn, bô lâng huân-ló tshin-tshiūnn”.。",
+      "chinese_translation": "賣雨衣的煩惱一直都是好天氣，雨衣賣不出去；製麵條的擔心一直下雨，麵條曬不乾，真是「每個人都有各自煩心的事」。",
+      "source_word": "一人煩惱一樣，無人煩惱親像。",
+      "extraction_time": "2025-08-27 12:41:08",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "勤儉",
+      "taiwanese_sentence": "伊一世人勤儉，食老日子才會遮好過。",
+      "tailo_pronunciation": "I tsi̍t-sì-lâng khîn-khiām, tsia̍h-lāu ji̍t-tsí tsiah ē tsiah hó-kuè.。",
+      "chinese_translation": "他勤儉一輩子，現在老了日子才會這麼好過。",
+      "source_word": "勤儉",
+      "extraction_time": "2025-08-27 12:41:14",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "錯誤",
+      "taiwanese_sentence": "囡仔自細漢著愛好好仔共教示，若無「細漢偷挽匏，大漢偷牽牛」，聽候伊大漢犯嚴重的錯誤才欲來教，就已經袂赴矣。",
+      "tailo_pronunciation": "Gín-á tsū sè-hàn tio̍h-ài hó-hó-á kā kà-sī, nā-bô “sè-hàn thau bán pû, tuā-hàn thau khan gû”, thìng-hāu i tuā-hàn huān giâm-tiōng ê tshò-gōo tsiah beh lâi kà, tō í-king bē-hù--ah.。",
+      "chinese_translation": "小孩子從小就要好好地教育他，要不然「小時候偷摘匏瓜，長大偷牽牛隻」，等到他長大犯了嚴重錯誤再來教育他，就為時已晚了。",
+      "source_word": "細漢偷挽匏，大漢偷牽牛。",
+      "extraction_time": "2025-08-27 12:41:22",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "總是",
+      "taiwanese_sentence": "外媽𪜶厝是有六龍的大厝起，三十年前因為大路欲楦闊，護龍予人削兩龍去，外埕開做大車路。總是「涼傘雖破，骨格原在」，入去厝內猶原看會著較早的氣派。",
+      "tailo_pronunciation": "Guā-má in tshù sī ū la̍k lîng ê tuā-tshù-khí, sann-tsa̍p nî tsîng in-uī tuā-lōo beh hùn-khuah, hōo-lîng hōo lâng siah nn̄g lîng--khì, guā-tiânn khui-tsò tuā tshia-lōo. Tsóng--sī “niû-suànn sui phuà, kut-keh guân-tsāi”, ji̍p-khì tshù-lāi iu-guân khuànn ē tio̍h khah-tsá ê khì-phài.。不過「外觀被毀，氣派猶存」，進去屋裡仍可看到從前的氣派。",
+      "chinese_translation": "外婆家是有三對廂房的大宅第，三十年前因為道路要拓寬，廂房被拆掉兩排，外庭院闢成大馬路。不過「外觀被毀，氣派猶存」，進去屋裡仍可看到從前的氣派。",
+      "source_word": "涼傘雖破，骨格原在。",
+      "extraction_time": "2025-08-27 12:41:30",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "環保",
+      "taiwanese_sentence": "阮規家伙仔不時趁歇睏日去海邊仔抾糞埽，做環保志工。",
+      "tailo_pronunciation": "Guán kui-ke-hué-á put-sî thàn hioh-khùn-ji̍t khì hái-pinn-á khioh pùn-sò, tsò khuân-pó tsì-kang.。",
+      "chinese_translation": "我們全家人時常趁著假日去海邊撿垃圾，做環保志工。",
+      "source_word": "規家伙仔",
+      "extraction_time": "2025-08-27 12:41:33",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "可愛",
+      "taiwanese_sentence": "逐个人攏誠佮意可愛的動物。",
+      "tailo_pronunciation": "Ta̍k ê lâng lóng tsiânn kah-ì khó-ài ê tōng-bu̍t.。",
+      "chinese_translation": "每個人都很喜歡可愛的動物。",
+      "source_word": "可愛",
+      "extraction_time": "2025-08-27 12:41:35",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "專業",
+      "taiwanese_sentence": "這个問題真專業，愛搬請專家來提供意見。",
+      "tailo_pronunciation": "Tsit ê būn-tê tsin tsuan-gia̍p, ài puann-tshiánn tsuan-ka lâi thê-kiong ì-kiàn.。",
+      "chinese_translation": "這個問題很專業，要請專家來提供意見。",
+      "source_word": "搬請",
+      "extraction_time": "2025-08-27 12:41:38",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "真緊",
+      "taiwanese_sentence": "阿忠上軁鑽，毋過一直揣袂著理想的頭路；阿義無揀頭路，煞搪著一个欣賞伊的頭家，真緊就升起來做主管。真正是「𠢕算，毋值拄搪」。",
+      "tailo_pronunciation": "A-tiong siōng nǹg-tsǹg, m̄-koh it-ti̍t tshuē bē tio̍h lí-sióng ê thâu-lōo; A-gī bô kíng thâu-lōo, suah tn̄g-tio̍h tsi̍t ê him-sióng--i ê thâu-ke, tsin kín tō sing khí-lâi tsò tsú-kuán. Tsin-tsiànn sī “gâu sǹg, m̄-ta̍t tú-tn̄g”.。真的是「人算不如天算」。",
+      "chinese_translation": "阿忠最善於鑽營，不過一直找不到理想的工作；阿義不挑工作，卻遇到一位欣賞他的老闆，很快就當上主管。真的是「人算不如天算」。",
+      "source_word": "𠢕算，毋值拄搪。",
+      "extraction_time": "2025-08-27 12:41:41",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "才會",
+      "taiwanese_sentence": "阿義仔歌聲真好，老師鼓勵伊去參加歌唱比賽，伊攏講伊足驚上台唱歌。老師講：「『驚驚袂著等。』你愛勇敢徛起去舞台，才會當予人知影你的歌聲有偌好。」",
+      "tailo_pronunciation": "A-gī--á kua-siann tsin hó, lāu-su kóo-lē i khì tsham-ka kua-tshiùnn pí-sài, i lóng kóng i tsiok kiann tsiūnn-tâi tshiùnn-kua. Lāu-su kóng, “ ‘Kiann-kiann bē tio̍h-tíng.’ Lí ài ióng-kám khiā khí-khì bú-tâi, tsiah ē-tàng hōo lâng tsai-iánn lí ê kua-siann ū guā hó.”。老師說 ：「『光是恐懼擔憂不會獲得優勝。』你要勇敢站上舞台，才能讓人知道你的歌聲有多好。」",
+      "chinese_translation": "小義歌聲很好，老師鼓勵他去參加歌唱比賽，他都說他很怕上台唱歌。老師說 ：「『光是恐懼擔憂不會獲得優勝。』你要勇敢站上舞台，才能讓人知道你的歌聲有多好。」",
+      "source_word": "驚驚袂著等。",
+      "extraction_time": "2025-08-27 12:41:44",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    }
+  ],
+  "missing_words": [
+    {
+      "word": "成長是一个漫長的過程，需要不斷來試驗佮積累。",
+      "reason": "無用例",
+      "index": 1
+    },
+    {
+      "word": "熱鬧",
+      "reason": "無用例",
+      "index": 4
+    },
+    {
+      "word": "伊甘願放棄一切，換來心內的平靜。",
+      "reason": "無用例",
+      "index": 5
+    },
+    {
+      "word": "請莫隨意烏白寫，愛斟酌檢查。",
+      "reason": "無用例",
+      "index": 6
+    },
+    {
+      "word": "快速",
+      "reason": "無用例",
+      "index": 7
+    },
+    {
+      "word": "這个房間傷過垃圾，需要來清理一回。",
+      "reason": "無用例",
+      "index": 8
+    },
+    {
+      "word": "這領衫價數袂俗，非常貴。",
+      "reason": "無用例",
+      "index": 9
+    },
+    {
+      "word": "伊非常勤勞，總是骨力做工課。",
+      "reason": "無用例",
+      "index": 12
+    },
+    {
+      "word": "平安是上基本的向望，希望你一切順利。",
+      "reason": "無用例",
+      "index": 14
+    },
+    {
+      "word": "安全意識非常重要，愛遵守交通規則。",
+      "reason": "無用例",
+      "index": 16
+    },
+    {
+      "word": "佇公共場所應保持正常音量。",
+      "reason": "無用例",
+      "index": 18
+    },
+    {
+      "word": "請老實回答問題，莫掖白賊。",
+      "reason": "無用例",
+      "index": 19
+    },
+    {
+      "word": "這隻狗仔非常可愛，予人一看就想欲飼。",
+      "reason": "無用例",
+      "index": 20
+    },
+    {
+      "word": "伊一直追求理想的生活，骨力拍拚。",
+      "reason": "無用例",
+      "index": 22
+    },
+    {
+      "word": "專業咧知影講每一步，伊佇醫療領域號甲聲。",
+      "reason": "無用例",
+      "index": 23
+    },
+    {
+      "word": "這个所在危險極矣，請細膩行。",
+      "reason": "無用例",
+      "index": 24
+    },
+    {
+      "word": "雖然伊和爸爸生做一模一樣，但是伊的性格煞有夠無仝款的。",
+      "reason": "無用例",
+      "index": 26
+    },
+    {
+      "word": "多管閒事",
+      "reason": "無用例",
+      "index": 28
+    },
+    {
+      "word": "這領車走足緊，速度非常緊。",
+      "reason": "無用例",
+      "index": 30
+    },
+    {
+      "word": "惡化",
+      "reason": "無用例",
+      "index": 31
+    },
+    {
+      "word": "請佇普通時間內完成任務。",
+      "reason": "無用例",
+      "index": 32
+    },
+    {
+      "word": "咱愛珍惜每一分每一秒，莫浪費時間。",
+      "reason": "無用例",
+      "index": 33
+    },
+    {
+      "word": "長久",
+      "reason": "無用例",
+      "index": 35
+    },
+    {
+      "word": "原來這个所在是電影節的舉辦地，莫怪遮遮爾仔鬧熱。",
+      "reason": "無用例",
+      "index": 36
+    },
+    {
+      "word": "好奇",
+      "reason": "無用例",
+      "index": 37
+    },
+    {
+      "word": "浪費",
+      "reason": "無用例",
+      "index": 38
+    },
+    {
+      "word": "勤儉是福氣的根，愛節約用水用電。",
+      "reason": "無用例",
+      "index": 39
+    },
+    {
+      "word": "勤勞",
+      "reason": "無用例",
+      "index": 40
+    },
+    {
+      "word": "這段友誼有長喔！",
+      "reason": "無用例",
+      "index": 41
+    },
+    {
+      "word": "很貴",
+      "reason": "無用例",
+      "index": 45
+    },
+    {
+      "word": "我足好奇為啥物伊欲辭職，這對伊來講敢若無啥要緊。",
+      "reason": "無用例",
+      "index": 47
+    },
+    {
+      "word": "這領衫是定製的，合身自然就袂違。",
+      "reason": "無用例",
+      "index": 49
+    },
+    {
+      "word": "公平是正義的基礎，愛按照正義的原則來行事。",
+      "reason": "無用例",
+      "index": 50
+    },
+    {
+      "word": "合身",
+      "reason": "無用例",
+      "index": 51
+    },
+    {
+      "word": "正確的行為會當幫助人建立良好關係。",
+      "reason": "無用例",
+      "index": 54
+    },
+    {
+      "word": "咱照計畫進行，按呢會當保證工課的進度。",
+      "reason": "無用例",
+      "index": 55
+    },
+    {
+      "word": "雖然犯錯是人所難免的，但是正確面對錯誤並無改正是足重要的。",
+      "reason": "無用例",
+      "index": 63
+    },
+    {
+      "word": "伊刁故意遲到，予我足受氣的。",
+      "reason": "無用例",
+      "index": 65
+    },
+    {
+      "word": "伊非常敏感，容易受著外界情緒的影響。",
+      "reason": "無用例",
+      "index": 66
+    },
+    {
+      "word": "你一定愛認真完成這項任務，按呢才會當取得好成績。",
+      "reason": "無用例",
+      "index": 67
+    },
+    {
+      "word": "正宗道地的",
+      "reason": "無用例",
+      "index": 69
+    },
+    {
+      "word": "為著保護環境，伊總是拍拚做環保的代誌。",
+      "reason": "無用例",
+      "index": 70
+    },
+    {
+      "word": "這个人非常特別，佮眾不同。",
+      "reason": "無用例",
+      "index": 72
+    },
+    {
+      "word": "強勢",
+      "reason": "無用例",
+      "index": 73
+    },
+    {
+      "word": "這个所在非常的鬧熱，人來來去去。",
+      "reason": "無用例",
+      "index": 74
+    },
+    {
+      "word": "這个網站請求量非常緊，幾秒鐘內便完成矣。",
+      "reason": "無用例",
+      "index": 75
+    },
+    {
+      "word": "按部就班",
+      "reason": "無用例",
+      "index": 76
+    },
+    {
+      "word": "這份工課傷過厚工，予得完成起來非常的困難。",
+      "reason": "無用例",
+      "index": 77
+    },
+    {
+      "word": "伊最近的壓力傷重啦，身體健康狀況惡化。",
+      "reason": "無用例",
+      "index": 81
+    },
+    {
+      "word": "你若是有閒的，不妨來佮我練習拍球。",
+      "reason": "無用例",
+      "index": 83
+    },
+    {
+      "word": "伊總是關心別人的代誌，就算講佮別人的代誌無關係。",
+      "reason": "無用例",
+      "index": 85
+    },
+    {
+      "word": "剛好、湊巧",
+      "reason": "無用例",
+      "index": 86
+    },
+    {
+      "word": "共同努力才會當取得成功。",
+      "reason": "無用例",
+      "index": 88
+    },
+    {
+      "word": "湊好勢，咱兩个總是佇咧這个所在搪著。",
+      "reason": "無用例",
+      "index": 89
+    },
+    {
+      "word": "伊佇公司內面聲望非常懸，影響力真強。",
+      "reason": "無用例",
+      "index": 91
+    },
+    {
+      "word": "伊刁工共我鑢的筆，我都無發脾氣。",
+      "reason": "無用例",
+      "index": 92
+    },
+    {
+      "word": "拄好下昏暗我無代誌，所以願意佮你一同去。",
+      "reason": "無用例",
+      "index": 94
+    },
+    {
+      "word": "伊雖然經歷真濟不幸的代誌，猶毋過伊從來無喪失希望。",
+      "reason": "無用例",
+      "index": 98
+    },
+    {
+      "word": "這出菜是正宗道地的味道。",
+      "reason": "無用例",
+      "index": 99
+    },
+    {
+      "word": "最近阮有幾个新員工加入，愛好好仔歡迎。",
+      "reason": "無用例",
+      "index": 103
+    },
+    {
+      "word": "你干焦按呢骨力拍拚，才會當取得成功。",
+      "reason": "無用例",
+      "index": 104
+    },
+    {
+      "word": "敏感",
+      "reason": "無用例",
+      "index": 105
+    },
+    {
+      "word": "這个商店的所有物件攏足俗的全，全部攏俗。",
+      "reason": "無用例",
+      "index": 107
+    },
+    {
+      "word": "很快",
+      "reason": "無用例",
+      "index": 109
+    },
+    {
+      "word": "骯髒",
+      "reason": "無用例",
+      "index": 110
+    },
+    {
+      "word": "這場演講非常精彩，予聽眾聽甲入迷。",
+      "reason": "無用例",
+      "index": 112
+    },
+    {
+      "word": "伊最近身體狀況誠嚴重的，需要好好仔歇睏。",
+      "reason": "無用例",
+      "index": 113
+    }
+  ]
+}

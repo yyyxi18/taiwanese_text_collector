@@ -1,0 +1,399 @@
+{
+  "metadata": {
+    "scraper_type": "最終版手動操作風格爬蟲",
+    "operation_flow": "輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理",
+    "source_url": "https://sutian.moe.edu.tw/zh-hant/tshiau/",
+    "extraction_date": "20250827_135308",
+    "statistics": {
+      "total_words": 50,
+      "successful_extractions": 25,
+      "missing_words": 25,
+      "success_rate": "50.0%",
+      "quality_stats": {
+        "完整": 24,
+        "良好": 1,
+        "基本": 0,
+        "不完整": 0
+      }
+    }
+  },
+  "successful_records": [
+    {
+      "word": "落雪",
+      "taiwanese_sentence": "從到今我攏毋捌看過天頂落雪。",
+      "tailo_pronunciation": "Tsîng-kàu-tann guá lóng m̄ bat khuànn-kuè thinn-tíng lo̍h-seh.。",
+      "chinese_translation": "我從來沒看過下雪。",
+      "source_word": "從到今",
+      "extraction_time": "2025-08-27 13:51:01",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "大海",
+      "taiwanese_sentence": "佇大海浮沉",
+      "tailo_pronunciation": "tī tuā-hái phû-tîm",
+      "chinese_translation": "在大海中隨波逐流",
+      "source_word": "浮沉",
+      "extraction_time": "2025-08-27 13:51:06",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "烏暗",
+      "taiwanese_sentence": "我做工課做甲烏暗眩，足艱苦的。",
+      "tailo_pronunciation": "Guá tsò khang-khuè tsò kah oo-àm-hîn, tsiok kan-khóo--ê.。",
+      "chinese_translation": "我工作做到眼前發黑，很不舒服。",
+      "source_word": "烏暗眩",
+      "extraction_time": "2025-08-27 13:51:09",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "天星",
+      "taiwanese_sentence": "閃爍的天星",
+      "tailo_pronunciation": "siám-sih ê thinn-tshenn",
+      "chinese_translation": "",
+      "source_word": "閃爍",
+      "extraction_time": "2025-08-27 13:51:12",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "良好"
+    },
+    {
+      "word": "陰天",
+      "taiwanese_sentence": "今仔日烏陰天，你上好紮雨傘出門較穩當。",
+      "tailo_pronunciation": "Kin-á-ji̍t oo-im-thinn, lí siōng-hó tsah hōo-suànn tshut-mn̂g khah ún-tàng.。",
+      "chinese_translation": "今天陰天，你最好帶雨傘出門比較妥當。",
+      "source_word": "穩當",
+      "extraction_time": "2025-08-27 13:51:15",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "透風",
+      "taiwanese_sentence": "透風的時，佇海邊會當看著海湧搧佇礁石頂面的海波。",
+      "tailo_pronunciation": "Thàu-hong ê sî, tī hái-pinn ē-tàng khuànn-tio̍h hái-íng siàn tī ta-tsio̍h tíng-bīn ê hái-pho.。",
+      "chinese_translation": "颳風的時候，在海邊可以看到海浪打在礁石上面的浪花。",
+      "source_word": "海波",
+      "extraction_time": "2025-08-27 13:51:31",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "月娘",
+      "taiwanese_sentence": "你講手指月娘會予月娘割耳仔，彼是欲騙囡仔的，我予你袂食聲得。",
+      "tailo_pronunciation": "Lí kóng tshiú kí gue̍h-niû ē hōo gue̍h-niû kuah hīnn-á, he sī beh phiàn gín-á--ê, guá hōo lí bē-tsia̍h-siann--tit.。",
+      "chinese_translation": "你說手指月亮會被月亮割耳朵，那是要騙小孩的，你別想騙我。",
+      "source_word": "食聲",
+      "extraction_time": "2025-08-27 13:51:34",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "海湧",
+      "taiwanese_sentence": "透風的時，佇海邊會當看著海湧搧佇礁石頂面的海波。",
+      "tailo_pronunciation": "Thàu-hong ê sî, tī hái-pinn ē-tàng khuànn-tio̍h hái-íng siàn tī ta-tsio̍h tíng-bīn ê hái-pho.。",
+      "chinese_translation": "颳風的時候，在海邊可以看到海浪打在礁石上面的浪花。",
+      "source_word": "海波",
+      "extraction_time": "2025-08-27 13:51:39",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "石頭",
+      "taiwanese_sentence": "志勇駛遊覽車到今十外冬矣，攏毋捌發生事故，想袂到昨昏煞予山頂落落來的石頭硩一下誠傷重，莫怪有人講「行船走馬三分命」，真正攏袂按得。",
+      "tailo_pronunciation": "Tsì-ióng sái iû-lám-tshia kàu-tann tsa̍p-guā tang--ah, lóng m̄ bat huat-sing sū-kòo, siūnn-bē-kàu tsa-hng suah hōo suann-tíng lak--lo̍h-lâi ê tsio̍h-thâu teh tsi̍t-ē tsiânn siong-tiōng, bo̍k-kuài ū lâng kóng “kiânn-tsûn tsáu-bé sann hun miā”, tsin-tsiànn lóng bē-àn--tit.。",
+      "chinese_translation": "志勇開遊覽車開了十多年，都不曾沒發生過事故，想不到昨天竟然被山上砸下來的石頭打到重傷，難怪人家說「航海走馬三分命」真是讓人無法預料。",
+      "source_word": "行船走馬三分命。",
+      "extraction_time": "2025-08-27 13:51:42",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "落雨",
+      "taiwanese_sentence": "賣雨幔的煩惱攏好天，無人欲共買；做麵的煩惱一直落雨，麵會曝袂焦，真正是「一人煩惱一樣，無人煩惱親像」。",
+      "tailo_pronunciation": "Bē hōo-mua--ê huân-ló lóng hó-thinn, bô lâng beh kā bé; tsò mī--ê huân-ló it-ti̍t lo̍h-hōo, mī ē pha̍k bē ta, tsin-tsiànn sī “tsi̍t lâng huân-ló tsi̍t iūnn, bô lâng huân-ló tshin-tshiūnn”.。",
+      "chinese_translation": "賣雨衣的煩惱一直都是好天氣，雨衣賣不出去；製麵條的擔心一直下雨，麵條曬不乾，真是「每個人都有各自煩心的事」。",
+      "source_word": "一人煩惱一樣，無人煩惱親像。",
+      "extraction_time": "2025-08-27 13:51:44",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "西北雨",
+      "taiwanese_sentence": "雖然講「西北雨，落袂過車路」，天會烏無一定會落，作田人嘛愛趕緊收草、收粟、收衫，號做「走西北雨」。",
+      "tailo_pronunciation": "Sui-jiân kóng “sai-pak-hōo, lo̍h bē kuè tshia-lōo”, thinn ē oo bô-it-tīng ē lo̍h, tsoh-tshân-lâng mā ài kuánn-kín siu tsháu, siu tshik, siu sann, hō-tsò “tsáu sai-pak-hōo”.。",
+      "chinese_translation": "雖說「西北雨，下不過馬路」，天黑不一定會下雨，農夫也得趕緊收稻草、收穀子、收衣服，叫做「跑西北雨」。",
+      "source_word": "西北雨，落袂過車路。",
+      "extraction_time": "2025-08-27 13:51:47",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "風颱",
+      "taiwanese_sentence": "阿榮頭一改贌園種弓蕉隨搪著風颱，了甲叫毋敢。佳哉尾仔換去夜市做油湯，拄著時機好，才予伊趁甲油洗洗，有影是「人飼人，一支骨；天飼人，肥朒朒」，真正予人袂𠢕得。",
+      "tailo_pronunciation": "A-îng thâu tsi̍t kái pa̍k-hn̂g tsìng king-tsio suî tn̄g-tio̍h hong-thai, liáu kah kiò-m̄-kánn. Ka-tsài bué--á uānn-khì iā-tshī tsò iû-thng, tú-tio̍h sî-ki hó, tsiah hōo i thàn kah iû-sé-sé, ū-iánn sī “lâng tshī lâng, tsi̍t ki kut; thinn tshī lâng, puî-tsut-tsut”, tsin-tsiànn hōo lâng bē-gâu--tit.。幸虧後來換跑道去夜市擺麵攤，遇到景氣好，才讓讓他賺得油水多多，真正是「只靠人，瘦巴巴；天幫助，笑哈哈」，人真的不能自以為了得。",
+      "chinese_translation": "阿榮第一次租田園種香蕉就碰上颱風，賠的叫苦連天。幸虧後來換跑道去夜市擺麵攤，遇到景氣好，才讓讓他賺得油水多多，真正是「只靠人，瘦巴巴；天幫助，笑哈哈」，人真的不能自以為了得。",
+      "source_word": "人飼人，一支骨；天飼人，肥朒朒。",
+      "extraction_time": "2025-08-27 13:51:53",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "露水",
+      "taiwanese_sentence": "二姊欲嫁的前一暗，阿母共二姊交代講：「花食露水，人食喙水，做人的新婦拄著人著愛好喙佮人相借問，才會得人疼」。",
+      "tailo_pronunciation": "Jī-tsé beh kè ê tsîng tsi̍t àm, a-bú kā jī-tsé kau-tài kóng, “Hue tsia̍h lōo-tsuí, lâng tsia̍h tshuì-suí, tsò lâng ê sin-pū tú-tio̍h lâng tio̍h-ài hó-tshuì kah lâng sio-tsioh-mn̄g, tsiah ē tit-lâng-thiànn”.。",
+      "chinese_translation": "二姊要結婚的前一晚，媽媽交代二姊說：「花需要露水，人需要口才，當人家的媳婦碰到人要懂得跟人噓寒問暖，才能得到長輩疼愛」。",
+      "source_word": "花食露水，人食喙水。",
+      "extraction_time": "2025-08-27 13:52:01",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "鳥仔岫",
+      "taiwanese_sentence": "鳥仔欲生湠後代才會作鳥仔岫。",
+      "tailo_pronunciation": "Tsiáu-á beh senn-thuànn āu-tāi tsiah ē tsoh tsiáu-á-siū.。",
+      "chinese_translation": "鳥要繁衍後代才會築鳥巢。",
+      "source_word": "鳥仔岫",
+      "extraction_time": "2025-08-27 13:52:06",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "空氣",
+      "taiwanese_sentence": "拚經濟愛用電，毋過燃塗炭汙染空氣，核能發電無安全，綠能成本傷懸，實在是「放屎也疼，放尿也疼」。",
+      "tailo_pronunciation": "Piànn king-tsè ài iōng tiān, m̄-koh hiânn thôo-thuànn u-jiám khong-khì, hi̍k-lîng huat-tiān bô an-tsuân, li̍k-lîng sîng-pún siunn kuân, si̍t-tsāi sī “pàng-sái iā thiànn, pàng-jiō iā thiànn”.。",
+      "chinese_translation": "拚經濟要用電，不過燃燒煤炭會導致空氣汙染，核能發電不安全，綠能成本太高，實在是「很難左右逢源」。",
+      "source_word": "放屎也疼，放尿也疼。",
+      "extraction_time": "2025-08-27 13:52:09",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "好天",
+      "taiwanese_sentence": "賣雨幔的煩惱攏好天，無人欲共買；做麵的煩惱一直落雨，麵會曝袂焦，真正是「一人煩惱一樣，無人煩惱親像」。",
+      "tailo_pronunciation": "Bē hōo-mua--ê huân-ló lóng hó-thinn, bô lâng beh kā bé; tsò mī--ê huân-ló it-ti̍t lo̍h-hōo, mī ē pha̍k bē ta, tsin-tsiànn sī “tsi̍t lâng huân-ló tsi̍t iūnn, bô lâng huân-ló tshin-tshiūnn”.。",
+      "chinese_translation": "賣雨衣的煩惱一直都是好天氣，雨衣賣不出去；製麵條的擔心一直下雨，麵條曬不乾，真是「每個人都有各自煩心的事」。",
+      "source_word": "一人煩惱一樣，無人煩惱親像。",
+      "extraction_time": "2025-08-27 13:52:15",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "海水",
+      "taiwanese_sentence": "風颱天海水倒激的時會做大水。",
+      "tailo_pronunciation": "Hong-thai-thinn hái-tsuí tò-kik ê sî ē tsò-tuā-tsuí.。",
+      "chinese_translation": "颱風天海水倒灌的時候會發生水災。",
+      "source_word": "海水倒激",
+      "extraction_time": "2025-08-27 13:52:17",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "海邊",
+      "taiwanese_sentence": "你定定愛家己一个走去無救生員的海邊泅水，緊縒慢會出代誌。",
+      "tailo_pronunciation": "Lí tiānn-tiānn ài ka-kī tsi̍t ê tsáu-khì bô kiù-sing-uân ê hái-pinn siû-tsuí, kín-tsua̍h-bān ē tshut-tāi-tsì.。",
+      "chinese_translation": "你老是喜歡自己一個人跑去沒有救生員的海邊游泳，早晚會出事。",
+      "source_word": "緊縒慢",
+      "extraction_time": "2025-08-27 13:52:26",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "日頭",
+      "taiwanese_sentence": "因為「西北雨，落袂過車路」，有時天頂一爿咧落雨，另外一爿顛倒咧出日頭，有人共伊叫做「日頭雨」。",
+      "tailo_pronunciation": "In-uī “sai-pak-hōo, lo̍h bē kuè tshia-lōo”, ū-sî thinn-tíng tsi̍t pîng teh lo̍h-hōo, līng-guā tsi̍t pîng tian-tò teh tshut-ji̍t-thâu, ū lâng kā i kiò-tsò “ji̍t-thâu-hōo”.。",
+      "chinese_translation": "因為「西北雨，下不過馬路」，有時候一邊在下雨，另外一邊反而出太陽，有人將它稱作「太陽雨」。",
+      "source_word": "西北雨，落袂過車路。",
+      "extraction_time": "2025-08-27 13:52:29",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "霆雷公",
+      "taiwanese_sentence": "落西北雨的時定定會霆雷公。",
+      "tailo_pronunciation": "Lo̍h sai-pak-hōo ê sî tiānn-tiānn ē tân-luî-kong.。",
+      "chinese_translation": "下午後雷陣雨時常常會打雷。",
+      "source_word": "霆雷公",
+      "extraction_time": "2025-08-27 13:52:34",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "地動",
+      "taiwanese_sentence": "人講：「千算萬算，毋值天一劃。」閣較大間的厝，若拄著七級的大地動，嘛是喝倒就倒，一點仔都袂按算得。",
+      "tailo_pronunciation": "Lâng kóng, “Tshian sǹg bān sǹg, m̄-ta̍t thinn tsi̍t ue̍h.” Koh-khah tuā king ê tshù, nā tú-tio̍h tshit kip ê tuā tē-tāng, mā sī huah tó tō tó, tsi̍t-tiám-á to bē-àn-sǹg--tit.。」再大的房子，一遇到七級強震，仍然經不起侵襲而倒塌，完全無法防範。",
+      "chinese_translation": "人們說：「人算不如天算。」再大的房子，一遇到七級強震，仍然經不起侵襲而倒塌，完全無法防範。",
+      "source_word": "千算萬算，毋值天一劃。",
+      "extraction_time": "2025-08-27 13:52:37",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "大雨",
+      "taiwanese_sentence": "透早有出日，毋過阿義顛倒講會變天，千拄千下晡一點真正摔大雨。",
+      "tailo_pronunciation": "Thàu-tsá ū tshut-ji̍t, m̄-koh A-gī tian-tò kóng ē piàn-thinn, tshian-tú-tshian ē-poo tsi̍t tiám tsin-tsiànn siàng-tuā-hōo.。",
+      "chinese_translation": "早上出太陽，但是阿義卻說天氣會轉壞，果然到下午一點就下起豪雨來。",
+      "source_word": "千拄千",
+      "extraction_time": "2025-08-27 13:52:48",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "海邊仔",
+      "taiwanese_sentence": "阮規家伙仔不時趁歇睏日去海邊仔抾糞埽，做環保志工。",
+      "tailo_pronunciation": "Guán kui-ke-hué-á put-sî thàn hioh-khùn-ji̍t khì hái-pinn-á khioh pùn-sò, tsò khuân-pó tsì-kang.。",
+      "chinese_translation": "我們全家人時常趁著假日去海邊撿垃圾，做環保志工。",
+      "source_word": "規家伙仔",
+      "extraction_time": "2025-08-27 13:52:51",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "爍爁",
+      "taiwanese_sentence": "雷公爍爁直直來。",
+      "tailo_pronunciation": "Luî-kong sih-nah ti̍t-ti̍t lâi.。",
+      "chinese_translation": "雷電交加。",
+      "source_word": "爍爁",
+      "extraction_time": "2025-08-27 13:52:54",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "烏陰天",
+      "taiwanese_sentence": "今仔日烏陰天，你上好紮雨傘出門較穩當。",
+      "tailo_pronunciation": "Kin-á-ji̍t oo-im-thinn, lí siōng-hó tsah hōo-suànn tshut-mn̂g khah ún-tàng.。",
+      "chinese_translation": "今天陰天，你最好帶雨傘出門比較妥當。",
+      "source_word": "穩當",
+      "extraction_time": "2025-08-27 13:53:05",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    }
+  ],
+  "missing_words": [
+    {
+      "word": "好天氣",
+      "reason": "無用例",
+      "index": 1
+    },
+    {
+      "word": "地震",
+      "reason": "無用例",
+      "index": 2
+    },
+    {
+      "word": "烏雲",
+      "reason": "無用例",
+      "index": 3
+    },
+    {
+      "word": "鳥巢",
+      "reason": "無用例",
+      "index": 5
+    },
+    {
+      "word": "打雷",
+      "reason": "無用例",
+      "index": 10
+    },
+    {
+      "word": "春夏秋冬",
+      "reason": "無用例",
+      "index": 11
+    },
+    {
+      "word": "熱雷雨、雷陣雨",
+      "reason": "無用例",
+      "index": 12
+    },
+    {
+      "word": "雨霎仔",
+      "reason": "無用例",
+      "index": 13
+    },
+    {
+      "word": "出現彩虹",
+      "reason": "無用例",
+      "index": 14
+    },
+    {
+      "word": "細雨、小雨",
+      "reason": "無用例",
+      "index": 17
+    },
+    {
+      "word": "星星",
+      "reason": "無用例",
+      "index": 22
+    },
+    {
+      "word": "閃電",
+      "reason": "無用例",
+      "index": 24
+    },
+    {
+      "word": "海浪",
+      "reason": "無用例",
+      "index": 25
+    },
+    {
+      "word": "夕陽",
+      "reason": "無用例",
+      "index": 27
+    },
+    {
+      "word": "月亮",
+      "reason": "無用例",
+      "index": 30
+    },
+    {
+      "word": "太陽",
+      "reason": "無用例",
+      "index": 33
+    },
+    {
+      "word": "颳風",
+      "reason": "無用例",
+      "index": 34
+    },
+    {
+      "word": "光線",
+      "reason": "無用例",
+      "index": 37
+    },
+    {
+      "word": "起霧",
+      "reason": "無用例",
+      "index": 40
+    },
+    {
+      "word": "黑暗",
+      "reason": "無用例",
+      "index": 41
+    },
+    {
+      "word": "颱風",
+      "reason": "無用例",
+      "index": 42
+    },
+    {
+      "word": "罩雺霧",
+      "reason": "無用例",
+      "index": 46
+    },
+    {
+      "word": "下雪",
+      "reason": "無用例",
+      "index": 47
+    },
+    {
+      "word": "出虹",
+      "reason": "無用例",
+      "index": 48
+    },
+    {
+      "word": "下雨",
+      "reason": "無用例",
+      "index": 50
+    }
+  ]
+}

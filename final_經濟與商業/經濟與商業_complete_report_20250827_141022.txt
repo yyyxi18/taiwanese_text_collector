@@ -1,0 +1,325 @@
+最終版台語辭典擷取完整報告 - 經濟與商業
+================================================================================
+🎯 操作流程：輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理
+📊 完整統計：
+   - 總計單字：56 個
+   - 成功擷取：33 個
+   - 缺失單字：23 個
+   - 成功率：58.9%
+⏰ 擷取時間：20250827_141022
+
+🌟 完整擷取（台語+台羅+中文）:
+------------------------------------------------------------
+ 1. 公司
+    台語：阿財仔下真濟苦心佮所費咧共𪜶後生栽培，向望伊會當出頭天，結局伊毋但大學讀無畢業，閣欲食毋討趁，顛倒是𪜶查某囝較有才情，研究所都猶未出業，幾若間公司就相爭欲共倩，阿財仔怨嘆講：「豬毋大，大對狗去。」
+    台羅：A-tsâi--á hē tsin tsē khóo-sim kah sóo-huì teh kā in hāu-senn tsai-puê, ǹg-bāng i ē-tàng tshut-thâu-thinn, kiat-kio̍k i m̄-nā tāi-ha̍k tha̍k bô pit-gia̍p, koh beh tsia̍h m̄ thó-thàn, tian-tò sī in tsa-bóo-kiánn khah ū tsâi-tsîng, gián-kiù-sóo to iáu-buē tshut-gia̍p, kuí-nā king kong-si tō sio-tsenn beh kā tshiànn, A-tsâi--á uàn-thàn kóng, “Ti m̄ tuā, tuā tuì káu--khì.”。」
+    中文：阿財花費了許多苦心和費用栽培他兒子，希望他能出人頭地，結果他不但大學無法畢業，還好逸惡勞，反而是他女兒比較有才華，研究所還沒畢業，好幾間公司就搶著要聘用他，阿財嘆氣說：「事與願違。」
+    來源：豬毋大，大對狗去。
+
+ 2. 公園
+    台語：今仔日並昨昏較生冷，你欲去公園散步，著共袚巾幔佇肩胛頭才出門。
+    台羅：Kin-á-ji̍t phīng tsa-hng khah tshenn-líng, lí beh khì kong-hn̂g sàn-pōo, tio̍h kā phua̍h-kin mua tī king-kah-thâu tsiah tshut-mn̂g.。
+    中文：今天比昨天更冷，你想去公園散步，得把披肩披在肩膀上再出門。
+    來源：袚巾
+
+ 3. 臺票
+    台語：你月底欲去美國𨑨迌，愛會記得去銀行共臺票換做美金喔！
+    台羅：Lí gue̍h-té beh khì Bí-kok tshit-thô, ài ē-kì-tit khì gîn-hâng kā Tâi-phiò uānn-tsò Bí-kim--ooh
+    中文：你月底要去美國旅遊，要記得去銀行將新臺幣換成美金喔！
+
+ 4. 餐廳
+    台語：餐廳拄倩的彼幾个員工，啥物代誌都袂曉做，閣真捷共碗盤摔害去，真正是「生雞卵的無，放雞屎的有」。
+    台羅：Tshan-thiann tú tshiànn ê hit kuí ê uân-kang, siánn-mih tāi-tsì to bē-hiáu tsò, koh tsin tsia̍p kā uánn-puânn siak hāi--khì, tsin-tsiànn sī “senn ke-nn̄g--ê bô, pàng ke-sái--ê ū”.。
+    中文：餐廳剛聘請的那幾位員工，什麼事情都不會做，還很常將碗盤摔壞，真的是「成事不足，敗事有餘」。
+    來源：生雞卵的無，放雞屎的有。
+
+ 5. 開會
+    台語：見擺開會若聽著別人有無仝的意見，伊就誠硬喙，攏無欲讓步，真正無伊法。
+    台羅：Kiàn-pái khui-huē nā thiann-tio̍h pa̍t-lâng ū bô kāng ê ì-kiàn, i tō tsiânn ngē-tshuì, lóng bô beh niū-pōo, tsin-tsiànn bô i huat.。
+    中文：他遇到不同意見的事情卻那麼嘴硬，都不讓步，真是拿他沒辦法。
+    來源：硬喙
+
+ 6. 車頭
+    台語：等咧咱佇火車頭的前驛相等，做伙坐後一幫火車上北。
+    台羅：Tán--leh lán tī hué-tshia-thâu ê tsîng-ia̍h sio-tán, tsò-hué tsē āu tsi̍t pang hué-tshia tsiūnn-pak.。
+    中文：等一下我們在火車站的前站見，一起坐下一班火車北上。
+    來源：火車頭
+
+ 7. 發財
+    台語：美國塗豆又閣叫做發財樹，人兜的盆栽定看會著。
+    台羅：Bí-kok-thôo-tāu iū-koh kiò-tsò huat-tsâi-tshiū, lâng tau ê phûn-tsai tiānn khuànn ē tio̍h.。
+    中文：馬拉巴栗又叫做發財樹，人家家裡的盆栽常看得到。
+    來源：美國塗豆
+
+ 8. 大賣場
+    台語：彼間大賣場的電腦連紲予人偷提幾若十台去，警方懷疑是因為「內神通外鬼」，才會損失遮嚴重。
+    台羅：Hit king tuā-bē-tiûnn ê tiān-náu liân-suà hōo lâng thau-the̍h kuí-nā tsa̍p tâi--khì, kíng-hong huâi-gî sī in-uī “lāi sîn thong guā kuí”, tsiah ē sún-sit tsiah giâm-tiōng.。
+    中文：那間大賣場的電腦連續被偷走幾十台，警方懷疑是因為「內神通外鬼」，才會損失這麼嚴重。
+    來源：內神通外鬼。
+
+ 9. 麵擔仔
+    台語：麵擔仔衛生無好害人客食了落屎猶小局，上害的是濫會傷身體的化學添加物，害主顧客帶身命才是夭壽。
+    台羅：Mī-tànn-á uē-sing bô hó hāi lâng-kheh tsia̍h-liáu làu-sái iáu sió-kio̍k, siōng hāi--ê sī lām ē siong sin-thé ê huà-ha̍k thiam-ka-bu̍t, hāi tsú-kòo-kheh tài-sin-miā tsiah-sī iáu-siū.。
+    中文：麵攤衛生不好害顧客拉肚子還算是小事一樁，最糟糕的是加進會傷身體的化學添加物，害老顧客染上慢性病才是缺德。
+    來源：小局
+
+10. 銀角仔
+    台語：袋仔內反一寡銀角仔出來。
+    台羅：Tē-á-lāi píng tsi̍t-kuá gîn-kak-á tshut--lâi.。
+    中文：袋子內翻一些零錢出來。
+    來源：反白píng
+
+11. 發票
+    台語：抾著的發票竟然著兩百箍，我真正咧行運矣。
+    台羅：Khioh--tio̍h ê huat-phiò kìng-jiân tio̍h nn̄g-pah khoo, guá tsin-tsiànn teh kiânn-ūn--ah.。
+    中文：撿到的發票竟然中了兩百塊，我真是走運了。
+    來源：行運
+
+12. 下班
+    台語：上下班時間，oo-tóo-bái佮自動車蓋濟，欲行過車路著特別細膩。
+    台羅：Siōng-hā-pan sî-kan, oo-tóo-bái kah tsū-tōng-tshia kài tsē, beh kiânn-kuè tshia-lōo tio̍h ti̍k-pia̍t sè-jī.。
+    中文：上下班時間，機車和汽車非常多，要走過馬路得特別小心。
+    來源：車路
+
+13. 果子擔
+    台語：我來去提扁擔，共遮的果子擔去賣。
+    台羅：Guá lâi-khì the̍h pún-tann, kā tsia-ê kué-tsí tann-khì bē.。
+    中文：我去拿扁擔，好把這些水果挑去賣。
+    來源：扁擔
+
+14. 股票
+    台語：有一句話講「欠錢怨債主，不孝怨爸母」，有的人炒股票，股票落價，逐日都咧罵政府，有人就共伊加一句「股票跋輸怨政府」。
+    台羅：Ū tsi̍t kù uē kóng “khiàm tsînn uàn tsè-tsú, put-hàu uàn pē-bú”, ū ê lâng tshá-kóo-phiò, kóo-phiò lo̍h-kè, ta̍k-ji̍t to teh mē tsìng-hú, ū lâng tō kā i ke tsi̍t kù “kóo-phiò pua̍h-su uàn tsìng-hú”.。
+    中文：有一句話說「欠錢怨債主，不孝怨父母」，有的人炒股票，股票慘跌，天天罵政府，有人就加了一句「股票慘跌怨政府」。
+    來源：欠錢怨債主，不孝怨爸母。
+
+15. 工錢
+    台語：細漢的時我鬥共阿爸借來的冊提去圖書館還，阿爸就會買一塊麭予我，算講是工錢。
+    台羅：Sè-hàn ê sî guá tàu kā a-pah tsioh--lâi ê tsheh the̍h-khì tôo-su-kuán hîng, a-pah tō ē bé tsi̍t tè pháng hōo--guá, sǹg-kóng sī kang-tsînn.。
+    中文：小時候我將爸爸借來的書幫忙拿去還給圖書館，爸爸就會買一塊麵包給我，就當作是工錢。
+    來源：算講
+
+16. 剃頭店
+    台語：最近足歹運，欲食菜頭湯，去買著蓬心的菜頭；欲去剃頭，剃頭店無開門，有影是「人若衰，種匏仔生菜瓜」。
+    台羅：Tsuè-kīn tsiok pháinn-ūn, beh tsia̍h tshài-thâu-thng, khì bé-tio̍h pōng-sim ê tshài-thâu; beh khì thì-thâu, thì-thâu-tiàm bô khui-mn̂g, ū-iánn sī “lâng nā sue, tsìng pû-á senn tshài-kue”.。
+    中文：最近運氣很糟，想喝蘿蔔湯，竟買到空心的蘿蔔；想去理髮，理髮店沒開門，真的是「人一倒楣，種匏瓜也會長出絲瓜」。
+    來源：人若衰，種匏仔生菜瓜。
+
+17. 信用卡
+    台語：這間店無接受信用卡，欲買物件攏愛納現仔。
+    台羅：Tsit king tiàm bô tsiap-siū sìn-iōng-khah, beh bé mi̍h-kiānn lóng ài la̍p hiān-á.。
+    中文：這家店不接受信用卡，要買東西都得付現金。
+    來源：現仔
+
+18. 工作
+    台語：伊不時為著工作的問題咧傷腦筋。
+    台羅：I put-sî uī-tio̍h kang-tsok ê būn-tê teh siong-náu-kin.。
+    中文：他經常為工作的問題在傷腦筋。
+    來源：傷腦筋
+
+19. 大盤
+    台語：阮做小盤的不比大盤的生理做遐大，愛薄利多銷才較有利純通趁。
+    台羅：Guán tsò sió-puânn--ê put-pí tuā-puânn--ê sing-lí tsò hiah tuā, ài po̍h-lī to siau tsiah khah ū lī-sûn thang thàn.。
+    中文：我們做零售商的不比大盤商生意做得那麼大，得薄利多銷才比較有利潤可賺。
+    來源：小盤
+
+20. 飯店
+    台語：遮風景區的飯店開甲是「三跤步一坎店」，逐間店攏著想空想縫來搶人客。
+    台羅：Tsia hong-kíng-khu ê pn̄g-tiàm khui kah sī “sann kha-pōo tsi̍t khám tiàm”, ta̍k king tiàm lóng tio̍h siūnn-khang-siūnn-phāng lâi tshiúnn lâng-kheh.。
+    中文：這裡風景區的飯店開得是「店家林立，競爭激烈」，每間飯店都得想盡辦法在搶客源。
+    來源：三跤步一坎店。
+
+21. 廠商
+    台語：這个贊助廠商有私心，共導演縛跤縛手，害伊袂當照理想去拍片。
+    台羅：Tsit ê tsàn-tsōo tshiúnn-siong ū su-sim, kā tō-ián pa̍k-kha-pa̍k-tshiú, hāi i bē-tàng tsiàu lí-sióng khì phah-phìnn.。
+    中文：這家贊助廠商有私心，處處限制導演，害他無法按照理想去拍片。
+    來源：縛跤縛手
+
+22. 趁錢
+    台語：原本肝無好就愛注意，毋通為著趁錢拚甲無暝無日，才袂拍歹身體，人講：「趁錢有數，性命愛顧。」趁會著嘛愛食會著才有效。
+    台羅：Guân-pún kuann bô hó tō ài tsù-ì, m̄-thang uī-tio̍h thàn-tsînn piànn kah bô-mê-bô-ji̍t, tsiah bē phah-pháinn sin-thé, lâng kóng, “Thàn-tsînn iú sòo, sènn-miā ài kòo.” Thàn ē tio̍h mā ài tsia̍h ē tio̍h tsiah ū-hāu.。」賺得到也要花得了才有用。
+    中文：原本肝功能不好就得注意，不要為了賺錢日夜勤奮，才不會弄壞身體，人家說：「賺錢數量有限，生命要照顧。」賺得到也要花得了才有用。
+    來源：趁錢有數，性命愛顧。
+
+23. 上班
+    台語：伊真有才情，做人嘛誠懇，該當有真好的前途，可惜原本咧上班的公司煞倒去，就按呢轉去食家己，有影是人咧講的「人𠢕，天咧做對頭」，予人感覺真遺憾。
+    台羅：I tsin ū tsâi-tsîng, tsò-lâng mā sîng-khún, kai-tong ū tsin hó ê tsiân-tôo, khó-sioh guân-pún teh siōng-pan ê kong-si suah tó--khì, tsiū-án-ne tńg-khì tsia̍h-ka-kī, ū-iánn sī lâng teh kóng--ê “lâng gâu, thinn teh tsò tuì-thâu”, hōo lâng kám-kak tsin uî-hām.。
+    中文：他能力很好，待人也誠懇，理應有大好的前途，可惜原來上班的公司竟倒了，從而失業，真的是人家說的「造化弄人」，令人深感遺憾。
+    來源：人𠢕，天咧做對頭。
+
+24. 彩券
+    台語：人講：「人心肝，牛腹肚。」有人買彩券著頭獎猶嫌無夠，共錢閣再漚落去，免兩冬錢就吐了了矣。
+    台羅：Lâng kóng, “Lâng sim-kuann, gû pak-tóo.” Ū lâng bé tshái-kuàn tio̍h thâu-tsióng iáu hiâm bô-kàu, kā tsînn koh-tsài au--lo̍h-khì, bián nn̄g tang tsînn tō thòo-liáu-liáu--ah.。」有人買彩券中了頭獎還嫌不夠，還繼續加倍投注，不到兩年錢就都賠光了。
+    中文：人家說：「人心不足蛇吞象。」有人買彩券中了頭獎還嫌不夠，還繼續加倍投注，不到兩年錢就都賠光了。
+    來源：人心肝，牛腹肚。
+
+25. 自助餐
+    台語：咱巷仔口彼个陳董的閣去自助餐買便當來食矣，枉費伊大某、細姨媠噹噹，厝內煞定定冤家量債，無人欲煮予食。莫怪人講：「一某無人知，兩某相卸代。」
+    台羅：Lán hāng-á-kháu hit ê Tân-táng--ê koh khì tsū-tsōo-tshan bé piān-tong lâi tsia̍h--ah, óng-huì i tuā-bóo, sè-î suí-tang-tang, tshù-lāi suah tiānn-tiānn uan-ke-niû-tsè, bô lâng beh tsú hōo tsia̍h. Bo̍k-kuài lâng kóng, “Tsi̍t bóo bô lâng tsai, nn̄g bóo sio-sià-tāi.”。難怪人家說：「一夫一妻，夫唱婦隨；家有妻妾，雞犬不寧。」
+    中文：住巷口的陳董事長又去自助餐買便當來吃了，虧他有老婆、姨太太而且都很漂亮，家裡卻常常爭吵，沒人做飯給他吃。難怪人家說：「一夫一妻，夫唱婦隨；家有妻妾，雞犬不寧。」
+    來源：一某無人知，兩某相卸代。
+
+26. 新聞
+    台語：新聞報講半暝仔監獄有犯人偷走出去，今警方當咧四界搜揣。
+    台羅：Sin-bûn pò kóng puànn-mê-á kann-ga̍k ū huān-lâng thau tsáu--tshut-khì, tann kíng-hong tng-teh sì-kè tshiau-tshuē.。
+    中文：新聞報導說半夜監獄有犯人越獄，警方正在四處搜查中。
+    來源：搜揣
+
+27. 銀行
+    台語：伊拄對銀行領錢出來，雄雄一个強徒出手共伊的皮包仔搶去。
+    台羅：I tú tuì gîn-hâng niá tsînn tshut--lâi, hiông-hiông tsi̍t ê kiông-tôo tshut-tshiú kā i ê phuê-pau-á tshiúnn--khì.。
+    中文：他剛從銀行領錢出來，突然一個搶匪動手搶走了他的皮包。
+    來源：強徒
+
+28. 美金
+    台語：你月底欲去美國𨑨迌，愛會記得去銀行共臺票換做美金喔！
+    台羅：Lí gue̍h-té beh khì Bí-kok tshit-thô, ài ē-kì-tit khì gîn-hâng kā Tâi-phiò uānn-tsò Bí-kim--ooh
+    中文：你月底要去美國旅遊，要記得去銀行將新臺幣換成美金喔！
+    來源：臺票
+
+29. 頭路
+    台語：阿忠上軁鑽，毋過一直揣袂著理想的頭路；阿義無揀頭路，煞搪著一个欣賞伊的頭家，真緊就升起來做主管。真正是「𠢕算，毋值拄搪」。
+    台羅：A-tiong siōng nǹg-tsǹg, m̄-koh it-ti̍t tshuē bē tio̍h lí-sióng ê thâu-lōo; A-gī bô kíng thâu-lōo, suah tn̄g-tio̍h tsi̍t ê him-sióng--i ê thâu-ke, tsin kín tō sing khí-lâi tsò tsú-kuán. Tsin-tsiànn sī “gâu sǹg, m̄-ta̍t tú-tn̄g”.。真的是「人算不如天算」。
+    中文：阿忠最善於鑽營，不過一直找不到理想的工作；阿義不挑工作，卻遇到一位欣賞他的老闆，很快就當上主管。真的是「人算不如天算」。
+    來源：𠢕算，毋值拄搪。
+
+30. 財產
+    台語：伊就是咧操煩若真正百歲年老了後，囝兒序細為著財產承續分袂平棒煞起冤家，這聲就害矣，較輸講趁這陣人猶健健，先共財產分分咧，才袂時到害伊「死目毋願瞌」。
+    台羅：I tō sī teh tshau-huân nā tsin-tsiànn pah-huè-nî-lāu liáu-āu, kiánn-jî sī-sè uī-tio̍h tsâi-sán sîng-sio̍k pun bē pênn-pāng suah khí uan-ke, tsit-siann tō hāi--ah, khah-su kóng thàn tsit-tsūn lâng iáu kiānn-kiānn, sing kā tsâi-sán pun-pun--leh, tsiah bē sî kàu hāi i “sí ba̍k m̄ guān kheh”.。
+    中文：他擔心等他過世後，那些兒孫為了要分財產搞得惡臉相向，這下子就糟了，倒不如趁現在人還健在，先將財產分一分，到時候才不會害他「死不瞑目」。
+    來源：死目毋願瞌。
+
+31. 趁食
+    台語：較早佇阮庄裡都歹討趁，姑不將才著走徙去海口拋魚罔趁食。
+    台羅：Khah-tsá tī guán tsng--lí to pháinn thó-thàn, koo-put-tsiong tsiah tio̍h tsáu-suá khì hái-kháu pha-hî bóng thàn-tsia̍h.。
+    中文：以前在我們村裡因為不容易討生活，不得已才遷徙到海口捕魚過活。
+    來源：走徙
+
+32. 車站
+    台語：你順這條路直直去，就會看著車站矣。
+    台羅：Lí sūn tsit tiâu lōo ti̍t-ti̍t khì, tō ē khuànn-tio̍h tshia-tsām--ah.。
+    中文：你順著這條路直直走，就可以看到車站了。
+    來源：順
+
+33. 加班
+    台語：逐工加班，厝內攏無掛摒掃。
+    台羅：Ta̍k-kang ka-pan, tshù-lāi lóng bô-khuà piànn-sàu.。
+    中文：每天都加班，家裡都沒空打掃。
+    來源：無掛
+
+1. 花店
+	•	台語：伊拄仔去花店買一束玫瑰花欲送予阿母。
+	•	台羅：I tú-á khì hue-tiàm bé tsi̍t sot mui-kui-hue beh sàng hōo a-bú.。
+	•	中文：他剛去花店買了一束玫瑰花要送給媽媽。
+
+⸻
+
+2. 月台
+	•	台語：咱佇月台等火車，愛注意安全線內底。
+	•	台羅：Lán tī gue̍h-tâi tán hué-tshia, ài tsù-ì an-tsuân-suànn lāi-té.。
+	•	中文：我們在月台等火車，要注意安全線內。
+
+⸻
+
+3. 機場
+	•	台語：阿明清早就去機場接對國外轉來的朋友。
+	•	台羅：A-bîng tshing-tsá tō khì ki-tiûnn tsiap tuì kok-guā tńg–lâi ê pîng-iú.。
+	•	中文：阿明一大早就去機場接從國外回來的朋友。
+
+⸻
+
+4. 文具店
+	•	台語：學生開學前攏會去文具店買筆仔冊仔。
+	•	台羅：Ha̍k-seng khai-o̍h-tsîng lóng ē khì bûn-kū-tiàm bé pit-á tsheh-á.。
+	•	中文：學生在開學前都會去文具店買筆和本子。
+
+⸻
+
+5. 電器行
+	•	台語：阮兜的冰箱壞去矣，阿爸欲去電器行看新的。
+	•	台羅：Guán tau ê ping-siunn pháinn–khì–ah, a-pah beh khì tiān-khì-hâng khuànn sin–ê.。
+	•	中文：我們家的冰箱壞了，爸爸要去電器行看新的。
+
+⸻
+
+6. 錄取
+	•	台語：小芳參加老師的甄試，結果真幸運錄取矣。
+	•	台羅：Sió-Hong tsham-ka lāu-su ê jian-sì, kiat-kio̍k tsin hīng-ūn lo̍k-tshú–ah.。
+	•	中文：小芳參加老師的甄選，結果很幸運被錄取了。
+
+⸻
+
+7. 加油站
+	•	台語：車仔油欲無矣，咱先轉去加油站加一下。
+	•	台羅：Tshia-á iû beh bô–ah, lán sing tńg-khì ka-iû-tsām ka tsi̍t-ē.。
+	•	中文：汽車油快沒了，我們先去加油站加一下。
+
+⸻
+
+8. 郵局
+	•	台語：阿嬤逐禮拜一攏會去郵局領老人年金。
+	•	台羅：A-mà ta̍k lé-pài-it lóng ē khì iu-kiok niáu lāu-lâng liân-kim.。
+	•	中文：奶奶每週一都會去郵局領老人年金。
+
+⸻
+
+9. 穡路
+	•	台語：阮庄的穡路落雨了後，攏變甲爛泥路。
+	•	台羅：Guán tsng ê sit-lōo lo̍h-hōo liáu-āu, lóng piàn kah nuā-thê-lōo.。
+	•	中文：我們村裡的農路下雨後都會變成泥濘道路。
+
+⸻
+
+10. 金額
+	•	台語：這筆工程的總金額已經超過五千萬。
+	•	台羅：Tsit pi̍t kang-tshing ê tsóng kim-gak í-king tshiau-kuè gōo-tshing-bān.。
+	•	中文：這筆工程的總金額已經超過五千萬。
+
+⸻
+
+11. 外銷
+	•	台語：臺灣的水果品質真好，真濟攏外銷去日本。
+	•	台羅：Tâi-uân ê tsuí-kué phín-tsit tsin hó, tsin-tsē lóng guā-siau khì Ji̍t-pún.。
+	•	中文：臺灣的水果品質很好，大多數都外銷到日本。
+
+⸻
+
+12. 租金
+	•	台語：這間厝的租金真貴，咱揣揣看閣較合算的。
+	•	台羅：Tsit king tshù ê tso-kim tsin kuì, lán tshuē-tshuē khuànn koh khah ha̍p-suànn–ê.。
+	•	中文：這間房子的租金很貴，我們再找找看更划算的。
+
+⸻
+
+13. 貨櫃
+	•	台語：港口一排排的貨櫃攏是欲運去國外的。
+	•	台羅：Káng-kháu tsi̍t pâi-pâi ê huè-kuì lóng sī beh ūn khì kok-guā–ê.。
+	•	中文：港口一排排的貨櫃都是要運往國外的。
+
+⸻
+
+14. 三溫暖
+	•	台語：運動了後去三溫暖洗身軀，會感覺真鬆快。
+	•	台羅：Ūn-tōng liáu-āu khì sam-un-luān sé sin-khu, ē kám-kak tsin sang-khuài.。
+	•	中文：運動之後去三溫暖洗澡，會感覺很舒服。
+
+⸻
+
+15. 房地產
+	•	台語：近幾年房地產的價數愈來愈貴，年輕人買厝真困難。
+	•	台羅：Kīn kuí nî pâng-tē-sán ê kè-siōo jú lâi jú kuì, senn-lîng-lâng bé tshù tsin khùn-lân.。
+	•	中文：近幾年房地產的價格越來越高，年輕人買房子很困難。
+
+❌ 缺失單字報告:
+============================================================
+以下 23 個單字沒有找到可用的例句：
+
+📋 無用例 (23個):
+   加油站     機場      銅板、硬幣   月台      錄取      金額      理髮店     穡路      農活      郵局      
+   麵攤      花店      賺錢      討生活、賺錢過活租金      文具店     三溫暖     新臺幣     電器行     貨櫃      
+   房地產     外銷      水果攤     
+
+💡 建議：
+   1. 這些單字可能在教育部辭典中沒有用例
+   2. 可以嘗試其他台語辭典或資源
+   3. 或者手動查詢相關的同義詞

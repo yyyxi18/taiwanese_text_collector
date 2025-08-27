@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "scraper_type": "最終版手動操作風格爬蟲",
+    "operation_flow": "輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理",
+    "source_url": "https://sutian.moe.edu.tw/zh-hant/tshiau/",
+    "extraction_date": "20250827_141513",
+    "statistics": {
+      "total_words": 19,
+      "successful_extractions": 12,
+      "missing_words": 7,
+      "success_rate": "63.2%",
+      "quality_stats": {
+        "完整": 11,
+        "良好": 1,
+        "基本": 0,
+        "不完整": 0
+      }
+    }
+  },
+  "successful_records": [
+    {
+      "word": "翕相機",
+      "taiwanese_sentence": "欠錢毋還，我欲提你的翕相機來拄數。",
+      "tailo_pronunciation": "Khiàm tsînn m̄ hîng, guá beh the̍h lí ê hip-siòng-ki lâi tú-siàu.。",
+      "chinese_translation": "欠錢不還，我要拿你的相機來抵帳。",
+      "source_word": "拄數",
+      "extraction_time": "2025-08-27 14:14:26",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "網路",
+      "taiwanese_sentence": "政治人物佇電視頂冤甲目降鬚聳，雙方佇鏡頭的尻川後早就閣你兄我弟矣，網路頂的支持者煞猶原吵甲袂收山，真正是「做戲的欲煞，看戲的毋煞」。",
+      "tailo_pronunciation": "Tsìng-tī jîn-bu̍t tī tiān-sī-tíng uan kah ba̍k-kàng-tshiu-tshàng, siang-hong tī kiànn-thâu ê kha-tshng-āu tsá tō koh lí-hiann-guá-tī--ah, bāng-lōo-tíng ê tsi-tshî-tsiá suah iu-guân tshá kah bē-siu-suann, tsin-tsiànn sī “tsò-hì--ê beh suah, khuànn-hì--ê m̄ suah”.。",
+      "chinese_translation": "政治人物在電視上吵得怒目相視，雙方在鏡頭後早就又稱兄道弟了，網路上的支持者卻仍吵得不可開交，真的是「演戲的要結束，看戲的卻不罷休。",
+      "source_word": "做戲的欲煞，看戲的毋煞。",
+      "extraction_time": "2025-08-27 14:14:28",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "機器",
+      "taiwanese_sentence": "這批機器著先改裝，才會當配合新的規格。",
+      "tailo_pronunciation": "Tsit phue ki-khì tio̍h sing kái-tsong, tsiah ē-tàng phuè-ha̍p sin ê kui-keh.。",
+      "chinese_translation": "這批機器必須先改裝，才能配合新的規格。",
+      "source_word": "改裝",
+      "extraction_time": "2025-08-27 14:14:32",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "電視",
+      "taiwanese_sentence": "政治人物佇電視頂冤甲目降鬚聳，雙方佇鏡頭的尻川後早就閣你兄我弟矣，網路頂的支持者煞猶原吵甲袂收山，真正是「做戲的欲煞，看戲的毋煞」。",
+      "tailo_pronunciation": "Tsìng-tī jîn-bu̍t tī tiān-sī-tíng uan kah ba̍k-kàng-tshiu-tshàng, siang-hong tī kiànn-thâu ê kha-tshng-āu tsá tō koh lí-hiann-guá-tī--ah, bāng-lōo-tíng ê tsi-tshî-tsiá suah iu-guân tshá kah bē-siu-suann, tsin-tsiànn sī “tsò-hì--ê beh suah, khuànn-hì--ê m̄ suah”.。",
+      "chinese_translation": "政治人物在電視上吵得怒目相視，雙方在鏡頭後早就又稱兄道弟了，網路上的支持者卻仍吵得不可開交，真的是「演戲的要結束，看戲的卻不罷休。",
+      "source_word": "做戲的欲煞，看戲的毋煞。",
+      "extraction_time": "2025-08-27 14:14:34",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "電線",
+      "taiwanese_sentence": "兩條電線相拍電，出火金星。",
+      "tailo_pronunciation": "Nn̄g tiâu tiān-suànn sio-phah-tiān, tshut hué-kim-tshenn.。",
+      "chinese_translation": "兩條電線發生短路，冒出火花。",
+      "source_word": "火金星",
+      "extraction_time": "2025-08-27 14:14:37",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "電話",
+      "taiwanese_sentence": "我才臆伊無欲來，聖拄聖，伊就敲電話講欲請假矣。",
+      "tailo_pronunciation": "Guá tsiah ioh i bô beh lâi, siànn-tú-siànn, i tō khà tiān-uē kóng beh tshíng-ká--ah.。",
+      "chinese_translation": "我才猜他不來，巧極了，他就打電話來請假了。",
+      "source_word": "聖拄聖",
+      "extraction_time": "2025-08-27 14:14:40",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "影印",
+      "taiwanese_sentence": "毋免抄啦，提去影印較緊。",
+      "tailo_pronunciation": "M̄-bián tshau--lah, the̍h-khì iánn-ìn khah kín.。",
+      "chinese_translation": "不用抄啦，拿去影印比較快。",
+      "source_word": "影印",
+      "extraction_time": "2025-08-27 14:14:48",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "上網",
+      "taiwanese_sentence": "欲了解這个議題，你聽好先上網搜揣相關的資料。",
+      "tailo_pronunciation": "Beh liáu-kái tsit ê gī-tê, lí thìng-hó sing tsiūnn-bāng tshiau-tshuē siong-kuan ê tsu-liāu.。",
+      "chinese_translation": "",
+      "source_word": "搜揣",
+      "extraction_time": "2025-08-27 14:14:51",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "良好"
+    },
+    {
+      "word": "電腦",
+      "taiwanese_sentence": "彼間大賣場的電腦連紲予人偷提幾若十台去，警方懷疑是因為「內神通外鬼」，才會損失遮嚴重。",
+      "tailo_pronunciation": "Hit king tuā-bē-tiûnn ê tiān-náu liân-suà hōo lâng thau-the̍h kuí-nā tsa̍p tâi--khì, kíng-hong huâi-gî sī in-uī “lāi sîn thong guā kuí”, tsiah ē sún-sit tsiah giâm-tiōng.。",
+      "chinese_translation": "那間大賣場的電腦連續被偷走幾十台，警方懷疑是因為「內神通外鬼」，才會損失這麼嚴重。",
+      "source_word": "內神通外鬼。",
+      "extraction_time": "2025-08-27 14:14:59",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "手機",
+      "taiwanese_sentence": "你若欲開店賣手機仔，著愛綴會著科技咧發展的速度，毋通「過時賣曆日」，去賣以早彼種無網路功能的，這馬真罕得看著有人咧用矣。",
+      "tailo_pronunciation": "Lí nā beh khui-tiàm bē tshiú-ki-á, tio̍h-ài tuè ē tio̍h kho-ki teh huat-tián ê sok-tōo, m̄-thang “kuè-sî bē la̍h-ji̍t”, khì bē í-tsá hit tsióng bô bāng-lōo kong-lîng--ê, tsit-má tsin hán-tit khuànn-tio̍h ū lâng teh īng--ah.。",
+      "chinese_translation": "你如果想開店販售手機，就得追上科技發展的速度，不要「賣過期的日曆」，賣以前那種沒有網路功能的手機，現在很少看到有人使用了。",
+      "source_word": "過時賣曆日。",
+      "extraction_time": "2025-08-27 14:15:04",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "手機仔",
+      "taiwanese_sentence": "你若欲開店賣手機仔，著愛綴會著科技咧發展的速度，毋通「過時賣曆日」，去賣以早彼種無網路功能的，這馬真罕得看著有人咧用矣。",
+      "tailo_pronunciation": "Lí nā beh khui-tiàm bē tshiú-ki-á, tio̍h-ài tuè ē tio̍h kho-ki teh huat-tián ê sok-tōo, m̄-thang “kuè-sî bē la̍h-ji̍t”, khì bē í-tsá hit tsióng bô bāng-lōo kong-lîng--ê, tsit-má tsin hán-tit khuànn-tio̍h ū lâng teh īng--ah.。",
+      "chinese_translation": "你如果想開店販售手機，就得追上科技發展的速度，不要「賣過期的日曆」，賣以前那種沒有網路功能的手機，現在很少看到有人使用了。",
+      "source_word": "過時賣曆日。",
+      "extraction_time": "2025-08-27 14:15:07",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "電池",
+      "taiwanese_sentence": "彼手機仔都已經有打對折矣，伊閣硬拗，叫店員送伊電池佮配件。",
+      "tailo_pronunciation": "He tshiú-ki-á to í-king ū tánn tuì-tsiat--ah, i koh ngē-áu, kiò tiàm-uân sàng i tiān-tî kah phuè-kiānn.。",
+      "chinese_translation": "那個手機都已經打了對折了，他還強求，叫店員送他電池和配件。",
+      "source_word": "硬拗",
+      "extraction_time": "2025-08-27 14:15:10",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    }
+  ],
+  "missing_words": [
+    {
+      "word": "照相機",
+      "reason": "無用例",
+      "index": 1
+    },
+    {
+      "word": "插座",
+      "reason": "無用例",
+      "index": 8
+    },
+    {
+      "word": "音響",
+      "reason": "無用例",
+      "index": 9
+    },
+    {
+      "word": "天線",
+      "reason": "無用例",
+      "index": 12
+    },
+    {
+      "word": "充電器",
+      "reason": "無用例",
+      "index": 13
+    },
+    {
+      "word": "電纜",
+      "reason": "無用例",
+      "index": 15
+    },
+    {
+      "word": "廣告",
+      "reason": "無用例",
+      "index": 19
+    }
+  ]
+}

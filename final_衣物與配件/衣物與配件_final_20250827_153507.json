@@ -1,0 +1,414 @@
+{
+  "metadata": {
+    "scraper_type": "最終版手動操作風格爬蟲",
+    "operation_flow": "輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理",
+    "source_url": "https://sutian.moe.edu.tw/zh-hant/tshiau/",
+    "extraction_date": "20250827_153507",
+    "statistics": {
+      "total_words": 56,
+      "successful_extractions": 22,
+      "missing_words": 34,
+      "success_rate": "39.3%",
+      "quality_stats": {
+        "完整": 22,
+        "良好": 0,
+        "基本": 0,
+        "不完整": 0
+      }
+    }
+  },
+  "successful_records": [
+    {
+      "word": "帽仔",
+      "taiwanese_sentence": "日頭遐炎無戴帽仔閣無啉水，莫怪會熱著。",
+      "tailo_pronunciation": "Ji̍t-thâu hiah iām bô tì bō-á koh bô lim tsuí, bo̍k-kuài ē jua̍h--tio̍h.。",
+      "chinese_translation": "太陽這麼大沒戴帽子又沒喝水，難怪會中暑。",
+      "source_word": "熱著",
+      "extraction_time": "2025-08-27 15:32:43",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "鈕仔",
+      "taiwanese_sentence": "你這領衫的頷仔領會使紩一粒觸鈕仔共鈕起來，按呢看著會較撆紮。",
+      "tailo_pronunciation": "Lí tsit niá sann ê ām-á-niá ē-sái thīnn tsi̍t lia̍p tak-liú-á kā liú--khí-lâi, án-ne khuànn tio̍h ē khah pih-tsah.。",
+      "chinese_translation": "你這件衣服的領口可以縫一顆按扣扣起來，這樣看起來比較整齊。",
+      "source_word": "觸鈕仔",
+      "extraction_time": "2025-08-27 15:32:46",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "耳鉤",
+      "taiwanese_sentence": "你掛這對耳鉤真媠。",
+      "tailo_pronunciation": "Lí kuà tsit tuì hīnn-kau tsin suí.。",
+      "chinese_translation": "你戴這對耳環很美。",
+      "source_word": "耳鉤",
+      "extraction_time": "2025-08-27 15:32:49",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "手䘼",
+      "taiwanese_sentence": "你內衫的手䘼捅出來矣，緊搝入去。",
+      "tailo_pronunciation": "Lí lāi-sann ê tshiú-ńg thóng--tshut-lâi--ah, kín khiú--ji̍p-khì.。",
+      "chinese_translation": "你內衣袖子露出來了，趕快將它拉進去。",
+      "source_word": "捅",
+      "extraction_time": "2025-08-27 15:32:57",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "橐袋仔",
+      "taiwanese_sentence": "伊橐袋仔飽水，對朋友真慷慨。",
+      "tailo_pronunciation": "I lak-tē-á pá-tsuí, tuì pîng-iú tsin khóng-khài.。",
+      "chinese_translation": "他荷包滿滿，對朋友很慷慨。",
+      "source_word": "飽水",
+      "extraction_time": "2025-08-27 15:33:06",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "外套",
+      "taiwanese_sentence": "你寒天出門毋穿外套，較加嘛會感冒。",
+      "tailo_pronunciation": "Lí kuânn-thinn tshut-mn̂g m̄ tshīng guā-thò, khah-ke mā ē kám-mōo.。",
+      "chinese_translation": "你冬天出門不穿外套，難怪會感冒。",
+      "source_word": "較加",
+      "extraction_time": "2025-08-27 15:33:40",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "皮鞋",
+      "taiwanese_sentence": "皮鞋專塗粉，去抿抿咧。",
+      "tailo_pronunciation": "Phuê-ê tsuan thôo-hún, khì bín-bín--leh.。",
+      "chinese_translation": "皮鞋都是灰塵，去擦一擦。",
+      "source_word": "抿",
+      "extraction_time": "2025-08-27 15:33:42",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "目鏡",
+      "taiwanese_sentence": "伊老人目看報紙看袂清楚，緊提目鏡予伊。",
+      "tailo_pronunciation": "I lāu-lâng-ba̍k khuànn pò-tsuá khuànn bē tshing-tshó, kín the̍h ba̍k-kiànn hōo--i.。",
+      "chinese_translation": "他老花眼看報紙看不清楚，趕快拿眼鏡給他。",
+      "source_word": "老人目",
+      "extraction_time": "2025-08-27 15:33:48",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "鞋仔",
+      "taiwanese_sentence": "聽講這个網站咧賣的鞋仔，有寡是仿仔，你著較細膩咧！",
+      "tailo_pronunciation": "Thiann-kóng tsit ê bāng-tsām teh bē ê ê-á, ū kuá sī hóng-á, lí tio̍h khah sè-jī--leh",
+      "chinese_translation": "聽說這個網站販賣的鞋子，有些是仿冒品，你得小心一點！",
+      "source_word": "仿仔",
+      "extraction_time": "2025-08-27 15:33:51",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "喙罨",
+      "taiwanese_sentence": "阿明長期佇炭空作穡，攏無照規定咧澍水、掛喙罨，年久月深就致著沙肺。",
+      "tailo_pronunciation": "A-bîng tn̂g-kî tī thuànn-khang tsoh-sit, lóng bô tsiàu kui-tīng teh tshū tsuí, kuà tshuì-am, nî-kú-gue̍h-tshim tō tì-tio̍h sua-hì.。",
+      "chinese_translation": "小明長期在煤礦坑裡工作，都不依照規定噴水霧、戴口罩，久而久之就罹患塵肺症。",
+      "source_word": "沙肺",
+      "extraction_time": "2025-08-27 15:33:54",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "舊衫",
+      "taiwanese_sentence": "講欲提一寡舊衫予我，到今閣無半絲。",
+      "tailo_pronunciation": "Kóng beh the̍h tsi̍t-kuá kū sann hōo--guá, kàu-tann koh bô-puànn-si.。",
+      "chinese_translation": "說要拿一些舊衣物給我，到現在還是一點兒也沒有。",
+      "source_word": "無半絲",
+      "extraction_time": "2025-08-27 15:33:56",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "裘仔",
+      "taiwanese_sentence": "趁俗先去買裘仔，聽候較寒的時陣才提出來穿。",
+      "tailo_pronunciation": "Thàn sio̍k sing khì bé hiû-á, thìng-hāu khah kuânn ê sî-tsūn tsiah the̍h tshut-lâi tshīng.。",
+      "chinese_translation": "趁著便宜先去買棉襖，等到比較冷的時候再拿出來穿。",
+      "source_word": "聽候",
+      "extraction_time": "2025-08-27 15:33:59",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "淺拖仔",
+      "taiwanese_sentence": "你袂使穿淺拖仔去學校。",
+      "tailo_pronunciation": "Lí bē-sái tshīng tshián-thua-á khì ha̍k-hāu.。",
+      "chinese_translation": "你不可以穿拖鞋去學校。",
+      "source_word": "淺拖仔",
+      "extraction_time": "2025-08-27 15:34:02",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "雨傘",
+      "taiwanese_sentence": "有人抾雨傘樹拄落落來的葉仔來治肝病，毋過有病應該愛去予醫生看才著。",
+      "tailo_pronunciation": "Ū lâng khioh hōo-suànn-tshiū tú lak--lo̍h-lâi ê hio̍h-á lâi tī kuann-pēnn, m̄-koh ū pēnn ing-kai ài khì hōo i-sing khuànn tsiah tio̍h.。",
+      "chinese_translation": "有人撿大葉欖仁剛掉落的葉子來治肝病，不過有病應該還是去看醫生才對。",
+      "source_word": "雨傘樹",
+      "extraction_time": "2025-08-27 15:34:11",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "糾帶",
+      "taiwanese_sentence": "用車仔車糾帶。",
+      "tailo_pronunciation": "Īng tshia-á tshia kiù-tuà.。",
+      "chinese_translation": "用縫紉機縫鬆緊帶。",
+      "source_word": "車仔",
+      "extraction_time": "2025-08-27 15:34:16",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "領帶",
+      "taiwanese_sentence": "領帶傷絚，繏甲我強欲袂喘氣。",
+      "tailo_pronunciation": "Niá-tuà siunn ân, sǹg kah guá kiōng-beh bē tshuán-khuì.。",
+      "chinese_translation": "領帶太緊了，勒得我差一點不能呼吸。",
+      "source_word": "繏替sǹg",
+      "extraction_time": "2025-08-27 15:34:27",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "柴屐",
+      "taiwanese_sentence": "這雙柴屐閣袂歹穿。",
+      "tailo_pronunciation": "Tsit siang tshâ-kia̍h koh bē pháinn tshīng.。",
+      "chinese_translation": "這雙木屐還不難穿。",
+      "source_word": "柴屐",
+      "extraction_time": "2025-08-27 15:34:33",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "䘥仔",
+      "taiwanese_sentence": "阿公見若熱人，攏穿吊䘥仔四界去行踏，講按呢較涼、較爽快。",
+      "tailo_pronunciation": "A-kong kiàn-nā jua̍h--lâng, lóng tshīng tiàu-kah-á sì-kè khì kiânn-ta̍h, kóng án-ne khah liâng, khah sóng-khuài.。",
+      "chinese_translation": "爺爺每當夏天，就穿汗衫到處去走動，說這樣比較涼爽。",
+      "source_word": "吊䘥仔",
+      "extraction_time": "2025-08-27 15:34:36",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "手指",
+      "taiwanese_sentence": "你講手指月娘會予月娘割耳仔，彼是欲騙囡仔的，我予你袂食聲得。",
+      "tailo_pronunciation": "Lí kóng tshiú kí gue̍h-niû ē hōo gue̍h-niû kuah hīnn-á, he sī beh phiàn gín-á--ê, guá hōo lí bē-tsia̍h-siann--tit.。",
+      "chinese_translation": "你說手指月亮會被月亮割耳朵，那是要騙小孩的，你別想騙我。",
+      "source_word": "食聲",
+      "extraction_time": "2025-08-27 15:34:39",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "皮包仔",
+      "taiwanese_sentence": "伊拄對銀行領錢出來，雄雄一个強徒出手共伊的皮包仔搶去。",
+      "tailo_pronunciation": "I tú tuì gîn-hâng niá tsînn tshut--lâi, hiông-hiông tsi̍t ê kiông-tôo tshut-tshiú kā i ê phuê-pau-á tshiúnn--khì.。",
+      "chinese_translation": "他剛從銀行領錢出來，突然一個搶匪動手搶走了他的皮包。",
+      "source_word": "強徒",
+      "extraction_time": "2025-08-27 15:34:42",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "運動褲",
+      "taiwanese_sentence": "電視咧搬笑詼齣，結婚請人客的時，新人頂身穿禮服，下身穿運動褲。予人客恥笑講：「豬屎籃仔結綵。」",
+      "tailo_pronunciation": "Tiān-sī teh puann tshiò-khue-tshut, kiat-hun tshiánn-lâng-kheh ê sî, sin-lâng tíng-sin tshīng lé-ho̍k, ē-sin tshīng ūn-tōng-khòo. Hōo lâng-kheh thí-tshiò kóng, “Ti-sái nâ-á kat-tshái.”。被客人譏笑說：「不倫不類。」",
+      "chinese_translation": "電視在播爆笑劇，結婚宴客時，新人上半身穿禮服，下半身穿運動褲。被客人譏笑說：「不倫不類。」",
+      "source_word": "豬屎籃仔結綵。",
+      "extraction_time": "2025-08-27 15:34:56",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "皮包",
+      "taiwanese_sentence": "伊拄對銀行領錢出來，雄雄一个強徒出手共伊的皮包仔搶去。",
+      "tailo_pronunciation": "I tú tuì gîn-hâng niá tsînn tshut--lâi, hiông-hiông tsi̍t ê kiông-tôo tshut-tshiú kā i ê phuê-pau-á tshiúnn--khì.。",
+      "chinese_translation": "他剛從銀行領錢出來，突然一個搶匪動手搶走了他的皮包。",
+      "source_word": "強徒",
+      "extraction_time": "2025-08-27 15:35:04",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    }
+  ],
+  "missing_words": [
+    {
+      "word": "拖鞋",
+      "reason": "無用例",
+      "index": 1
+    },
+    {
+      "word": "頭毛箍仔",
+      "reason": "無用例",
+      "index": 2
+    },
+    {
+      "word": "短褲",
+      "reason": "無用例",
+      "index": 3
+    },
+    {
+      "word": "內衣",
+      "reason": "無用例",
+      "index": 4
+    },
+    {
+      "word": "眼鏡",
+      "reason": "無用例",
+      "index": 8
+    },
+    {
+      "word": "牛仔褲",
+      "reason": "無用例",
+      "index": 9
+    },
+    {
+      "word": "舊衣服",
+      "reason": "無用例",
+      "index": 11
+    },
+    {
+      "word": "襪子",
+      "reason": "無用例",
+      "index": 12
+    },
+    {
+      "word": "內䘥仔",
+      "reason": "無用例",
+      "index": 14
+    },
+    {
+      "word": "偝巾",
+      "reason": "無用例",
+      "index": 15
+    },
+    {
+      "word": "雨鞋",
+      "reason": "無用例",
+      "index": 16
+    },
+    {
+      "word": "帽子",
+      "reason": "無用例",
+      "index": 17
+    },
+    {
+      "word": "背巾",
+      "reason": "無用例",
+      "index": 18
+    },
+    {
+      "word": "口袋",
+      "reason": "無用例",
+      "index": 19
+    },
+    {
+      "word": "運動鞋",
+      "reason": "無用例",
+      "index": 20
+    },
+    {
+      "word": "戒指",
+      "reason": "無用例",
+      "index": 21
+    },
+    {
+      "word": "背心。",
+      "reason": "無用例",
+      "index": 22
+    },
+    {
+      "word": "皮帶",
+      "reason": "無用例",
+      "index": 23
+    },
+    {
+      "word": "耳環",
+      "reason": "無用例",
+      "index": 24
+    },
+    {
+      "word": "髮箍",
+      "reason": "無用例",
+      "index": 27
+    },
+    {
+      "word": "鞋子",
+      "reason": "無用例",
+      "index": 34
+    },
+    {
+      "word": "雨衫",
+      "reason": "無用例",
+      "index": 35
+    },
+    {
+      "word": "長褲",
+      "reason": "無用例",
+      "index": 37
+    },
+    {
+      "word": "木屐",
+      "reason": "無用例",
+      "index": 39
+    },
+    {
+      "word": "袖子",
+      "reason": "無用例",
+      "index": 40
+    },
+    {
+      "word": "鬆緊帶",
+      "reason": "無用例",
+      "index": 41
+    },
+    {
+      "word": "鈕扣",
+      "reason": "無用例",
+      "index": 43
+    },
+    {
+      "word": "口罩",
+      "reason": "無用例",
+      "index": 48
+    },
+    {
+      "word": "雨衣",
+      "reason": "無用例",
+      "index": 49
+    },
+    {
+      "word": "夾襖、棉襖",
+      "reason": "無用例",
+      "index": 50
+    },
+    {
+      "word": "襪仔",
+      "reason": "無用例",
+      "index": 51
+    },
+    {
+      "word": "內褲",
+      "reason": "無用例",
+      "index": 53
+    },
+    {
+      "word": "手套",
+      "reason": "無用例",
+      "index": 54
+    },
+    {
+      "word": "手錶",
+      "reason": "無用例",
+      "index": 56
+    }
+  ]
+}

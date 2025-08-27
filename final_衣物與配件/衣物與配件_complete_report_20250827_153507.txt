@@ -1,0 +1,212 @@
+最終版台語辭典擷取完整報告 - 衣物與配件
+================================================================================
+🎯 操作流程：輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理
+📊 完整統計：
+   - 總計單字：56 個
+   - 成功擷取：22 個
+   - 缺失單字：34 個
+   - 成功率：39.3%
+⏰ 擷取時間：20250827_153507
+
+🌟 完整擷取（台語+台羅+中文）:
+------------------------------------------------------------
+ 1. 帽仔
+    台語：日頭遐炎無戴帽仔閣無啉水，莫怪會熱著。
+    台羅：Ji̍t-thâu hiah iām bô tì bō-á koh bô lim tsuí, bo̍k-kuài ē jua̍h--tio̍h.。
+    中文：太陽這麼大沒戴帽子又沒喝水，難怪會中暑。
+    來源：熱著
+
+ 2. 鈕仔
+    台語：你這領衫的頷仔領會使紩一粒觸鈕仔共鈕起來，按呢看著會較撆紮。
+    台羅：Lí tsit niá sann ê ām-á-niá ē-sái thīnn tsi̍t lia̍p tak-liú-á kā liú--khí-lâi, án-ne khuànn tio̍h ē khah pih-tsah.。
+    中文：你這件衣服的領口可以縫一顆按扣扣起來，這樣看起來比較整齊。
+    來源：觸鈕仔
+
+ 3. 耳鉤
+    台語：你掛這對耳鉤真媠。
+    台羅：Lí kuà tsit tuì hīnn-kau tsin suí.。
+    中文：你戴這對耳環很美。
+
+ 4. 手䘼
+    台語：你內衫的手䘼捅出來矣，緊搝入去。
+    台羅：Lí lāi-sann ê tshiú-ńg thóng--tshut-lâi--ah, kín khiú--ji̍p-khì.。
+    中文：你內衣袖子露出來了，趕快將它拉進去。
+    來源：捅
+
+ 5. 橐袋仔
+    台語：伊橐袋仔飽水，對朋友真慷慨。
+    台羅：I lak-tē-á pá-tsuí, tuì pîng-iú tsin khóng-khài.。
+    中文：他荷包滿滿，對朋友很慷慨。
+    來源：飽水
+
+ 6. 外套
+    台語：你寒天出門毋穿外套，較加嘛會感冒。
+    台羅：Lí kuânn-thinn tshut-mn̂g m̄ tshīng guā-thò, khah-ke mā ē kám-mōo.。
+    中文：你冬天出門不穿外套，難怪會感冒。
+    來源：較加
+
+ 7. 皮鞋
+    台語：皮鞋專塗粉，去抿抿咧。
+    台羅：Phuê-ê tsuan thôo-hún, khì bín-bín--leh.。
+    中文：皮鞋都是灰塵，去擦一擦。
+    來源：抿
+
+ 8. 目鏡
+    台語：伊老人目看報紙看袂清楚，緊提目鏡予伊。
+    台羅：I lāu-lâng-ba̍k khuànn pò-tsuá khuànn bē tshing-tshó, kín the̍h ba̍k-kiànn hōo--i.。
+    中文：他老花眼看報紙看不清楚，趕快拿眼鏡給他。
+    來源：老人目
+
+ 9. 鞋仔
+    台語：聽講這个網站咧賣的鞋仔，有寡是仿仔，你著較細膩咧！
+    台羅：Thiann-kóng tsit ê bāng-tsām teh bē ê ê-á, ū kuá sī hóng-á, lí tio̍h khah sè-jī--leh
+    中文：聽說這個網站販賣的鞋子，有些是仿冒品，你得小心一點！
+    來源：仿仔
+
+10. 喙罨
+    台語：阿明長期佇炭空作穡，攏無照規定咧澍水、掛喙罨，年久月深就致著沙肺。
+    台羅：A-bîng tn̂g-kî tī thuànn-khang tsoh-sit, lóng bô tsiàu kui-tīng teh tshū tsuí, kuà tshuì-am, nî-kú-gue̍h-tshim tō tì-tio̍h sua-hì.。
+    中文：小明長期在煤礦坑裡工作，都不依照規定噴水霧、戴口罩，久而久之就罹患塵肺症。
+    來源：沙肺
+
+11. 舊衫
+    台語：講欲提一寡舊衫予我，到今閣無半絲。
+    台羅：Kóng beh the̍h tsi̍t-kuá kū sann hōo--guá, kàu-tann koh bô-puànn-si.。
+    中文：說要拿一些舊衣物給我，到現在還是一點兒也沒有。
+    來源：無半絲
+
+12. 裘仔
+    台語：趁俗先去買裘仔，聽候較寒的時陣才提出來穿。
+    台羅：Thàn sio̍k sing khì bé hiû-á, thìng-hāu khah kuânn ê sî-tsūn tsiah the̍h tshut-lâi tshīng.。
+    中文：趁著便宜先去買棉襖，等到比較冷的時候再拿出來穿。
+    來源：聽候
+
+13. 淺拖仔
+    台語：你袂使穿淺拖仔去學校。
+    台羅：Lí bē-sái tshīng tshián-thua-á khì ha̍k-hāu.。
+    中文：你不可以穿拖鞋去學校。
+
+14. 雨傘
+    台語：有人抾雨傘樹拄落落來的葉仔來治肝病，毋過有病應該愛去予醫生看才著。
+    台羅：Ū lâng khioh hōo-suànn-tshiū tú lak--lo̍h-lâi ê hio̍h-á lâi tī kuann-pēnn, m̄-koh ū pēnn ing-kai ài khì hōo i-sing khuànn tsiah tio̍h.。
+    中文：有人撿大葉欖仁剛掉落的葉子來治肝病，不過有病應該還是去看醫生才對。
+    來源：雨傘樹
+
+15. 糾帶
+    台語：用車仔車糾帶。
+    台羅：Īng tshia-á tshia kiù-tuà.。
+    中文：用縫紉機縫鬆緊帶。
+    來源：車仔
+
+16. 領帶
+    台語：領帶傷絚，繏甲我強欲袂喘氣。
+    台羅：Niá-tuà siunn ân, sǹg kah guá kiōng-beh bē tshuán-khuì.。
+    中文：領帶太緊了，勒得我差一點不能呼吸。
+    來源：繏替sǹg
+
+17. 柴屐
+    台語：這雙柴屐閣袂歹穿。
+    台羅：Tsit siang tshâ-kia̍h koh bē pháinn tshīng.。
+    中文：這雙木屐還不難穿。
+
+18. 䘥仔
+    台語：阿公見若熱人，攏穿吊䘥仔四界去行踏，講按呢較涼、較爽快。
+    台羅：A-kong kiàn-nā jua̍h--lâng, lóng tshīng tiàu-kah-á sì-kè khì kiânn-ta̍h, kóng án-ne khah liâng, khah sóng-khuài.。
+    中文：爺爺每當夏天，就穿汗衫到處去走動，說這樣比較涼爽。
+    來源：吊䘥仔
+
+19. 手指
+    台語：你講手指月娘會予月娘割耳仔，彼是欲騙囡仔的，我予你袂食聲得。
+    台羅：Lí kóng tshiú kí gue̍h-niû ē hōo gue̍h-niû kuah hīnn-á, he sī beh phiàn gín-á--ê, guá hōo lí bē-tsia̍h-siann--tit.。
+    中文：你說手指月亮會被月亮割耳朵，那是要騙小孩的，你別想騙我。
+    來源：食聲
+
+20. 皮包仔
+    台語：伊拄對銀行領錢出來，雄雄一个強徒出手共伊的皮包仔搶去。
+    台羅：I tú tuì gîn-hâng niá tsînn tshut--lâi, hiông-hiông tsi̍t ê kiông-tôo tshut-tshiú kā i ê phuê-pau-á tshiúnn--khì.。
+    中文：他剛從銀行領錢出來，突然一個搶匪動手搶走了他的皮包。
+    來源：強徒
+
+21. 運動褲
+    台語：電視咧搬笑詼齣，結婚請人客的時，新人頂身穿禮服，下身穿運動褲。予人客恥笑講：「豬屎籃仔結綵。」
+    台羅：Tiān-sī teh puann tshiò-khue-tshut, kiat-hun tshiánn-lâng-kheh ê sî, sin-lâng tíng-sin tshīng lé-ho̍k, ē-sin tshīng ūn-tōng-khòo. Hōo lâng-kheh thí-tshiò kóng, “Ti-sái nâ-á kat-tshái.”。被客人譏笑說：「不倫不類。」
+    中文：電視在播爆笑劇，結婚宴客時，新人上半身穿禮服，下半身穿運動褲。被客人譏笑說：「不倫不類。」
+    來源：豬屎籃仔結綵。
+
+22. 皮包
+    台語：伊拄對銀行領錢出來，雄雄一个強徒出手共伊的皮包仔搶去。
+    台羅：I tú tuì gîn-hâng niá tsînn tshut--lâi, hiông-hiông tsi̍t ê kiông-tôo tshut-tshiú kā i ê phuê-pau-á tshiúnn--khì.。
+    中文：他剛從銀行領錢出來，突然一個搶匪動手搶走了他的皮包。
+    來源：強徒
+
+1.	手套
+台語：工人搬磚仔攏愛戴手套，才袂刮傷手。
+台羅：Kang-lâng puann tsng-á lóng ài tì tshiú-thò, tsiah bē kueh-siong tshiú.。
+中文：工人搬磚都要戴手套，才不會刮傷手。
+	2.	皮帶
+台語：伊的褲頭較鬆，緊用皮帶繫好。
+台羅：I ê khòo-thâu khah sang, kín iōng phuê-tuà hì hó.。
+中文：他的褲頭太鬆，趕快用皮帶繫好。
+	3.	手錶
+台語：阿明的手錶壞去矣，今仔日遲到咧。
+台羅：A-bîng ê tshiú-pió pháinn–khì–ah, kin-á-ji̍t tī-tò–leh.。
+中文：小明的手錶壞了，今天遲到了。
+	4.	雨衫（雨衣）
+台語：天烏落大雨，愛著攑雨衫才袂拍溼。
+台羅：Thinn oo lo̍h tuā-hōo, ài tio̍h gia̍h hōo-sann tsiah bē phah-sip.。
+中文：天黑下大雨，要穿雨衣才不會淋濕。
+	5.	雨鞋
+台語：欲落田的時，著愛穿雨鞋，比較袂刣腳。
+台羅：Beh lo̍h tshân ê sî, tio̍h ài tshīng hōo-ê, pí-khah bē thâi-kha.。
+中文：要下田的時候，要穿雨鞋，比較不會割傷腳。
+	6.	內褲
+台語：洗身軀的時，內褲嘛著攏提去換。
+台羅：Sé sing-khu ê sî, lāi-khòo mā tio̍h lóng the̍h-khì uānn.。
+中文：洗澡的時候，內褲也要一起拿去換。
+	7.	短褲
+台語：夏天的時，逐家攏愛穿短褲，比較涼快。
+台羅：Hā-thinn ê sî, ta̍k-ke lóng ài tshīng té-khòo, khah liâng-khuài.。
+中文：夏天的時候，大家都喜歡穿短褲，比較涼快。
+	8.	長褲
+台語：欲去爬山，著穿長褲，比較袂刮傷。
+台羅：Beh khì pe-suann, tio̍h tshīng tn̂g-khòo, pí-khah bē kueh-siong.。
+中文：要去爬山，要穿長褲，才不會刮傷。
+	9.	牛仔褲
+台語：阿美上愛穿牛仔褲，講方便閣好看。
+台羅：A-bí siōng ài tshīng gû-á-khòo, kóng hong-piān koh hó-khuànn.。
+中文：小美最喜歡穿牛仔褲，說又方便又好看。
+	10.	運動鞋
+台語：運動鞋穿起來較輕鬆，行路嘛較快。
+台羅：Ūn-tōng-ê tshīng–khí-lâi khah khin-sang, kiânn-lōo mā khah khuài.。
+中文：運動鞋穿起來比較輕鬆，走路也比較快。
+	11.	襪仔
+台語：襪仔破一空，行路就會磨著囉。
+台羅：Bue̍h-á phuà tsi̍t khang, kiânn-lōo tō ē bóo-tio̍h–looh.。
+中文：襪子破了一個洞，走路就會磨破皮。
+	12.	偝巾（背巾）
+台語：細漢時代，阿母攏用偝巾揹阮去市集。
+台羅：Sè-hàn sî-tāi, a-bú lóng iōng āinn-kin puē guán khì tshī-ti̍p.。
+中文：小時候，媽媽常用背巾揹我去市場。
+	13.	內䘥仔（內衣）
+台語：寒流到，毋著穿內䘥仔會冷著。
+台羅：Kuân-liû kàu, m̄-tio̍h tshīng lāi-kah-á ē líng-tio̍h.。
+中文：寒流來時，不穿內衣會冷到。
+	14.	頭毛箍仔（髮箍）
+台語：阿妹仔戴頭毛箍仔，頭毛袂蓋落來，較方便讀冊。
+台羅：A-muè-á tì thâu-mng-khoo-á, thâu-mng bē kài lo̍h-lâi, khah hong-piān tha̍k-tsheh.。
+中文：妹妹戴著髮箍，頭髮不會垂下來，比較方便讀書。
+
+❌ 缺失單字報告:
+============================================================
+以下 34 個單字沒有找到可用的例句：
+
+📋 無用例 (34個):
+   拖鞋      頭毛箍仔    短褲      內衣      眼鏡      牛仔褲     舊衣服     襪子      內䘥仔     偝巾      
+   雨鞋      帽子      背巾      口袋      運動鞋     戒指      背心。     皮帶      耳環      髮箍      
+   鞋子      雨衫      長褲      木屐      袖子      鬆緊帶     鈕扣      口罩      雨衣      夾襖、棉襖   
+   襪仔      內褲      手套      手錶      
+
+💡 建議：
+   1. 這些單字可能在教育部辭典中沒有用例
+   2. 可以嘗試其他台語辭典或資源
+   3. 或者手動查詢相關的同義詞

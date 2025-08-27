@@ -1,0 +1,464 @@
+{
+  "metadata": {
+    "scraper_type": "最終版手動操作風格爬蟲",
+    "operation_flow": "輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理",
+    "source_url": "https://sutian.moe.edu.tw/zh-hant/tshiau/",
+    "extraction_date": "20250827_150610",
+    "statistics": {
+      "total_words": 59,
+      "successful_extractions": 29,
+      "missing_words": 30,
+      "success_rate": "49.2%",
+      "quality_stats": {
+        "完整": 28,
+        "良好": 1,
+        "基本": 0,
+        "不完整": 0
+      }
+    }
+  },
+  "successful_records": [
+    {
+      "word": "司公",
+      "taiwanese_sentence": "普渡的時，司公道士唸的咒語無幾个人捌，民間定定供體𪜶是「毛呼龜粿粽，紅包在你送」。",
+      "tailo_pronunciation": "Phóo-tōo ê sî, sai-kong tō-sū liām ê tsiù-gí bô kuí ê lâng bat, bîn-kan tiānn-tiānn king-thé in sī “môo-honn ku kué tsàng, âng-pau tsāi lí sàng”.。",
+      "chinese_translation": "普渡的時候，道士們唸的咒語沒有幾個人知道，民間常常嘲諷他們是「看著祭品隨口亂誦經，心中只有紅包」。",
+      "source_word": "毛呼龜粿粽，紅包在你送。",
+      "extraction_time": "2025-08-27 15:03:32",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "神明",
+      "taiwanese_sentence": "鹽水的蜂仔炮全國有名，佇元宵暝，逐家攏放蜂仔炮敬神，毋過人講「神明興，弟子窮」，𪜶逐口灶逐年攏著開幾萬箍放蜂仔炮。",
+      "tailo_pronunciation": "Kiâm-tsuí ê phang-á-phàu tsuân-kok ū-miâ, tī Guân-siau-mê, ta̍k-ke lóng pàng-phang-á-phàu kìng-sîn, m̄-koh lâng kóng “sîn-bîng hing, tē-tsú kîng”, in ta̍k kháu-tsàu ta̍k-nî lóng tio̍h khai kuí-bān khoo pàng-phang-á-phàu.。",
+      "chinese_translation": "鹽水鎮的蜂炮全國有名，在元宵節這晚，每家都放蜂炮敬神，不過有句話說「敬神耗財」，他們每家每年都得花幾萬元放蜂炮。",
+      "source_word": "神明興，弟子窮。",
+      "extraction_time": "2025-08-27 15:03:38",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "和尚",
+      "taiwanese_sentence": "現此時國內外的經濟誠䆀，股市一直落，若欲向股票閣起價，袂輸是「和尚頭掠蝨母」，誠僫咧。",
+      "tailo_pronunciation": "Hiān-tshú-sî kok-lāi-guā ê king-tsè tsiânn bái, kóo-tshī it-ti̍t lo̍h, nā beh ǹg kóo-phiò koh khí-kè, bē-su sī “huê-siūnn thâu lia̍h sat-bó”, tsiânn oh--leh.。",
+      "chinese_translation": "現在國內外的經濟不好，股市跌個不停，若要期盼股票再漲起來，就如同「在和尚的頭上抓蝨子一樣」，很困難呢。",
+      "source_word": "和尚頭掠蝨母。",
+      "extraction_time": "2025-08-27 15:03:44",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "佛祖",
+      "taiwanese_sentence": "咱人四月初八是佛祖生，濟濟廟寺攏會舉辦浴佛法會。",
+      "tailo_pronunciation": "Lán-lâng sì-gue̍h tshe-peh sī Pu̍t-tsóo-senn, tsē-tsē biō-sī lóng ē kí-pān io̍k-pu̍t huat-huē.。",
+      "chinese_translation": "農曆四月初八是浴佛節，許多寺廟都會舉辦浴佛法會。",
+      "source_word": "佛祖生",
+      "extraction_time": "2025-08-27 15:03:49",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "蠟燭",
+      "taiwanese_sentence": "風颱天上驚失電，咱著愛準備蠟燭。",
+      "tailo_pronunciation": "Hong-thai-thinn siōng kiann sit-tiān, lán tio̍h-ài tsún-pī la̍h-tsik.。",
+      "chinese_translation": "颱風天最怕停電，我們得要準備蠟燭。",
+      "source_word": "失電",
+      "extraction_time": "2025-08-27 15:03:52",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "廟寺",
+      "taiwanese_sentence": "咱人四月初八是佛祖生，濟濟廟寺攏會舉辦浴佛法會。",
+      "tailo_pronunciation": "Lán-lâng sì-gue̍h tshe-peh sī Pu̍t-tsóo-senn, tsē-tsē biō-sī lóng ē kí-pān io̍k-pu̍t huat-huē.。",
+      "chinese_translation": "農曆四月初八是浴佛節，許多寺廟都會舉辦浴佛法會。",
+      "source_word": "佛祖生",
+      "extraction_time": "2025-08-27 15:03:58",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "法會",
+      "taiwanese_sentence": "咱人四月初八是佛祖生，濟濟廟寺攏會舉辦浴佛法會。",
+      "tailo_pronunciation": "Lán-lâng sì-gue̍h tshe-peh sī Pu̍t-tsóo-senn, tsē-tsē biō-sī lóng ē kí-pān io̍k-pu̍t huat-huē.。",
+      "chinese_translation": "農曆四月初八是浴佛節，許多寺廟都會舉辦浴佛法會。",
+      "source_word": "佛祖生",
+      "extraction_time": "2025-08-27 15:04:01",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "大道公",
+      "taiwanese_sentence": "大道公風，媽祖婆雨。",
+      "tailo_pronunciation": "",
+      "chinese_translation": "民間傳說保生大帝曾向媽祖求婚，但是媽祖一心掛念人民，拒絕了大帝的美意。大帝非常失望，也很生氣，就在農曆三月二十三日媽祖誕辰繞境時，施法術、降大雨。到了翌年三月十五日大帝誕辰遶境時，媽祖就颳起大風。",
+      "source_word": "媽祖婆",
+      "extraction_time": "2025-08-27 15:04:09",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "良好"
+    },
+    {
+      "word": "相命仙",
+      "taiwanese_sentence": "你看伊「頭大面四方，肚大居財王」，相命仙講伊另日仔定著是大富大貴的人。",
+      "tailo_pronunciation": "Lí khuànn i “thâu tuā bīn sù-hong, tóo tuā ki-tsâi ông”, siòng-miā-sian kóng i līng-ji̍t-á tiānn-tio̍h sī tuā-hù-tuā-kuì ê lâng.。",
+      "chinese_translation": "你看他「頭大、臉方、肚大」，命相師說他將來必定是大富大貴之人。",
+      "source_word": "頭大面四方，肚大居財王。",
+      "extraction_time": "2025-08-27 15:04:18",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "金紙",
+      "taiwanese_sentence": "阮兜的巷仔口有一間金紙店。",
+      "tailo_pronunciation": "Guán tau ê hāng-á-kháu ū tsi̍t king kim-tsuá-tiàm.。",
+      "chinese_translation": "我們家的巷口有一間金紙店。",
+      "source_word": "巷仔口",
+      "extraction_time": "2025-08-27 15:04:20",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "道士",
+      "taiwanese_sentence": "普渡的時，司公道士唸的咒語無幾个人捌，民間定定供體𪜶是「毛呼龜粿粽，紅包在你送」。",
+      "tailo_pronunciation": "Phóo-tōo ê sî, sai-kong tō-sū liām ê tsiù-gí bô kuí ê lâng bat, bîn-kan tiānn-tiānn king-thé in sī “môo-honn ku kué tsàng, âng-pau tsāi lí sàng”.。",
+      "chinese_translation": "普渡的時候，道士們唸的咒語沒有幾個人知道，民間常常嘲諷他們是「看著祭品隨口亂誦經，心中只有紅包」。",
+      "source_word": "毛呼龜粿粽，紅包在你送。",
+      "extraction_time": "2025-08-27 15:04:29",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "土地公",
+      "taiwanese_sentence": "咱這个單位的主管上愛人扶挺，你拄來遮上好佮伊小盤撋一下，人咧講：「得失土地公，飼無雞。」若無，伊袂予你遐好食睏。",
+      "tailo_pronunciation": "Lán tsit ê tan-uī ê tsú-kuán siōng ài lâng phôo-thánn, lí tú lâi tsia siōng-hó kah i sió puânn-nuá--tsi̍t-ē, lâng teh kóng, “Tik-sit Thóo-tī-kong, tshī bô ke.” Nā-bô, i bē hōo lí hiah hó-tsia̍h-khùn.。」要不然，他不會讓你有好日子過。",
+      "chinese_translation": "我們這個單位的主管很喜歡他人奉承，你剛到這裡最好稍微去交際招呼一下，俗語說：「得罪上司，恐將吃不完兜著走。」要不然，他不會讓你有好日子過。",
+      "source_word": "得失土地公，飼無雞。",
+      "extraction_time": "2025-08-27 15:04:35",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "觀音媽",
+      "taiwanese_sentence": "觀音媽檫仔",
+      "tailo_pronunciation": "Kuan-im-má tshat-á",
+      "chinese_translation": "觀音菩薩掛軸",
+      "source_word": "檫仔",
+      "extraction_time": "2025-08-27 15:04:49",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "祖先",
+      "taiwanese_sentence": "俗語講：「春雺曝死鬼，夏雺做大水。」這是老祖先的經驗談。現代社會有氣象局，比遮的話閣較科學，會當提來檢驗這寡話的正確性。",
+      "tailo_pronunciation": "Sio̍k-gí kóng, “Tshun bông pha̍k-sí kuí, hā bông tsò-tuā-tsuí.” Tse sī lāu tsóo-sian ê king-giām tâm. Hiān-tāi siā-huē ū khì-siōng-kio̍k, pí tsia-ê uē koh-khah kho-ha̍k, ē-tàng the̍h-lâi kiám-giām tsit kuá uē ê tsìng-khak-sìng.。」這是老祖先的經驗談。現代社會有氣象局，比這些話更科學，可以拿來檢驗這些話的正確性。",
+      "chinese_translation": "人家說：「春天起霧，預兆旱災，夏天起霧，預兆水災。」這是老祖先的經驗談。現代社會有氣象局，比這些話更科學，可以拿來檢驗這些話的正確性。",
+      "source_word": "春雺曝死鬼，夏雺做大水。",
+      "extraction_time": "2025-08-27 15:04:51",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "傳統",
+      "taiwanese_sentence": "傳統嫁娶愛點燈結綵，親情朋友來祝賀，規廳堂鬧猜猜。",
+      "tailo_pronunciation": "Thuân-thóng kè-tshuā ài tiám ting kat-tshái, tshin-tsiânn pîng-iú lâi tsiok-hō, kui thiann-tn̂g nāu-tshai-tshai.。",
+      "chinese_translation": "傳統婚嫁得要張燈結綵，親朋好友來祝賀，整個廳堂熱鬧哄哄。",
+      "source_word": "鬧猜猜",
+      "extraction_time": "2025-08-27 15:04:54",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "王爺",
+      "taiwanese_sentence": "伊定定佇這箍圍仔佮人冤家相拍，又閣欲食毋討趁，袂輸王爺咧。",
+      "tailo_pronunciation": "I tiānn-tiānn tī tsit-khoo-uî-á kah lâng uan-ke sio-phah, iū-koh beh tsia̍h m̄ thó-thàn, bē-su ông-iâ--leh.。",
+      "chinese_translation": "他時常在這地方與人吵架、鬥毆，而且好吃懶做，簡直就像個王爺。",
+      "source_word": "王爺",
+      "extraction_time": "2025-08-27 15:04:57",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "牧師",
+      "taiwanese_sentence": "伊一下出世就予人放捒，佳哉有牧師佮牧師娘共伊晟持大漢。",
+      "tailo_pronunciation": "I tsi̍t-ē tshut-sì tō hōo lâng pàng-sak, ka-tsài ū bo̍k-su kah bo̍k-su-niû kā i tshiânn-tî tuā-hàn.。",
+      "chinese_translation": "他一出生就被人拋棄，幸好有牧師夫妻將他扶養長大。",
+      "source_word": "晟持",
+      "extraction_time": "2025-08-27 15:05:00",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "石獅",
+      "taiwanese_sentence": "伊按呢做甲經理矣，見若拄著較歹紡的工課就叫別人去處理，若出代誌攏佮伊無底代，「用別人的拳頭拇舂石獅」毋知疼，尾手若有成果就攏品講是家己的功勞，實在予人真慼心。",
+      "tailo_pronunciation": "I án-ne tsò kah king-lí--ah, kiàn-nā tú-tio̍h khah pháinn-pháng ê khang-khuè tō kiò pa̍t-lâng khì tshú-lí, nā tshut-tāi-tsì lóng kah i bô-tī-tāi, “iōng pa̍t-lâng ê kûn-thâu-bú tsing tsio̍h-sai” m̄ tsai thiànn, bué-tshiú nā ū sîng-kó tō lóng phín kóng sī ka-kī ê kong-lô, si̍t-tsāi hōo lâng tsin tsheh-sim.。",
+      "chinese_translation": "他都做到經理了，每次遇到比較難處理的工作就叫別人去處理，若出事了都與他無關，「犧牲別人來成就自己」都不會痛，最後如果有成果就都說是自己的功勞，實在讓人很憤懣。",
+      "source_word": "用別人的拳頭拇舂石獅。",
+      "extraction_time": "2025-08-27 15:05:20",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "炮仔",
+      "taiwanese_sentence": "炮仔工場爆炸，員工受傷嚴重。",
+      "tailo_pronunciation": "Phàu-á kang-tiûnn po̍k-tsà, uân-kang siū-siong giâm-tiōng.。",
+      "chinese_translation": "炮竹工廠爆炸，員工受傷嚴重。",
+      "source_word": "爆炸",
+      "extraction_time": "2025-08-27 15:05:23",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "做醮",
+      "taiwanese_sentence": "宮廟做醮乞龜保平安的時，阿爸跋上濟桮，乞著彼隻上大隻的米龜。",
+      "tailo_pronunciation": "King-biō tsò-tsiò khit-ku pó-pîng-an ê sî, a-pah pua̍h siōng tsē pue, khit-tio̍h hit tsiah siōng tuā tsiah ê bí-ku.。",
+      "chinese_translation": "廟宇建醮乞龜保平安的時候，爸爸擲最多聖筊，求得那隻最大的米龜。",
+      "source_word": "乞龜",
+      "extraction_time": "2025-08-27 15:05:25",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "媽祖",
+      "taiwanese_sentence": "伊去媽祖宮下願，講𪜶老母的病若會好，伊就欲倩一班歌仔戲來謝神。",
+      "tailo_pronunciation": "I khì Má-tsóo-king hē-guān, kóng in lāu-bú ê pēnn nā ē hó, i tō beh tshiànn tsi̍t pan kua-á-hì lâi siā-sîn.。",
+      "chinese_translation": "他到媽祖廟去許願，說他媽媽的病如果能夠好起來，他就要請一團歌仔戲表演，以酬謝神明。",
+      "source_word": "下願",
+      "extraction_time": "2025-08-27 15:05:31",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "公媽",
+      "taiwanese_sentence": "人講，「一人一家代，公媽隨人祀。」你哪著去管別人的代誌咧？",
+      "tailo_pronunciation": "Lâng kóng, “Tsi̍t lâng tsi̍t ke tāi, kong-má suî-lâng tshāi.” Lí ná-tio̍h khì kuán pa̍t-lâng ê tāi-tsì--leh?。」你何必去管別人的事呢？",
+      "chinese_translation": "人家說：「一人一家事，祖先牌位各人祭祀。」你何必去管別人的事呢？",
+      "source_word": "一人一家代，公媽隨人祀。",
+      "extraction_time": "2025-08-27 15:05:39",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "教會",
+      "taiwanese_sentence": "教會佇老母日攏會準備剪絨仔花，予會友結佇胸前。",
+      "tailo_pronunciation": "Kàu-huē tī Lāu-bú-ji̍t lóng ē tsún-pī tsián-jiông-á-hue, hōo huē-iú kat tī hing-tsîng.。",
+      "chinese_translation": "教會在母親節都會準備康乃馨，讓會友別在胸前。",
+      "source_word": "剪絨仔花",
+      "extraction_time": "2025-08-27 15:05:45",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "媽祖婆",
+      "taiwanese_sentence": "逐家攏叫厝主「媽祖婆」，有伊佇咧，絕對袂枵著！",
+      "tailo_pronunciation": "Ta̍k-ke lóng kiò tshù-tsú “Má-tsóo-pô”, ū i tī--leh, tsua̍t-tuì bē iau--tio̍h",
+      "chinese_translation": "大家都叫房東「媽祖婆」，有他在，絕對不會挨餓！",
+      "source_word": "媽祖婆",
+      "extraction_time": "2025-08-27 15:05:48",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "保庇",
+      "taiwanese_sentence": "人講：「有燒香有保庇，有食藥有行氣。」你若綿爛學習，定著會當學著閣較濟智識。",
+      "tailo_pronunciation": "Lâng kóng, “Ū sio-hiunn ū pó-pì, ū tsia̍h io̍h ū kiânn-khì.” Lí nā mî-nuā ha̍k-si̍p, tiānn-tio̍h ē-tàng o̍h-tio̍h koh-khah tsē tì-sik.。」只要你認真學習，一定可以學到更多的知識。",
+      "chinese_translation": "人們說：「一分耕耘，一分收穫。」只要你認真學習，一定可以學到更多的知識。",
+      "source_word": "有燒香有保庇，有食藥有行氣。",
+      "extraction_time": "2025-08-27 15:05:53",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "七娘媽",
+      "taiwanese_sentence": "阮後生今年予七娘媽做契囝，順紲共貫捾乞轉來通予伊保平安。",
+      "tailo_pronunciation": "Guán hāu-senn kin-nî hōo Tshit-niû-má tsò khè-kiánn, sūn-suà kā kǹg-kuānn khit tńg-lâi thang hōo i pó pîng-an.。",
+      "chinese_translation": "我兒子今年給註生娘娘當乾兒子，順道把護身符請求回來保佑他平安。",
+      "source_word": "貫捾",
+      "extraction_time": "2025-08-27 15:05:56",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "城隍爺",
+      "taiwanese_sentence": "七爺八爺攏會綴城隍爺出巡。",
+      "tailo_pronunciation": "Tshit-iâ Peh-iâ lóng ē tuè Sîng-hông-iâ tshut-sûn.。",
+      "chinese_translation": "七爺八爺都會跟著城隍爺出巡。",
+      "source_word": "七爺八爺",
+      "extraction_time": "2025-08-27 15:05:59",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "媽祖廟",
+      "taiwanese_sentence": "媽祖廟埕的榕仔跤不時有老大人坐佇遐話仙。",
+      "tailo_pronunciation": "Má-tsóo-biō-tiânn ê tshîng-á-kha put-sî ū lāu-tuā-lâng tsē tī hia uē-sian.。",
+      "chinese_translation": "媽祖廟廣場的榕樹下經常有老人家坐在那裡談天說地。",
+      "source_word": "話仙",
+      "extraction_time": "2025-08-27 15:06:02",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "媽祖宮",
+      "taiwanese_sentence": "伊去媽祖宮下願，講𪜶老母的病若會好，伊就欲倩一班歌仔戲來謝神。",
+      "tailo_pronunciation": "I khì Má-tsóo-king hē-guān, kóng in lāu-bú ê pēnn nā ē hó, i tō beh tshiànn tsi̍t pan kua-á-hì lâi siā-sîn.。",
+      "chinese_translation": "他到媽祖廟去許願，說他媽媽的病如果能夠好起來，他就要請一團歌仔戲表演，以酬謝神明。",
+      "source_word": "下願",
+      "extraction_time": "2025-08-27 15:06:07",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    }
+  ],
+  "missing_words": [
+    {
+      "word": "尼姑",
+      "reason": "無用例",
+      "index": 1
+    },
+    {
+      "word": "龍山寺",
+      "reason": "無用例",
+      "index": 2
+    },
+    {
+      "word": "菜堂",
+      "reason": "無用例",
+      "index": 4
+    },
+    {
+      "word": "保生大帝",
+      "reason": "無用例",
+      "index": 6
+    },
+    {
+      "word": "寺院或道場供人吃齋菜的地方",
+      "reason": "無用例",
+      "index": 8
+    },
+    {
+      "word": "關帝爺",
+      "reason": "無用例",
+      "index": 11
+    },
+    {
+      "word": "陣頭",
+      "reason": "無用例",
+      "index": 14
+    },
+    {
+      "word": "觀世音菩薩",
+      "reason": "無用例",
+      "index": 15
+    },
+    {
+      "word": "廟會",
+      "reason": "無用例",
+      "index": 17
+    },
+    {
+      "word": "僧道設壇祈神求福的過程",
+      "reason": "無用例",
+      "index": 18
+    },
+    {
+      "word": "神仙的統稱",
+      "reason": "無用例",
+      "index": 21
+    },
+    {
+      "word": "佛經",
+      "reason": "無用例",
+      "index": 22
+    },
+    {
+      "word": "耶穌",
+      "reason": "無用例",
+      "index": 24
+    },
+    {
+      "word": "祖先、 祖先的神主牌",
+      "reason": "無用例",
+      "index": 26
+    },
+    {
+      "word": "關聖帝君",
+      "reason": "無用例",
+      "index": 27
+    },
+    {
+      "word": "臺灣民俗中的床神",
+      "reason": "無用例",
+      "index": 28
+    },
+    {
+      "word": "床母",
+      "reason": "無用例",
+      "index": 29
+    },
+    {
+      "word": "聖經",
+      "reason": "無用例",
+      "index": 35
+    },
+    {
+      "word": "上帝",
+      "reason": "無用例",
+      "index": 36
+    },
+    {
+      "word": "石獅子",
+      "reason": "無用例",
+      "index": 37
+    },
+    {
+      "word": "民俗節慶時，參加表演的業餘樂團或遊藝團體",
+      "reason": "無用例",
+      "index": 38
+    },
+    {
+      "word": "天使",
+      "reason": "無用例",
+      "index": 39
+    },
+    {
+      "word": "註生娘娘或是織女",
+      "reason": "無用例",
+      "index": 40
+    },
+    {
+      "word": "保佑、庇佑",
+      "reason": "無用例",
+      "index": 44
+    },
+    {
+      "word": "傳說",
+      "reason": "無用例",
+      "index": 46
+    },
+    {
+      "word": "寺廟",
+      "reason": "無用例",
+      "index": 47
+    },
+    {
+      "word": "鞭炮",
+      "reason": "無用例",
+      "index": 49
+    },
+    {
+      "word": "教堂",
+      "reason": "無用例",
+      "index": 52
+    },
+    {
+      "word": "算命師",
+      "reason": "無用例",
+      "index": 57
+    },
+    {
+      "word": "釋迦牟尼佛",
+      "reason": "無用例",
+      "index": 59
+    }
+  ]
+}

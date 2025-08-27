@@ -1,0 +1,352 @@
+最終版台語辭典擷取完整報告 - 情感與心理狀態
+================================================================================
+🎯 操作流程：輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理
+📊 完整統計：
+   - 總計單字：84 個
+   - 成功擷取：49 個
+   - 缺失單字：35 個
+   - 成功率：58.3%
+⏰ 擷取時間：20250827_122427
+
+🌟 完整擷取（台語+台羅+中文）:
+------------------------------------------------------------
+ 1. 失望
+    台語：你實在予我真失望。
+    台羅：Lí si̍t-tsāi hōo guá tsin sit-bōng.。
+    中文：你實在讓我很失望。
+
+ 2. 活潑
+    台語：以早老師派的宿題較死板，這馬的較活潑、較心適。
+    台羅：Í-tsá lāu-su phài ê siok-tê khah sí-pán, tsit-má--ê khah hua̍t-phuat, khah sim-sik.。
+    中文：以前老師出的作業較死板，現在的較活潑、較有趣。
+    來源：宿題
+
+ 3. 堅持
+    台語：俗語講：「愛拚才會贏。」佇景氣無好的時陣，著愛毋驚艱苦，堅持理想、跤踏實地，成功的機會就占較大面。
+    台羅：Sio̍k-gí kóng, “Ài piànn tsiah ē iânn.” Tī kíng-khì bô hó ê sî-tsūn, tio̍h-ài m̄ kiann kan-khóo, kian-tshî lí-sióng, kha-ta̍h-si̍t-tē, sîng-kong ê ki-huē tō tsiàm khah-tuā-bīn.。」在景氣低迷的時候，必須不怕辛苦，堅持理想、腳踏實地，成功的機會就會比較大。
+    中文：俗話說：「要努力才會贏。」在景氣低迷的時候，必須不怕辛苦，堅持理想、腳踏實地，成功的機會就會比較大。
+    來源：愛拚才會贏。
+
+ 4. 互相
+    台語：阮這陣愛寫作的朋友會定期聚會，逐家提家己寫的作品出來唸，希望眾人提出修改的意見，「互相落氣，求進步」，向望寫作的能力會當提升。
+    台羅：Guán tsit tīn ài siá-tsok ê pîng-iú ē tīng-kî tsū-huē, ta̍k-ke the̍h ka-kī siá ê tsok-phín tshut-lâi liām, hi-bāng tsìng-lâng thê-tshut siu-kái ê ì-kiàn, “hōo-siong làu-khuì, kiû tsìn-pōo”, ǹg-bāng siá-tsok ê lîng-li̍k ē-tàng thê-sing.。
+    中文：我們這群喜愛寫作的朋友會定期聚會，大家拿自己寫的作品出來念，希望大家提供修改意見，「互相批評追求進步」，期望寫作的能力可以提升。
+    來源：互相落氣，求進步。
+
+ 5. 放心
+    台語：秀玲咧做代誌真謹慎，事事項項攏準備甲誠周至，就像人咧講的：「一步棋，一步著。」代誌交代伊去發落，予人足放心。
+    台羅：Siù-lîng teh tsò tāi-tsì tsin kín-sīn, sū-sū-hāng-hāng lóng tsún-pī kah tsiânn tsiu-tsì, tō tshiūnn lâng teh kóng--ê, “Tsi̍t pōo kî, tsi̍t pōo tio̍h.” Tāi-tsì kau-tài i khì hua̍t-lo̍h, hōo lâng tsiok hòng-sim.。」將事情交代給他去張羅，讓人十分放心。
+    中文：秀玲做事十分謹慎，凡事都準備得很周全，就像人們說的：「做事按部就班。」將事情交代給他去張羅，讓人十分放心。
+    來源：一步棋，一步著。
+
+ 6. 知影
+    台語：阿義仔歌聲真好，老師鼓勵伊去參加歌唱比賽，伊攏講伊足驚上台唱歌。老師講：「『驚驚袂著等。』你愛勇敢徛起去舞台，才會當予人知影你的歌聲有偌好。」
+    台羅：A-gī--á kua-siann tsin hó, lāu-su kóo-lē i khì tsham-ka kua-tshiùnn pí-sài, i lóng kóng i tsiok kiann tsiūnn-tâi tshiùnn-kua. Lāu-su kóng, “ ‘Kiann-kiann bē tio̍h-tíng.’ Lí ài ióng-kám khiā khí-khì bú-tâi, tsiah ē-tàng hōo lâng tsai-iánn lí ê kua-siann ū guā hó.”。老師說 ：「『光是恐懼擔憂不會獲得優勝。』你要勇敢站上舞台，才能讓人知道你的歌聲有多好。」
+    中文：小義歌聲很好，老師鼓勵他去參加歌唱比賽，他都說他很怕上台唱歌。老師說 ：「『光是恐懼擔憂不會獲得優勝。』你要勇敢站上舞台，才能讓人知道你的歌聲有多好。」
+    來源：驚驚袂著等。
+
+ 7. 無要緊
+    台語：朋友若來相揣，心情歡喜閣熱情共伊招待，白滾水來相請嘛無要緊，人咧講「誠意食水甜」，毋免歹勢。
+    台羅：Pîng-iú nā lâi sio-tshuē, sim-tsîng huann-hí koh jia̍t-tsîng kā i tsiau-thāi, pe̍h-kún-tsuí lâi sio-tshiánn mā bô iàu-kín, lâng teh kóng “sîng-ì tsia̍h tsuí tinn”, m̄-bián pháinn-sè.。
+    中文：朋友如果來訪，心裡高興又熱忱的招待他，用白開水待客也不要緊，人家說「有誠意喝水都甜」，不用不好意思。
+    來源：誠意食水甜。
+
+ 8. 輕鬆
+    台語：你著放予輕鬆，莫傷緊張。
+    台羅：Lí tio̍h pàng hōo khin-sang, mài siunn kín-tiunn.。
+    中文：你應該放輕鬆一點，別太緊張。
+
+ 9. 感謝
+    台語：頂日仔你欲搬厝，恁阿舅專工請假來共你鬥搬，你毋但無感謝伊，閣嫌伊跤手慢，誠實是「外甥食母舅，親像食豆腐」。
+    台羅：Tíng-ji̍t-á lí beh puann-tshù, lín a-kū tsuan-kang tshíng-ká lâi kā lí tàu puann, lí m̄-nā bô kám-siā--i, koh hiâm i kha-tshiú bān, tsiânn-si̍t sī “guē-sing tsia̍h bú-kū, tshin-tshiūnn tsia̍h tāu-hū”.。
+    中文：前幾天你要搬家，你舅舅特地請假來幫你搬，你非但沒有感謝他，還嫌他笨手笨腳，你這個外甥真是「占盡你舅舅的便宜」。
+    來源：外甥食母舅，親像食豆腐。
+
+10. 欣賞
+    台語：阿忠上軁鑽，毋過一直揣袂著理想的頭路；阿義無揀頭路，煞搪著一个欣賞伊的頭家，真緊就升起來做主管。真正是「𠢕算，毋值拄搪」。
+    台羅：A-tiong siōng nǹg-tsǹg, m̄-koh it-ti̍t tshuē bē tio̍h lí-sióng ê thâu-lōo; A-gī bô kíng thâu-lōo, suah tn̄g-tio̍h tsi̍t ê him-sióng--i ê thâu-ke, tsin kín tō sing khí-lâi tsò tsú-kuán. Tsin-tsiànn sī “gâu sǹg, m̄-ta̍t tú-tn̄g”.。真的是「人算不如天算」。
+    中文：阿忠最善於鑽營，不過一直找不到理想的工作；阿義不挑工作，卻遇到一位欣賞他的老闆，很快就當上主管。真的是「人算不如天算」。
+    來源：𠢕算，毋值拄搪。
+
+11. 善良
+    台語：伊雖然個性較白直，毋過心肝真善良，袂去害人。
+    台羅：I sui-jiân kò-sìng khah pe̍h-ti̍t, m̄-koh sim-kuann tsin siān-liông, bē khì hāi--lâng.。
+    中文：他雖然個性較死心眼，但心地善良，不會做傷害人的事。
+    來源：白直
+
+12. 客氣
+    台語：你莫看伊規工恬恬，對人攏誠客氣，「會咬人的狗袂吠」，我捌予伊揲甲走無路通去。
+    台羅：Lí mài khuànn i kui-kang tiām-tiām, tuì lâng lóng tsiânn kheh-khì, “ē kā--lâng ê káu bē puī”, guá bat hōo i tia̍p kah tsáu bô-lōo thang khì.。
+    中文：你別看他安安靜靜，待人很客氣，｢會咬人的狗不叫」，我曾被他整得無路可跑。
+    來源：會咬人的狗袂吠。
+
+13. 思念
+    台語：自從離開故鄉，每日思念爸母。
+    台羅：Tsū-tsiông lī-khui kòo-hiong, muí-ji̍t su-liām pē-bú.。
+    中文：自從離開故鄉，每天思念父母。
+    來源：每日
+
+14. 關心
+    台語：一寡爸母對𪜶囝兒的教育傷過關心，要求欲換班級，抑是調去別間學校，毋過「一日徙栽，三日徛黃」，囡仔人曷會堪得按呢搬徙，嘛無法度注心來讀冊。
+    台羅：Tsi̍t-kuá pē-bú tuì in kiánn-jî ê kàu-io̍k siunn kuè kuan-sim, iau-kiû beh uānn pan-kip, ia̍h-sī tiàu-khì pa̍t king ha̍k-hāu, m̄-koh “tsi̍t ji̍t suá-tsai, sann ji̍t khiā-n̂g”, gín-á-lâng a̍h ē-kham-tit án-ne puann-suá, mā bô-huat-tōo tsù-sim lâi tha̍k-tsheh.。
+    中文：一些父母對於他們的小孩的教育太過關心，要求要換班級，或是調去別間學校，但是「移植一次，蔫黃三日」，小孩子怎麼能受得了這樣遷移，也沒辦法用心讀書。
+    來源：一日徙栽，三日徛黃。
+
+15. 失戀
+    台語：伊自頂月日失戀到今，袂輸有體無魂按呢欲死盪幌，予人看著真毋甘。
+    台羅：I tsū tíng gue̍h-ji̍t sit-luân kàu-tann, bē-su ū-thé-bô-hûn án-ne beh-sí-tōng-hàinn, hōo lâng khuànn tio̍h tsin m̄-kam.。
+    中文：他從上個月失戀以後，整天像遊魂一樣要死不活，讓人看了很心疼。
+    來源：欲死盪幌
+
+16. 放棄
+    台語：伊本成真愛彈琴，煞因為𪜶老爸逼伊苦練，就按呢起慼，放棄音樂。
+    台羅：I pún-tsiânn tsin ài tuânn-khîm, suah in-uī in lāu-pē pik i khóo-liān, tsiū-án-ne khí-tsheh, hòng-khì im-ga̍k.。
+    中文：他本來很喜歡彈琴，卻因為爸爸逼迫他苦練，因而心生厭惡感，放棄音樂。
+    來源：起慼
+
+17. 傷心
+    台語：伊哀怨的歌聲予人想起傷心的代誌。
+    台羅：I ai-uàn ê kua-siann hōo lâng siūnn-khí siong-sim ê tāi-tsì.。
+    中文：他哀怨的歌聲讓人想起傷心的事情。
+    來源：哀怨
+
+18. 失禮
+    台語：相等的時陣，等的人等甲心狂火著，予人等的煞寬寬仔來，來到位也無會失禮。人講「等物僫到，等人快老」，將心比心，準時較好啦。
+    台羅：Sio-tán ê sî-tsūn, tán ê lâng tán kah sim-kông-hué-to̍h, hōo lâng tán--ê suah khuann-khuann-á lâi, lâi kàu-uī iā bô huē-sit-lé. Lâng kóng “tán mi̍h oh kàu, tán lâng khuài lāu”, tsiong-sim-pí-sim, tsún-sî khah hó--lah.。人家說「等待的時間很難熬」，將心比心，準時比較好啦。
+    中文：約人相見時，先到的人等得心急如焚，晚到的人卻姍姍來遲，到了也沒道歉。人家說「等待的時間很難熬」，將心比心，準時比較好啦。
+    來源：等物僫到，等人快老。
+
+19. 好膽
+    台語：你誠好膽！
+    台羅：Lí tsiânn hó-tánn
+    中文：你好大的膽子！
+
+20. 冤家
+    台語：伊就是咧操煩若真正百歲年老了後，囝兒序細為著財產承續分袂平棒煞起冤家，這聲就害矣，較輸講趁這陣人猶健健，先共財產分分咧，才袂時到害伊「死目毋願瞌」。
+    台羅：I tō sī teh tshau-huân nā tsin-tsiànn pah-huè-nî-lāu liáu-āu, kiánn-jî sī-sè uī-tio̍h tsâi-sán sîng-sio̍k pun bē pênn-pāng suah khí uan-ke, tsit-siann tō hāi--ah, khah-su kóng thàn tsit-tsūn lâng iáu kiānn-kiānn, sing kā tsâi-sán pun-pun--leh, tsiah bē sî kàu hāi i “sí ba̍k m̄ guān kheh”.。
+    中文：他擔心等他過世後，那些兒孫為了要分財產搞得惡臉相向，這下子就糟了，倒不如趁現在人還健在，先將財產分一分，到時候才不會害他「死不瞑目」。
+    來源：死目毋願瞌。
+
+21. 福氣
+    台語：古早人講：「一个某較好三个天公祖。」你看恁阿玉仔遐爾拍拚拑家、骨力作穡、顧翁閣疼囝，這是你頂世人有燒好香，才有這款福氣，所以你愛知恩寶惜。
+    台羅：Tsi̍t ê bóo khah hó sann ê Thinn-kong-tsóo
+    中文：古人說：「一個老婆勝過三尊天公庇蔭。」瞧你家的阿玉那麼認真持家、努力種田、照顧你又疼小孩，這是你上輩子燒了好香，才有這種福氣，所以要好好感恩惜福。
+    來源：一个某較好三个天公祖。
+
+22. 認真
+    台語：伊破病倒佇眠床頂廿捅冬矣，寢開始後生猶真盡心看顧，不而過俗語講：「久長病，無孝子。」這幾冬𪜶後生予伊的醫藥費硩甲袂喘氣，就無通遐認真共照顧矣。
+    台羅：I phuà-pēnn tó tī bîn-tshn̂g-tíng jia̍p-thóng tang--ah, tshím-khai-sí hāu-senn iáu tsin tsīn-sim khuànn-kòo, put-jî-kò sio̍k-gí kóng, “Kú-tn̂g pēnn, bô hàu-tsú.” Tsit kuí tang in hāu-senn hōo i ê i-io̍h-huì teh kah bē tshuán-khuì, tō bô thang hiah jīn-tsin kā tsiàu-kòo--ah.。」這幾年他兒子被他的醫藥費壓得喘不過氣來，就沒辦法那麼認真照顧他了。
+    中文：他已臥病在床二十多年了，剛開始兒子還很盡心照顧，但俗話說：「久病床前無孝子。」這幾年他兒子被他的醫藥費壓得喘不過氣來，就沒辦法那麼認真照顧他了。
+    來源：久長病，無孝子。
+
+23. 委屈
+    台語：你若是有委屈就愛講出來，千萬毋通吞忍。
+    台羅：Lí nā-sī ū uí-khut tō ài kóng--tshut-lâi, tshian-bān m̄-thang thun-lún.。
+    中文：你如果受了委屈就得說出來，千萬不要隱忍不說。
+    來源：吞忍
+
+24. 相思
+    台語：𪜶老母反對𪜶來往，伊煞來病相思。
+    台羅：In lāu-bú huán-tuì in lâi-óng, i suah lâi pēnn-siunn-si.。
+    中文：他的媽媽反對他們交往，他竟然得了相思病。
+    來源：病相思
+
+25. 珍惜
+    台語：逐家有緣做伙，愛珍惜這種緣份。
+    台羅：Ta̍k-ke ū-iân tsò-hué, ài tin-sioh tsit tsióng iân-hūn.。
+    中文：大家有緣同聚一堂，要珍惜這種緣分。
+    來源：做伙
+
+26. 懷念
+    台語：懷念囡仔時代的朋友。
+    台羅：Huâi-liām gín-á sî-tāi ê pîng-iú.。
+    中文：懷念小時候的朋友。
+
+27. 忍耐
+    台語：這只是暫時過渡，逐家較忍耐咧。
+    台羅：Tse tsí-sī tsiām-sî kuè-tōo, ta̍k-ke khah jím-nāi--leh.。
+    中文：這只是暫時過渡，大家忍耐一點。
+    來源：過渡
+
+28. 鬱卒
+    台語：已經幾若個月矣攏揣無頭路，心情誠鬱卒！
+    台羅：Í-king kuí-nā kò gue̍h--ah lóng tshuē-bô thâu-lōo, sim-tsîng tsiânn ut-tsut
+    中文：已經好幾個月都找不到工作了，心情很苦悶！
+
+29. 無膽
+    台語：阿勇真無膽，天若烏就毋敢出門。
+    台羅：A-ióng tsin bô-tánn, thinn nā oo tō m̄ kánn tshut-mn̂g.。
+    中文：小勇很膽小，天黑就不敢出門。
+
+30. 袂當
+    台語：伊真有才情，煞予人怨妒，重要的工課攏無伊的份，俗語講：「勇勇馬縛佇將軍柱。」才會一直袂當出頭。
+    台羅：I tsin ū tsâi-tsîng, suah hōo lâng uàn-tòo, tiōng-iàu ê khang-khuè lóng bô i ê hūn, sio̍k-gí kóng, “Ióng-ióng bé pa̍k tī tsiong-kun-thiāu.” Tsiah ē it-ti̍t bē-tàng tshut-thâu.。」才會一直無法出人頭地。
+    中文：他很有才幹，卻受人嫉妒，重要的工作都沒他的份，俗語說：「健壯的馬綁在將軍柱上。」才會一直無法出人頭地。
+    來源：勇勇馬縛佇將軍柱。
+
+31. 感恩
+    台語：當初阿爸好心共無地去的阿叔收留，予伊暫時蹛佇阮兜，想袂到伊毋但毋知影通感恩，閣不時招朋友來厝裡啉酒，舞甲逐四界挐氅氅，共阮兜當做伊家己的厝仝款，有影是「乞食趕廟公」。
+    台羅：Tong-tshoo a-pah hó-sim kā bô-tè khì ê a-tsik siu-liû, hōo i tsiām-sî tuà tī guán tau, siūnn-bē-kàu i m̄-nā m̄ tsai-iánn thang kám-un, koh put-sî tsio pîng-iú lâi tshù--lí lim tsiú, bú kah ta̍k-sì-kè jû-tsháng-tsháng, kā guán tau tòng-tsò i ka-kī ê tshù kāng-khuán, ū-iánn sī “khit-tsia̍h kuánn biō-kong”.。
+    中文：當初爸爸好心收留無家可歸的叔叔，讓他暫時住在我們家，想不到他非但不知感恩，還時常呼朋引伴來家裡喝酒，四處弄得亂七八糟，把我們家當作他自己家一樣，簡直是「鳩佔鵲巢」！
+    來源：乞食趕廟公。
+
+32. 辛苦
+    台語：開基的人辛苦奮鬥，序細嘛鬥艱苦有著，猶原骨力咧做，事業成功了後囝孫免食苦閣𠢕享受，免偌久煞「三代粒積，一代窮空」，予人感慨。
+    台羅：Khai-ki ê lâng sin-khóo hùn-tàu, sī-sè mā tàu kan-khóo ū tio̍h, iu-guân kut-la̍t teh tsò, sū-gia̍p sîng-kong liáu-āu kiánn-sun bián tsia̍h-khóo koh gâu hiáng-siū, bián guā-kú suah “sann tāi lia̍p-tsik, tsi̍t tāi khîng-khong”, hōo lâng kám-khài.。
+    中文：創業者辛苦奮鬥，子女也跟著吃苦，仍然努力工作，事業有成之後子孫不用吃苦，反而貪圖享受，用不了多久「三代人辛苦累積的財富，卻被後代一人揮霍殆盡」，令人感慨。
+    來源：三代粒積，一代窮空。
+
+33. 緊張
+    台語：阿宏仔等咧欲上台，緊張甲一直拚汗。
+    台羅：A-hông--á tán--leh beh tsiūnn-tâi, kín-tiunn kah it-ti̍t piànn-kuānn.。
+    中文：阿宏等一下要上台，緊張得直冒冷汗。
+    來源：拚汗
+
+34. 是按怎
+    台語：你想欲知影我佮伊是按怎熟似？這講起來就話頭長。
+    台羅：Lí siūnn-beh tsai-iánn guá kah i sī án-tsuánn si̍k-sāi? Tse kóng--khí-lâi tō uē-thâu tn̂g.。
+    中文：你想知道我跟他是怎麼認識的？這就說來話長了。
+    來源：話頭
+
+35. 煩惱
+    台語：阿雄仔頭殼好閣𠢕變竅，無論拄著啥物困難的代誌，伊攏老神在在應講：「免煩惱啦，到彼號時，攑彼號旗，代誌總是有解決的辦法。」
+    台羅：A-hiông--á thâu-khak hó koh gâu piàn-khiàu, bô-lūn tú-tio̍h siánn-mih khùn-lân ê tāi-tsì, i lóng lāu-sîn-tsāi-tsāi ìn kóng, “Bián huân-ló--lah, kàu hit-lō sî, gia̍h hit-lō kî, tāi-tsì tsóng-sī ū kái-kuat ê pān-huat.”。」
+    中文：阿雄聰明又機靈，無論遇到什麼困難的事情，他都一副胸有成竹的說：「別煩惱，到那個時候看情況再做決定，事情總是有解決的辦法。」
+    來源：到彼號時，攑彼號旗。
+
+36. 自信
+    台語：你若有自信就免驚予人看輕。
+    台羅：Lí nā ū tsū-sìn tō bián kiann hōo lâng khuànn-khin.。
+    中文：你若有自信就不用怕被人輕視。
+    來源：看輕
+
+37. 尊重
+    台語：現時社會尊重個人，就算是爸囝嘛有無仝款的想法，人講「會生得囝身，袂生得囝心」，爸囝無仝宗教、無仝政黨，嘛應該互相尊重。
+    台羅：Hiān-sî siā-huē tsun-tiōng kò-jîn, tō-sǹg sī pē-kiánn mā ū bô kāng-khuán ê siūnn-huat, lâng kóng “ē-senn-tit kiánn sin, bē-senn-tit kiánn sim”, pē-kiánn bô kāng tsong-kàu, bô kāng tsìng-tóng, mā ing-kai hōo-siong tsun-tiōng.。
+    中文：現代社會尊重個人，就算是父子也有不一樣的想法，人們說「能夠生出孩子的身體，卻不能夠生出孩子的心思」，父子不同宗教、不同政黨，也應該要互相尊重。
+    來源：會生得囝身，袂生得囝心。
+
+38. 知道
+    台語：你著知道理。
+    台羅：Lí tio̍h tsai tō-lí.。
+    中文：你要懂道理。
+    來源：著白tio̍h
+
+39. 感激
+    台語：你按呢共我鬥相共，我真感激你。
+    台羅：Lí án-ne kā guá tàu-sann-kāng, guá tsin kám-kik--lí.。
+    中文：你這樣幫我，我很感激你。
+
+40. 會曉
+    台語：癮頭！你這號做「會曉偷食，袂曉拭喙」，不時提彼張偷拆的圖出來看，這馬逐家攏知影彼本冊是你拆破的矣。
+    台羅：Giàn-thâu! Lí tse hō-tsò “ē-hiáu thau tsia̍h, bē-hiáu tshit tshuì”, put-sî the̍h hit tiunn thau thiah ê tôo tshut-lâi khuànn, tsit-má ta̍k-ke lóng tsai-iánn hit pún tsheh sī lí thiah--phuà--ê--ah.。
+    中文：傻瓜！你這叫「偷吃卻不知道該擦嘴」，老是拿那張偷撕的圖出來看，現在大家全都知道那本書是你撕破的了。
+    來源：會曉偷食，袂曉拭喙。
+
+41. 歡喜
+    台語：我知影你揣無頭路心內艱苦，毋過「歡歡喜喜一工，煩煩惱惱也一工」，你著看較開咧，咱閣來去揣。
+    台羅：Guá tsai-iánn lí tshuē-bô thâu-lōo sim-lāi kan-khóo, m̄-koh “huann-huann-hí-hí tsi̍t kang, huân-huân-ló-ló iā tsi̍t kang”, lí tio̍h khuànn khah khui--leh, lán koh lâi-khì tshuē.。
+    中文：我知道你找不到工作心裡難過，不過「快樂也是過一天，憂愁也是過一天」，你要看開一點，我們繼續找。
+    來源：歡歡喜喜一工，煩煩惱惱也一工。
+
+42. 對不起
+    台語：我一世人毋捌做過對不起別人的代誌。
+    台羅：Guá tsi̍t-sì-lâng m̄ bat tsò-kuè tuì-put-khí pa̍t-lâng ê tāi-tsì.。
+    中文：我一輩子不曾做過對不起他人的事。
+    來源：一世人
+
+43. 呵咾
+    台語：老職員認真拍拚，毋過升官加薪攏無伊的份，這遍伊「共天公借膽」，向主管要求加薪，有成無成不常在，伊的勇氣就值得咱呵咾。
+    台羅：Lāu tsit-uân jīn-tsin phah-piànn, m̄-koh sing-kuann ka-sin lóng bô i ê hūn, tsit piàn i “kā Thinn-kong tsioh tánn”, hiòng tsú-kuán iau-kiû ka-sin, ū sîng bô sîng put tshiâng-tsāi, i ê ióng-khì tō ta̍t-tit lán o-ló.。
+    中文：老職員認真努力，不過升官加薪都沒他的份，這次他「向老天爺借膽」，向主管要求加薪，成不成功不一定，他的勇氣就值得我們誇獎。
+    來源：共天公借膽。
+
+44. 歹勢
+    台語：朋友若來相揣，心情歡喜閣熱情共伊招待，白滾水來相請嘛無要緊，人咧講「誠意食水甜」，毋免歹勢。
+    台羅：Pîng-iú nā lâi sio-tshuē, sim-tsîng huann-hí koh jia̍t-tsîng kā i tsiau-thāi, pe̍h-kún-tsuí lâi sio-tshiánn mā bô iàu-kín, lâng teh kóng “sîng-ì tsia̍h tsuí tinn”, m̄-bián pháinn-sè.。
+    中文：朋友如果來訪，心裡高興又熱忱的招待他，用白開水待客也不要緊，人家說「有誠意喝水都甜」，不用不好意思。
+    來源：誠意食水甜。
+
+45. 有膽量
+    台語：伊真有膽量，啥物攏毋驚。
+    台羅：I tsin ū tám-liōng, siánn-mih lóng m̄ kiann.。
+    中文：他很有勇氣，什麼都不怕。
+    來源：膽量
+
+46. 謙虛
+    台語：伊做人真謙虛。
+    台羅：I tsò-lâng tsin khiam-hi.。
+    中文：他做人很謙虛。
+
+47. 大方
+    台語：伊出手真大方，攏袂凍霜。
+    台羅：I tshut-tshiú tsin tāi-hong, lóng bē tàng-sng.。
+    中文：他出手很慷慨，一點也不會小氣吝嗇。
+
+48. 多謝
+    台語：人講：「食人一斤，也著還人四兩。」多謝你頂過遐爾熱心鬥相共，這淡薄仔意思請你收起來。
+    台羅：Lâng kóng, “Tsia̍h lâng tsi̍t kin, iā tio̍h hîng lâng sì niú.” To-siā lí tíng-kuè hiah-nī jia̍t-sim tàu-sann-kāng, tse tām-po̍h-á ì-sù tshiánn lí siu--khí-lâi.。」謝謝你上次那麼熱心幫忙，這一點小小心意請笑納。
+    中文：人家說：「受人之恩，要盡力回報。」謝謝你上次那麼熱心幫忙，這一點小小心意請笑納。
+    來源：食人一斤，也著還人四兩。
+
+49. 快樂
+    台語：新正年頭，規个社會充滿快樂的氣氛。
+    台羅：Sin-tsiann-nî-thâu, kui-ê siā-huē tshiong-buán khuài-lo̍k ê khì-hun.。
+    中文：新的一年剛剛開始，整個社會充滿了快樂的氣氛。
+    來源：充滿
+
+1. 滿足
+	•	台語：阮一家人坐佇桌邊食飯，雖然菜無偌濟，毋過感覺真滿足。
+	•	台羅：Guán tsi̍t-ke lâng tsē tī toh-pinn tsia̍h-pn̄g, sui-jiân tshài bô guā-tsē, m̄-koh kám-kak tsin bān-tsiok.
+	•	中文：我們一家人圍在桌邊吃飯，雖然菜不多，但覺得很滿足。
+
+2. 悲哀
+	•	台語：老人家孤單過日，無人照顧，真悲哀。
+	•	台羅：Lāu-lâng-kiann koo-tann kuè-ji̍t, bô-lâng tsiò-kòo, tsin pi-ai.
+	•	中文：老人孤單地過日子，沒人照顧，十分悲哀。
+
+3. 上讚
+	•	台語：這盤菜煮甲真好食，誠上讚！
+	•	台羅：Tsit puân tshài tsú kah tsin hó-tsia̍h, tsiânn siōng-tsàn!
+	•	中文：這道菜煮得很好吃，真是棒極了！
+
+4. 無膽
+	•	台語：阿明無膽，暗時袂當家己一個出門。
+	•	台羅：A-bîng bô-tánn, àm-sî bē-tàng ka-kī tsi̍t ê tshut-mn̂g.
+	•	中文：阿明很膽小，晚上不敢自己一個人出門。
+
+5. 困擾
+	•	台語：這个問題困擾我誠久，猶原揣無解決的方法。
+	•	台羅：Tsit ê bûn-tê khùn-liáu guá tsiânn kú, iu-guân tshuē bô kái-kuat ê hong-huat.
+	•	中文：這個問題困擾我很久，仍然找不到解決的方法。
+
+6. 寂寞
+	•	台語：獨一人坐佇房間，心內感覺足寂寞。
+	•	台羅：To̍k tsi̍t lâng tsē tī pâng-king, sim-lāi kám-kak tsiok tsik-bok.
+	•	中文：一個人獨自坐在房間裡，心裡感到很寂寞。
+
+7. 初戀
+	•	台語：伊初戀的代誌，直到這馬閣猶記佇心肝頭。
+	•	台羅：I tshoo-luân ê tāi-tsì, tit-kàu tsit-má koh iáu kì tī sim-kuann-thâu.
+	•	中文：他的初戀往事，到現在還記在心裡。
+
+8. 失戀
+	•	台語：阿花失戀了後，成日鬱卒，袂想食飯。
+	•	台羅：A-hue sit-luân liáu-āu, tsiânn-ji̍t ut-tsut, bē siūnn tsia̍h-pn̄g.
+	•	中文：阿花失戀之後，整天悶悶不樂，不想吃飯。
+
+
+❌ 缺失單字報告:
+============================================================
+以下 35 個單字沒有找到可用的例句：
+
+📋 無用例 (35個):
+   高興      不要緊、沒關係 伊因為這擺旅行非常滿意，感覺物超所值。謝謝      初戀      不行、不能夠  失去親人後，伊足傷心的。伊面上懸懸，看起來足快樂的。是怎樣     伊珍惜每一分每一秒的時間，骨力學習。
+   誇獎      不好意思、對不起、抱歉、害羞、難為情欲上台演講進前，伊感覺誠緊張。因為思念老爸，伊逐工寫批寫甲辛苦。悲哀      膽小      上讚      寂寞      會...    佇畢業典禮上，伊懷念大學的美好時光。
+   佇考場頂懸，伊顯得足自信。伊因為有良好的運氣 , 總是做事情順利。得知考試失利，伊感覺誠失望。咱應當尊重序大人的意見，才有禮貌。因為伊才情橫溢，予眾人攏非常欣賞。欲做完工課進前，伊感覺身體會當放輕鬆一下。著算面對困難，伊嘛是堅持家己的信念。伊因為查某囝破病而十分煩惱。爭吵、仇人   佇咧得著第一名了後，伊足高興的。
+   伊關心爸母的身體健康，定定共問候。最棒      伊因為思念故鄉，定定發脾氣。滿足      困擾      
+
+💡 建議：
+   1. 這些單字可能在教育部辭典中沒有用例
+   2. 可以嘗試其他台語辭典或資源
+   3. 或者手動查詢相關的同義詞

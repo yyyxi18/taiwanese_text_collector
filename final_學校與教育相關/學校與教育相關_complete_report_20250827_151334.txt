@@ -1,0 +1,383 @@
+最終版台語辭典擷取完整報告 - 學校與教育相關
+================================================================================
+🎯 操作流程：輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理
+📊 完整統計：
+   - 總計單字：78 個
+   - 成功擷取：47 個
+   - 缺失單字：31 個
+   - 成功率：60.3%
+⏰ 擷取時間：20250827_151334
+
+🌟 完整擷取（台語+台羅+中文）:
+------------------------------------------------------------
+ 1. 畢業
+    台語：阿財仔下真濟苦心佮所費咧共𪜶後生栽培，向望伊會當出頭天，結局伊毋但大學讀無畢業，閣欲食毋討趁，顛倒是𪜶查某囝較有才情，研究所都猶未出業，幾若間公司就相爭欲共倩，阿財仔怨嘆講：「豬毋大，大對狗去。」
+    台羅：A-tsâi--á hē tsin tsē khóo-sim kah sóo-huì teh kā in hāu-senn tsai-puê, ǹg-bāng i ē-tàng tshut-thâu-thinn, kiat-kio̍k i m̄-nā tāi-ha̍k tha̍k bô pit-gia̍p, koh beh tsia̍h m̄ thó-thàn, tian-tò sī in tsa-bóo-kiánn khah ū tsâi-tsîng, gián-kiù-sóo to iáu-buē tshut-gia̍p, kuí-nā king kong-si tō sio-tsenn beh kā tshiànn, A-tsâi--á uàn-thàn kóng, “Ti m̄ tuā, tuā tuì káu--khì.”。」
+    中文：阿財花費了許多苦心和費用栽培他兒子，希望他能出人頭地，結果他不但大學無法畢業，還好逸惡勞，反而是他女兒比較有才華，研究所還沒畢業，好幾間公司就搶著要聘用他，阿財嘆氣說：「事與願違。」
+    來源：豬毋大，大對狗去。
+
+ 2. 研究所
+    台語：阿財仔下真濟苦心佮所費咧共𪜶後生栽培，向望伊會當出頭天，結局伊毋但大學讀無畢業，閣欲食毋討趁，顛倒是𪜶查某囝較有才情，研究所都猶未出業，幾若間公司就相爭欲共倩，阿財仔怨嘆講：「豬毋大，大對狗去。」
+    台羅：A-tsâi--á hē tsin tsē khóo-sim kah sóo-huì teh kā in hāu-senn tsai-puê, ǹg-bāng i ē-tàng tshut-thâu-thinn, kiat-kio̍k i m̄-nā tāi-ha̍k tha̍k bô pit-gia̍p, koh beh tsia̍h m̄ thó-thàn, tian-tò sī in tsa-bóo-kiánn khah ū tsâi-tsîng, gián-kiù-sóo to iáu-buē tshut-gia̍p, kuí-nā king kong-si tō sio-tsenn beh kā tshiànn, A-tsâi--á uàn-thàn kóng, “Ti m̄ tuā, tuā tuì káu--khì.”。」
+    中文：阿財花費了許多苦心和費用栽培他兒子，希望他能出人頭地，結果他不但大學無法畢業，還好逸惡勞，反而是他女兒比較有才華，研究所還沒畢業，好幾間公司就搶著要聘用他，阿財嘆氣說：「事與願違。」
+    來源：豬毋大，大對狗去。
+
+ 3. 同學
+    台語：伊見擺報告寫袂出來，攏講是同學無欲共鬥相共，真正是「袂生，牽拖厝邊」。
+    台羅：I kiàn-pái pò-kò siá bē tshut--lâi, lóng kóng sī tông-ha̍k bô beh kā tàu-sann-kāng, tsin-tsiànn sī “bē sinn, khan-thua tshù-pinn”.。
+    中文：他每次報告寫不出來，都說是同學不肯幫他，真的是「自己無能，怪罪別人」。
+    來源：袂生，牽拖厝邊。
+
+ 4. 讀冊
+    台語：阿義仔笑阿土仔頇顢讀冊，論真來講是「龜笑鱉無尾，鱉笑龜粗皮」，一个考四十分，一个考三十八，阿義仔是有較𠢕諾？
+    台羅：A-gī--á tshiò A-thóo--á hân-bān tha̍k-tsheh, lūn-tsin lâi kóng sī “ku tshiò pih bô bué, pih tshiò ku tshoo phuê”, tsi̍t ê khó sì-tsa̍p hun, tsi̍t ê khó sann-tsa̍p-peh, A-gī--á sī ū khah gâu--hioh?。
+    中文：阿義笑阿土很不會讀書，其實是「五十步笑百步」，一個考四十分，一個考三十八，阿義有比較厲害嗎？
+    來源：龜笑鱉無尾，鱉笑龜粗皮。
+
+ 5. 歷史
+    台語：老師咧共學生囡仔解說這層歷史事件。
+    台羅：Lāu-su teh kā ha̍k-sing gín-á kái-sueh tsit tsân li̍k-sú sū-kiānn.。
+    中文：老師跟學生們解釋這件歷史事件。
+    來源：解說
+
+ 6. 學校
+    台語：阿明仔蹛佇學校附近，定定都睏到欲上課矣才欲起來，結果人蹛較遠的攏到學校矣，伊煞不時攏較晏到，莫怪人咧講「近山剉無柴，近溪擔無水。」
+    台羅：A-bîng--á tuà tī ha̍k-hāu hù-kīn, tiānn-tiānn to khùn kàu beh siōng-khò--ah tsiah beh khí--lâi, kiat-kó lâng tuà khah hn̄g--ê lóng kàu ha̍k-hāu--ah, i suah put-sî lóng khah uànn kàu, bo̍k-kuài lâng teh kóng “kīn suann tshò bô tshâ, kīn khe tann bô tsuí.”。」
+    中文：小明住在學校附近，常常都睡到快上課了才起床，結果住比較遠的人都到學校了，他卻時常遲到，難怪人家說「靠近山卻砍不到柴，靠近溪邊卻挑不到水。」
+    來源：近山剉無柴，近溪擔無水。
+
+ 7. 主任
+    台語：學務主任為著欲「刣雞教猴」，就共偷走學的學生叫起去司令台教示予眾人看。
+    台羅：Ha̍k-bū tsú-jīm uī-tio̍h beh “thâi-ke-kà-kâu”, tō kā thau-tsáu-o̍h ê ha̍k-sing kiò khí-khì su-līng-tâi kà-sī hōo tsìng-lâng khuànn.。
+    中文：學務主任為了要「殺雞儆猴」，就把翹課的學生叫去司令台當眾訓示。
+    來源：刣雞教猴。
+
+ 8. 功課
+    台語：糞埽車來矣，阿母叫明仔去摒糞埽，伊煞講伊咧寫功課，阿母氣甲那逐糞埽車那唸：「教豬教狗，不如家己走。」
+    台羅：Pùn-sò-tshia lâi--ah, a-bú kiò Bîng--á khì piànn pùn-sò, i suah kóng i teh siá kong-khò, a-bú khì kah ná jiok pùn-sò-tshia ná liām, “Kà ti kà káu, put-jû ka-kī tsáu.”。」
+    中文：垃圾車來了，媽媽叫阿明去倒垃圾，他卻說他在寫功課，媽媽氣得一邊追垃圾車一邊唸：「支使豬支使狗，不如自己跑。」
+    來源：教豬教狗，不如家己走。
+
+ 9. 留學
+    台語：金木伯的孤囝去日本留學，閣提著博士學位，這款的子弟真正是「一斗較贏九石」，通庄的人攏呵咾甲會觸舌！
+    台羅：Kim-bo̍k peh ê koo-kiánn khì Ji̍t-pún liû-ha̍k, koh the̍h-tio̍h phok-sū ha̍k-uī, tsit khuán ê tsú-tē tsin-tsiànn sī “tsi̍t táu khah iânn káu tsio̍h”, thong tsng ê lâng lóng o-ló kah ē tak-tsi̍h!。
+    中文：金木伯的獨子去日本留學，又拿到博士學位，這樣的子弟真正是「少量的精品，勝過大量的劣質品」，整個村里的人都讚不絕口！
+    來源：一斗較贏九石。
+
+10. 辭典
+    台語：這本出版無偌久的辭典當咧喝俗賣，現此時來買真上算。
+    台羅：Tsit pún tshut-pán bô-guā-kú ê sû-tián tng-teh huah-sio̍k-bē, hiān-tshú-sî lâi bé tsin tsiūnn-sǹg.。
+    中文：這本出版沒多久的辭典正在打折出賣，現在買很划算。
+    來源：上算
+
+11. 教育
+    台語：一寡爸母對𪜶囝兒的教育傷過關心，要求欲換班級，抑是調去別間學校，毋過「一日徙栽，三日徛黃」，囡仔人曷會堪得按呢搬徙，嘛無法度注心來讀冊。
+    台羅：Tsi̍t-kuá pē-bú tuì in kiánn-jî ê kàu-io̍k siunn kuè kuan-sim, iau-kiû beh uānn pan-kip, ia̍h-sī tiàu-khì pa̍t king ha̍k-hāu, m̄-koh “tsi̍t ji̍t suá-tsai, sann ji̍t khiā-n̂g”, gín-á-lâng a̍h ē-kham-tit án-ne puann-suá, mā bô-huat-tōo tsù-sim lâi tha̍k-tsheh.。
+    中文：一些父母對於他們的小孩的教育太過關心，要求要換班級，或是調去別間學校，但是「移植一次，蔫黃三日」，小孩子怎麼能受得了這樣遷移，也沒辦法用心讀書。
+    來源：一日徙栽，三日徛黃。
+
+12. 社團
+    台語：伊這站仔外務真濟，除去正職的頭路，閣有足濟社團的工課，較加嘛無閒𩑾𩑾。
+    台羅：I tsit-tsām-á guā-bū tsin tsē, tû-khì tsiànn-tsit ê thâu-lōo, koh ū tsiok tsē siā-thuân ê khang-khuè, khah-ke mā bô-îng-tshih-tshih.。
+    中文：他這陣仔外務很多，除了正職的工作，還有許多社團的工作，難怪會忙得暈頭轉向。
+    來源：外務
+
+13. 拭仔
+    台語：你去叫遐的學生仔提拭仔共烏枋拭拭咧。
+    台羅：Lí khì kiò hia-ê ha̍k-sing-á the̍h tshit-á kā oo-pang tshit-tshit--leh.。
+    中文：你去叫那些學生拿板擦把黑板擦一擦。
+
+14. 國小
+    台語：俗語講：「艱苦頭，快活尾。」阿發自國小出業了後就綴人去做塗水，骨力趁錢來飼規家伙仔，天公伯仔也真疼惜伊，予伊娶著願意做伙拍拚的媠某，閣踏著好時機佮人合股起厝趁著錢，兩个囡仔嘛真有孝閣有才情，予伊穩心仔提早退休，佮𪜶牽手鬥陣去遊山玩水。
+    台羅：Sio̍k-gí kóng, “Kan-khóo thâu, khuìnn-ua̍h bué.” A-huat tsū kok-sió tshut-gia̍p liáu-āu tō tuè lâng khì tsò thôo-tsuí, kut-la̍t thàn-tsînn lâi tshī kui-ke-hué-á, thinn-kong-peh--á iā tsin thiànn-sioh--i, hōo i tshuā-tio̍h guān-ì tsò-hué phah-piànn ê suí bóo, koh ta̍h-tio̍h hó sî-ki kah lâng ha̍p-kóo khí-tshù thàn-tio̍h tsînn, nn̄g ê gín-á mā tsin iú-hàu koh ū tsâi-tsîng, hōo i ún-sim-á thê-tsá thè-hiu, kah in khan-tshiú tàu-tīn khì iû-san-uán-suí.。」阿發從國小畢業後就跟著別人去做泥水匠，賣力賺錢養一家人，老天爺也很疼愛他，讓他娶到願意一起努力的美嬌娘，又遇上景氣好跟人合建公寓賺到錢，兩個小孩很孝順又有才華，讓他安心提早退休，和妻子一同去遊山玩水。
+    中文：俗諺說：「含淚播種，歡笑收割。」阿發從國小畢業後就跟著別人去做泥水匠，賣力賺錢養一家人，老天爺也很疼愛他，讓他娶到願意一起努力的美嬌娘，又遇上景氣好跟人合建公寓賺到錢，兩個小孩很孝順又有才華，讓他安心提早退休，和妻子一同去遊山玩水。
+    來源：艱苦頭，快活尾。
+
+15. 國中
+    台語：伊的數學程度真好，雖然才讀國中，高中的數學嘛攏會曉。
+    台羅：I ê sòo-ha̍k thîng-tōo tsin hó, sui-jiân tsiah tha̍k kok-tiong, ko-tiong ê sòo-ha̍k mā lóng ē-hiáu.。
+    中文：他的數學程度很好，雖然才讀國中，高中的數學也都會。
+    來源：程度
+
+16. 學生
+    台語：老師欲共王梨酥分予阮這班的學生，就共「相分食有賰，相搶食無份」的道理講予逐家知，隨按總人額，落去分伻，較袂相搶食。
+    台羅：Lāu-su beh kā ông-lâi-soo pun hōo guán tsit pan ê ha̍k-sing, tō kā “sio-pun tsia̍h ū tshun, sio-tshiúnn tsia̍h bô hūn” ê tō-lí kóng hōo ta̍k-ke tsai, suî àn tsóng lâng-gia̍h, lo̍h-khì pun-phenn, khah bē sio-tshiúnn tsia̍h.。
+    中文：老師要將鳳梨酥分給我們這班的學生，便向大家說明「禮讓則互蒙其利，爭奪則互受其害」的道理，隨即按總人數，下去平均分配，才不會有爭相搶食的情形。
+    來源：相分食有賰，相搶食無份。
+
+17. 朋友
+    台語：阮這陣愛寫作的朋友會定期聚會，逐家提家己寫的作品出來唸，希望眾人提出修改的意見，「互相落氣，求進步」，向望寫作的能力會當提升。
+    台羅：Guán tsit tīn ài siá-tsok ê pîng-iú ē tīng-kî tsū-huē, ta̍k-ke the̍h ka-kī siá ê tsok-phín tshut-lâi liām, hi-bāng tsìng-lâng thê-tshut siu-kái ê ì-kiàn, “hōo-siong làu-khuì, kiû tsìn-pōo”, ǹg-bāng siá-tsok ê lîng-li̍k ē-tàng thê-sing.。
+    中文：我們這群喜愛寫作的朋友會定期聚會，大家拿自己寫的作品出來念，希望大家提供修改意見，「互相批評追求進步」，期望寫作的能力可以提升。
+    來源：互相落氣，求進步。
+
+18. 博士
+    台語：金木伯的孤囝去日本留學，閣提著博士學位，這款的子弟真正是「一斗較贏九石」，通庄的人攏呵咾甲會觸舌！
+    台羅：Kim-bo̍k peh ê koo-kiánn khì Ji̍t-pún liû-ha̍k, koh the̍h-tio̍h phok-sū ha̍k-uī, tsit khuán ê tsú-tē tsin-tsiànn sī “tsi̍t táu khah iânn káu tsio̍h”, thong tsng ê lâng lóng o-ló kah ē tak-tsi̍h!。
+    中文：金木伯的獨子去日本留學，又拿到博士學位，這樣的子弟真正是「少量的精品，勝過大量的劣質品」，整個村里的人都讚不絕口！
+    來源：一斗較贏九石。
+
+19. 下課
+    台語：我通常是四點下課。
+    台羅：Guá thong-siông sī sì tiám hā-khò.。
+    中文：我通常是四點下課。
+    來源：通常
+
+20. 台語
+    台語：彼个外國傳教士為著欲佇臺灣傳教，台語學甲端的閣滑溜。
+    台羅：Hit ê guā-kok thuân-kàu-sū uī-tio̍h beh tī Tâi-uân thuân-kàu, Tâi-gí o̍h kah tuan-tiah koh ku̍t-liū.。
+    中文：那個外國傳教士為了要在臺灣傳教，臺灣台語學得道地又流利。
+    來源：滑溜
+
+21. 教室
+    台語：老師上課定教阮講「坐予正，得人疼」，是希望學生囡仔佇教室上課愛坐予四正，若無，會予人歹印象。
+    台羅：Lāu-su siōng-khò tiānn kà guán kóng “tsē hōo tsiànn, tit lâng thiànn”, sī hi-bāng ha̍k-sing gín-á tī kàu-sik siōng-khò ài tsē hōo sì-tsiànn, nā-bô, ē hōo lâng pháinn ìn-siōng.。
+    中文：老師上課常常教我們「坐端正，使人疼」，是希望學生在教室上課能坐姿端正，否則，會給人家不好的印象。
+    來源：坐予正，得人疼。
+
+22. 社會
+    台語：俗語講：「春雺曝死鬼，夏雺做大水。」這是老祖先的經驗談。現代社會有氣象局，比遮的話閣較科學，會當提來檢驗這寡話的正確性。
+    台羅：Sio̍k-gí kóng, “Tshun bông pha̍k-sí kuí, hā bông tsò-tuā-tsuí.” Tse sī lāu tsóo-sian ê king-giām tâm. Hiān-tāi siā-huē ū khì-siōng-kio̍k, pí tsia-ê uē koh-khah kho-ha̍k, ē-tàng the̍h-lâi kiám-giām tsit kuá uē ê tsìng-khak-sìng.。」這是老祖先的經驗談。現代社會有氣象局，比這些話更科學，可以拿來檢驗這些話的正確性。
+    中文：人家說：「春天起霧，預兆旱災，夏天起霧，預兆水災。」這是老祖先的經驗談。現代社會有氣象局，比這些話更科學，可以拿來檢驗這些話的正確性。
+    來源：春雺曝死鬼，夏雺做大水。
+
+23. 班長
+    台語：阿德，逐家攏嘛知影你熱心閣愛出風頭，老師問講啥人欲做班長，你毋就緊攑手，莫閣「枵鬼假細膩」矣啦！
+    台羅：A-tik, ta̍k-ke lóng mā tsai-iánn lí jia̍t-sim koh ài tshut-hong-thâu, lāu-su mn̄g kóng siánn-lâng beh tsò pan-tiúnn, lí m̄-tō kín gia̍h-tshiú, mài koh “iau-kuí ké sè-jī”--ah--lah!。
+    中文：阿德，大家都知道你熱心又喜歡出風頭，老師問誰要當班長，你還不趕緊舉手，不要再「惺惺作態」了啦！
+    來源：枵鬼假細膩。
+
+24. 大學
+    台語：阿財仔下真濟苦心佮所費咧共𪜶後生栽培，向望伊會當出頭天，結局伊毋但大學讀無畢業，閣欲食毋討趁，顛倒是𪜶查某囝較有才情，研究所都猶未出業，幾若間公司就相爭欲共倩，阿財仔怨嘆講：「豬毋大，大對狗去。」
+    台羅：A-tsâi--á hē tsin tsē khóo-sim kah sóo-huì teh kā in hāu-senn tsai-puê, ǹg-bāng i ē-tàng tshut-thâu-thinn, kiat-kio̍k i m̄-nā tāi-ha̍k tha̍k bô pit-gia̍p, koh beh tsia̍h m̄ thó-thàn, tian-tò sī in tsa-bóo-kiánn khah ū tsâi-tsîng, gián-kiù-sóo to iáu-buē tshut-gia̍p, kuí-nā king kong-si tō sio-tsenn beh kā tshiànn, A-tsâi--á uàn-thàn kóng, “Ti m̄ tuā, tuā tuì káu--khì.”。」
+    中文：阿財花費了許多苦心和費用栽培他兒子，希望他能出人頭地，結果他不但大學無法畢業，還好逸惡勞，反而是他女兒比較有才華，研究所還沒畢業，好幾間公司就搶著要聘用他，阿財嘆氣說：「事與願違。」
+    來源：豬毋大，大對狗去。
+
+25. 刀仔
+    台語：刀仔割著的空喙若較細空，就較快堅血。
+    台羅：To-á kuah--tio̍h ê khang-tshuì nā khah sè khang, tō khah khuài kian-hueh.。
+    中文：刀子割到的傷口如果比較小，就比較容易止血。
+    來源：堅血
+
+26. 註冊
+    台語：我國校出業，考牢初中，可惜無錢通註冊，就去學做師仔。
+    台羅：Guá kok-hāu tshut-gia̍p, khó-tiâu tshoo-tiong, khó-sioh bô tsînn thang tsù-tsheh, tō khì o̍h tsò sai-á.。
+    中文：我國小畢業，考上初中，可惜沒有錢可以註冊，就去當學徒。
+    來源：國校
+
+27. 毛筆
+    台語：林先生真𠢕寫毛筆字。
+    台羅：Lîm--sian-sinn tsin gâu siá môo-pit-jī.。
+    中文：林先生很會寫毛筆字。
+    來源：先生
+
+28. 獎品
+    台語：阿明共阿兄討拄買來的四秀仔，閣共阿姊討比賽贏來的獎品，就去予阿媽共罵講「目睭掛斗概，看人物就愛」。
+    台羅：A-bîng kā a-hiann thó tú bé--lâi ê sì-siù-á, koh kā a-tsí thó pí-sài iânn--lâi ê tsióng-phín, tō khì hōo a-má kā mē kóng “ba̍k-tsiu kuà táu-kài, khuànn lâng mi̍h tō ài”.。
+    中文：阿明向哥哥要剛買來的零食，又向姊姊要比賽贏得的獎品，所以就被祖母斥責「眼睛掛著平斗的木概，看到別人的東西就想要」。
+    來源：目睭掛斗概，看人物就愛。
+
+29. 捌字
+    台語：阮阿媽雖然毋捌字，毋過伊講出喙的話攏是金言玉語。
+    台羅：Guán a-má sui-jiân m̄ bat-jī, m̄-koh i kóng tshut-tshuì ê uē lóng sī kim-giân-gio̍k-gí.。
+    中文：我祖母雖然不識字，但是他說出口的話都是金玉良言。
+    來源：金言玉語
+
+30. 冊包
+    台語：伊冊包揹咧講欲去圖書館讀冊，其實「捾籃仔假燒金」，是欲去佮查某朋友約會。
+    台羅：I tsheh-pau phāinn--leh kóng beh khì tôo-su-kuán tha̍k-tsheh, kî-si̍t “kuānn nâ-á ké sio-kim”, sī beh khì kah tsa-bóo pîng-iú iok-huē.。
+    中文：他背著書包說要去圖書館讀書，其實「掩人耳目」，是要去跟女朋友約會。
+    來源：捾籃仔假燒金。
+
+31. 地理
+    台語：𪜶老爸是專門咧共人看地理的。
+    台羅：In lāu-pē sī tsuan-bûn teh kā lâng khuànn tē-lí--ê.。
+    中文：他父親是專門在幫人看風水的。
+
+32. 校長
+    台語：偏僻地區的學校學生少，教職員嘛少，學校內面一个人著兼幾若个工課，就會像人所講的「校長兼摃鐘」。
+    台羅：Phian-phiah tē-khu ê ha̍k-hāu ha̍k-sing tsió, kàu-tsit-uân mā tsió, ha̍k-hāu lāi-bīn tsi̍t ê lâng tio̍h kiam kuí-nā ê khang-khuè, tō ē tshiūnn lâng sóo kóng--ê “hāu-tiúnn kiam kòng tsing”.。
+    中文：偏僻地區的學校學生少，教職員也少，學校裡一個人要兼好幾項工作，就會像人們所說的「校長兼撞鐘」。
+    來源：校長兼摃鐘。
+
+33. 簿仔
+    台語：有酒矸，通賣無，歹銅舊錫簿仔紙通賣無？
+    台羅：Ū tsiú-kan, thang bē--bô, pháinn-tâng-kū-siah phōo-á-tsuá thang bē--bô?。
+    中文：有空酒瓶或者用過的壞器具、紙張可以回收利用的東西要賣嗎？摘自民間歌謠。
+    來源：歹銅舊錫
+
+34. 放學
+    台語：放學轉來，伊就閣餾，遮爾認真，一定會讀甲牢腹。
+    台羅：Pàng-o̍h tńg--lâi, i tō koh liū, tsiah-nī jīn-tsin, it-tīng ē tha̍k kah tiâu-pak.。
+    中文：放學回到家，他又再複習，這麼認真，一定能讀到牢牢記住。
+    來源：牢腹
+
+35. 補習班
+    台語：去補習班推看會進步袂。
+    台羅：Khì póo-si̍p-pan thui khuànn ē tsìn-pōo--bē.。
+    中文：去補習班加強一下，看會不會進步。
+    來源：推文thui
+
+36. 高中
+    台語：伊的數學程度真好，雖然才讀國中，高中的數學嘛攏會曉。
+    台羅：I ê sòo-ha̍k thîng-tōo tsin hó, sui-jiân tsiah tha̍k kok-tiong, ko-tiong ê sòo-ha̍k mā lóng ē-hiáu.。
+    中文：他的數學程度很好，雖然才讀國中，高中的數學也都會。
+    來源：程度
+
+37. 字典
+    台語：學英文愛定定掀字典，才會進步。
+    台羅：O̍h Ing-bûn ài tiānn-tiānn hian jī-tián, tsiah ē tsìn-pōo.。
+    中文：學英文要常常查字典，才會進步。
+    來源：掀
+
+38. 烏枋
+    台語：你去叫遐的學生仔提拭仔共烏枋拭拭咧。
+    台羅：Lí khì kiò hia-ê ha̍k-sing-á the̍h tshit-á kā oo-pang tshit-tshit--leh.。
+    中文：你去叫那些學生拿板擦把黑板擦一擦。
+    來源：拭仔
+
+39. 獎學金
+    台語：成績無夠，袂當申請獎學金。
+    台羅：Sîng-tsik bô-kàu, bē-tàng sin-tshíng tsióng-ha̍k-kim.。
+    中文：成績不夠，不能申請獎學金。
+    來源：申請
+
+40. 英文
+    台語：學英文愛定定掀字典，才會進步。
+    台羅：O̍h Ing-bûn ài tiānn-tiānn hian jī-tián, tsiah ē tsìn-pōo.。
+    中文：學英文要常常查字典，才會進步。
+    來源：掀
+
+41. 課本
+    台語：這本課本有十二課。
+    台羅：Tsit pún khò-pún ū tsa̍p-jī khò.。
+    中文：這本課本有十二課。
+    來源：課文khò
+
+42. 學歷
+    台語：雖然阿美𪜶翁矮閣大箍，學歷嘛並阿美較低，毋過伊猶是真愛𪜶翁，因為「媠䆀無比止，愛著較慘死」。
+    台羅：Sui-jiân A-bí in ang é koh tuā-khoo, ha̍k-li̍k mā phīng A-bí khah kē, m̄-koh i iáu-sī tsin ài in ang, in-uī “suí-bái bô pí tsí, ài--tio̍h khah tshám sí”.。
+    中文：雖然小美的丈夫長得又矮又胖，學歷也比小美低，但他仍然非常愛他先生，因為「情人眼裡出西施」。
+    來源：媠䆀無比止，愛著較慘死。
+
+43. 鉸刀
+    台語：鉸刀爿，鐵掃帚。
+    台羅：Ka-to-pîng, thih-sàu-tshiú.。
+    中文：舊時指命中帶剪刀、鐵掃把的女人會帶來傷害夫家住宅的厄運，所以沒有人敢娶。
+    來源：鐵掃帚
+
+44. 上課
+    台語：阿明仔蹛佇學校附近，定定都睏到欲上課矣才欲起來，結果人蹛較遠的攏到學校矣，伊煞不時攏較晏到，莫怪人咧講「近山剉無柴，近溪擔無水。」
+    台羅：A-bîng--á tuà tī ha̍k-hāu hù-kīn, tiānn-tiānn to khùn kàu beh siōng-khò--ah tsiah beh khí--lâi, kiat-kó lâng tuà khah hn̄g--ê lóng kàu ha̍k-hāu--ah, i suah put-sî lóng khah uànn kàu, bo̍k-kuài lâng teh kóng “kīn suann tshò bô tshâ, kīn khe tann bô tsuí.”。」
+    中文：小明住在學校附近，常常都睡到快上課了才起床，結果住比較遠的人都到學校了，他卻時常遲到，難怪人家說「靠近山卻砍不到柴，靠近溪邊卻挑不到水。」
+    來源：近山剉無柴，近溪擔無水。
+
+45. 糊仔
+    台語：我的指頭仔去予糊仔黏牢咧。
+    台羅：Guá ê tsíng-thâu-á khì hōo kôo-á liâm-tiâu--leh.。
+    中文：我的手指頭被漿糊黏住了。
+    來源：牢白tiâu
+
+46. 考試
+    台語：後禮拜都欲考試矣，這禮拜的歇睏日你猶是莫出去𨑨迌會較穩當，才袂時到「喙食，予尻川坐數」。
+    台羅：Āu lé-pài to beh khó-tshì--ah, tsit lé-pài ê hioh-khùn-ji̍t lí iáu-sī mài tshut-khì tshit-thô ē khah ún-tàng, tsiah bē sî kàu “tshuì tsia̍h, hōo kha-tshng tshē-siàu”.。
+    中文：下禮拜就要考試了，這周的假日你還是別出去玩會比較妥當，才不會到時「貪圖一時的好處，自己得承受後果」。
+    來源：喙食，予尻川坐數。
+
+47. 數學
+    台語：伊的數學程度真好，雖然才讀國中，高中的數學嘛攏會曉。
+    台羅：I ê sòo-ha̍k thîng-tōo tsin hó, sui-jiân tsiah tha̍k kok-tiong, ko-tiong ê sòo-ha̍k mā lóng ē-hiáu.。
+    中文：他的數學程度很好，雖然才讀國中，高中的數學也都會。
+    來源：程度
+
+	1.	考卷　khó-kǹg
+台語：老師發考卷落來，逐家攏開始認真應考。
+台羅：Lāu-su huat khó-kǹg lo̍h-lâi, ta̍k-ke lóng khai-sí jīn-tsin ìn-khó.。
+中文：老師發下考卷，大家就開始認真應考。
+	2.	複習　ho̍k-si̍p
+台語：若欲考試好，平常就愛定定複習。
+台羅：Nā beh khó-tshì hó, pîng-siông tō ài tiānn-tiānn ho̍k-si̍p.。
+中文：若想考試考得好，平常就要常常複習。
+	3.	唸歌詩　liām kua-si
+台語：阿公上擅長唸歌詩，聲音真好聽。
+台羅：A-kong siōng sàn-tiông liām kua-si, siann-im tsin hó-thiann.。
+中文：阿公最擅長唸歌詩，聲音非常好聽。
+	4.	獎學金　tsióng-ha̍k-kim
+台語：成績無夠，袂當申請獎學金。
+台羅：Sîng-tsik bô-kàu, bē-tàng sin-tshíng tsióng-ha̍k-kim.。
+中文：成績不夠，不能申請獎學金。
+	5.	鉛筆盒仔　iân-pit a̍p-á
+台語：伊的鉛筆盒仔內底，攏是彩色筆佮原子筆。
+台羅：I ê iân-pit a̍p-á lāi-té, lóng sī tshái-sik-pit kah guân-tsú-pit.。
+中文：他的鉛筆盒裡，全是彩色筆和原子筆。
+	6.	粉筆　hún-pit
+台語：老師用粉筆佇烏枋頂寫字。
+台羅：Lāu-su īng hún-pit tī oo-pang tíng siá-jī.。
+中文：老師用粉筆在黑板上寫字。
+	7.	吸石　khip-tsio̍h
+台語：囡仔攑吸石共鐵釘仔吸起來，感覺真趣味。
+台羅：Gín-á gia̍h khip-tsio̍h kā thih-ting-á khip khí-lâi, kám-kak tsin tshù-bī.。
+中文：小孩拿磁鐵把鐵釘吸起來，覺得很有趣。
+	8.	讀書　tha̍k-tsu
+台語：伊每日讀書讀到深更半暝。
+台羅：I muí-ji̍t tha̍k-tsu tha̍k kàu tshim-kenn puànn-mê.。
+中文：他每天讀書讀到深夜。
+	9.	彩色筆　tshái-sik-pit
+台語：阿妹仔用彩色筆畫一蕊花。
+台羅：A-muē-á īng tshái-sik-pit uē tsi̍t luí hue.。
+中文：妹妹用彩色筆畫了一朵花。
+	10.	原子筆　guân-tsú-pit
+台語：原子筆寫較方便，毋免再削。
+台羅：Guân-tsú-pit siá khah hong-piān, m̄-bián tsài siauh.。
+中文：原子筆寫字比較方便，不用再削。
+	11.	畫圖紙　uē-tôo-tsuá
+台語：老師分畫圖紙予囡仔，叫伊畫家庭的圖。
+台羅：Lāu-su pun uē-tôo-tsuá hōo gín-á, kiò i uē ka-ting ê tôo.。
+中文：老師分畫紙給小孩，叫他畫家庭圖。
+	12.	蠟筆　la̍h-pit
+台語：囡仔最愛用蠟筆畫太陽佮山。
+台羅：Gín-á tsuì ài īng la̍h-pit uē thài-iông kah suann.。
+中文：小孩最喜歡用蠟筆畫太陽和山。
+	13.	高職　ko-tsit
+台語：伊國中畢業了後，選去高職學電子科。
+台羅：I kok-tiong pit-gia̍p liáu-āu, suán khì ko-tsit o̍h tiān-tsú-kho.。
+中文：他國中畢業後，選擇去高職讀電子科。
+	14.	碩士　si̍k-sū
+台語：阿華讀完碩士課程，閣繼續欲念博士。
+台羅：A-huâ tha̍k-uān si̍k-sū khò-tiânn, koh kè-sio̍k beh liām phok-sū.。
+中文：阿華讀完碩士課程，還繼續要攻讀博士。
+	15.	國語　kok-gí
+台語：伊國語講甲誠標準。
+台羅：I kok-gí kóng kah tsiânn piau-tsún.。
+中文：他國語說得很標準。
+	16.	中文　Tiong-bûn
+台語：外國學生佇臺灣學中文。
+台羅：Guā-kok ha̍k-sing tī Tâi-uân o̍h Tiong-bûn.。
+中文：外國學生在臺灣學中文。
+	17.	英文　Ing-bûn
+台語：學英文愛定定掀字典，才會進步。
+台羅：O̍h Ing-bûn ài tiānn-tiānn hian jī-tián, tsiah ē tsìn-pōo.。
+中文：學英文要常常查字典，才會進步。
+	18.	閱讀　ua̍t-tho̍k
+台語：閱讀閣記錄是進步學問的關鍵。
+台羅：Ua̍t-tho̍k koh kì-lo̍k sī tsìn-pōo ha̍k-būn ê kuan-kiān.。
+中文：閱讀和記錄是提升學問的關鍵。
+	19.	詩句　si-kù
+台語：老師教阮背唐詩的詩句。
+台羅：Lāu-su ka guán puè Tông-si ê si-kù.。
+中文：老師教我們背唐詩的詩句。
+
+❌ 缺失單字報告:
+============================================================
+以下 31 個單字沒有找到可用的例句：
+
+📋 無用例 (31個):
+   考卷      書包      黑板      彩色筆     吸石      剪刀      簿子      臺語      蠟筆      粉筆      
+   識字      唸歌詩     複習      畫圖紙     閱讀      中文      磁鐵、磁石   碩士      刀子      詩句      
+   讀書      鉛筆      漿糊      高職      國語      上學、上課   鉛筆盒仔    板擦、橡皮擦  唸詩歌、歌謠  原子筆     
+   鉛筆盒     
+
+💡 建議：
+   1. 這些單字可能在教育部辭典中沒有用例
+   2. 可以嘗試其他台語辭典或資源
+   3. 或者手動查詢相關的同義詞

@@ -1,0 +1,579 @@
+{
+  "metadata": {
+    "scraper_type": "最終版手動操作風格爬蟲",
+    "operation_flow": "輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理",
+    "source_url": "https://sutian.moe.edu.tw/zh-hant/tshiau/",
+    "extraction_date": "20250827_143137",
+    "statistics": {
+      "total_words": 72,
+      "successful_extractions": 39,
+      "missing_words": 33,
+      "success_rate": "54.2%",
+      "quality_stats": {
+        "完整": 38,
+        "良好": 1,
+        "基本": 0,
+        "不完整": 0
+      }
+    }
+  },
+  "successful_records": [
+    {
+      "word": "臺東",
+      "taiwanese_sentence": "阮規班拍算欲去旅行，有人欲去臺東，有人欲去澎湖，眾人「十喙九尻川」，無法度定著，尾後規氣抽鬮來決定。",
+      "tailo_pronunciation": "Guán kui pan phah-sǹg beh khì lí-hîng, ū lâng beh khì Tâi-tang, ū lâng beh khì Phênn-ôo, tsìng-lâng “tsa̍p tshuì káu kha-tshng”, bô-huat-tōo tiānn-tio̍h, bué-āu kui-khì thiu-khau lâi kuat-tīng.。",
+      "chinese_translation": "班上計畫舉辦旅行，有些人要去臺東，有些人要去澎湖，大家是「一人一個意見」，無法定案，後來乾脆抽籤決定。",
+      "source_word": "十喙九尻川。",
+      "extraction_time": "2025-08-27 14:28:16",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "美國",
+      "taiwanese_sentence": "伊自細漢讀冊就受著親情幫贊，想袂到佇美國畢業了後，連親情過身嘛毋轉來，人講「船過水無痕」，伊實在真無惜情。",
+      "tailo_pronunciation": "I tsū sè-hàn tha̍k-tsheh tō siū-tio̍h tshin-tsiânn pang-tsān, siūnn-bē-kàu tī Bí-kok pit-gia̍p liáu-āu, liân tshin-tsiânn kuè-sin mā m̄ tńg--lâi, lâng kóng “tsûn kuè tsuí bô hûn”, i si̍t-tsāi tsin bô sioh-tsîng.。",
+      "chinese_translation": "他從小讀書就受到親戚的贊助，想不到在美國畢業之後，就連親戚過世也不肯回來，人家說「船過水無痕」，他真是很不珍惜親情。",
+      "source_word": "船過水無痕。",
+      "extraction_time": "2025-08-27 14:28:24",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "韓國",
+      "taiwanese_sentence": "佇韓國娘仔豆是好食物，佇臺灣無幾个人敢食。",
+      "tailo_pronunciation": "Tī Hân-kok niû-á-tāu sī hó-tsia̍h mi̍h, tī Tâi-uân bô kuí ê lâng kánn tsia̍h.。",
+      "chinese_translation": "在韓國蠶蛹是美食，在臺灣人沒幾個人敢吃。",
+      "source_word": "娘仔豆",
+      "extraction_time": "2025-08-27 14:28:27",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "臺北",
+      "taiwanese_sentence": "伊自少年就對下港起去臺北做生理，佇遐娶某生囝，到今五十外冬矣，毋過「離鄉，無離腔」，講話的時猶原有下港腔。",
+      "tailo_pronunciation": "I tsū siàu-liân tō tuì ē-káng khí-khì Tâi-pak tsò-sing-lí, tī hia tshuā-bóo senn-kiánn, kàu-tann gōo-tsa̍p-guā tang--ah, m̄-koh “lī hiunn, bô lī khiunn”, kóng-uē ê sî iu-guân ū ē-káng khiunn.。",
+      "chinese_translation": "他年輕時就從南部上去臺北做生意，在那裡娶妻生子，至今五十多年了，不過「離鄉，不離腔」，說話時仍然有南部腔。",
+      "source_word": "離鄉，無離腔。",
+      "extraction_time": "2025-08-27 14:28:33",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "新竹",
+      "taiwanese_sentence": "新竹米粉佮柿餅是用九降風共水分吹予焦，氣味較好閣加真有囥。",
+      "tailo_pronunciation": "Sin-tik bí-hún kah khī-piánn sī iōng káu-kàng-hong kā tsuí-hun tshue hōo ta, khì-bī khah hó koh ke tsin ū khǹg.。",
+      "chinese_translation": "新竹米粉和柿餅是用東北季風把水分吹乾，味道較好還能保存比較久。",
+      "source_word": "九降風",
+      "extraction_time": "2025-08-27 14:28:36",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "宜蘭",
+      "taiwanese_sentence": "去宜蘭看本地歌仔，若看著三花搬閹雞行上趣味。",
+      "tailo_pronunciation": "Khì Gî-lân khuànn pún-tē-kua-á, nā khuànn-tio̍h sann-hue puann iam-ke-kiânn siōng tshù-bī.。",
+      "chinese_translation": "去宜蘭看本地歌仔，如果看到丑角表演矮子功最有趣。",
+      "source_word": "閹雞行",
+      "extraction_time": "2025-08-27 14:28:38",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "非洲",
+      "taiwanese_sentence": "非洲真濟國家因為飢荒，百姓枵飢失頓，真濟囡仔攏「腹肚若水櫃，胸坎若樓梯」，予人真毋甘。",
+      "tailo_pronunciation": "Hui-tsiu tsin tsē kok-ka in-uī ki-hng, peh-sènn iau-ki-sit-tǹg, tsin tsē gín-á lóng “pak-tóo ná tsuí-kuī, hing-khám ná lâu-thui”, hōo lâng tsin m̄-kam.。",
+      "chinese_translation": "非洲很多國家因為飢荒，人民三餐不繼，很多兒童都「骨瘦如柴，卻又挺個大肚子」，讓人很不捨。",
+      "source_word": "腹肚若水櫃，胸坎若樓梯。",
+      "extraction_time": "2025-08-27 14:28:41",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "北投",
+      "taiwanese_sentence": "伊去臺北投靠𪜶阿姊。",
+      "tailo_pronunciation": "I khì Tâi-pak tâu-khò in a-tsí.。",
+      "chinese_translation": "他去臺北投靠他姊姊生活。",
+      "source_word": "投靠",
+      "extraction_time": "2025-08-27 14:28:45",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "中國",
+      "taiwanese_sentence": "伊去中國探親。",
+      "tailo_pronunciation": "I khì Tiong-kok thàm-tshin.。",
+      "chinese_translation": "他去中國拜訪親戚。",
+      "source_word": "探親",
+      "extraction_time": "2025-08-27 14:28:47",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "地名",
+      "taiwanese_sentence": "這个地名按怎來的，已經無才調稽考矣。",
+      "tailo_pronunciation": "Tsit ê tē-miâ án-tsuánn lâi--ê, í-king bô tsâi-tiāu khe-khó--ah.。",
+      "chinese_translation": "這個地名怎麼來的，已經不可考了。",
+      "source_word": "稽考",
+      "extraction_time": "2025-08-27 14:28:50",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "南港",
+      "taiwanese_sentence": "你若欲去南港就愛佇臺北車頭盤車。",
+      "tailo_pronunciation": "Lí nā beh khì Lâm-káng tō ài tī Tâi-pak Tshia-thâu puânn-tshia.。",
+      "chinese_translation": "你如果要去南港就必須在臺北車站轉車。",
+      "source_word": "盤車",
+      "extraction_time": "2025-08-27 14:29:04",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "新北市",
+      "taiwanese_sentence": "這馬佇新北市土城區的大墓公聽講佮早前的林爽文事件、漳泉拚攏有關係。",
+      "tailo_pronunciation": "Tsit-má tī Sin-pak-tshī Thôo-siânn-khu ê tuā-bōng-kong thiann-kóng kah tsá-tsîng ê Lîm Sóng-bûn sū-kiānn, Tsiang-Tsuân-piànn lóng ū kuan-hē.。",
+      "chinese_translation": "現在在新北市土城區的大墓公聽說與之前的林爽文事件、漳泉械鬥都有關係。",
+      "source_word": "大墓公",
+      "extraction_time": "2025-08-27 14:29:15",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "屏東",
+      "taiwanese_sentence": "阮屏東的烏甕串通講是「頂港有名聲，下港上出名」，食過的人攏呵咾甲會觸舌。",
+      "tailo_pronunciation": "Guán Pîn-tong ê oo-àng-tshǹg thang kóng sī “tíng-káng ū miâ-siann, ē-káng siōng tshut-miâ”, tsia̍h--kuè ê lâng lóng o-ló kah ē tak-tsi̍h.。",
+      "chinese_translation": "我們屏東的黑鮪魚可說是「由北至南，遠近馳名」，吃過的人都讚不絕口。",
+      "source_word": "頂港有名聲，下港上出名。",
+      "extraction_time": "2025-08-27 14:29:18",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "嘉義",
+      "taiwanese_sentence": "臺北人講烏白切，嘉義人講滷熟肉。",
+      "tailo_pronunciation": "Tâi-pak-lâng kóng oo-pe̍h-tshiat, Ka-gī-lâng kóng lóo-sio̍k-bah.。",
+      "chinese_translation": "臺北人說黑白切，嘉義人說滷熟肉。",
+      "source_word": "烏白切",
+      "extraction_time": "2025-08-27 14:29:21",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "庄頭",
+      "taiwanese_sentence": "伊正港是一个歹星，拄搬來，這个庄頭就做大水。",
+      "tailo_pronunciation": "I tsiànn-káng sī tsi̍t ê pháinn-tshenn, tú puann--lâi, tsit ê tsng-thâu tō tsò-tuā-tsuí.。",
+      "chinese_translation": "他真是個掃把星，剛搬來，這個村莊就發生水災。",
+      "source_word": "歹星",
+      "extraction_time": "2025-08-27 14:29:32",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "市區",
+      "taiwanese_sentence": "較早舊市區毋但「三跤步一坎店」，踅街的人嘛插插插，毋過這馬已經變甲真稀微矣。",
+      "tailo_pronunciation": "Khah-tsá kū tshī-khu m̄-nā “sann kha-pōo tsi̍t khám tiàm”, se̍h-ke ê lâng mā tshah-tshah-tshah, m̄-koh tsit-má í-king piàn kah tsin hi-bî--ah.。",
+      "chinese_translation": "以前舊市區不只「市景繁榮、商店林立」，逛街的人也摩肩接踵，不過現在已經變得很冷清了。",
+      "source_word": "三跤步一坎店。",
+      "extraction_time": "2025-08-27 14:29:35",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "艋舺",
+      "taiwanese_sentence": "一府、二鹿、三艋舺。",
+      "tailo_pronunciation": "",
+      "chinese_translation": "「府」指今臺南市、「鹿」指今彰化縣鹿港鎮、「艋舺」指今臺北市萬華區。一、二、三則為三個地區早期的開發順序。",
+      "source_word": "府",
+      "extraction_time": "2025-08-27 14:29:41",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "良好"
+    },
+    {
+      "word": "地方",
+      "taiwanese_sentence": "地方的頭人攏真認真咧做代誌。",
+      "tailo_pronunciation": "Tē-hng ê thâu-lâng lóng tsin jīn-tsin teh tsò tāi-tsì.。",
+      "chinese_translation": "地方上的領導人都很認真在做事情。",
+      "source_word": "地方",
+      "extraction_time": "2025-08-27 14:29:46",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "社區",
+      "taiwanese_sentence": "阿珍看厝看半年外才買著一間伊佮意的厝，伊講：「買厝，買厝邊。」除了考慮價數，閣較要緊的是愛揣著有好厝邊的社區。",
+      "tailo_pronunciation": "A-tin khuànn tshù khuànn puànn nî guā tsiah bé-tio̍h tsi̍t king i kah-ì ê tshù, i kóng, “Bé tshù, bé tshù-pinn.” Tû-liáu khó-lī kè-siàu, koh-khah iàu-kín--ê sī ài tshuē-tio̍h ū hó tshù-pinn ê siā-khu.。」除了考慮價錢，更加重要的是要找到有好鄰居的社區。",
+      "chinese_translation": "小珍看房子看了半年多才買到一間他喜歡的房子，他說：「買房子要慎選好鄰居。」除了考慮價錢，更加重要的是要找到有好鄰居的社區。",
+      "source_word": "買厝，買厝邊。",
+      "extraction_time": "2025-08-27 14:29:55",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "德國",
+      "taiwanese_sentence": "伊自修學德國話學甲足老。",
+      "tailo_pronunciation": "I tsū-siu o̍h Tik-kok-uē o̍h kah tsiok láu.。",
+      "chinese_translation": "他自修學德語學得很流利。",
+      "source_word": "自修",
+      "extraction_time": "2025-08-27 14:30:01",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "苗栗",
+      "taiwanese_sentence": "阿娥後禮拜欲嫁去苗栗矣！",
+      "tailo_pronunciation": "A-ngôo āu lé-pài beh kè-khì Biâu-li̍k--ah",
+      "chinese_translation": "阿娥下禮拜要嫁到苗栗去了！",
+      "source_word": "嫁白kè",
+      "extraction_time": "2025-08-27 14:30:09",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "越南",
+      "taiwanese_sentence": "伊的工廠設佇越南。",
+      "tailo_pronunciation": "I ê kang-tshiúnn siat tī Ua̍t-lâm.。",
+      "chinese_translation": "他的工廠設在越南。",
+      "source_word": "設",
+      "extraction_time": "2025-08-27 14:30:12",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "亞洲",
+      "taiwanese_sentence": "夯石碾是咱參加亞洲運動會捷著等的項目。",
+      "tailo_pronunciation": "Giâ-tsio̍h-lián sī lán tsham-ka A-tsiu Ūn-tōng-huē tsia̍p tio̍h-tíng ê hāng-bo̍k.。",
+      "chinese_translation": "舉重是我們參加亞洲運動會常得獎的項目。",
+      "source_word": "夯石碾",
+      "extraction_time": "2025-08-27 14:30:15",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "基隆",
+      "taiwanese_sentence": "佇基隆有一間服侍老大公的廟。",
+      "tailo_pronunciation": "Tī Ke-lâng ū tsi̍t king ho̍k-sāi lāu-tuā-kong ê biō.。",
+      "chinese_translation": "在基隆有一間祭拜孤魂野鬼的廟。",
+      "source_word": "老大公",
+      "extraction_time": "2025-08-27 14:30:18",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "澎湖",
+      "taiwanese_sentence": "阮規班拍算欲去旅行，有人欲去臺東，有人欲去澎湖，眾人「十喙九尻川」，無法度定著，尾後規氣抽鬮來決定。",
+      "tailo_pronunciation": "Guán kui pan phah-sǹg beh khì lí-hîng, ū lâng beh khì Tâi-tang, ū lâng beh khì Phênn-ôo, tsìng-lâng “tsa̍p tshuì káu kha-tshng”, bô-huat-tōo tiānn-tio̍h, bué-āu kui-khì thiu-khau lâi kuat-tīng.。",
+      "chinese_translation": "班上計畫舉辦旅行，有些人要去臺東，有些人要去澎湖，大家是「一人一個意見」，無法定案，後來乾脆抽籤決定。",
+      "source_word": "十喙九尻川。",
+      "extraction_time": "2025-08-27 14:30:21",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "城市",
+      "taiwanese_sentence": "城市愈來愈楦大，市郊嘛愈來愈鬧熱。",
+      "tailo_pronunciation": "Siânn-tshī jú lâi jú hùn-tuā, tshī-kau mā jú lâi jú lāu-jia̍t.。",
+      "chinese_translation": "城市愈來愈向外擴張，市郊也愈來愈熱鬧。",
+      "source_word": "郊",
+      "extraction_time": "2025-08-27 14:30:23",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "歐洲",
+      "taiwanese_sentence": "這位作者寫的這篇小說的款勢，若像咧學歐洲寫實主義的風格。",
+      "tailo_pronunciation": "Tsit uī tsok-tsiá siá ê tsit phinn siáu-suat ê khuán-sè, ná-tshiūnn teh o̍h Au-tsiu Siá-si̍t tsú-gī ê hong-keh.。",
+      "chinese_translation": "這位作者寫的這篇小說的體裁，好像是在學習歐洲寫實主義的風格。",
+      "source_word": "款勢",
+      "extraction_time": "2025-08-27 14:30:37",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "高雄",
+      "taiwanese_sentence": "伊月尾欲去高雄看𪜶後生。",
+      "tailo_pronunciation": "I gue̍h-bué beh khì Ko-hiông khuànn in hāu-senn.。",
+      "chinese_translation": "他月底要去高雄看他兒子。",
+      "source_word": "月尾",
+      "extraction_time": "2025-08-27 14:30:40",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "臺南",
+      "taiwanese_sentence": "臺南地區欲考試的囡仔會買狀元粿來食，希望會當考牢理想的學校。",
+      "tailo_pronunciation": "Tâi-lâm tē-khu beh khó-tshì ê gín-á ē bé tsiōng-guân-kué lâi tsia̍h, hi-bāng ē-tàng khó-tiâu lí-sióng ê ha̍k-hāu.。",
+      "chinese_translation": "臺南地區要考試的孩子會買狀元糕來吃，希望可以考上理想的學校。",
+      "source_word": "狀元粿",
+      "extraction_time": "2025-08-27 14:30:43",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "士林",
+      "taiwanese_sentence": "士林夜市仔敢若阮兜的灶跤咧！",
+      "tailo_pronunciation": "Sū-lîm iā-tshī-á kánn-ná guán tau ê tsàu-kha--leh!。",
+      "chinese_translation": "士林夜市好像我家廚房一樣！比喻常去士林夜市。",
+      "source_word": "灶跤",
+      "extraction_time": "2025-08-27 14:30:46",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "庄跤",
+      "taiwanese_sentence": "最近我搬來庄跤蹛，若有好食物，我就捾去送厝邊。𪜶嘛定定送𪜶家己種的青菜、果子來予我。人講「千金買厝，萬金買厝邊」，咱著佮厝邊頭尾好好仔交陪！",
+      "tailo_pronunciation": "Tsuè-kīn guá puann-lâi tsng-kha tuà, nā ū hó-tsia̍h mi̍h, guá tō kuānn-khì sàng tshù-pinn. In mā tiānn-tiānn sàng in ka-kī tsìng ê tshenn-tshài, kué-tsí lâi hōo--guá. Lâng kóng “tshian-kim bé tshù, bān kim bé tshù-pinn”, lán tio̍h kah tshù-pinn-thâu-bué hó-hó-á kau-puê!。他們也常常送他們自己種的蔬菜、水果給我。人家說：「千金買屋，萬金買鄰」，我們得跟鄰居好好交往！",
+      "chinese_translation": "最近我搬到鄉下住，若有好吃的食物，我就拿去送給隔壁鄰居。他們也常常送他們自己種的蔬菜、水果給我。人家說：「千金買屋，萬金買鄰」，我們得跟鄰居好好交往！",
+      "source_word": "千金買厝，萬金買厝邊。",
+      "extraction_time": "2025-08-27 14:30:49",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "地球",
+      "taiwanese_sentence": "今地球頂懸昆蟲的種類通講是百百種，咱攏捌袂了呢。",
+      "tailo_pronunciation": "Tann tē-kiû tíng-kuân khun-thiông ê tsióng-luī thang kóng sī pah-pah-tsióng, lán lóng bat bē liáu--neh.。",
+      "chinese_translation": "現今地球上昆蟲的種類可以說是百百種，我們都認識不完呢。",
+      "source_word": "昆蟲",
+      "extraction_time": "2025-08-27 14:30:55",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "都市",
+      "taiwanese_sentence": "分家伙的時陣抽著無水田，伊也認命接受，啥人知影後來都市計畫路開到遐，伊的田變更做建地，有影是像人講的：「青盲貓咬著死鳥鼠。」",
+      "tailo_pronunciation": "Pun ke-hué ê sî-tsūn thiu-tio̍h bô-tsuí-tshân, i iā jīn-miā tsiap-siū, siánn-lâng tsai-iánn āu--lâi too-tshī kè-uē lōo khui kàu hia, i ê tshân piàn-king tsò kiàn-tē, ū-iánn sī tshiūnn lâng kóng--ê, “Tshenn-mê niau kā-tio̍h sí niáu-tshí.”。」",
+      "chinese_translation": "分財產時抽到旱田，他也認命接受，誰知道後來都市計畫路開到那裡，他的田地變更成建地，真是像人家說的：「瞎貓碰到死老鼠。」",
+      "source_word": "青盲貓咬著死鳥鼠。",
+      "extraction_time": "2025-08-27 14:30:57",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "臺中",
+      "taiwanese_sentence": "佇遠遠的所在，就看會著臺中火力發電廠彼四支煙筒管矣。",
+      "tailo_pronunciation": "Tī hn̄g-hn̄g ê sóo-tsāi, tō khuànn ē tio̍h Tâi-tiong hué-li̍k huat-tiān-tshiúnn hit sì ki ian-tâng-kóng--ah.。",
+      "chinese_translation": "在遠遠的地方，就看得到臺中火力發電廠那四根煙囪了。",
+      "source_word": "煙筒管",
+      "extraction_time": "2025-08-27 14:31:00",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "郊外",
+      "taiwanese_sentence": "歇睏日伊常在𤆬一家伙仔去郊外𨑨迌。",
+      "tailo_pronunciation": "Hioh-khùn-ji̍t i tshiâng-tsāi tshuā tsi̍t-ke-hué-á khì kau-guā tshit-thô.。",
+      "chinese_translation": "假日他經常帶領全家人去郊外遊玩。",
+      "source_word": "郊",
+      "extraction_time": "2025-08-27 14:31:03",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "南投",
+      "taiwanese_sentence": "你過年敢有欲倒轉去南投？",
+      "tailo_pronunciation": "Lí kuè-nî kám ū beh tò-tńg-khì Lâm-tâu",
+      "chinese_translation": "你過年要不要回去南投？",
+      "source_word": "倒轉去",
+      "extraction_time": "2025-08-27 14:31:12",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "日本",
+      "taiwanese_sentence": "金木伯的孤囝去日本留學，閣提著博士學位，這款的子弟真正是「一斗較贏九石」，通庄的人攏呵咾甲會觸舌！",
+      "tailo_pronunciation": "Kim-bo̍k peh ê koo-kiánn khì Ji̍t-pún liû-ha̍k, koh the̍h-tio̍h phok-sū ha̍k-uī, tsit khuán ê tsú-tē tsin-tsiànn sī “tsi̍t táu khah iânn káu tsio̍h”, thong tsng ê lâng lóng o-ló kah ē tak-tsi̍h!。",
+      "chinese_translation": "金木伯的獨子去日本留學，又拿到博士學位，這樣的子弟真正是「少量的精品，勝過大量的劣質品」，整個村里的人都讚不絕口！",
+      "source_word": "一斗較贏九石。",
+      "extraction_time": "2025-08-27 14:31:15",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "地區",
+      "taiwanese_sentence": "偏僻地區的學校學生少，教職員嘛少，學校內面一个人著兼幾若个工課，就會像人所講的「校長兼摃鐘」。",
+      "tailo_pronunciation": "Phian-phiah tē-khu ê ha̍k-hāu ha̍k-sing tsió, kàu-tsit-uân mā tsió, ha̍k-hāu lāi-bīn tsi̍t ê lâng tio̍h kiam kuí-nā ê khang-khuè, tō ē tshiūnn lâng sóo kóng--ê “hāu-tiúnn kiam kòng tsing”.。",
+      "chinese_translation": "偏僻地區的學校學生少，教職員也少，學校裡一個人要兼好幾項工作，就會像人們所說的「校長兼撞鐘」。",
+      "source_word": "校長兼摃鐘。",
+      "extraction_time": "2025-08-27 14:31:23",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "花蓮",
+      "taiwanese_sentence": "花蓮當地的風景袂䆀，咱另工做伙來去𨑨迌。",
+      "tailo_pronunciation": "Hua-liân tong-tē ê hong-kíng bē-bái, lán līng-kang tsò-hué lâi-khì tshit-thô.。",
+      "chinese_translation": "花蓮當地的風景不錯，我們改天一起去玩。",
+      "source_word": "當地",
+      "extraction_time": "2025-08-27 14:31:35",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    }
+  ],
+  "missing_words": [
+    {
+      "word": "桃園",
+      "reason": "無用例",
+      "index": 2
+    },
+    {
+      "word": "村落",
+      "reason": "無用例",
+      "index": 3
+    },
+    {
+      "word": "中國大陸",
+      "reason": "無用例",
+      "index": 6
+    },
+    {
+      "word": "大龍泵",
+      "reason": "無用例",
+      "index": 14
+    },
+    {
+      "word": "馬祖",
+      "reason": "無用例",
+      "index": 15
+    },
+    {
+      "word": "松山",
+      "reason": "無用例",
+      "index": 16
+    },
+    {
+      "word": "木柵",
+      "reason": "無用例",
+      "index": 17
+    },
+    {
+      "word": "太空",
+      "reason": "無用例",
+      "index": 19
+    },
+    {
+      "word": "臺北市萬華",
+      "reason": "無用例",
+      "index": 20
+    },
+    {
+      "word": "新加坡",
+      "reason": "無用例",
+      "index": 21
+    },
+    {
+      "word": "臺北市松山",
+      "reason": "無用例",
+      "index": 25
+    },
+    {
+      "word": "錫口",
+      "reason": "無用例",
+      "index": 26
+    },
+    {
+      "word": "鄉下",
+      "reason": "無用例",
+      "index": 27
+    },
+    {
+      "word": "地號名",
+      "reason": "無用例",
+      "index": 30
+    },
+    {
+      "word": "馬來西亞",
+      "reason": "無用例",
+      "index": 32
+    },
+    {
+      "word": "金門",
+      "reason": "無用例",
+      "index": 34
+    },
+    {
+      "word": "印度",
+      "reason": "無用例",
+      "index": 35
+    },
+    {
+      "word": "大稻埕",
+      "reason": "無用例",
+      "index": 37
+    },
+    {
+      "word": "臺北市景美",
+      "reason": "無用例",
+      "index": 39
+    },
+    {
+      "word": "寶島",
+      "reason": "無用例",
+      "index": 40
+    },
+    {
+      "word": "大陸",
+      "reason": "無用例",
+      "index": 47
+    },
+    {
+      "word": "雲林",
+      "reason": "無用例",
+      "index": 48
+    },
+    {
+      "word": "英國",
+      "reason": "無用例",
+      "index": 49
+    },
+    {
+      "word": "法國",
+      "reason": "無用例",
+      "index": 50
+    },
+    {
+      "word": "墾丁",
+      "reason": "無用例",
+      "index": 56
+    },
+    {
+      "word": "彰化",
+      "reason": "無用例",
+      "index": 61
+    },
+    {
+      "word": "臺北市大同區",
+      "reason": "無用例",
+      "index": 62
+    },
+    {
+      "word": "東南亞",
+      "reason": "無用例",
+      "index": 65
+    },
+    {
+      "word": "印尼",
+      "reason": "無用例",
+      "index": 66
+    },
+    {
+      "word": "泰國",
+      "reason": "無用例",
+      "index": 68
+    },
+    {
+      "word": "內湖",
+      "reason": "無用例",
+      "index": 69
+    },
+    {
+      "word": "梘尾",
+      "reason": "無用例",
+      "index": 70
+    },
+    {
+      "word": "港都",
+      "reason": "無用例",
+      "index": 72
+    }
+  ]
+}
