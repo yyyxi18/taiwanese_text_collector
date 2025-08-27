@@ -1,0 +1,130 @@
+最終版台語辭典擷取完整報告 - 交通工具
+================================================================================
+🎯 操作流程：輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理
+📊 完整統計：
+   - 總計單字：23 個
+   - 成功擷取：17 個
+   - 缺失單字：6 個
+   - 成功率：73.9%
+⏰ 擷取時間：20250827_030437
+
+🌟 完整擷取（台語+台羅+中文）:
+------------------------------------------------------------
+ 1. 捷運
+    台語：佇都會區，徛家若倚捷運站近兜，厝價攏會較懸。
+    台羅：Tī too-huē-khu, khiā-ke nā uá tsia̍t-ūn-tsām kīn-tau, tshù-kè lóng ē khah kuân. 
+    中文：在都會區，若住家緊鄰捷運站附近，房價會比較高。
+    來源：圓輾輾
+
+ 2. 卡車
+    台語：這台計程車的車頭去予卡車挵甲凹落去。
+    台羅：Tsit tâi kè-thîng-tshia ê tshia-thâu khì hōo khah-tshia lòng kah nah--lo̍h-khì.。
+    中文：這臺計程車的車頭被卡車撞得陷下去。
+    來源：車頭
+
+ 3. 高鐵
+    台語：咱先坐高鐵來去臺中，才閣盤火車去大肚參觀磺溪書院。
+    台羅：Lán sing tsē ko-thih lâi-khì Tâi-tiong, tsiah-koh puânn hué-tshia khì Tuā-tōo tsham-kuan Hông-khe Su-īnn.。
+    中文：我們先搭高鐵去臺中，再轉搭火車去大肚參觀磺溪書院。
+    來源：才閣
+
+ 4. 流籠
+    台語：恁欲跙流籠，著愛照排列，按呢才有公平。
+    台羅：Lín beh tshū-liû-lông, tio̍h-ài tsiàu pâi-lia̍t, án-ne tsiah ū kong-pênn.。
+    中文：你們要溜滑梯，得要照順序排隊，這樣才公平。
+    來源：跙流籠
+
+ 5. 救護車
+    台語：伊出車禍著傷，跤煞袂行，予人用軟床扛起去救護車送去病院。
+    台羅：I tshut tshia-hō tio̍h-siong, kha suah bē kiânn, hōo lâng iōng nńg-tshn̂g kng khí-khì kiù-hōo-tshia sàng-khì pēnn-īnn.。
+    中文：他車禍受傷，腳無法行走，被人用擔架抬上救護車送往醫院。
+    來源：軟床
+
+ 6. 公車
+    台語：你閣行幾伐仔就會當看著公車牌仔矣。
+    台羅：Lí koh kiânn--kuí-hua̍h-á tō ē-tàng khuànn-tio̍h kong-tshia-pâi-á--ah.。
+    中文：你再走幾步就可以看到公車站牌了。
+    來源：伐白hua̍h
+
+ 7. 計程車
+    台語：這台計程車的車頭去予卡車挵甲凹落去。
+    台羅：Tsit tâi kè-thîng-tshia ê tshia-thâu khì hōo khah-tshia lòng kah nah--lo̍h-khì.。
+    中文：這臺計程車的車頭被卡車撞得陷下去。
+    來源：車頭
+
+ 8. 飛行機
+    台語：伊欲出國是看心情，見若心適興，飛行機票買落就出去。
+    台羅：I beh tshut-kok sī khuànn sim-tsîng, kiàn-nā sim-sik-hìng, hue-lîng-ki-phiò bé--lo̍h tō tshut--khì.。
+    中文：他想出國是取決於心情，只要興起，機票買了就飛出去了。
+    來源：心適興
+
+ 9. 腳踏車
+    台語：早起本來欲騎機車去買菜，想袂到機車煞袂發，臨時「無牛駛馬」，換騎跤踏車去。
+    台羅：Tsá-khí pún-lâi beh khiâ ki-tshia khì bé tshài, siūnn-bē-kàu ki-tshia suah bē huat, lîm-sî “bô gû sái bé”, uānn khiâ kha-ta̍h-tshia khì.。
+    中文：早上本來想騎機車去買菜，想不到機車竟然發不動，臨時「退而求其次」，換騎腳踏車去。
+    來源：無牛駛馬。
+
+10. 客運
+    台語：明仔載我會坐客運轉去。
+    台羅：Bîn-á-tsài guá ē tsē kheh-ūn tńg--khì.。
+    中文：明天我會搭客運回去。
+
+11. 怪手
+    台語：塚仔埔欲開路，駛怪手的司機先攢牲醴拜好兄弟仔，紲落去那燒銀紙，喙閣那唸：「無禁無忌，食百二。」
+    台羅：Thióng-á-poo beh khui-lōo, sái kuài-tshiú ê su-ki sing tshuân sing-lé pài hó-hiann-tī-á, suà--lo̍h-khì ná sio gîn-tsuá, tshuì koh ná liām, “Bô-kìm-bô-khī, tsia̍h pah-jī.”。」
+    中文：墓地要開路，怪手司機先準備三牲祭拜好兄弟，接著一邊燒銀紙，嘴巴還一邊念著：「百無禁忌，活到一百二十歲。」
+    來源：無禁無忌，食百二。
+
+12. 飛機
+    台語：聽著飛機失事的消息，伊規个人愣去。
+    台羅：Thiann-tio̍h hui-ki sit-sū ê siau-sit, i kui-ê lâng gāng--khì.。
+    中文：聽到飛機失事的消息，他整個人呆住了。
+    來源：愣替gāng
+
+13. 遊覽車
+    台語：志勇駛遊覽車到今十外冬矣，攏毋捌發生事故，想袂到昨昏煞予山頂落落來的石頭硩一下誠傷重，莫怪有人講「行船走馬三分命」，真正攏袂按得。
+    台羅：Tsì-ióng sái iû-lám-tshia kàu-tann tsa̍p-guā tang--ah, lóng m̄ bat huat-sing sū-kòo, siūnn-bē-kàu tsa-hng suah hōo suann-tíng lak--lo̍h-lâi ê tsio̍h-thâu teh tsi̍t-ē tsiânn siong-tiōng, bo̍k-kuài ū lâng kóng “kiânn-tsûn tsáu-bé sann hun miā”, tsin-tsiànn lóng bē-àn--tit.。
+    中文：志勇開遊覽車開了十多年，都不曾沒發生過事故，想不到昨天竟然被山上砸下來的石頭打到重傷，難怪人家說「航海走馬三分命」真是讓人無法預料。
+    來源：行船走馬三分命。
+
+14. 貨車
+    台語：三噸半的貨車扣除車身重量，會使載大約一千五百公斤的貨。
+    台羅：Sann tòng puànn ê huè-tshia khàu-tû tshia-sin tāng-liōng, ē-sái tsài tāi-iok tsi̍t-tshing gōo-pah kong-kin ê huè.。
+    中文：三噸半的貨車扣除車身重量，可以載運大約一千五百公斤的貨。
+    來源：噸
+
+15. 火車
+    台語：聽講伊是佇火車頂生的，因由是𪜶母仔坐火車的時水帕雄雄破去，拄好有旅客是醫生，緊猛走來鬥相共，佳哉母仔囝攏平安無代誌。
+    台羅：Thiann-kóng i sī tī hué-tshia-tíng senn--ê, in-iû sī in bú--á tsē hué-tshia ê sî tsuí-phè hiông-hiông phuà--khì, tú-hó ū lí-kheh sī i-sing, kín-mé tsáu-lâi tàu-sann-kāng, ka-tsài bú-á-kiánn lóng pîng-an bô tāi-tsì.。
+    中文：聽說他是在火車上出生的，因為他媽媽搭火車的時候羊水突然破了，恰好有旅客是醫師，趕緊跑來幫忙，幸好母子都平安無事。
+    來源：水帕
+
+16. 汽車
+    台語：我對汽車真內行。
+    台羅：Guá tuì khì-tshia tsin lāi-hâng.。
+    中文：我對車子很在行。
+    來源：內行
+
+17. 機車
+    台語：伊定咧講欲買烏頭仔車來駛，其實伊連機車都買袂起，朋友攏笑伊是「乞食身，皇帝喙」。
+    台羅：I tiānn teh kóng beh bé oo-thâu-á-tshia lâi sái, kî-si̍t i liân ki-tshia to bé bē khí, pîng-iú lóng tshiò i sī “khit-tsia̍h sin, hông-tè tshuì”.。
+    中文：他老是說要買高級轎車來開，其實他連摩托車都買不起，朋友都笑他是「乞食身價，皇帝口氣」。
+    來源：乞食身，皇帝喙。
+
+18. 消防車
+    台語：我聽到拍火車的聲
+    台羅：Guá thia-kàu phah-hué-tshia ê siaⁿ
+    中文：我聽到消防車的聲音
+    來源：乞食身，皇帝喙。
+
+❌ 缺失單字報告:
+============================================================
+以下 6 個單字沒有找到可用的例句：
+
+📋 無用例 (6個):
+   消防車     直升機     腳踏車     電纜車     校車      挖土機     
+
+💡 建議：
+   1. 這些單字可能在教育部辭典中沒有用例
+   2. 可以嘗試其他台語辭典或資源
+   3. 或者手動查詢相關的同義詞

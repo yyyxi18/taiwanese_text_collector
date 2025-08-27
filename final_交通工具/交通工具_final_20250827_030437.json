@@ -1,0 +1,224 @@
+{
+  "metadata": {
+    "scraper_type": "最終版手動操作風格爬蟲",
+    "operation_flow": "輸入單字 → 選擇用例 → 擷取三要素 → 儲存管理",
+    "source_url": "https://sutian.moe.edu.tw/zh-hant/tshiau/",
+    "extraction_date": "20250827_030437",
+    "statistics": {
+      "total_words": 23,
+      "successful_extractions": 17,
+      "missing_words": 6,
+      "success_rate": "73.9%",
+      "quality_stats": {
+        "完整": 17,
+        "良好": 0,
+        "基本": 0,
+        "不完整": 0
+      }
+    }
+  },
+  "successful_records": [
+    {
+      "word": "捷運",
+      "taiwanese_sentence": "你按呢食甲肥朒朒，身軀圓輾輾，愛較捷運動咧喔！",
+      "tailo_pronunciation": "Lí án-ne tsia̍h kah puî-tsut-tsut, sin-khu înn-liàn-liàn, ài khah tsia̍p ūn-tōng--leh--ooh",
+      "chinese_translation": "你這樣子吃得肥滋滋的，身材圓滾滾，要勤於運動喔！",
+      "source_word": "圓輾輾",
+      "extraction_time": "2025-08-27 03:03:47",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "卡車",
+      "taiwanese_sentence": "這台計程車的車頭去予卡車挵甲凹落去。",
+      "tailo_pronunciation": "Tsit tâi kè-thîng-tshia ê tshia-thâu khì hōo khah-tshia lòng kah nah--lo̍h-khì.。",
+      "chinese_translation": "這臺計程車的車頭被卡車撞得陷下去。",
+      "source_word": "車頭",
+      "extraction_time": "2025-08-27 03:03:49",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "高鐵",
+      "taiwanese_sentence": "咱先坐高鐵來去臺中，才閣盤火車去大肚參觀磺溪書院。",
+      "tailo_pronunciation": "Lán sing tsē ko-thih lâi-khì Tâi-tiong, tsiah-koh puânn hué-tshia khì Tuā-tōo tsham-kuan Hông-khe Su-īnn.。",
+      "chinese_translation": "我們先搭高鐵去臺中，再轉搭火車去大肚參觀磺溪書院。",
+      "source_word": "才閣",
+      "extraction_time": "2025-08-27 03:03:55",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "流籠",
+      "taiwanese_sentence": "恁欲跙流籠，著愛照排列，按呢才有公平。",
+      "tailo_pronunciation": "Lín beh tshū-liû-lông, tio̍h-ài tsiàu pâi-lia̍t, án-ne tsiah ū kong-pênn.。",
+      "chinese_translation": "你們要溜滑梯，得要照順序排隊，這樣才公平。",
+      "source_word": "跙流籠",
+      "extraction_time": "2025-08-27 03:03:57",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "救護車",
+      "taiwanese_sentence": "伊出車禍著傷，跤煞袂行，予人用軟床扛起去救護車送去病院。",
+      "tailo_pronunciation": "I tshut tshia-hō tio̍h-siong, kha suah bē kiânn, hōo lâng iōng nńg-tshn̂g kng khí-khì kiù-hōo-tshia sàng-khì pēnn-īnn.。",
+      "chinese_translation": "他車禍受傷，腳無法行走，被人用擔架抬上救護車送往醫院。",
+      "source_word": "軟床",
+      "extraction_time": "2025-08-27 03:04:00",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "公車",
+      "taiwanese_sentence": "你閣行幾伐仔就會當看著公車牌仔矣。",
+      "tailo_pronunciation": "Lí koh kiânn--kuí-hua̍h-á tō ē-tàng khuànn-tio̍h kong-tshia-pâi-á--ah.。",
+      "chinese_translation": "你再走幾步就可以看到公車站牌了。",
+      "source_word": "伐白hua̍h",
+      "extraction_time": "2025-08-27 03:04:03",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "計程車",
+      "taiwanese_sentence": "這台計程車的車頭去予卡車挵甲凹落去。",
+      "tailo_pronunciation": "Tsit tâi kè-thîng-tshia ê tshia-thâu khì hōo khah-tshia lòng kah nah--lo̍h-khì.。",
+      "chinese_translation": "這臺計程車的車頭被卡車撞得陷下去。",
+      "source_word": "車頭",
+      "extraction_time": "2025-08-27 03:04:05",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "飛行機",
+      "taiwanese_sentence": "伊欲出國是看心情，見若心適興，飛行機票買落就出去。",
+      "tailo_pronunciation": "I beh tshut-kok sī khuànn sim-tsîng, kiàn-nā sim-sik-hìng, hue-lîng-ki-phiò bé--lo̍h tō tshut--khì.。",
+      "chinese_translation": "他想出國是取決於心情，只要興起，機票買了就飛出去了。",
+      "source_word": "心適興",
+      "extraction_time": "2025-08-27 03:04:08",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "跤踏車",
+      "taiwanese_sentence": "早起本來欲騎機車去買菜，想袂到機車煞袂發，臨時「無牛駛馬」，換騎跤踏車去。",
+      "tailo_pronunciation": "Tsá-khí pún-lâi beh khiâ ki-tshia khì bé tshài, siūnn-bē-kàu ki-tshia suah bē huat, lîm-sî “bô gû sái bé”, uānn khiâ kha-ta̍h-tshia khì.。",
+      "chinese_translation": "早上本來想騎機車去買菜，想不到機車竟然發不動，臨時「退而求其次」，換騎腳踏車去。",
+      "source_word": "無牛駛馬。",
+      "extraction_time": "2025-08-27 03:04:10",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "客運",
+      "taiwanese_sentence": "明仔載我會坐客運轉去。",
+      "tailo_pronunciation": "Bîn-á-tsài guá ē tsē kheh-ūn tńg--khì.。",
+      "chinese_translation": "明天我會搭客運回去。",
+      "source_word": "客運",
+      "extraction_time": "2025-08-27 03:04:16",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "怪手",
+      "taiwanese_sentence": "塚仔埔欲開路，駛怪手的司機先攢牲醴拜好兄弟仔，紲落去那燒銀紙，喙閣那唸：「無禁無忌，食百二。」",
+      "tailo_pronunciation": "Thióng-á-poo beh khui-lōo, sái kuài-tshiú ê su-ki sing tshuân sing-lé pài hó-hiann-tī-á, suà--lo̍h-khì ná sio gîn-tsuá, tshuì koh ná liām, “Bô-kìm-bô-khī, tsia̍h pah-jī.”。」",
+      "chinese_translation": "墓地要開路，怪手司機先準備三牲祭拜好兄弟，接著一邊燒銀紙，嘴巴還一邊念著：「百無禁忌，活到一百二十歲。」",
+      "source_word": "無禁無忌，食百二。",
+      "extraction_time": "2025-08-27 03:04:18",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "飛機",
+      "taiwanese_sentence": "聽著飛機失事的消息，伊規个人愣去。",
+      "tailo_pronunciation": "Thiann-tio̍h hui-ki sit-sū ê siau-sit, i kui-ê lâng gāng--khì.。",
+      "chinese_translation": "聽到飛機失事的消息，他整個人呆住了。",
+      "source_word": "愣替gāng",
+      "extraction_time": "2025-08-27 03:04:21",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "遊覽車",
+      "taiwanese_sentence": "志勇駛遊覽車到今十外冬矣，攏毋捌發生事故，想袂到昨昏煞予山頂落落來的石頭硩一下誠傷重，莫怪有人講「行船走馬三分命」，真正攏袂按得。",
+      "tailo_pronunciation": "Tsì-ióng sái iû-lám-tshia kàu-tann tsa̍p-guā tang--ah, lóng m̄ bat huat-sing sū-kòo, siūnn-bē-kàu tsa-hng suah hōo suann-tíng lak--lo̍h-lâi ê tsio̍h-thâu teh tsi̍t-ē tsiânn siong-tiōng, bo̍k-kuài ū lâng kóng “kiânn-tsûn tsáu-bé sann hun miā”, tsin-tsiànn lóng bē-àn--tit.。",
+      "chinese_translation": "志勇開遊覽車開了十多年，都不曾沒發生過事故，想不到昨天竟然被山上砸下來的石頭打到重傷，難怪人家說「航海走馬三分命」真是讓人無法預料。",
+      "source_word": "行船走馬三分命。",
+      "extraction_time": "2025-08-27 03:04:24",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "貨車",
+      "taiwanese_sentence": "三噸半的貨車扣除車身重量，會使載大約一千五百公斤的貨。",
+      "tailo_pronunciation": "Sann tòng puànn ê huè-tshia khàu-tû tshia-sin tāng-liōng, ē-sái tsài tāi-iok tsi̍t-tshing gōo-pah kong-kin ê huè.。",
+      "chinese_translation": "三噸半的貨車扣除車身重量，可以載運大約一千五百公斤的貨。",
+      "source_word": "噸",
+      "extraction_time": "2025-08-27 03:04:26",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "火車",
+      "taiwanese_sentence": "聽講伊是佇火車頂生的，因由是𪜶母仔坐火車的時水帕雄雄破去，拄好有旅客是醫生，緊猛走來鬥相共，佳哉母仔囝攏平安無代誌。",
+      "tailo_pronunciation": "Thiann-kóng i sī tī hué-tshia-tíng senn--ê, in-iû sī in bú--á tsē hué-tshia ê sî tsuí-phè hiông-hiông phuà--khì, tú-hó ū lí-kheh sī i-sing, kín-mé tsáu-lâi tàu-sann-kāng, ka-tsài bú-á-kiánn lóng pîng-an bô tāi-tsì.。",
+      "chinese_translation": "聽說他是在火車上出生的，因為他媽媽搭火車的時候羊水突然破了，恰好有旅客是醫師，趕緊跑來幫忙，幸好母子都平安無事。",
+      "source_word": "水帕",
+      "extraction_time": "2025-08-27 03:04:32",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "汽車",
+      "taiwanese_sentence": "我對汽車真內行。",
+      "tailo_pronunciation": "Guá tuì khì-tshia tsin lāi-hâng.。",
+      "chinese_translation": "我對車子很在行。",
+      "source_word": "內行",
+      "extraction_time": "2025-08-27 03:04:34",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    },
+    {
+      "word": "機車",
+      "taiwanese_sentence": "伊定咧講欲買烏頭仔車來駛，其實伊連機車都買袂起，朋友攏笑伊是「乞食身，皇帝喙」。",
+      "tailo_pronunciation": "I tiānn teh kóng beh bé oo-thâu-á-tshia lâi sái, kî-si̍t i liân ki-tshia to bé bē khí, pîng-iú lóng tshiò i sī “khit-tsia̍h sin, hông-tè tshuì”.。",
+      "chinese_translation": "他老是說要買高級轎車來開，其實他連摩托車都買不起，朋友都笑他是「乞食身價，皇帝口氣」。",
+      "source_word": "乞食身，皇帝喙。",
+      "extraction_time": "2025-08-27 03:04:37",
+      "source": "教育部臺灣台語常用詞辭典",
+      "data_quality": "完整"
+    }
+  ],
+  "missing_words": [
+    {
+      "word": "消防車",
+      "reason": "無用例",
+      "index": 1
+    },
+    {
+      "word": "直升機",
+      "reason": "無用例",
+      "index": 2
+    },
+    {
+      "word": "腳踏車",
+      "reason": "無用例",
+      "index": 3
+    },
+    {
+      "word": "電纜車",
+      "reason": "無用例",
+      "index": 6
+    },
+    {
+      "word": "校車",
+      "reason": "無用例",
+      "index": 14
+    },
+    {
+      "word": "挖土機",
+      "reason": "無用例",
+      "index": 20
+    }
+  ]
+}
